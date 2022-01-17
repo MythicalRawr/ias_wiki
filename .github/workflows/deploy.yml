@@ -9,9 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
-      - name: Upload Artifact
-        uses: actions/upload-artifact@v2
+      - name: Zip
+        uses: TheDoctor0/zip-release@0.6.1
         with:
-          name: ias-lua-lib
+          # Filename for archive
+          filename: ias-lua-lib.zip
+          # Base path for archive files
           path: ./ias-lib
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ias-lua-lib.zip
+          
