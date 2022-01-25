@@ -12,7 +12,64 @@ Player = {}
 ---@return string
 ---* Returns the player name (aka name on steam)
 ---
-function Player:name() end
+function Player:getName() end
+
+---
+---@ENV SHARED
+---@return number
+---* Returns the player steam id
+---
+function Player:getSteamID() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player is an admin
+---
+function Player:isAdmin() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player is a developer
+---
+function Player:isDeveloper() end
+
+---
+---@ENV SHARED
+---@return number
+---* Returns the current player oxygen
+---
+function Player:getOxygen() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player is grabbing an object
+---
+function Player:isGrabbing() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Cancels use (used when the player closes menus on the client, on the server this is done automatically)
+---* Returns true if successful
+---
+function Player:cancelUse() end
+
+---
+---@ENV SHARED
+---@param disabled boolean
+---* Disables player movement
+---
+function Player:disableMovement(disabled) end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player movement is disabled
+---
+function Player:isMovementDisabled() end
 
 ---
 ---@ENV CLIENT
