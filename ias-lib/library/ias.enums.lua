@@ -54,6 +54,16 @@ _G.GAS = {
 -----------------
 
 ---
+---@class FREEZE
+---
+_G.FREEZE = {
+	MOVEMENT = 1,
+	ROTATION = 2,
+}
+
+-----------------
+
+---
 ---@class ITEM_RARITY
 ---
 _G.ITEM_RARITY = {

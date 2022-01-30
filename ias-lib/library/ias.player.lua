@@ -58,11 +58,12 @@ function Player:isGrabbing() end
 function Player:cancelUse() end
 
 ---
----@ENV SHARED
----@param disabled boolean
----* Disables player movement
+---@ENV SERVER
+---@param flags FREEZE
+---@param set boolean
+---* Sets / Unsets the freeze flags
 ---
-function Player:disableMovement(disabled) end
+function Player:setFreeze(flags, set) end
 
 ---
 ---@ENV SHARED
@@ -70,6 +71,20 @@ function Player:disableMovement(disabled) end
 ---* Returns true if the player movement is disabled
 ---
 function Player:isMovementDisabled() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player rotation is disabled
+---
+function Player:isRotationDisabled() end
+
+---
+---@ENV SHARED
+---@return boolean
+---* Returns true if the player rotation and movement are disabled
+---
+function Player:isFrozen() end
 
 ---
 ---@ENV CLIENT
