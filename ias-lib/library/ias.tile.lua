@@ -16,14 +16,14 @@ function Tile:isValid() end
 
 ---
 ---@ENV SHARED
----@return wireIO
+---@return WireIO
 ---* Returns the wire io on the tile, if any
 ---
 function Tile:getIO() end
 
 ---
 ---@ENV SHARED
----@return wirePower
+---@return WirePower
 ---* Returns the wire power on the tile, if any
 ---
 function Tile:getPower() end
@@ -35,6 +35,13 @@ function Tile:getPower() end
 ---* Returns true if the tile has the requested wire type
 ---
 function Tile:hasWire(type) end
+
+---
+---@ENV SHARED
+---@return Room
+---* Returns the current room the tile is in
+---
+function Tile:getRoom() end
 
 ---
 ---@ENV SHARED

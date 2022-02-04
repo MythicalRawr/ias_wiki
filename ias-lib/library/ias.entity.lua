@@ -549,3 +549,52 @@ function Entity:disableInterpolation(disable) end
 ---* Disables the fade memory, usefull for teleporting things.
 ---
 function Entity:disableMemory(disable) end
+
+---
+---@ENV SHARED
+---@param mode boolean
+---* enables or disables power use at an entity
+---
+function Entity:setUsesPower(mode) end
+
+---
+---@ENV SHARED
+---@param mode boolean
+---* enables or disables tile use at an entity
+---
+function Entity:setUsesTile(mode) end
+
+---
+---@ENV SHARED
+---@param mode boolean
+---* enables or disables gas use at an entity
+---
+function Entity:setUsesGas(mode) end
+
+---
+---@ENV SERVER
+---@param network GasNetwork
+---* called when a gas pipe is connected to the entity
+---
+function Entity:onGasConnected(network) end
+
+---
+---@ENV SERVER
+---@param network GasNetwork
+---* called when a gas pipe is disconnected from the entity
+---
+function Entity:onGasDisconnected(network) end
+
+---
+---@ENV SERVER
+---@param network PowerNetwork
+---* called when a power cable is connected to the entity
+---
+function Entity:onPowerConnected(network) end
+
+---
+---@ENV SERVER
+---@param network PowerNetwork
+---* called when a power cable is disconnected from the entity
+---
+function Entity:onPowerDisconnected(network) end
