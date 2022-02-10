@@ -103,3 +103,11 @@ function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 ---* Distance controls how readable the text is
 ---
 function world:broadcastChat(pos, speaker, msg, distance, color) end
+
+---
+---@ENV SERVER
+---@param building Entity
+---@return PathFinder
+---* Creates a PathFinder object for the given building
+---
+function world:createPathFinder(building) end
