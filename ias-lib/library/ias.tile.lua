@@ -30,6 +30,13 @@ function Tile:getPower() end
 
 ---
 ---@ENV SHARED
+---@return Pipe
+---* Returns the pipe on the tile, if any
+---
+function Tile:getPipe() end
+
+---
+---@ENV SHARED
 ---@param type WIRE
 ---@return boolean
 ---* Returns true if the tile has the requested wire type
@@ -38,10 +45,10 @@ function Tile:hasWire(type) end
 
 ---
 ---@ENV SHARED
----@return Room
----* Returns the current room the tile is in
+---@return boolean
+---* Returns true if the tile has a pipe
 ---
-function Tile:getRoom() end
+function Tile:hasPipe() end
 
 ---
 ---@ENV SHARED
@@ -49,3 +56,31 @@ function Tile:getRoom() end
 ---* Returns the current room the tile is in
 ---
 function Tile:getRoom() end
+
+---
+---@ENV SERVER
+---@param type WIRE
+---* Removes the given wire type from the tile
+---
+function Tile:removeWire(type) end
+
+---
+---@ENV SERVER
+---@param type WIRE
+---* Adds the given wire type to the tile
+---
+function Tile:addWire(type) end
+
+---
+---@ENV SERVER
+---@param networkId number
+---* Removes the given pipe networkId from the tile
+---
+function Tile:removePipe(networkId) end
+
+---
+---@ENV SERVER
+---@param networkId number
+---* Adds the given pipe networkId to the tile
+---
+function Tile:addPipe(networkId) end

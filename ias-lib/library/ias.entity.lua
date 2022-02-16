@@ -136,10 +136,11 @@ function Entity:getAvailableSlot() end
 ---
 ---@ENV SHARED
 ---@param id string
+---@param amount? number
 ---@return number
----* Returns the an available slot index by id
+---* Returns the available slot index by id
 ---
-function Entity:getAvailableSlotById(id) end
+function Entity:getAvailableSlotById(id, amount) end
 
 ---
 ---@ENV SHARED
