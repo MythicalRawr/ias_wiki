@@ -167,7 +167,7 @@ function ENT:onUseCancel(ent) end
 function ENT:onNetWrite(packet) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id string
 ---@param hasSignal boolean
 ---* Triggered when the wire emits a signal
@@ -175,14 +175,14 @@ function ENT:onNetWrite(packet) end
 function ENT:onWireIOEmit(id, hasSignal) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id string
 ---* Triggered when the entity is connected to the wire IO
 ---
 function ENT:onWireIOConnected(id) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id string
 ---* Triggered when the entity is disconnected from the wire IO
 ---
@@ -220,7 +220,7 @@ function ENT:acceptItem(item, slot, mover) end
 function ENT:onStorageUpdate(slot) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id number
 ---@return number
 ---* Called to see if the entity has any power available
@@ -228,7 +228,7 @@ function ENT:onStorageUpdate(slot) end
 function ENT:onPowerAvailable(id) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id number
 ---@param amount number
 ---* Called when power is drained
@@ -236,14 +236,14 @@ function ENT:onPowerAvailable(id) end
 function ENT:onPowerDrain(id, amount) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id number
 ---* Called when a power network is connected to the entity
 ---
 function ENT:onPowerConnected(id) end
 
 ---
----@ENV CLIENT
+---@ENV SERVER
 ---@param id number
 ---* Called when a power network is disconnected from the entity
 ---

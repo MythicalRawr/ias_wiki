@@ -67,9 +67,10 @@ function Tile:removeWire(type) end
 ---
 ---@ENV SERVER
 ---@param type WIRE
+---@param networkId? number
 ---* Adds the given wire type to the tile
 ---
-function Tile:addWire(type) end
+function Tile:addWire(type, networkId) end
 
 ---
 ---@ENV SERVER
