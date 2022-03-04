@@ -25,3 +25,11 @@ string.isEmpty = function(str) end
 ---* Converts bytes to a readable string (aka 1GB.. 1TB.. etc)
 ---
 string.bytesToReadable = function(bytes) end
+
+---
+---@ENV SHARED
+---@param str string
+---@return string
+---* Removes string white spaces
+---
+string.trim = function(str) end
