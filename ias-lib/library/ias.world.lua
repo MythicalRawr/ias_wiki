@@ -119,3 +119,14 @@ function world:createPathFinder(building) end
 ---* Gets the given item id settings
 ---
 function world:getItemSettings(id) end
+
+
+---
+---@ENV SHARED
+---@param id string
+---@return table
+---* Returns the mod environment
+---* ⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
+---
+function world:getModEnv(id) end
+
