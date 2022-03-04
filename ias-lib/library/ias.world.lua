@@ -111,3 +111,11 @@ function world:broadcastChat(pos, speaker, msg, distance, color) end
 ---* Creates a PathFinder object for the given building
 ---
 function world:createPathFinder(building) end
+
+---
+---@ENV SHARED
+---@param id string
+---@return table
+---* Gets the given item id settings
+---
+function world:getItemSettings(id) end
