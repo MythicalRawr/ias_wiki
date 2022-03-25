@@ -33,3 +33,24 @@ string.bytesToReadable = function(bytes) end
 ---* Removes string white spaces
 ---
 string.trim = function(str) end
+
+---
+---@ENV SHARED
+---@param str string
+---@param ... any
+---@return string
+---* Formats the given string with the given params
+---* Ex: string.format("hello {}, age {}", "world", 20) = "hello world, age 20"
+---
+string.format = function(str, ...) end
+
+
+---
+---@ENV SHARED
+---@param str string
+---@param ... any
+---@return string
+---@deprecated use string.format with {} instead of %d..etc
+---* Old lua string.format
+---
+string.luaFormat = function(str, ...) end
