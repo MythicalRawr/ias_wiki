@@ -16,7 +16,6 @@ world = {}
 ---
 function world:create(class, parent) end
 
-
 ---
 ---@ENV SHARED
 ---@param id number
@@ -54,7 +53,7 @@ function world:findInSphereByClass(class, pos, distance) end
 
 ---
 ---@ENV CLIENT
----@param pos Vector3
+---@param pos Vector
 ---@param speaker string
 ---@param msg string
 ---@param color? Color
@@ -81,7 +80,7 @@ function world:clearGroupID(groupid) end
 
 ---
 ---@ENV SERVER
----@param pos Vector3
+---@param pos Vector
 ---@param speaker string
 ---@param msg string
 ---@param color? Color
@@ -94,7 +93,7 @@ function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 
 ---
 ---@ENV SERVER
----@param pos Vector3
+---@param pos Vector
 ---@param speaker string
 ---@param msg string
 ---@param distance? number
@@ -128,4 +127,3 @@ function world:getItemSettings(id) end
 ---* ⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
 ---
 function world:getMod(id) end
-

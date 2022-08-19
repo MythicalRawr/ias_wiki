@@ -422,7 +422,6 @@ function Entity:removeUseViewer(id) end
 ---@ENV SERVER
 ---@param id number
 ---@return boolean
----@deprecated TODO: IMPROVE THIS DESCRIPTION
 ---* Returns true if the given ent id is registered as a use viewer
 ---
 function Entity:hasUseViewer(id) end
