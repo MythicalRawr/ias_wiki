@@ -1,6 +1,7 @@
 ---
 cover: .gitbook/assets/workshop_logo.png
 coverY: 0
+layout: editorial
 ---
 
 # ☄ Welcome to It's Absolutely Safe's wiki!
