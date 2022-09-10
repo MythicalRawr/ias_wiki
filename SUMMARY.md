@@ -6,7 +6,7 @@
   * [global](home/global/README.md)
     * [Input enum](home/global/enums\_input.md)
   * [mod](home/mod/README.md)
-    * [MOD:init](home/mod/mod\_init.md)
+    * ![](https://i.rawr.dev/callback.png) [MOD:init](home/mod/mod\_init.md)
     * [MOD:onLoad](home/mod/mod\_onload.md)
     * [MOD:onPlayerJoin](home/mod/mod\_onplayerjoin.md)
     * [MOD:onStateEnter](home/mod/mod\_onstateenter.md)
