@@ -1,20 +1,29 @@
-# ias_wiki
-Wiki for It's Absolutely Safe
+---
+cover: .gitbook/assets/workshop_logo.png
+coverY: 0
+---
 
-## How to use the lua lib? (*VSCODE* ONLY)
-1. Extract the contents into a folder
-2. Install https://marketplace.visualstudio.com/items?itemName=sumneko.lua
-3. Open your **.code-workspace** (or local) settings and point it to the lib folder (**absolute path**), example:
-```json
-"settings": {
-    "Lua.workspace.library": ["D:/ias-lib"],
-    "Lua.runtime.special": {
-      "include": "require"
-    }
-}
-```
-4. **Restart*** VSCODE
+# ☄ Welcome to It's Absolutely Safe's wiki!
 
-## LINKS
+### Tutorials (TODO)
 
-### [WIKI](https://github.com/edunad/ias_wiki/wiki)
+* [How to create a mod](./)
+* [How to create a custom item](./)
+* [How to create a custom entity](./)
+* [How to enable server workshop](wiki/tutorials\_server\_workshop/)
+
+### Icon Meanings
+
+| Icon                          | Description                                                              |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| ![](wiki/images/shared.png)   | This means the method will run / be called on both `SERVER` and `CLIENT` |
+| ![](wiki/images/server.png)   | This means the method will **only** run / be called on `SERVER`          |
+| ![](wiki/images/client.png)   | This means the method will **only** run / be called on `CLIENT`          |
+| <p><br></p>                   |                                                                          |
+| ![](wiki/images/enum.png)     | Global enums / flags                                                     |
+| ![](wiki/images/base.png)     | Base object class                                                        |
+| <p><br></p>                   |                                                                          |
+| ![](wiki/images/callback.png) | A callback method                                                        |
+| ![](wiki/images/event.png)    | An global event method, this will be called by the game                  |
+| ![](wiki/images/todo.png)     | Unfinished / not fully implemented feature / wiki page                   |
+| ![](wiki/images/global.png)   | Global methods / variables                                               |
