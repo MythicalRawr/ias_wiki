@@ -1,4 +1,4 @@
-## ![](images/shared.png "SHARED")![](images/event.png "EVENT") MOD:init
+## ![](https://i.rawr.dev/callback.png) ![EVENT](.gitbook/assets/event.png) MOD:init
 
 ```lua
 void MOD:init()
