@@ -193,8 +193,3 @@
       * [UIProgressBar:setTitle](home/ui/ui\_progress\_bar/ui\_progress\_bar\_settitle.md)
       * [UIProgressBar:setValue](home/ui/ui\_progress\_bar/ui\_progress\_bar\_setvalue.md)
       * [UIProgressBar:showPercent](home/ui/ui\_progress\_bar/ui\_progress\_bar\_showpercent.md)
-* [wiki](wiki/README.md)
-  * [\_Sidebar](wiki/\_Sidebar.md)
-  * [\_Footer](wiki/\_Footer.md)
-  * [template](wiki/template/README.md)
-    * [class:method\_name](wiki/template/lua\_template.md)
