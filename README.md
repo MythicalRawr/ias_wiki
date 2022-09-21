@@ -14,16 +14,16 @@ coverY: 0
 
 ### Icon Meanings
 
-| Icon                              | Description                                                              |
-| --------------------------------- | ------------------------------------------------------------------------ |
-| ![](.gitbook/assets/shared.png)   | This means the method will run / be called on both `SERVER` and `CLIENT` |
-| ![](.gitbook/assets/server.png)   | This means the method will **only** run / be called on `SERVER`          |
-| ![](.gitbook/assets/client.png)   | This means the method will **only** run / be called on `CLIENT`          |
-| <p><br></p>                       |                                                                          |
-| ![](.gitbook/assets/enum.png)     | Global enums / flags                                                     |
-| ![](.gitbook/assets/base.png)     | Base object class                                                        |
-| <p><br></p>                       |                                                                          |
-| ![](.gitbook/assets/callback.png) | A callback method                                                        |
-| ![](.gitbook/assets/event.png)    | An global event method, this will be called by the game                  |
-| ![](.gitbook/assets/todo.png)     | Unfinished / not fully implemented feature / wiki page                   |
-| ![](.gitbook/assets/global.png)   | Global methods / variables                                               |
+| Icon                                                             | Description                                                              |
+| ---------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| ![](.gitbook/assets/shared.png)                                  | This means the method will run / be called on both `SERVER` and `CLIENT` |
+| ![](.gitbook/assets/server.png)                                  | This means the method will **only** run / be called on `SERVER`          |
+| ![](.gitbook/assets/client.png)                                  | This means the method will **only** run / be called on `CLIENT`          |
+| <p><br></p>                                                      |                                                                          |
+| ![](.gitbook/assets/enum.png)                                    | Global enums / flags                                                     |
+| ![](.gitbook/assets/base.png)                                    | Base object class                                                        |
+| <p><br></p>                                                      |                                                                          |
+| ![](.gitbook/assets/callback.png)                                | A callback method                                                        |
+| ![](.gitbook/assets/event.png)                                   | An global event method, this will be called by the game                  |
+| <img src=".gitbook/assets/todo.png" alt="" data-size="original"> | Unfinished / not fully implemented feature / wiki page                   |
+| ![](.gitbook/assets/global.png)                                  | Global methods / variables                                               |
