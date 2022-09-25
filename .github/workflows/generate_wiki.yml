@@ -46,4 +46,4 @@ jobs:
                   git config --local user.name "github-actions[bot]"
                   git add ./home
                   git commit -m "Re-generate wiki"
-                  git push -f origin wiki
+                  git push origin wiki
