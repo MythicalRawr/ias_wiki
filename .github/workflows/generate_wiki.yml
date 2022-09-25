@@ -9,7 +9,7 @@ permissions:
     contents: write
 jobs:
     build-client:
-        runs-on: self-hosted
+        runs-on: [self-hosted, ubuntu-latest]
         strategy:
             matrix:
                 node-version: [17.x]
