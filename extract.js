@@ -45,6 +45,8 @@ async function generateSummary(fileMap) {
 
     fixedTemplate = fixedTemplate.replace('$FILES$', data);
     fs.writeFileSync(`./SUMMARY.md`, fixedTemplate, { encoding: 'utf-8' });
+
+    console.warn(`Wrote summary file`);
 }
 
 async function generateWiki() {
@@ -230,13 +232,13 @@ async function parseFile(filePath) {
             } else if (line.startsWith('---@ENV')) {
                 commentBlock.env = lineData[1];
             } else if (line.startsWith('---@warning')) {
-                commentBlock.hints.warnings.push(text);
+                commentBlock.hints.warnings.push(text.replace('---@warning', ''));
             } else if (line.startsWith('---@info')) {
-                commentBlock.hints.info.push(text);
+                commentBlock.hints.info.push(text.replace('---@info', ''));
             } else if (line.startsWith('---@danger')) {
-                commentBlock.hints.danger.push(text);
+                commentBlock.hints.danger.push(text.replace('---@danger', ''));
             } else if (line.startsWith('---@success')) {
-                commentBlock.hints.success.push(text);
+                commentBlock.hints.success.push(text.replace('---@success', ''));
             } else if (line.startsWith('---*')) {
                 commentBlock.description.push(line.replace('---*', '').trim());
             } else if (line.startsWith('---```lua')) {
