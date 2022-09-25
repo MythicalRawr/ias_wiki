@@ -1,0 +1,14 @@
+name: GENERATE WIKI
+on:
+    create:
+        tags:
+            - v*
+    workflow_dispatch:
+permissions:
+    contents: write
+jobs:
+    deploy:
+        runs-on: ubuntu-latest
+        strategy:
+            matrix:
+                node-version: [17.x]

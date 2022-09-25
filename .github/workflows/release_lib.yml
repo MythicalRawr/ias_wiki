@@ -1,0 +1,45 @@
+name: RELEASE LIB
+
+on:
+    create:
+        tags:
+            - v*
+
+jobs:
+    build-client:
+        runs-on: self-hosted
+        strategy:
+            matrix:
+                node-version: [17.x]
+
+        steps:
+            - uses: actions/checkout@v2
+
+            - name: Use Node.js ${{ matrix.node-version }}
+              uses: actions/setup-node@v1
+              with:
+                  node-version: ${{ matrix.node-version }}
+
+            - run: npm i yarn -g
+
+            - name: Get yarn cache directory path
+              id: yarn-cache-dir-path
+              run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
+
+            - uses: actions/cache@v2
+              id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+              with:
+                  path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+                  key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+                  restore-keys: |
+                      ${{ runner.os }}-yarn
+
+            - run: yarn install --immutable
+            - run: yarn start
+
+            - name: Commit files
+              run: |
+                  git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
+                  git config --local user.name "github-actions[bot]"
+                  git commit -m "Re-generate wiki" -a -- ./home
+									git push -f origin wiki
