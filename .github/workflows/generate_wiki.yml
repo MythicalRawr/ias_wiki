@@ -1,9 +1,8 @@
 name: GENERATE WIKI
 
 on:
-    create:
-        tags:
-            - v*
+    push:
+        branches: master
     workflow_dispatch:
 permissions:
     contents: write
