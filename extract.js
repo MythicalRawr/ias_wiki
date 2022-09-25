@@ -6,39 +6,79 @@ import { basename } from 'path';
 
 const ROOT_LIB_FOLDER = './ias-lib';
 const TEMPLATE_FILE = './TEMPLATE.md';
+const SUMMARY_TEMPLATE_FILE = './SUMMARY_TEMPLATE.md';
 
 const OUTPUT = './home';
 
 async function init() {
-    const template = await fs.readFile(TEMPLATE_FILE, 'utf8');
-
+    console.warn(`== Initializing`);
     await fs.remove(OUTPUT);
     await fs.ensureDir(OUTPUT);
 
-    glob(`${ROOT_LIB_FOLDER}/**/ias.*.lua`, { symlinks: true }, async function (er, files) {
-        if (er) throw er;
+    // GENERATE WIKI
+    console.warn(`== Generating wiki`);
+    const fileMap = await generateWiki();
 
-        // Parse files
-        const parsePromises = files.map((file) => parseFile(file));
-        const parsedData = await Promise.all(parsePromises);
+    // GENERATE SUMMARY
+    await generateSummary(fileMap);
+}
 
-        // GENERATE MD FILES ----
-        parsedData.forEach((data) => {
-            // Generate folder
-            const folderTitle = basename(data.file).replace('ias.', '').replace('.lua', '').toLowerCase();
-            fs.ensureDirSync(`${OUTPUT}/${folderTitle}`);
+async function generateSummary(fileMap) {
+    const summary_template = await fs.readFile(SUMMARY_TEMPLATE_FILE, 'utf8');
 
-            data.blocks.forEach((block) => {
-                const md = generateMD(template, block);
-                if (md === '') return;
+    let fixedTemplate = summary_template;
+    const dirs = await fs
+        .readdirSync(`${OUTPUT}`, { withFileTypes: true })
+        .filter((dirent) => dirent.isDirectory())
+        .map((dirent) => dirent.name);
 
-                const name = block.title.split(':')[1];
-                const file = `${OUTPUT}/${folderTitle}/${folderTitle}_${name}.md`;
+    let data = '';
+    dirs.forEach((dir) => {
+        data += `  * [${dir}](home/${dir}/README.md)\n`;
 
-                fs.writeFileSync(file, md, { encoding: 'utf-8' });
-            });
+        const mdFiles = glob.sync(`${OUTPUT}/${dir}/*.md`, { symlinks: true });
+        mdFiles.forEach((file) => {
+            const name = fileMap[file];
+            data += `    * [${name}](home/${dir}/${basename(file)})\n`;
         });
     });
+
+    fixedTemplate = fixedTemplate.replace('$FILES$', data);
+    fs.writeFileSync(`./SUMMARY.md`, fixedTemplate, { encoding: 'utf-8' });
+}
+
+async function generateWiki() {
+    const fileMap = {};
+
+    const template = await fs.readFile(TEMPLATE_FILE, 'utf8');
+    const luaFiles = glob.sync(`${ROOT_LIB_FOLDER}/**/ias.*.lua`, { symlinks: true });
+    if (!luaFiles) throw new Error('No lua files found');
+
+    // Parse files
+    const parsePromises = luaFiles.map((file) => parseFile(file));
+    const parsedData = await Promise.all(parsePromises);
+
+    // GENERATE MD FILES ----
+    parsedData.forEach((data) => {
+        // Generate folder
+        const folderTitle = basename(data.file).replace('ias.', '').replace('.lua', '').toLowerCase();
+        fs.ensureDirSync(`${OUTPUT}/${folderTitle}`);
+
+        data.blocks.forEach((block) => {
+            const md = generateMD(template, block);
+            if (md === '') return;
+
+            const name = block.title.split(':')[1];
+            const file = `${OUTPUT}/${folderTitle}/${folderTitle}_${name}.md`;
+
+            fileMap[file] = block.title; // For summary
+
+            fs.writeFileSync(file, md, { encoding: 'utf-8' });
+            console.warn(`Wrote wiki file: ${file}`);
+        });
+    });
+
+    return fileMap;
 }
 
 function generateMD(template, block) {
