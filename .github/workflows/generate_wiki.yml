@@ -46,7 +46,8 @@ jobs:
                   git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
                   git stash --all
-                  git checkout origin/wiki
+                  git checkout wiki
                   git stash pop
-                  git commit -m "Re-generate wiki" -a
+                  git add --all
+                  git commit -m "Re-generate wiki"
                   git push origin wiki
