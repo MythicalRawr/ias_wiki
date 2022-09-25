@@ -1,13 +1,18 @@
-## ![](images/shared.png "SHARED")![](images/event.png "EVENT") MOD:update
+## ![shared](.gitbook/assets/shared.png) MOD:update
+
 
 ```lua
 void MOD:update(delta)
 ```
 
-> Global event called every update tick
+Global event called every tick update
 
-### Arguments
 
-| Type   | Name  | Description | Optional |
-| ------ | ----- | ----------- | -------: |
-| number | delta | Delta time  |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | delta |  |  |
+
+

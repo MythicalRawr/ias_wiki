@@ -24,6 +24,8 @@ AABB = {
 ---@param y number
 ---@param width number
 ---@param height number
+---@warning PAGE / FUNCTIONALITY STILL IN CONSTRUCTION
+---@danger CAREFUL
 ---@return AABB
 ---* AABB constructor
 ---

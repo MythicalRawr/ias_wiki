@@ -1,23 +1,18 @@
-# MOD:onStateLeave
+## ![client](.gitbook/assets/client.png) MOD:onStateLeave
 
-### ![](../../wiki/mod/images/client.png)![](../../wiki/mod/images/event.png) MOD:onStateLeave
 
 ```lua
-void MOD:onStateLeave(string oldState)
+void MOD:onStateLeave(state)
 ```
 
-> Global event called by the game before the state is changed
+Global event called by the game before the state is changed
 
-### Game states
 
-```
-mainmenu
-loading
-ingame
-```
+------
+## Parameters
 
-#### Arguments
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | state | The |  |
 
-| Type   | Name     | Description        | Optional |
-| ------ | -------- | ------------------ | -------: |
-| string | oldState | The previous state |          |
+

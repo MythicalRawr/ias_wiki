@@ -1,25 +1,20 @@
-# net:listen
+## ![shared](.gitbook/assets/shared.png) net:listen
+
 
 ```lua
-void net:listen(string netId, string hookName, function callback(packet))
+void net:listen(netId, hookName, callback)
 ```
 
-> Creates a listener for a specific **netId**
+Creates a listener for a specific netId. Make sure your hookName is unique, it might get replaced by other listeners!
 
-Make sure your **hookName** is unique, it might get replaced by other listeners!
 
-Ex:
+------
+## Parameters
 
-```lua
-hooks:listen("net_hello_world", "my-hook", function(packet)
-	print("Got net message:", packet:readString())
-end)
-```
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | netId |  |  |
+| string | hookName |  |  |
+| fun(data: | callback | any) |  |
 
-## Arguments
 
-| Type     | Name     | Description                                                   | Optional |
-| -------- | -------- | ------------------------------------------------------------- | -------: |
-| string   | netId    | The net id to listen to                                       |          |
-| string   | hookName | This hook unique id                                           |          |
-| function | callback | Callback with a [Packet](../../wiki/net/packet\_base/) object |          |

@@ -1,19 +1,24 @@
-# timer:get
+## ![shared](.gitbook/assets/shared.png) timer:get
+
 
 ```lua
-timerObj timer:get(string id)
+timerObj timer:get(id)
 ```
 
-> Returns a [timerObj](../../wiki/timer/timer\_timerObj/) with the given **id**, make sure you validate with `timer:exists` first.
+Returns a timerObj with the given id, make sure you validate with timer:exists first.
 
-## Arguments
 
-| Type   | Name | Description         | Optional |
-| ------ | ---- | ------------------- | -------: |
-| string | id   | The timer unique id |          |
+------
+## Parameters
 
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | id |  |  |
+
+------
 ## Returns
 
-| Type                                          |      Description |
-| --------------------------------------------- | ---------------: |
-| [timerObj](../../wiki/timer/timer\_timerObj/) | The timer object |
+| Type | Description |
+| ---- | ----------: |
+| timerObj |  |
+

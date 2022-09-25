@@ -1,13 +1,18 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):ID
+## ![shared](.gitbook/assets/shared.png) Entity:ID
+
 
 ```lua
 number Entity:ID()
 ```
 
-> Returns the unique entity id
+Returns the unique ent id
 
-### Returns
 
-| Type   | Description |
-| ------ | ----------: |
-| number |   Entity id |
+
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| number |  |
+

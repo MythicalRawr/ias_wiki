@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") json.encode
+## ![shared](.gitbook/assets/shared.png) json:encode
+
 
 ```lua
-string json.encode(table tlb)
+string json:encode(data)
 ```
 
-> Encodes a table to a json string
+Encodes a table to a json string
 
-### Arguments
 
-| Type  | Name | Description             | Optional |
-| ----- | ---- | ----------------------- | -------: |
-| table | tlb  | The table to be encoded |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| table | data |  |  |
 
-| Type   |     Description |
-| ------ | --------------: |
-| string | The json string |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| string |  |
+

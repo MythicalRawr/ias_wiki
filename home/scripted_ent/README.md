@@ -1,2 +1,0 @@
-# scripted\_ent
-

@@ -1,24 +1,25 @@
-# world:create
+## ![server](.gitbook/assets/server.png) world:create
+
 
 ```lua
-entity world:create(string class, [entity parentShip])
+ENT world:create(class, parent)
 ```
 
-> Creates and spawns a new entity on the world
+Creates and spawns a new entity on the world
 
-‌‌ ‌‌
 
-## Arguments
+------
+## Parameters
 
-| Type   | Name       | Description                                                               | Optional |
-| ------ | ---------- | ------------------------------------------------------------------------- | -------: |
-| string | class      | The entity class to be created                                            |          |
-| entity | parentShip | The [ship](../../wiki/world/) to be parented to, if not set, uses "space" |        ✔ |
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | class |  |  |
+| ENT | parent |  | ✔ |
 
-‌‌ ‌‌
-
+------
 ## Returns
 
-| Type                        |              Description |
-| --------------------------- | -----------------------: |
-| [Entity](../../wiki/world/) | The newly created entity |
+| Type | Description |
+| ---- | ----------: |
+| ENT |  |
+

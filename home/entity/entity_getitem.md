@@ -1,19 +1,24 @@
-# Entity:getItem
+## ![shared](.gitbook/assets/shared.png) Entity:getItem
+
 
 ```lua
-Item Entity:getItem(number slot)
+ITEM Entity:getItem(index)
 ```
 
-> Returns an item on that slot (nil if none)
+Returns the item by index
 
-## Arguments
+
+------
+## Parameters
 
 | Type   | Name | Description              | Optional |
 | ------ | ---- | ------------------------ | -------: |
-| number | slot | The slot to get the item |          |
+| number | index |  |  |
 
+------
 ## Returns
 
-| Type                                  |          Description |
-| ------------------------------------- | -------------------: |
-| [Item](../../wiki/entity/item\_base/) | The item on the slot |
+| Type | Description |
+| ---- | ----------: |
+| ITEM |  |
+

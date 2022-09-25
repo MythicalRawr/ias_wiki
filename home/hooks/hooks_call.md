@@ -1,24 +1,19 @@
-## ![](images/shared.png "SHARED") hooks:call
+## ![shared](.gitbook/assets/shared.png) hooks:call
+
 
 ```lua
-void hooks:call(string hookId, ...data)
+void hooks:call(hookId, data)
 ```
 
-> Emits data to the given **hookId**
+Emits data to the given hookId
 
-Custom hook example:
 
-```lua
-hooks:add("custom-hook", "derp", function(arg1, arg2)
-	print("MY CUSTOM HOOK", arg1, arg2) -- will print derp, arg
-end)
+------
+## Parameters
 
-hooks:call("custom-hook", "derp", "arg")
-```
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | hookId |  |  |
+| any | data |  |  |
 
-### Arguments
 
-| Type   | Name   | Description                | Optional |
-| ------ | ------ | -------------------------- | -------: |
-| string | hookId | The hook id to transmit to |          |
-| ...    | data   | The data to transmit       |          |

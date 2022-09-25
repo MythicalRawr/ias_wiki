@@ -1,13 +1,18 @@
-# Entity:setPos
+## ![shared](.gitbook/assets/shared.png) Entity:setPos
+
 
 ```lua
-void Entity:setPos(Vector pos)
+void Entity:setPos(pos)
 ```
 
-> Sets the position of the entity (relative to the parent)
+Sets the position of the ent
 
-## Arguments
 
-| Type                                      | Name | Description             | Optional |
-| ----------------------------------------- | ---- | ----------------------- | -------: |
-| [Vector](../../wiki/entity/vector\_base/) | pos  | The new entity position |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| Vector | pos |  |  |
+
+

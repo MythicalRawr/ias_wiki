@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):hasItem
+## ![shared](.gitbook/assets/shared.png) Entity:hasItem
+
 
 ```lua
-boolean Entity:hasItem(number slot)
+boolean Entity:hasItem(id)
 ```
 
-> Returns true if the entity has an item on the specific **slot**
+Returns true if the storage has the given id
 
-### Arguments
 
-| Type   | Name | Description               | Optional |
-| ------ | ---- | ------------------------- | -------: |
-| number | slot | The slot to find the item |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | id |  |  |
 
-| Type |                            Description |
-| ---- | -------------------------------------: |
-| bool | If there is an item on the slot or not |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

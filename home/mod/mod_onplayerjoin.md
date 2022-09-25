@@ -1,13 +1,18 @@
-# MOD:onPlayerJoin
+## ![shared](.gitbook/assets/shared.png) MOD:onPlayerJoin
+
 
 ```lua
-void MOD:onPlayerJoin(Player ply)
+void MOD:onPlayerJoin(ply)
 ```
 
-> Global event called when a player joins the game
+Global event called when a player joins the game
 
-## Arguments
 
-| Type                                   | Name | Description           | Optional |
-| -------------------------------------- | ---- | --------------------- | -------: |
-| [Player](../../wiki/mod/player\_base/) | ply  | The new player entity |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| Player | ply |  |  |
+
+

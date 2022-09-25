@@ -1,7 +1,12 @@
-## ![](images/shared.png "SHARED") console:clear
+## ![shared](.gitbook/assets/shared.png) console:clear
+
 
 ```lua
 void console:clear()
 ```
 
-> Clears the console
+Clears the console
+
+
+
+

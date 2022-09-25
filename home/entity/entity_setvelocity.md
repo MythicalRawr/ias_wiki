@@ -1,13 +1,18 @@
-# Entity:setVelocity
+## ![shared](.gitbook/assets/shared.png) Entity:setVelocity
+
 
 ```lua
-void Entity:setVelocity(Vector velocity)
+void Entity:setVelocity(vel)
 ```
 
-> Sets the velocity of the entity (physics)
+Sets the velocity of the ent (physics)
 
-## Arguments
 
-| Type                                      | Name     | Description                  | Optional |
-| ----------------------------------------- | -------- | ---------------------------- | -------: |
-| [Vector](../../wiki/entity/vector\_base/) | velocity | The new velocity of the item |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| Vector | vel |  |  |
+
+

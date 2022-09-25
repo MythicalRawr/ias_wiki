@@ -1,20 +1,24 @@
-## ![](images/shared.png "SHARED") io:load
+## ![shared](.gitbook/assets/shared.png) io:load
+
 
 ```lua
-string, string io:load(string filePath)
+string io:load(path)
 ```
 
-> Loads a file on the `data` folder, make sure you pass the extension on the `filePath`
+Loads a file on the data folder, make sure you pass the extension on the filePath
 
-### Arguments
 
-| Type   | Name     | Description              | Optional |
-| ------ | -------- | ------------------------ | -------: |
-| string | filePath | Path to save the file on |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | path |  |  |
 
-| Type   |              Description |
-| ------ | -----------------------: |
-| string | The error message if any |
-| string |            The file data |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| string | string |
+

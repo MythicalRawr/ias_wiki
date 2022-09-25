@@ -1,14 +1,19 @@
-## ![](images/shared.png "SHARED") net:remove
+## ![shared](.gitbook/assets/shared.png) net:remove
+
 
 ```lua
-void net:remove(string netId, string hookName)
+void net:remove(netId, hookName)
 ```
 
-> Remove a listener for a specific **netId**
+Remove a listener for a specific netId
 
-### Arguments
 
-| Type   | Name     | Description                   | Optional |
-| ------ | -------- | ----------------------------- | -------: |
-| string | netId    | The net id to remove from     |          |
-| string | hookName | This hook unique id to remove |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | netId |  |  |
+| string | hookName |  |  |
+
+

@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") json.decode
+## ![shared](.gitbook/assets/shared.png) json:decode
+
 
 ```lua
-table json.decode(string json)
+table json:decode(data)
 ```
 
-> Decodes a string to a lua table
+Decodes a json string to a lua table
 
-### Arguments
 
-| Type   | Name | Description                   | Optional |
-| ------ | ---- | ----------------------------- | -------: |
-| string | json | The json string to be decoded |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | data |  |  |
 
-| Type  |            Description |
-| ----- | ---------------------: |
-| table | The decoded json table |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| table |  |
+

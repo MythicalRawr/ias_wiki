@@ -1,13 +1,19 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):setStorage
+## ![shared](.gitbook/assets/shared.png) Entity:setStorage
+
 
 ```lua
-void Entity:setStorage(number slots)
+void Entity:setStorage(slots)
 ```
 
-> Marks the entity as a storage with the given max **slots**
+Marks the ent as a storage with the given max slots.
+⚠️Needs to be replicated on client⚠️
 
-### Arguments
 
-| Type   | Name  | Description       | Optional |
-| ------ | ----- | ----------------- | -------: |
-| number | slots | Max storage slots |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | slots |  |  |
+
+

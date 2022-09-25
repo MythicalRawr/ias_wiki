@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") timer:exists
+## ![shared](.gitbook/assets/shared.png) timer:exists
+
 
 ```lua
-boolean timer:exists(string id)
+boolean timer:exists(id)
 ```
 
-> Returns true if a timer with the given **id** exists
+Returns true if a timer with the given id exists
 
-### Arguments
 
-| Type   | Name | Description         | Optional |
-| ------ | ---- | ------------------- | -------: |
-| string | id   | The timer unique id |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | id |  |  |
 
-| Type    |                Description |
-| ------- | -------------------------: |
-| boolean | If the timer exists or not |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

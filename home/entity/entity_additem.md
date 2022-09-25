@@ -1,21 +1,26 @@
-# Entity:addItem
+## ![server](.gitbook/assets/server.png) Entity:addItem
+
 
 ```lua
-boolean Entity:addItem(string itemID, [number amount = 1], [number slot = 0])
+boolean Entity:addItem(id, amount, slot)
 ```
 
-> Creates a new [Item](../../wiki/entity/item\_base/) and adds it to a specified **slot**.
+Adds the given item id to the ent storage (ent needs to be marked with setStorage)
 
-## Arguments
 
-| Type   | Name   | Description                                        | Optional |
-| ------ | ------ | -------------------------------------------------- | -------: |
-| string | itemID | The item to add                                    |          |
-| number | amount | The amount of that item to add (must be stackable) |        ✔ |
-| number | slot   | Slot to add the item (-1 = find available slot)    |        ✔ |
+------
+## Parameters
 
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | id |  |  |
+| number | amount |  | ✔ |
+| number | slot |  | ✔ |
+
+------
 ## Returns
 
-| Type    |                        Description |
-| ------- | ---------------------------------: |
-| boolean | If the item was added successfully |
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

@@ -1,19 +1,24 @@
-# world:find
+## ![shared](.gitbook/assets/shared.png) world:find
+
 
 ```lua
-Entity world:find(number id)
+ENT world:find(id)
 ```
 
-> Finds an entity in the world by id
+Finds an entity in the world by id
 
-## Arguments
 
-| Type | Name | Description               | Optional |
-| ---- | ---- | ------------------------- | -------: |
-| num  | id   | The entity id to be found |          |
+------
+## Parameters
 
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | id |  |  |
+
+------
 ## Returns
 
-| Type                                     |      Description |
-| ---------------------------------------- | ---------------: |
-| [Entity](../../wiki/world/entity\_base/) | The found entity |
+| Type | Description |
+| ---- | ----------: |
+| ENT |  |
+

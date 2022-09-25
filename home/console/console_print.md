@@ -1,14 +1,19 @@
-# console:print
+## ![shared](.gitbook/assets/shared.png) console:print
+
 
 ```lua
-void console:print(string text, [ConsoleEnums log] = CONSOLE.LOG.DEBUG)
+void console:print(text, type)
 ```
 
-> Prints the text on the console
+Prints the text on the console
 
-## Arguments
 
-| Type         | Name | Description             | Optional |
-| ------------ | ---- | ----------------------- | -------: |
-| string       | text | The text to print       |          |
-| ConsoleEnums | type | The type of print (LOG) |        ✔ |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | text |  |  |
+| CONSOLE.LOG | type |  | ✔ |
+
+

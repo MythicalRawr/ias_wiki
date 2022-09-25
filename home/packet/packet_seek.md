@@ -1,13 +1,18 @@
-## ![](images/shared.png "SHARED") [Packet](packet_base):seek
+## ![shared](.gitbook/assets/shared.png) Packet:seek
+
 
 ```lua
-void Packet:seek(number position)
+void Packet:seek(position)
 ```
 
-> Sets the _cursor_ reading position
+Sets the cursor reading position
 
-### Arguments
 
-| Type   | Name     | Description         | Optional |
-| ------ | -------- | ------------------- | -------: |
-| number | position | The cursor position |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | position |  |  |
+
+

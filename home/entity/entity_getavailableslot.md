@@ -1,19 +1,18 @@
-# Entity:getAvailableSlot
+## ![shared](.gitbook/assets/shared.png) Entity:getAvailableSlot
+
 
 ```lua
-number Entity:getAvailableSlot([string itemID])
+number Entity:getAvailableSlot()
 ```
 
-> Returns an available **slot** on the inventory. If an **itemID** is passed it will try to find a slot where that item can be merged into or an empty slot
+Returns the an available slot index
 
-## Arguments
 
-| Type   | Name   | Description           | Optional |
-| ------ | ------ | --------------------- | -------: |
-| string | itemID | The item id to locate |        ✔ |
 
+------
 ## Returns
 
-| Type   |          Description |
-| ------ | -------------------: |
-| number | Available slot index |
+| Type | Description |
+| ---- | ----------: |
+| number |  |
+

@@ -1,13 +1,18 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):isStorage
+## ![shared](.gitbook/assets/shared.png) Entity:isStorage
+
 
 ```lua
 boolean Entity:isStorage()
 ```
 
-> Returns true if the entity stores items or not (aka has inventory)
+Returns true if the ent stores items or not (aka has inventory)
 
-### Returns
 
-| Type |                Description |
-| ---- | -------------------------: |
-| bool | If the entity stores items |
+
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

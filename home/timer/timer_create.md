@@ -1,24 +1,28 @@
-# timer:create
+## ![shared](.gitbook/assets/shared.png) timer:create
+
 
 ```lua
-timerObj timer:create(string id, number interval, number ticks, function callback(void))
+timerObj timer:create(id, interval, ticks, callback)
 ```
 
-> Creates a timer using the **unique id**, triggering every x seconds for an x ammount of times
-
+Creates a timer using the unique id, triggering every x seconds for an x ammount of times.
 If ticks is set to <= than 0, it will run infinitely
 
-## Arguments
 
-| Type     | Name     | Description                                                   | Optional |
-| -------- | -------- | ------------------------------------------------------------- | -------: |
-| string   | id       | The timer unique id                                           |          |
-| number   | interval | The timer interval (in seconds, supports float)               |          |
-| number   | ticks    | The number of times the timer will tick **(<= 0 = infinite)** |          |
-| function | callback | The timer callback that gets triggered                        |          |
+------
+## Parameters
 
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | id |  |  |
+| number | interval |  |  |
+| number | ticks |  |  |
+| fun() | callback |  |  |
+
+------
 ## Returns
 
-| Type                                          |             Description |
-| --------------------------------------------- | ----------------------: |
-| [timerObj](../../wiki/timer/timer\_timerObj/) | The newly created timer |
+| Type | Description |
+| ---- | ----------: |
+| timerObj |  |
+

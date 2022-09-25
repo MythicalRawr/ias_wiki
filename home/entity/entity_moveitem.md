@@ -1,21 +1,26 @@
-# Entity:moveItem
+## ![server](.gitbook/assets/server.png) Entity:moveItem
+
 
 ```lua
-boolean Entity:moveItem(Entity newInventory, number oldSlot, number newSlot)
+boolean Entity:moveItem(to, slot, newSlot)
 ```
 
-> Moves an [Item](../../wiki/entity/item\_base/) to a specific **slot** on the [Entity](../../wiki/entity/entity\_base/)
+Moves an item to a different inventory
 
-## Arguments
 
-| Type                                      | Name         | Description              | Optional |
-| ----------------------------------------- | ------------ | ------------------------ | -------: |
-| [Entity](../../wiki/entity/entity\_base/) | newInventory | The inventory to move to |          |
-| number                                    | oldSlot      | The item slot            |          |
-| number                                    | newSlot      | The new item slot        |          |
+------
+## Parameters
 
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| Entity | to |  |  |
+| number | slot |  |  |
+| number | newSlot |  |  |
+
+------
 ## Returns
 
-| Type    |                        Description |
-| ------- | ---------------------------------: |
-| boolean | If the item was moved successfully |
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

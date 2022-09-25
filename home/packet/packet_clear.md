@@ -1,7 +1,12 @@
-## ![](images/shared.png "SHARED") [Packet](packet_base):clear
+## ![shared](.gitbook/assets/shared.png) Packet:clear
+
 
 ```lua
 void Packet:clear()
 ```
 
-> Clears the entire packet data
+Clears the entire packet data
+
+
+
+

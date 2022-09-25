@@ -1,0 +1,11 @@
+## ![$SCOPE$](.gitbook/assets/$SCOPE$.png) $CLEAN_METHOD_NAME$
+
+$HINTS$
+```lua
+$METHOD_NAME$
+```
+
+$DESCRIPTION$
+$EXAMPLE$
+$PARAMETERS$
+$RETURNS$

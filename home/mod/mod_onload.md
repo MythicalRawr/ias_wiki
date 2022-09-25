@@ -1,18 +1,12 @@
-## ![](images/shared.png "SHARED")![](images/event.png "EVENT") MOD:onLoad
+## ![shared](.gitbook/assets/shared.png) MOD:onLoad
+
 
 ```lua
 void MOD:onLoad()
 ```
 
-> Global event called **ONCE** by the game to pre-cache resources for loading
+Called when the mod begins loading content, you should pre-load all the content here
 
-Ex:
 
-```lua
-function MOD:onLoad()
-	resources:loadSound("content/sounds/ball.ogg")
-	resources:loadSound("content/sounds/singusasong.ogg")
 
-	resources:loadModel("@/content/models/entities/player.obj")
-end
-```
+

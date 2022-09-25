@@ -1,13 +1,24 @@
-# resources:getModel
+## ![shared](.gitbook/assets/shared.png) resources:getModel
+
 
 ```lua
-void resources:getModel(string path)
+Model resources:getModel(path)
 ```
 
-> Returns a [ModelMesh](../../wiki/resources/modelMesh/) object if loaded successfully, you should use `addModel` on `Mod:onLoad()` to pre-load the model mesh and not block the client
+Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client
 
-## Arguments
 
-| Type   | Name | Description           | Optional |
-| ------ | ---- | --------------------- | -------: |
-| string | path | The path to the model |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | path |  |  |
+
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| Model |  |
+

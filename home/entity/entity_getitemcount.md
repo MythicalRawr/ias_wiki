@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):getItemCount
+## ![shared](.gitbook/assets/shared.png) Entity:getItemCount
+
 
 ```lua
-number Entity:getItemCount(string itemID)
+number Entity:getItemCount(slot)
 ```
 
-> Returns the total count of the given **itemID** on the inventory
+Returns the total amount of the item on the slot
 
-### Arguments
 
-| Type   | Name   | Description      | Optional |
-| ------ | ------ | ---------------- | -------: |
-| number | itemID | The item to find |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | slot |  |  |
 
-| Type   |            Description |
-| ------ | ---------------------: |
-| number | The count of that item |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| number |  |
+

@@ -1,31 +1,25 @@
-# ui:create
+## ![client](.gitbook/assets/client.png) ui:create
+
 
 ```lua
-UIBase ui:create(string uiType, [UIBase parent]=nil)
+UIBase ui:create(uiType, parent)
 ```
 
-> Creates a new ui base element.
->
-> * Allowed types :
->   * [frame](../../wiki/ui/ui\_frame/)
->   * [group](../../wiki/ui/ui\_group/)
->   * [button](../../wiki/ui/ui\_button/)
->   * [progress\_bar](../../wiki/ui/ui\_progress\_bar/)
->   * [input](../../wiki/ui/ui\_input/)
->   * [inventory\_slot](../../wiki/ui/ui\_inventory\_slot/)
->   * [label](../../wiki/ui/ui\_label/)
+Creates a new ui base element.
 
-## Arguments
 
-| Type                                | Name   | Description       | Optional |
-| ----------------------------------- | ------ | ----------------- | -------: |
-| string                              | uiType | UI base type      |          |
-| [UIBase](../../wiki/ui/ui\_UIBase/) | parent | UI parent element |        ✔ |
+------
+## Parameters
 
-‌‌ ‌‌
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | uiType | "frame, |  |
+| UIBase | parent |  | ✔ |
 
+------
 ## Returns
 
-| Type                                |                                                Description |
-| ----------------------------------- | ---------------------------------------------------------: |
-| [UIBase](../../wiki/ui/ui\_UIBase/) | The newly created ui element (of the given `uiType` above) |
+| Type | Description |
+| ---- | ----------: |
+| UIBase |  |
+

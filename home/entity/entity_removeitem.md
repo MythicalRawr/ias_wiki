@@ -1,22 +1,25 @@
-# Entity:removeItem
+## ![server](.gitbook/assets/server.png) Entity:removeItem
+
 
 ```lua
-boolean Entity:removeItem(number slot, [number amount = 0])
+boolean Entity:removeItem(slot, amount)
 ```
 
-> Removes an [Item](../../wiki/entity/item\_base/) from a specific **slot** on the [Entity](../../wiki/entity/entity\_base/), if no amount is specified (or is not stackable), it will fully remove the item.
+Removes the given amount (if not set, the whole item) on the given slot
 
-📝 To automatically remove an amount by item id, use [Entity:removeByAmount](../../wiki/entity/entity\_removeItemById/)
 
-## Arguments
+------
+## Parameters
 
-| Type   | Name   | Description             | Optional |
-| ------ | ------ | ----------------------- | -------: |
-| number | slot   | The item slot to remove |          |
-| number | amount | Amount to remove        |        ✔ |
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| number | slot |  |  |
+| number | amount |  | ✔ |
 
+------
 ## Returns
 
-| Type    |                          Description |
-| ------- | -----------------------------------: |
-| boolean | If the item was removed successfully |
+| Type | Description |
+| ---- | ----------: |
+| boolean |  |
+

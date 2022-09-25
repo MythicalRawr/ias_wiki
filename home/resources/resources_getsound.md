@@ -1,13 +1,24 @@
-# resources:getSound
+## ![client](.gitbook/assets/client.png) resources:getSound
+
 
 ```lua
-void resources:getSound(string path)
+Sound resources:getSound(path)
 ```
 
-> Returns a [Sound](../../wiki/resources/sound/) object if loaded successfully, you should use `addSound` on `Mod:onLoad()` to pre-load the sound and not block the client
+Returns a Sound object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the sound and not block the client
 
-## Arguments
 
-| Type   | Name | Description           | Optional |
-| ------ | ---- | --------------------- | -------: |
-| string | path | The path to the sound |          |
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | path |  |  |
+
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| Sound |  |
+

@@ -1,13 +1,18 @@
-## ![](images/shared.png "SHARED") [Entity](entity_base):getStorageItems
+## ![shared](.gitbook/assets/shared.png) Entity:getStorageItems
+
 
 ```lua
 table Entity:getStorageItems()
 ```
 
-> Returns a table with the stored items on the entity
+Returns the items in the ent storage
 
-### Returns
 
-| Type  |      Description |
-| ----- | ---------------: |
-| table | The stored items |
+
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| table |  |
+

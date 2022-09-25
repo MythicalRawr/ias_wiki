@@ -1,13 +1,18 @@
-# Entity:getVelocity
+## ![shared](.gitbook/assets/shared.png) Entity:getVelocity
+
 
 ```lua
 Vector Entity:getVelocity()
 ```
 
-> Returns the velocity of the entity (physics)
+Returns the velocity of the ent (physics)
 
+
+
+------
 ## Returns
 
-| Type                                      |                Description |
-| ----------------------------------------- | -------------------------: |
-| [Vector](../../wiki/entity/vector\_base/) | The velocity of the entity |
+| Type | Description |
+| ---- | ----------: |
+| Vector |  |
+

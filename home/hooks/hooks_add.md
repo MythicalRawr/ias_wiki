@@ -1,27 +1,21 @@
-## ![](images/shared.png "SHARED") hooks:add
+## ![shared](.gitbook/assets/shared.png) hooks:add
+
 
 ```lua
-void hooks:add(string hookId, string hookName, function callback(...))
+void hooks:add(hookId, hookName, callback)
 ```
 
-> Creates a hook (aka listener) for a specific **hookId**
+Creates a hook (aka listener) for a specific hookId
+Make sure your hook hookName is unique, it might get replaced by other hooks!
 
-Make sure your hook **hookName** is unique, it might get replaced by other hooks!
 
-Ex:
+------
+## Parameters
 
-```lua
--- Prints all executed commands on the console
-hooks:add("onConsoleCommand", "test", function(id, args)
-	print("running", id)
-	printTable(args)
-end)
-```
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | hookId |  |  |
+| string | hookName |  |  |
+| fun(data: | callback | any) |  |
 
-### Arguments
 
-| Type     | Name     | Description              | Optional |
-| -------- | -------- | ------------------------ | -------: |
-| string   | hookId   | The hook id to listen to |          |
-| string   | hookName | This hook unique id      |          |
-| function | callback | Callback with hook data  |          |

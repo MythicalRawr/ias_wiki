@@ -1,30 +1,22 @@
-## ![](images/shared.png "SHARED")![](images/todo.png "UNFINISHED") http:fetch
+## ![shared](.gitbook/assets/shared.png) http:fetch
 
-`🚧 PAGE / FUNCTIONALITY STILL IN CONSTRUCTION`
-
-```lua
-void http:fetch(string url, table headers, function callback(hasErrored, data))
-```
-
-> Queries the internetz using fetch
-
-By default it uses the method **GET**
-
-Available methods: `DELETE, POST, GET, PUT, HEAD, OPTIONS, PATCH`
-
-Ex:
 
 ```lua
-http:fetch("https://google.com", { METHOD = "GET" }, function(hasErrored, data)
-	if hasErrored then return print("FAILED: ", data) end
-	print("Recieved data", data)
-end)
+void http:fetch(url, headers, callback)
 ```
 
-### Arguments
+Queries the internetz using fetch.
+By default it uses the method GET.
+Available methods: DELETE, POST, GET, PUT, HEAD, OPTIONS, PATCH
 
-| Type     | Name     | Description          | Optional |
-| -------- | -------- | -------------------- | -------: |
-| string   | url      | The url              |          |
-| string   | headers  | Headers to be passed |          |
-| function | callback | Callback method      |          |
+
+------
+## Parameters
+
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | url |  |  |
+| table | headers | EX: |  |
+| fun(hasErrored: | callback | boolean, |  |
+
+

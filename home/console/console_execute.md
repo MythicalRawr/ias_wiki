@@ -1,29 +1,28 @@
-## ![](images/shared.png "SHARED") console:execute
+## ![shared](.gitbook/assets/shared.png) console:execute
+
 
 ```lua
-boolean, string console:execute(string[] arguments)
+boolean, console:execute(args)
 ```
 
-> Executes a console command programmatically
-
-Ex:
+Executes a console command programmatically
 
 ```lua
--- my_command is the command to execute, true is a parameter
+--my_command is the command to execute, true is a parameter
 console:execute({"my_command", "true"})
 ```
 
-### Arguments
+------
+## Parameters
 
-| Type     | Name      | Description        | Optional |
-| -------- | --------- | ------------------ | -------: |
-| string[] | arguments | Array of arguments |          |
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string[] | args |  |  |
 
-‌‌ ‌‌
+------
+## Returns
 
-### Returns
+| Type | Description |
+| ---- | ----------: |
+| boolean, |  |
 
-| Type    |                          Description |
-| ------- | -----------------------------------: |
-| boolean | If command was executed successfully |
-| string  |          The error / success message |

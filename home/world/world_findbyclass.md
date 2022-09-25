@@ -1,19 +1,24 @@
-## ![](images/shared.png "SHARED") world:findByClass
+## ![shared](.gitbook/assets/shared.png) world:findByClass
+
 
 ```lua
-table world:findByClass(string class)
+ENT[] world:findByClass(class)
 ```
 
-> Finds entities in the world by class type (EX: entity_ship)
+Finds entities in the world by class type (EX: entity_ship)
 
-### Arguments
 
-| Type   | Name  | Description                  | Optional |
-| ------ | ----- | ---------------------------- | -------: |
-| string | class | The entity class to be found |          |
+------
+## Parameters
 
-### Returns
+| Type   | Name | Description              | Optional |
+| ------ | ---- | ------------------------ | -------: |
+| string | class |  |  |
 
-| Type  |        Description |
-| ----- | -----------------: |
-| table | The found entities |
+------
+## Returns
+
+| Type | Description |
+| ---- | ----------: |
+| ENT[] |  |
+
