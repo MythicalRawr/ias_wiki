@@ -72,6 +72,7 @@ async function generateWiki() {
 
             const name = block.title.split(':')[1];
             const file = `${OUTPUT}/${folderTitle}/${folderTitle}_${name}.md`;
+            if (!fileMap[file]) return;
 
             fileMap[file] = block.title; // For summary
 
@@ -232,13 +233,13 @@ async function parseFile(filePath) {
             } else if (line.startsWith('---@ENV')) {
                 commentBlock.env = lineData[1];
             } else if (line.startsWith('---@warning')) {
-                commentBlock.hints.warnings.push(text.replace('---@warning', ''));
+                commentBlock.hints.warnings.push(text.replace('@warning', ''));
             } else if (line.startsWith('---@info')) {
-                commentBlock.hints.info.push(text.replace('---@info', ''));
+                commentBlock.hints.info.push(text.replace('@info', ''));
             } else if (line.startsWith('---@danger')) {
-                commentBlock.hints.danger.push(text.replace('---@danger', ''));
+                commentBlock.hints.danger.push(text.replace('@danger', ''));
             } else if (line.startsWith('---@success')) {
-                commentBlock.hints.success.push(text.replace('---@success', ''));
+                commentBlock.hints.success.push(text.replace('@success', ''));
             } else if (line.startsWith('---*')) {
                 commentBlock.description.push(line.replace('---*', '').trim());
             } else if (line.startsWith('---```lua')) {
