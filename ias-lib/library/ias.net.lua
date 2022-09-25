@@ -40,7 +40,7 @@ function net:sendToServer(netId, msg, reliable) end
 ---@ENV SHARED
 ---@param netId string
 ---@param hookName string
----@param callback function
+---@param callback fun(data: any)
 ---* Creates a listener for a specific netId. Make sure your hookName is unique, it might get replaced by other listeners!
 ---
 function net:listen(netId, hookName, callback) end

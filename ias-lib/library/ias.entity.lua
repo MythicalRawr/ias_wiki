@@ -478,13 +478,13 @@ function Entity:initPhysics(phys, block) end
 
 ---
 ---@ENV SHARED
+---@param radius number
 ---@param phys? PHYSICS
----@param radius? number
 ---@param block? boolean
 ---* Sets the entity physics with the given radius
 ---* If block is set, the VIS will be blocked by it
 ---
-function Entity:initCirclePhysics(phys, radius, block) end
+function Entity:initCirclePhysics(radius, phys, block) end
 
 ---
 ---@ENV SHARED

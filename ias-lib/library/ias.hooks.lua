@@ -11,7 +11,7 @@ hooks = {}
 ---@ENV SHARED
 ---@param hookId string
 ---@param hookName string
----@param callback function
+---@param callback fun(data: any)
 ---* Creates a hook (aka listener) for a specific hookId
 ---* Make sure your hook hookName is unique, it might get replaced by other hooks!
 ---

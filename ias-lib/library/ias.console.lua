@@ -39,7 +39,7 @@ function console:print(text, type) end
 ---
 ---@ENV SHARED
 ---@param command string
----@param callback function "⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️"
+---@param callback fun(args: string[]): success: boolean, msg: string "⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️"
 ---@param description? string
 ---@param flags? CONSOLE.FLAGS
 ---* Registers a new console command (the command id needs to be unique)

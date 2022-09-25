@@ -44,7 +44,7 @@ function ModelMesh:getColor() end
 
 ---
 ---@ENV SHARED
----@param rot number
+---@param rot Vector3
 ---* Sets the mesh rotation in degrees
 ---
 function ModelMesh:setRotation(rot) end

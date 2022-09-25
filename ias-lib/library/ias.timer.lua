@@ -12,7 +12,7 @@ timer = {}
 ---@param id string
 ---@param interval number
 ---@param ticks number
----@param callback function
+---@param callback fun()
 ---@return timerObj
 ---* Creates a timer using the unique id, triggering every x seconds for an x ammount of times.
 ---* If ticks is set to <= than 0, it will run infinitely

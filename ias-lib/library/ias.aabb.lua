@@ -5,6 +5,8 @@
 ---
 --- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class AABB
+---@field pos Vector
+---@field size Vector
 AABB = {
 	pos = {
 		x = 0,

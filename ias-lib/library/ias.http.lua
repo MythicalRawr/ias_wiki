@@ -11,7 +11,7 @@ http = {}
 ---@ENV SHARED
 ---@param url string
 ---@param headers table EX: { METHOD = "GET" }
----@param callback function (hasErrored, data)
+---@param callback fun(hasErrored: boolean, data: string)
 ---* Queries the internetz using fetch.
 ---* By default it uses the method GET.
 ---* Available methods: DELETE, POST, GET, PUT, HEAD, OPTIONS, PATCH

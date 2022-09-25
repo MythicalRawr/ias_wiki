@@ -5,6 +5,10 @@
 ---
 --- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Color
+---@field r number
+---@field g number
+---@field b number
+---@field a number
 Color = {
 	r = 0,
 	g = 0,

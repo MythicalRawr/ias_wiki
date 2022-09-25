@@ -1,8 +1,16 @@
-
 ---@meta
 
 ---
----@class CONSOLE.FLAGS
+---@class CONSOLE
+---@field FLAGS table
+---@field LOG table
+_G.CONSOLE = {
+	FLAGS = {},
+	LOG = {}
+}
+
+---
+---@enum CONSOLE.FLAGS
 ---
 _G.CONSOLE.FLAGS = {
 	CHEATS = 1,
@@ -12,7 +20,7 @@ _G.CONSOLE.FLAGS = {
 }
 
 ---
----@class CONSOLE.LOG
+---@enum CONSOLE.LOG
 ---
 _G.CONSOLE.LOG = {
 	DEBUG = 3,
@@ -23,14 +31,14 @@ _G.CONSOLE.LOG = {
 -----------------
 
 ---
----@class COMPONENTS
+---@enum COMPONENTS
 ---
 _G.COMPONENTS = {
 	TILE = 1
 }
 
 ---
----@class USE
+---@enum USE
 ---
 _G.USE = {
 	NONE = 0,
@@ -41,7 +49,7 @@ _G.USE = {
 -----------------
 
 ---
----@class GAS
+---@enum GAS
 ---
 _G.GAS = {
 	NONE = 0,
@@ -54,7 +62,7 @@ _G.GAS = {
 -----------------
 
 ---
----@class FREEZE
+---@enum FREEZE
 ---
 _G.FREEZE = {
 	MOVEMENT = 1,
@@ -64,7 +72,7 @@ _G.FREEZE = {
 -----------------
 
 ---
----@class ITEM_RARITY
+---@enum ITEM_RARITY
 ---
 _G.ITEM_RARITY = {
 	COMMON = 0,
@@ -76,7 +84,7 @@ _G.ITEM_RARITY = {
 -----------------
 
 ---
----@class PHYSICS
+---@enum PHYSICS
 ---
 _G.PHYSICS = {
 	STATIC = 1,
@@ -88,7 +96,7 @@ _G.PHYSICS = {
 -----------------
 
 ---
----@class WIRE
+---@enum WIRE
 ---
 _G.WIRE = {
 	POWER = 1,
@@ -98,7 +106,7 @@ _G.WIRE = {
 -----------------
 
 ---
----@class INPUT
+---@enum INPUT
 ---
 _G.INPUT = {
 	KEY = {
