@@ -1,4 +1,16 @@
-## ![](https://i.rawr.dev/callback.png) ![EVENT](.gitbook/assets/event.png) MOD:init
+# MOD:init
+
+{% hint style="info" %}
+aa
+{% endhint %}
+
+{% hint style="danger" %}
+aa
+{% endhint %}
+
+{% hint style="success" %}
+bbb
+{% endhint %}
 
 ```lua
 void MOD:init()
