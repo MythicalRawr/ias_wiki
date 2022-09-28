@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:getRotation
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Vector Entity:getRotation()
 Returns the ent rotation in degrees
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Vector |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Vector](home/Vector) | No description |
 

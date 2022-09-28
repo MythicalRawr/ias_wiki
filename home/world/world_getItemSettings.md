@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) world:getItemSettings
+## ![shared](.gitbook/assets/shared.png) [world](home/world)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ table world:getItemSettings(id)
 
 Gets the given item id settings
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | id |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | id | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| table |  |
+| Type   | Description |
+| ------ | ----------: |
+| table | No description |
 

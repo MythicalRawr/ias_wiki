@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:getVelocity
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Vector Entity:getVelocity()
 Returns the velocity of the ent (physics)
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Vector |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Vector](home/Vector) | No description |
 

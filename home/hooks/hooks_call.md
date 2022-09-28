@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) hooks:call
+## ![shared](.gitbook/assets/shared.png) [hooks](home/hooks)
+
 
 
 ```lua
@@ -7,13 +8,12 @@ void hooks:call(hookId, data)
 
 Emits data to the given hookId
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | hookId |  |  |
-| any | data |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | hookId | No description |  |
+| [any](home/any) | data | No description |  |
 
 

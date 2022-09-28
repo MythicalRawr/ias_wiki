@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) AABB:top
+## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ number AABB:top()
 Returns the top
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

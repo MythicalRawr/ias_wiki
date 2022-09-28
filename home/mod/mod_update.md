@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) MOD:update
+## ![shared](.gitbook/assets/shared.png) [MOD](home/MOD)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void MOD:update(delta)
 
 Global event called every tick update
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | delta |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | delta | No description |  |
 
 

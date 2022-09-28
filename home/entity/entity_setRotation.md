@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:setRotation
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void Entity:setRotation(rot)
 
 Sets the rotation of the ent in degrees
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Vector | rot |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector](home/Vector) | rot | No description |  |
 
 

@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Ghost:isValid
+## ![shared](.gitbook/assets/shared.png) [Ghost](home/Ghost)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ boolean Ghost:isValid()
 Returns true if valid
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

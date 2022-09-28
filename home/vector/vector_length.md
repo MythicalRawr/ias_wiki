@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Vector:length
+## ![shared](.gitbook/assets/shared.png) [Vector](home/Vector)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ number Vector:length()
 Returns the length of the vector
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

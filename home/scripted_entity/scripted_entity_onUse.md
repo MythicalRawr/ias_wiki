@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) ENT:onUse
+## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void ENT:onUse(ent)
 
 Triggered when a entity presses USE
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Entity | ent |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Entity](home/Entity) | ent | No description |  |
 
 

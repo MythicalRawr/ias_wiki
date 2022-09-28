@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Tile:hasPipe
+## ![shared](.gitbook/assets/shared.png) [Tile](home/Tile)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ boolean Tile:hasPipe()
 Returns true if the tile has a pipe
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

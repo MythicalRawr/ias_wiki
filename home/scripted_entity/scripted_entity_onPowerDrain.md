@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) ENT:onPowerDrain
+## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
+
 
 
 ```lua
@@ -7,13 +8,12 @@ void ENT:onPowerDrain(id, amount)
 
 Called when power is drained
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | id |  |  |
-| number | amount |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | id | No description |  |
+| number | amount | No description |  |
 
 

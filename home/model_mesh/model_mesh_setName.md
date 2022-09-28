@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) ModelMesh:setName
+## ![shared](.gitbook/assets/shared.png) [ModelMesh](home/ModelMesh)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void ModelMesh:setName(name)
 
 Sets the mesh name
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | name |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | name | No description |  |
 
 

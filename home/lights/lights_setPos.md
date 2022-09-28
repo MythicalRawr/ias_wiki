@@ -1,4 +1,5 @@
-## ![client](.gitbook/assets/client.png) light:setPos
+## ![client](.gitbook/assets/client.png) [light](home/light)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void light:setPos(pos)
 
 Sets the light position
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Vector | pos |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector](home/Vector) | pos | No description |  |
 
 

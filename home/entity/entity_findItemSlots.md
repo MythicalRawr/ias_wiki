@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:findItemSlots
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ number[] Entity:findItemSlots(id)
 
 Returns the slots where the given item id is present
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | id |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | id | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number[] |  |
+| Type   | Description |
+| ------ | ----------: |
+| number[] | No description |
 

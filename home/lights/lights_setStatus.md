@@ -1,4 +1,5 @@
-## ![client](.gitbook/assets/client.png) light:setStatus
+## ![client](.gitbook/assets/client.png) [light](home/light)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void light:setStatus(on)
 
 Turns the light on / off
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| boolean | on |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| boolean | on | No description |  |
 
 

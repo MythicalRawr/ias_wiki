@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) Entity:setGrabbable
+## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void Entity:setGrabbable(grab)
 
 Allows the ent to be grabbed or not
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| boolean | grab |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| boolean | grab | No description |  |
 
 

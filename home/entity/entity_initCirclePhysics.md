@@ -1,21 +1,20 @@
-## ![shared](.gitbook/assets/shared.png) Entity:initCirclePhysics
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
 void Entity:initCirclePhysics(radius, phys, block)
 ```
 
-Sets the entity physics with the given radius
-If block is set, the VIS will be blocked by it
-
+Sets the entity physics with the given radius,If block is set, the VIS will be blocked by it
 
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | radius |  |  |
-| PHYSICS | phys |  | ✔ |
-| boolean | block |  | ✔ |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | radius | No description |  |
+| [PHYSICS](home/PHYSICS) | phys | No description | ✔ |
+| boolean | block | No description | ✔ |
 
 

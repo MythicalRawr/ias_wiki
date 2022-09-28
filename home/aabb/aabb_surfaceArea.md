@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) AABB:surfaceArea
+## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ number AABB:surfaceArea()
 Returns the surfaceArea
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) fmt:format
+## ![shared](.gitbook/assets/shared.png) [fmt](home/fmt)
+
 
 
 ```lua
@@ -7,19 +8,18 @@ string fmt:format(str, ...)
 
 Returns a formated string
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | str |  |  |
-| any | ... |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | str | No description |  |
+| [any](home/any) | ... | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| string |  |
+| Type   | Description |
+| ------ | ----------: |
+| string | No description |
 

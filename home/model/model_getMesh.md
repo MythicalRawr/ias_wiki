@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Model:getMesh
+## ![shared](.gitbook/assets/shared.png) [Model](home/Model)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ ModelMesh Model:getMesh(name)
 
 Returns the model mesh if found
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | name |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | name | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| ModelMesh |  |
+| Type   | Description |
+| ------ | ----------: |
+| [ModelMesh](home/ModelMesh) | No description |
 

@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) ITEM:update
+## ![shared](.gitbook/assets/shared.png) [ITEM](home/ITEM)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void ITEM:update(delta)
 
 Called every update tick
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | delta |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | delta | No description |  |
 
 

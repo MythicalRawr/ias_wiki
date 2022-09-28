@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Vector:distance
+## ![shared](.gitbook/assets/shared.png) [Vector](home/Vector)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ number Vector:distance(other)
 
 Returns the distance of the vector from the given vector
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Vector | other |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector](home/Vector) | other | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

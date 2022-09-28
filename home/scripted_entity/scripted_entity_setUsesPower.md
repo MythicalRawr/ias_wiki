@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) ENT:setUsesPower
+## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void ENT:setUsesPower(set)
 
 Marks the entity to use power
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| boolean | set |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| boolean | set | No description |  |
 
 

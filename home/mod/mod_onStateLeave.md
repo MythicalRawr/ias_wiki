@@ -1,4 +1,5 @@
-## ![client](.gitbook/assets/client.png) MOD:onStateLeave
+## ![client](.gitbook/assets/client.png) [MOD](home/MOD)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void MOD:onStateLeave(state)
 
 Global event called by the game before the state is changed
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | state | The |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | state | The state opened (ie 'ingame', 'mainmenu', etc) |  |
 
 

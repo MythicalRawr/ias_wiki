@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) Entity:dropItem
+## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,19 +8,18 @@ boolean Entity:dropItem(slot, pos)
 
 Drops the given item slot on the given pos
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | slot |  |  |
-| Vector | pos |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | slot | No description |  |
+| [Vector](home/Vector) | pos | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

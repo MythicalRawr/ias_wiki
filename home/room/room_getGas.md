@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Room:getGas
+## ![shared](.gitbook/assets/shared.png) [Room](home/Room)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ number Room:getGas(gasType)
 
 Returns amount of gas in a room of the type
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| GAS | gasType |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [GAS](home/GAS) | gasType | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

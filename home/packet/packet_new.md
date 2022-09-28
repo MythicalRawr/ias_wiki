@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Packet:new
+## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Packet Packet:new()
 Packet constructor
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Packet |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Packet](home/Packet) | No description |
 

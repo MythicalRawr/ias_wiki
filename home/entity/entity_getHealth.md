@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:getHealth
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ number Entity:getHealth()
 Returns the ent health
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

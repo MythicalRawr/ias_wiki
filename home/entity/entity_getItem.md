@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:getItem
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ ITEM Entity:getItem(index)
 
 Returns the item by index
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | index |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | index | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| ITEM |  |
+| Type   | Description |
+| ------ | ----------: |
+| [ITEM](home/ITEM) | No description |
 

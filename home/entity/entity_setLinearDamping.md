@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:setLinearDamping
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void Entity:setLinearDamping(damp)
 
 Sets the entity physics linear damping
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | damp |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | damp | No description |  |
 
 

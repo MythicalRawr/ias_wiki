@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Player:isDeveloper
+## ![shared](.gitbook/assets/shared.png) [Player](home/Player)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ boolean Player:isDeveloper()
 Returns true if the player is a developer
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

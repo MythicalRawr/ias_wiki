@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Packet:writeFloat
+## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void Packet:writeFloat(data)
 
 Writes a float in the net packet.
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | data |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | data | No description |  |
 
 

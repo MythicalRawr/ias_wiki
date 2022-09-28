@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Packet:readFloat
+## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ number Packet:readFloat()
 Reads a float from the net packet
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

@@ -1,19 +1,18 @@
-## ![shared](.gitbook/assets/shared.png) Player:cancelUse
+## ![shared](.gitbook/assets/shared.png) [Player](home/Player)
+
 
 
 ```lua
 boolean Player:cancelUse()
 ```
 
-Cancels use (used when the player closes menus on the client, on the server this is done automatically)
-Returns true if successful
-
+Cancels use (used when the player closes menus on the client, on the server this is done automatically),Returns true if successful
 
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Ghost:getPos
+## ![shared](.gitbook/assets/shared.png) [Ghost](home/Ghost)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Vector3 Ghost:getPos()
 Gets the current ghost position
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Vector3 |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Vector3](home/Vector3) | No description |
 

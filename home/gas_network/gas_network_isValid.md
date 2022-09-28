@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) GasNetwork:isValid
+## ![shared](.gitbook/assets/shared.png) [GasNetwork](home/GasNetwork)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ boolean GasNetwork:isValid()
 Returns true if the GasNetwork is valid
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

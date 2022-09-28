@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:isGrabbable
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ boolean Entity:isGrabbable()
 Returns true if the ent is grabbable
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

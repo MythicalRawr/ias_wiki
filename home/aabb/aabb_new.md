@@ -1,7 +1,6 @@
-## ![shared](.gitbook/assets/shared.png) AABB:new
+## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
 
-{% hint style="warning" %} @warning PAGE / FUNCTIONALITY STILL IN CONSTRUCTION {% endhint %}
-{% hint style="danger" %} @danger CAREFUL {% endhint %}
+
 
 ```lua
 AABB AABB:new(x, y, width, height)
@@ -9,21 +8,20 @@ AABB AABB:new(x, y, width, height)
 
 AABB constructor
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | x |  |  |
-| number | y |  |  |
-| number | width |  |  |
-| number | height |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | x | No description |  |
+| number | y | No description |  |
+| number | width | No description |  |
+| number | height | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| AABB |  |
+| Type   | Description |
+| ------ | ----------: |
+| [AABB](home/AABB) | No description |
 

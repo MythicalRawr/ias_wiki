@@ -1,4 +1,5 @@
-## ![client](.gitbook/assets/client.png) light:getColor
+## ![client](.gitbook/assets/client.png) [light](home/light)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Color light:getColor()
 Gets the light color
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Color |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Color](home/Color) | No description |
 

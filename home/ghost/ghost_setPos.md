@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Ghost:setPos
+## ![shared](.gitbook/assets/shared.png) [Ghost](home/Ghost)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void Ghost:setPos(pos)
 
 Sets the current ghost position
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Vector3 | pos |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector3](home/Vector3) | pos | No description |  |
 
 

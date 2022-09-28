@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Ghost:getModel
+## ![shared](.gitbook/assets/shared.png) [Ghost](home/Ghost)
+
 
 
 ```lua
@@ -8,11 +9,10 @@ Model Ghost:getModel()
 Gets the current ghost model
 
 
-
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| Model |  |
+| Type   | Description |
+| ------ | ----------: |
+| [Model](home/Model) | No description |
 

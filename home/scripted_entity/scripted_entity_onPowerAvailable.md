@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) ENT:onPowerAvailable
+## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
+
 
 
 ```lua
@@ -7,18 +8,17 @@ number ENT:onPowerAvailable(id)
 
 Called to see if the entity has any power available
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| number | id |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | id | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 

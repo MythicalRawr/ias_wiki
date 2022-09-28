@@ -1,28 +1,27 @@
-## ![client](.gitbook/assets/client.png) Player:moveItem
+## ![client](.gitbook/assets/client.png) [Player](home/Player)
+
 
 
 ```lua
 boolean Player:moveItem(oldStorage, newStorage, oldSlot, newSlot)
 ```
 
-Locally moves an item from an inventory to another inventory and sends a validation request to the server.
-The moving player must be marked as a viewer on server and be within range of both inventories!
-
+Locally moves an item from an inventory to another inventory and sends a validation request to the server.,The moving player must be marked as a viewer on server and be within range of both inventories!
 
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| ENT | oldStorage |  |  |
-| ENT | newStorage |  |  |
-| number | oldSlot |  |  |
-| number | newSlot |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [ENT](home/ENT) | oldStorage | No description |  |
+| [ENT](home/ENT) | newStorage | No description |  |
+| number | oldSlot | No description |  |
+| number | newSlot | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean | move |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | Local move was successful |
 

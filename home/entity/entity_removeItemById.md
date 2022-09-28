@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) Entity:removeItemById
+## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,19 +8,18 @@ boolean Entity:removeItemById(id, amount)
 
 Removes the given amount by item id
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | id |  |  |
-| number | amount |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | id | No description |  |
+| number | amount | No description |  |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| boolean |  |
+| Type   | Description |
+| ------ | ----------: |
+| boolean | No description |
 

@@ -1,4 +1,5 @@
-## ![server](.gitbook/assets/server.png) ENT:onUseCancel
+## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
+
 
 
 ```lua
@@ -7,12 +8,11 @@ void ENT:onUseCancel(ent)
 
 Triggered when a entity cancels USE (only on MENU mode)
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| Entity | ent |  |  |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Entity](home/Entity) | ent | No description |  |
 
 

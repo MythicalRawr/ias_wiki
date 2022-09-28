@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) ITEM:onPreUse
+## ![shared](.gitbook/assets/shared.png) [ITEM](home/ITEM)
+
 
 
 ```lua
@@ -6,7 +7,6 @@ void ITEM:onPreUse()
 ```
 
 Called when item use is preparing (only right click)
-
 
 
 

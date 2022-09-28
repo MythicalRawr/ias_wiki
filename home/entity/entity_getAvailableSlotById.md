@@ -1,4 +1,5 @@
-## ![shared](.gitbook/assets/shared.png) Entity:getAvailableSlotById
+## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
+
 
 
 ```lua
@@ -7,19 +8,18 @@ number Entity:getAvailableSlotById(id, amount)
 
 Returns the available slot index by id
 
-
 ------
 ## Parameters
 
-| Type   | Name | Description              | Optional |
-| ------ | ---- | ------------------------ | -------: |
-| string | id |  |  |
-| number | amount |  | ✔ |
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | id | No description |  |
+| number | amount | No description | ✔ |
 
 ------
 ## Returns
 
-| Type | Description |
-| ---- | ----------: |
-| number |  |
+| Type   | Description |
+| ------ | ----------: |
+| number | No description |
 
