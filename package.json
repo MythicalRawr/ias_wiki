@@ -1,7 +1,6 @@
 {
     "name": "ias_wiki",
     "packageManager": "yarn@3.2.3",
-    "version": "0.0.2",
     "author": "Failcake (edunad)",
     "repository": {
         "url": "https://github.com/MythicalRawr/ias_wiki"

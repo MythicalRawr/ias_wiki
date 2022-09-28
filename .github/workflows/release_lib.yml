@@ -1,7 +1,8 @@
 name: RELEASE LIB
 on:
-    push:
-        branches: master
+    create:
+        tags:
+            - v*
     workflow_dispatch:
 permissions:
     contents: write
@@ -10,32 +11,14 @@ jobs:
     deploy:
         runs-on: ubuntu-latest
         steps:
-            - uses: actions/checkout@v3
-              with:
-                  ref: ${{ github.head_ref }}
-                  fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
-
-            - uses: actions/setup-node@v3
-              with:
-                  node-version: '18.x'
-                  registry-url: 'https://registry.npmjs.org'
-
-            - name: Setup git
-              run: |
-                  git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
-
-            - run: npm version patch --no-git-tag-version
-
-            - uses: Klemensas/action-autotag@stable
-              with:
-                  GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
-                  tag_prefix: 'v'
+            - uses: actions/checkout@v2
 
             - name: Zip
               uses: TheDoctor0/zip-release@0.6.1
               with:
+                  # Filename for archive
                   filename: ias-lua-lib.zip
+                  # Base path for archive files
                   path: ./ias-lib
 
             - name: Artifact
@@ -46,10 +29,6 @@ jobs:
 
             - name: Release
               uses: softprops/action-gh-release@v1
+              if: startsWith(github.ref, 'refs/tags/')
               with:
                   files: ias-lua-lib.zip
-
-            - name: Commit files
-              run: |
-                  git commit --allow-empty -m "Version Bump" -a
-                  git push origin master
