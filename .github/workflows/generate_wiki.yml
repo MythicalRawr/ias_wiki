@@ -45,7 +45,7 @@ jobs:
             - name: Commit files
               run: |
                   git stash --all
-                  git checkout origin wiki
+                  git checkout wiki
                   git stash pop
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a

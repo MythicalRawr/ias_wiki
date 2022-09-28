@@ -25,8 +25,12 @@ jobs:
                   git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
 
-            - run: YARN_VERSION_GIT_TAG=''
-            - run: npm version patch
+            - run: npm version patch --no-git-tag-version
+
+            - uses: Klemensas/action-autotag@stable
+              with:
+                  GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
+                  tag_prefix: 'v'
 
             - name: Zip
               uses: TheDoctor0/zip-release@0.6.1
