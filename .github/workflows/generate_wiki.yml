@@ -21,7 +21,6 @@ jobs:
               run: |
                   git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
-                  git fetch
 
             - name: Get yarn cache directory path
               id: yarn-cache-dir-path
@@ -44,6 +43,7 @@ jobs:
               run: |
                   git stash --all
                   git checkout wiki
+                  rm -rf ./home && rm -rf ./SUMMARY.md
                   git stash pop
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
