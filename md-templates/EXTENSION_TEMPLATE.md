@@ -1,6 +1,7 @@
-## ![$SCOPE$](.gitbook/assets/$SCOPE$.png) $CLEAN_METHOD_NAME$
+## ![$SCOPE$](.gitbook/assets/$SCOPE$.png) $METHOD_NAME$
 
 $HINTS$
+
 ```lua
 $METHOD_NAME$
 ```

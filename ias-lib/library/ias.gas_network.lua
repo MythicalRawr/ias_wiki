@@ -8,28 +8,28 @@
 GasNetwork = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the GasNetwork id, unique per building
 ---
 function GasNetwork:ID() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the GasNetwork is valid
 ---
 function GasNetwork:isValid() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the pressure in PSI
 ---
 function GasNetwork:getPressure() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param gasType GAS
 ---@return number
 ---* Returns amount of gas in a GasNetwork of the type
@@ -37,14 +37,14 @@ function GasNetwork:getPressure() end
 function GasNetwork:get(gasType) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return table
 ---* Returns all gasses that are in the GasNetwork
 ---
 function GasNetwork:getAll() end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param gasType GAS
 ---@param amount number
 ---* adds the amount of gas to a GasNetwork

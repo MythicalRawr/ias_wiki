@@ -15,7 +15,7 @@ Vector3 = {
 }
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param x number
 ---@param y number
 ---@param z number

@@ -8,7 +8,7 @@
 lights = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param pos Vector
 ---@param color Color
 ---@param fallStart? number
@@ -21,7 +21,7 @@ lights = {}
 function lights:create(pos, color, fallStart, fallEnd, lumi) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param id number
 ---* Removes the a light by id
 ---
@@ -37,63 +37,63 @@ function lights:remove(id) end
 light = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return boolean
 ---* Returns true if the light is valid
 ---
 function light:isValid() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param on boolean
 ---* Turns the light on / off
 ---
 function light:setStatus(on) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return number
 ---* Returns the light id
 ---
 function light:ID() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param val number
 ---* Sets the light luminance
 ---
 function light:setLuminance(val) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param val number
 ---* Sets the light falloff start
 ---
 function light:setFalloffStart(val) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param val number
 ---* Sets the light falloff end
 ---
 function light:setFalloffEnd(val) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param pos Vector
 ---* Sets the light position
 ---
 function light:setPos(pos) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param color Color
 ---* Sets the light color
 ---
 function light:setColor(color) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return Color
 ---* Gets the light color
 ---

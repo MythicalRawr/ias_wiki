@@ -8,7 +8,7 @@
 net = {}
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@see net:broadcast
 ---@param netId string
 ---@param msg Packet
@@ -19,7 +19,7 @@ net = {}
 function net:send(netId, msg, ply, reliable) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param netId string
 ---@param msg Packet
 ---@param reliable? boolean [[optional = true]]
@@ -28,7 +28,7 @@ function net:send(netId, msg, ply, reliable) end
 function net:broadcast(netId, msg, reliable) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param netId string
 ---@param msg Packet
 ---@param reliable? boolean [[optional = true]]
@@ -37,7 +37,7 @@ function net:broadcast(netId, msg, reliable) end
 function net:sendToServer(netId, msg, reliable) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param netId string
 ---@param hookName string
 ---@param callback fun(data: any)
@@ -46,7 +46,7 @@ function net:sendToServer(netId, msg, reliable) end
 function net:listen(netId, hookName, callback) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param netId string
 ---@param hookName string
 ---* Remove a listener for a specific netId

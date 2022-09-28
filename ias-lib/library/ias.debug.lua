@@ -8,7 +8,7 @@
 worldDebug = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param pos Vector3
 ---@param ttl number
 ---@param text string
@@ -18,7 +18,7 @@ worldDebug = {}
 function worldDebug:text(pos, ttl, text, color) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param startPos Vector3
 ---@param endPos Vector3
 ---@param ttl number
@@ -28,7 +28,7 @@ function worldDebug:text(pos, ttl, text, color) end
 function worldDebug:line(startPos, endPos, ttl, color) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param pos Vector3
 ---@param ttl number
 ---@param size? Vector

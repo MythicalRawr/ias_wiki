@@ -8,57 +8,57 @@
 Sound = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Set the sound volume
 ---
 Sound.volume = 1
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Set the sound pitch
 ---
 Sound.pitch = 1
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Set the sound loop
 ---
 Sound.loop = false
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Set the sound position
 ---
 Sound.position = nil
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Stops playing the sound
 ---
 function Sound:stop() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---* Plays the sound
 ---
 function Sound:play() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param maxDistance number
 ---* Sets the sound as 3D with the given min and max distance
 ---
 function Sound:set3D(maxDistance) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return boolean
 ---* Returns true if the sound is currently playing
 ---
 function Sound:isPlaying() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return boolean
 ---* Returns true if the sound is valid
 ---

@@ -1,44 +1,41 @@
 name: GENERATE WIKI
-
 on:
     push:
         branches: master
     workflow_dispatch:
 permissions:
     contents: write
+
 jobs:
-    build-client:
+    build:
         runs-on: ubuntu-latest
-        strategy:
-            matrix:
-                node-version: [17.x]
         steps:
             - uses: actions/checkout@v3
               with:
                   ref: ${{ github.head_ref }}
                   fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
-            - name: Use Node.js ${{ matrix.node-version }}
-              uses: actions/setup-node@v1
+            - uses: actions/setup-node@v3
               with:
-                  node-version: ${{ matrix.node-version }}
-
-            - run: npm i yarn -g
+                  node-version: '18.x'
+                  registry-url: 'https://registry.npmjs.org'
 
             - name: Get yarn cache directory path
               id: yarn-cache-dir-path
               run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
 
-            - uses: actions/cache@v2
-              id: yarn-cache # use this to check for `cache-hit` (`steps.yarn-cache.outputs.cache-hit != 'true'`)
+            - uses: actions/cache@v3
+              id: yarn-cache
               with:
                   path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
                   key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
                   restore-keys: |
-                      ${{ runner.os }}-yarn
+                      ${{ runner.os }}-yarn-
 
-            - run: yarn install --immutable
+            - run: yarn install
             - run: yarn start
+              env:
+                  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
             - name: Commit files
               run: |
@@ -48,5 +45,5 @@ jobs:
                   git checkout wiki
                   git stash pop
                   git add --all
-                  git commit -m "Re-generate wiki"
+                  git commit --allow-empty -m "Re-generate wiki"
                   git push origin wiki

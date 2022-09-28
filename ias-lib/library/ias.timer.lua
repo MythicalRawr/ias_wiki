@@ -8,7 +8,7 @@
 timer = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@param interval number
 ---@param ticks number
@@ -20,7 +20,7 @@ timer = {}
 function timer:create(id, interval, ticks, callback) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@return boolean
 ---* Returns true if a timer with the given id exists
@@ -28,7 +28,7 @@ function timer:create(id, interval, ticks, callback) end
 function timer:exists(id) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@return boolean
 ---* Destroys a timer with the given id
@@ -36,7 +36,7 @@ function timer:exists(id) end
 function timer:destroy(id) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@return timerObj
 ---* Returns a timerObj with the given id, make sure you validate with timer:exists first.
@@ -53,20 +53,20 @@ function timer:get(id) end
 timerObj = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---* Destroys the timer
 ---
 function timerObj:destroy() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return string
 ---* Returns the timer id
 ---
 function timerObj:getId() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns how many remaining ticks the timer has
 ---

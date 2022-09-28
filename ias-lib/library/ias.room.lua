@@ -8,28 +8,28 @@
 Room = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the room id, unique per building
 ---
 function Room:ID() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the room is valid
 ---
 function Room:isValid() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the pressure in PSI
 ---
 function Room:getPressure() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param gasType GAS
 ---@return number
 ---* Returns amount of gas in a room of the type
@@ -37,14 +37,14 @@ function Room:getPressure() end
 function Room:getGas(gasType) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return table
 ---* Returns all gasses that are in the room
 ---
 function Room:getGasses() end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param gasType GAS
 ---@param amount number
 ---* adds the amount of gas to a room

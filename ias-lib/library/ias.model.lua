@@ -8,14 +8,14 @@
 Model = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the model is valid
 ---
 function Model:isValid() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param name string
 ---@return ModelMesh
 ---* Returns the model mesh if found
@@ -23,14 +23,14 @@ function Model:isValid() end
 function Model:getMesh(name) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param mesh ModelMesh
 ---* Adds the mesh to the model
 ---
 function Model:addMesh(mesh) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return ModelMesh[]
 ---* Returns all the model meshes
 ---

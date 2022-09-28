@@ -8,7 +8,7 @@
 world = {}
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param class string
 ---@param parent? ENT
 ---@return ENT
@@ -17,7 +17,7 @@ world = {}
 function world:create(class, parent) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id number
 ---@return ENT
 ---* Finds an entity in the world by id
@@ -25,7 +25,7 @@ function world:create(class, parent) end
 function world:find(id) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param class string
 ---@return ENT[]
 ---* Finds entities in the world by class type (EX: entity_ship)
@@ -33,7 +33,7 @@ function world:find(id) end
 function world:findByClass(class) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param pos Vector
 ---@param distance number
 ---@return ENT[]
@@ -42,7 +42,7 @@ function world:findByClass(class) end
 function world:findInSphere(pos, distance) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param class string
 ---@param pos Vector
 ---@param distance number
@@ -52,7 +52,7 @@ function world:findInSphere(pos, distance) end
 function world:findInSphereByClass(class, pos, distance) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
@@ -63,7 +63,7 @@ function world:findInSphereByClass(class, pos, distance) end
 function world:add3DText(pos, speaker, msg, color, groupid) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param speaker string
 ---@param msg string
 ---@param color? Color
@@ -72,14 +72,14 @@ function world:add3DText(pos, speaker, msg, color, groupid) end
 function world:add3DText(speaker, msg, color) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param groupid number
 ---* Clears all the messaged with that group ID (3d only)
 ---
 function world:clearGroupID(groupid) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
@@ -92,7 +92,7 @@ function world:clearGroupID(groupid) end
 function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
@@ -104,7 +104,7 @@ function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 function world:broadcastChat(pos, speaker, msg, distance, color) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param building Entity
 ---@return PathFinder
 ---* Creates a PathFinder object for the given building
@@ -112,7 +112,7 @@ function world:broadcastChat(pos, speaker, msg, distance, color) end
 function world:createPathFinder(building) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@return table
 ---* Gets the given item id settings
@@ -120,7 +120,7 @@ function world:createPathFinder(building) end
 function world:getItemSettings(id) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param id string
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found

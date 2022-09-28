@@ -9,7 +9,7 @@
 json = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param data table
 ---@return string
 ---* Encodes a table to a json string
@@ -17,7 +17,7 @@ json = {}
 function json:encode(data) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param data string
 ---@return table
 ---* Decodes a json string to a lua table

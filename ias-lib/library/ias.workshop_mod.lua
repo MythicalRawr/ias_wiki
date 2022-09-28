@@ -8,7 +8,7 @@
 WorkshopMOD = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return table
 ---* Returns the mod's enviroment
 ---* ⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
@@ -16,7 +16,7 @@ WorkshopMOD = {}
 function WorkshopMOD:getENV() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return table
 ---* Returns the mod's settings
 ---

@@ -8,14 +8,14 @@
 camera = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the camera object is valid
 ---
 function camera:isValid() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param pos Vector3
 ---@return Vector3
 ---* Converts the screen position to world coordinates
@@ -23,7 +23,7 @@ function camera:isValid() end
 function camera:toWorld(pos) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param pos Vector3
 ---@return Vector
 ---* Converts the world position to screen coordinates

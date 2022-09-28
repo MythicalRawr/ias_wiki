@@ -8,7 +8,7 @@
 hooks = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param hookId string
 ---@param hookName string
 ---@param callback fun(data: any)
@@ -18,7 +18,7 @@ hooks = {}
 function hooks:add(hookId, hookName, callback) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param hookId string
 ---@param hookName string
 ---* Remove a hook (aka listener) for a specific hookId
@@ -26,7 +26,7 @@ function hooks:add(hookId, hookName, callback) end
 function hooks:remove(hookId, hookName) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param hookId string
 ---@param data any
 ---* Emits data to the given hookId

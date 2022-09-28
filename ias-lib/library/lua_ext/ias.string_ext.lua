@@ -1,7 +1,7 @@
 ---@meta
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@param sep string
 ---@param max number
@@ -11,7 +11,7 @@
 string.split = function(str, sep, max) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@return boolean
 ---* Returns true if the string is empty
@@ -19,7 +19,7 @@ string.split = function(str, sep, max) end
 string.isEmpty = function(str) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param bytes number
 ---@return string
 ---* Converts bytes to a readable string (aka 1GB.. 1TB.. etc)
@@ -27,7 +27,7 @@ string.isEmpty = function(str) end
 string.bytesToReadable = function(bytes) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@return string
 ---* Removes string white spaces
@@ -35,7 +35,7 @@ string.bytesToReadable = function(bytes) end
 string.trim = function(str) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@param ... any
 ---@return string
@@ -46,7 +46,7 @@ string.format = function(str, ...) end
 
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@param ... any
 ---@return string

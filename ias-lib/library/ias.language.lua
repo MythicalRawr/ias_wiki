@@ -8,21 +8,21 @@
 language = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return string
 ---* Returns the current game language
 ---
 function language:getLanguage() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param lang string
 ---* Sets the game language (en, pt, etc)
 ---
 function language:setLanguage(lang) end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@param modID string
 ---@param key string
 ---@param ...? any

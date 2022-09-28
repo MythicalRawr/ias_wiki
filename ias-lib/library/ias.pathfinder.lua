@@ -8,7 +8,7 @@
 PathFinder = {}
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param from Vector
 ---@param to Vector
 ---@return table

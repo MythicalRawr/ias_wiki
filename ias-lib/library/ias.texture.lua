@@ -8,7 +8,7 @@
 Texture = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return boolean
 ---* Returns true if the texture is valid
 ---

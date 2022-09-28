@@ -8,7 +8,7 @@
 settings = {}
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return table
 ---* Gets the user game settings
 ---

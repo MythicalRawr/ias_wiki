@@ -19,48 +19,46 @@ AABB = {
 }
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param x number
 ---@param y number
 ---@param width number
 ---@param height number
----@warning PAGE / FUNCTIONALITY STILL IN CONSTRUCTION
----@danger CAREFUL
 ---@return AABB
 ---* AABB constructor
 ---
 function AABB:new(x, y, width, height) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the top
 ---
 function AABB:top() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the bottom
 ---
 function AABB:bottom() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the left
 ---
 function AABB:left() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the right
 ---
 function AABB:right() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the surfaceArea
 ---

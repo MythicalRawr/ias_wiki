@@ -8,7 +8,7 @@
 http = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param url string
 ---@param headers table EX: { METHOD = "GET" }
 ---@param callback fun(hasErrored: boolean, data: string)

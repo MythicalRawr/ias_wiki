@@ -8,49 +8,49 @@
 Player = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return string
 ---* Returns the player name (aka name on steam)
 ---
 function Player:getName() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the player steam id
 ---
 function Player:getSteamID() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player is an admin
 ---
 function Player:isAdmin() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player is a developer
 ---
 function Player:isDeveloper() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the current player oxygen
 ---
 function Player:getOxygen() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player is grabbing an object
 ---
 function Player:isGrabbing() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Cancels use (used when the player closes menus on the client, on the server this is done automatically)
 ---* Returns true if successful
@@ -58,7 +58,7 @@ function Player:isGrabbing() end
 function Player:cancelUse() end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param flags FREEZE
 ---@param set boolean
 ---* Sets / Unsets the freeze flags
@@ -66,28 +66,28 @@ function Player:cancelUse() end
 function Player:setFreeze(flags, set) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player movement is disabled
 ---
 function Player:isMovementDisabled() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player rotation is disabled
 ---
 function Player:isRotationDisabled() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the player rotation and movement are disabled
 ---
 function Player:isFrozen() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@see ENT:moveItem
 ---@param oldStorage ENT
 ---@param newStorage ENT

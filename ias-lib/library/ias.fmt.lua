@@ -8,7 +8,7 @@
 fmt = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param str string
 ---@param ... any
 ---@return string

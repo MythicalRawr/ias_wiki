@@ -1,7 +1,7 @@
 ---@meta
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param val number
 ---@param min number
 ---@param max number
@@ -11,7 +11,7 @@
 math.clamp = function(val, min, max) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param val number
 ---@return boolean
 ---* Returns true if the number is NaN (not a number)
@@ -19,7 +19,7 @@ math.clamp = function(val, min, max) end
 math.isNan = function(val) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param val number
 ---@return boolean
 ---* Returns true if the number is finite
@@ -27,7 +27,7 @@ math.isNan = function(val) end
 math.isFinite = function(val) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param val number
 ---@return number
 ---* Returns the rounded number

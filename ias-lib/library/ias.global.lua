@@ -19,7 +19,7 @@ _G.SERVER = false
 _G.CLIENT = false
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return Player
 ---* Returns the local player if exists
 ---
@@ -28,21 +28,21 @@ _G.CLIENT = false
 LocalPlayer = function() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the epoch unix time in milliseconds (from 1/1/1970)... until 2038, then we are all doomed.
 ---
 curtime = function() end
 
 ---
----@ENV CLIENT
+---@env CLIENT
 ---@return Vector
 ---* Returns the local player last mouse position
 ---
 getMousePos = function() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param tbl table
 ---@param indentation number
 ---@param done function
@@ -51,7 +51,7 @@ getMousePos = function() end
 printTable = function(tbl, indentation, done) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param el any
 ---@return boolean
 ---* Returns true if its a number
@@ -59,7 +59,7 @@ printTable = function(tbl, indentation, done) end
 isNumber = function(el) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param el any
 ---@return boolean
 ---* Returns true if its a table
@@ -67,7 +67,7 @@ isNumber = function(el) end
 isTable = function(el) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param el any
 ---@return boolean
 ---* Returns true if its a string

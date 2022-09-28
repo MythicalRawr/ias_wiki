@@ -8,35 +8,35 @@
 Tile = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the tile is valid
 ---
 function Tile:isValid() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return WireIO
 ---* Returns the wire io on the tile, if any
 ---
 function Tile:getIO() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return WirePower
 ---* Returns the wire power on the tile, if any
 ---
 function Tile:getPower() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return Pipe
 ---* Returns the pipe on the tile, if any
 ---
 function Tile:getPipe() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param type WIRE
 ---@return boolean
 ---* Returns true if the tile has the requested wire type
@@ -44,28 +44,28 @@ function Tile:getPipe() end
 function Tile:hasWire(type) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return boolean
 ---* Returns true if the tile has a pipe
 ---
 function Tile:hasPipe() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return Room
 ---* Returns the current room the tile is in
 ---
 function Tile:getRoom() end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param type WIRE
 ---* Removes the given wire type from the tile
 ---
 function Tile:removeWire(type) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param type WIRE
 ---@param networkId? number
 ---* Adds the given wire type to the tile
@@ -73,14 +73,14 @@ function Tile:removeWire(type) end
 function Tile:addWire(type, networkId) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param networkId number
 ---* Removes the given pipe networkId from the tile
 ---
 function Tile:removePipe(networkId) end
 
 ---
----@ENV SERVER
+---@env SERVER
 ---@param networkId number
 ---* Adds the given pipe networkId to the tile
 ---

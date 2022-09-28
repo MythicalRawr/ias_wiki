@@ -17,7 +17,7 @@ Color = {
 }
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param r number
 ---@param g number
 ---@param b number
@@ -28,28 +28,28 @@ Color = {
 function Color:new(r, g, b, a) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the length of the color
 ---
 function Color:length() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the distance of the color
 ---
 function Color:distance() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the normalized color
 ---
 function Color:normalized() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@return number
 ---* Returns the dot color
 ---

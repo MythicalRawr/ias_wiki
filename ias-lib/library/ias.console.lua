@@ -8,7 +8,7 @@
 console = {}
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param args string[]
 ---@return boolean, string
 ---|"If command was executed successfully"
@@ -23,13 +23,13 @@ console = {}
 function console:execute(args) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---* Clears the console
 ---
 function console:clear() end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param text string
 ---@param type? CONSOLE.LOG
 ---* Prints the text on the console
@@ -37,9 +37,9 @@ function console:clear() end
 function console:print(text, type) end
 
 ---
----@ENV SHARED
+---@env SHARED
 ---@param command string
----@param callback fun(args: string[]): success: boolean, msg: string "⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️"
+---@param callback fun(args: string[]): success: boolean, msg: string ⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️
 ---@param description? string
 ---@param flags? CONSOLE.FLAGS
 ---* Registers a new console command (the command id needs to be unique)
