@@ -42,8 +42,10 @@ jobs:
             - name: Commit files
               run: |
                   git stash --all
+
                   git checkout wiki
                   rm -rf ./home && rm -rf ./SUMMARY.md
+
                   git stash pop
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
