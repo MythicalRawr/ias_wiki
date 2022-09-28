@@ -20,6 +20,11 @@ jobs:
                   node-version: '18.x'
                   registry-url: 'https://registry.npmjs.org'
 
+            - name: Setup git
+              run: |
+                  git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
+                  git config --local user.name "github-actions[bot]"
+
             - name: Get yarn cache directory path
               id: yarn-cache-dir-path
               run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
@@ -39,11 +44,9 @@ jobs:
 
             - name: Commit files
               run: |
-                  git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
                   git stash --all
                   git checkout wiki
-                  git stash pop
+                  git stash show -p | git apply && git stash drop
                   git add --all
-                  git commit --allow-empty -m "Re-generate wiki"
+                  git commit --allow-empty -m "Re-generate wiki" -a
                   git push origin wiki
