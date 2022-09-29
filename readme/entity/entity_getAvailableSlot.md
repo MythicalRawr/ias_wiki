@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](./readme/Entity/README.md):getAvailableSlot
+## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getAvailableSlot
 
 ```lua
 number Entity:getAvailableSlot()

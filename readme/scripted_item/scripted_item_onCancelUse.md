@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ITEM](./readme/ITEM/README.md):onCancelUse
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](https://iaswiki.rawr.dev/readme/item):onCancelUse
 
 ```lua
 void ITEM:onCancelUse()

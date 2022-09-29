@@ -1,4 +1,5 @@
-## ![unknown](.gitbook/assets/unknown.png) ![Base](.gitbook/assets/base.png) _G.CONSOLE
+## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) _G.CONSOLE
+
 
 ------
 ## Fields
@@ -7,4 +8,5 @@
 | ------ | ---: |
 | table | FLAGS |
 | table | LOG |
+
 

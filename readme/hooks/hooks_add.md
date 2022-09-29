@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [hooks](./readme/hooks/README.md):add
+## ![shared](../../.gitbook/assets/shared.png) [hooks](https://iaswiki.rawr.dev/readme/hooks):add
 
 ```lua
 void hooks:add(hookId, hookName, callback)

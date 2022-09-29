@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) string.luaFormat
+## ![shared](../../.gitbook/assets/shared.png) string.luaFormat
 
 ```lua
 string string.luaFormat(str, ...)
@@ -12,7 +12,7 @@ Old lua string.format
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | str | No description |  |
-| [any](./readme/any/README.md) | ... | No description |  |
+| any | ... | No description |  |
 
 
 ------

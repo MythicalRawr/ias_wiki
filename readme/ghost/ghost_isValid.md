@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Ghost](./readme/Ghost/README.md):isValid
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](https://iaswiki.rawr.dev/readme/ghost):isValid
 
 ```lua
 boolean Ghost:isValid()

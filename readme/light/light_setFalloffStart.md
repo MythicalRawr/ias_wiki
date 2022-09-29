@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [light](./readme/light/README.md):setFalloffStart
+## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):setFalloffStart
 
 ```lua
 void light:setFalloffStart(val)

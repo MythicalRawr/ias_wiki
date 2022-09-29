@@ -1,4 +1,5 @@
-## ![unknown](.gitbook/assets/unknown.png) ![Base](.gitbook/assets/base.png) Color
+## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) Color
+
 
 ------
 ## Fields
@@ -9,4 +10,5 @@
 | number | g |
 | number | b |
 | number | a |
+
 

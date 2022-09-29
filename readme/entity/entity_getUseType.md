@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](./readme/Entity/README.md):getUseType
+## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getUseType
 
 ```lua
 USE Entity:getUseType()
@@ -11,5 +11,5 @@ Returns the ent use type
 
 | Type   | Description |
 | ------ | ----------: |
-| [USE](./readme/USE/README.md) | No description |
+| [USE](https://iaswiki.rawr.dev/readme/use) | No description |
 

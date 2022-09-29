@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](./readme/Packet/README.md):writeEntity
+## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):writeEntity
 
 ```lua
 void Packet:writeEntity(data)
@@ -11,5 +11,5 @@ Writes a entity in the net packet.
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/Entity/README.md) | data | No description |  |
+| [Entity](https://iaswiki.rawr.dev/readme/entity) | data | No description |  |
 

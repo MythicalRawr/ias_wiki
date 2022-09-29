@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) math.clamp
+## ![shared](../../.gitbook/assets/shared.png) math.clamp
 
 ```lua
 number math.clamp(val, min, max)

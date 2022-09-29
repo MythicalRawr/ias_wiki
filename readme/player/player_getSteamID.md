@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Player](./readme/Player/README.md):getSteamID
+## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):getSteamID
 
 ```lua
 number Player:getSteamID()

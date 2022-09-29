@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [GasNetwork](./readme/GasNetwork/README.md):get
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork):get
 
 ```lua
 number GasNetwork:get(gasType)
@@ -11,7 +11,7 @@ Returns amount of gas in a GasNetwork of the type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](./readme/GAS/README.md) | gasType | No description |  |
+| [GAS](https://iaswiki.rawr.dev/readme/gas) | gasType | No description |  |
 
 
 ------

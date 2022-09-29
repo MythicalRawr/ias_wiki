@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) string.bytesToReadable
+## ![shared](../../.gitbook/assets/shared.png) string.bytesToReadable
 
 ```lua
 string string.bytesToReadable(bytes)

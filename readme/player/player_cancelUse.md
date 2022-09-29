@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Player](./readme/Player/README.md):cancelUse
+## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):cancelUse
 
 ```lua
 boolean Player:cancelUse()

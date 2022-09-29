@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) string.isEmpty
+## ![shared](../../.gitbook/assets/shared.png) string.isEmpty
 
 ```lua
 boolean string.isEmpty(str)

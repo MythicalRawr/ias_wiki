@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ITEM](./readme/ITEM/README.md):ID
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](https://iaswiki.rawr.dev/readme/item):ID
 
 ```lua
 string ITEM:ID()

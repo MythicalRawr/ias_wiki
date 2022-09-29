@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](./readme/Entity/README.md):getItemCount
+## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getItemCount
 
 ```lua
 number Entity:getItemCount(slot)

@@ -1,4 +1,4 @@
-## ![server](.gitbook/assets/server.png) [Player](./readme/Player/README.md):setFreeze
+## ![server](../../.gitbook/assets/server.png) [Player](https://iaswiki.rawr.dev/readme/player):setFreeze
 
 ```lua
 void Player:setFreeze(flags, set)
@@ -11,6 +11,6 @@ Sets / Unsets the freeze flags
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [FREEZE](./readme/FREEZE/README.md) | flags | No description |  |
+| [FREEZE](https://iaswiki.rawr.dev/readme/freeze) | flags | No description |  |
 | boolean | set | No description |  |
 

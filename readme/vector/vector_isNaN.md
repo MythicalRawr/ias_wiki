@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Vector](./readme/Vector/README.md):isNaN
+## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):isNaN
 
 ```lua
 boolean Vector:isNaN()

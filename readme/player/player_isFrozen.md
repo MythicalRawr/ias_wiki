@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Player](./readme/Player/README.md):isFrozen
+## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):isFrozen
 
 ```lua
 boolean Player:isFrozen()

@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Color](./readme/Color/README.md):normalized
+## ![shared](../../.gitbook/assets/shared.png) [Color](https://iaswiki.rawr.dev/readme/color):normalized
 
 ```lua
 number Color:normalized()

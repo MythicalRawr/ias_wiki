@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [net](./readme/net/README.md):sendToServer
+## ![client](../../.gitbook/assets/client.png) [net](https://iaswiki.rawr.dev/readme/net):sendToServer
 
 ```lua
 void net:sendToServer(netId, msg, reliable)
@@ -12,6 +12,6 @@ Sends a Packet to the server
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
-| [Packet](./readme/Packet/README.md) | msg | No description |  |
+| [Packet](https://iaswiki.rawr.dev/readme/packet) | msg | No description |  |
 | boolean | reliable | optional = true | ✔ |
 

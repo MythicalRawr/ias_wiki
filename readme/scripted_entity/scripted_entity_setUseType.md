@@ -1,4 +1,4 @@
-## ![server](.gitbook/assets/server.png) [ENT](./readme/ENT/README.md):setUseType
+## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setUseType
 
 ```lua
 void ENT:setUseType(set)
@@ -11,5 +11,5 @@ Sets the use type of the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [USE](./readme/USE/README.md) | set | No description |  |
+| [USE](https://iaswiki.rawr.dev/readme/use) | set | No description |  |
 

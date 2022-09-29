@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [ENT](./readme/ENT/README.md):draw
+## ![client](../../.gitbook/assets/client.png) [ENT](https://iaswiki.rawr.dev/readme/ent):draw
 
 ```lua
 void ENT:draw()

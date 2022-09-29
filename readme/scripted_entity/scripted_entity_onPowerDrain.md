@@ -1,4 +1,4 @@
-## ![server](.gitbook/assets/server.png) [ENT](./readme/ENT/README.md):onPowerDrain
+## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onPowerDrain
 
 ```lua
 void ENT:onPowerDrain(id, amount)

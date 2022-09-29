@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [json](./readme/json/README.md):encode
+## ![shared](../../.gitbook/assets/shared.png) [json](https://iaswiki.rawr.dev/readme/json):encode
 
 ```lua
 string json:encode(data)

@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ModelMesh](./readme/ModelMesh/README.md):setPosition
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):setPosition
 
 ```lua
 void ModelMesh:setPosition(pos)
@@ -11,5 +11,5 @@ Sets the mesh position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/Vector/README.md) | pos | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
 

@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [light](./readme/light/README.md):setLuminance
+## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):setLuminance
 
 ```lua
 void light:setLuminance(val)

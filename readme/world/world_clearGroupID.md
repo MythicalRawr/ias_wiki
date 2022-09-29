@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [world](./readme/world/README.md):clearGroupID
+## ![client](../../.gitbook/assets/client.png) [world](https://iaswiki.rawr.dev/readme/world):clearGroupID
 
 ```lua
 void world:clearGroupID(groupid)

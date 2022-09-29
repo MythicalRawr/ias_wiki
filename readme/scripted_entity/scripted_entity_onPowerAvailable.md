@@ -1,4 +1,4 @@
-## ![server](.gitbook/assets/server.png) [ENT](./readme/ENT/README.md):onPowerAvailable
+## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onPowerAvailable
 
 ```lua
 number ENT:onPowerAvailable(id)

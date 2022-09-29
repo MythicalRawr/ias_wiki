@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ModelMesh](./readme/ModelMesh/README.md):setColor
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):setColor
 
 ```lua
 void ModelMesh:setColor(color)
@@ -11,5 +11,5 @@ Sets the mesh color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](./readme/Color/README.md) | color | No description |  |
+| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description |  |
 

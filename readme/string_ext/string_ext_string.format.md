@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) string.format
+## ![shared](../../.gitbook/assets/shared.png) string.format
 
 ```lua
 string string.format(str, ...)
@@ -12,7 +12,7 @@ Formats the given string with the given params,Ex: string.format("hello {}, age 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | str | No description |  |
-| [any](./readme/any/README.md) | ... | No description |  |
+| any | ... | No description |  |
 
 
 ------

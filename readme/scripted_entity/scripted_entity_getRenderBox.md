@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ENT](./readme/ENT/README.md):getRenderBox
+## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):getRenderBox
 
 ```lua
 AABB ENT:getRenderBox()
@@ -11,5 +11,5 @@ Gets the render box of the entity.
 
 | Type   | Description |
 | ------ | ----------: |
-| [AABB](./readme/AABB/README.md) | No description |
+| [AABB](https://iaswiki.rawr.dev/readme/aabb) | No description |
 

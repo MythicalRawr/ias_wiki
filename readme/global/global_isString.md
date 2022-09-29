@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) isString
+## ![shared](../../.gitbook/assets/shared.png) isString
 
 ```lua
 boolean isString(el)
@@ -11,7 +11,7 @@ Returns true if its a string
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [any](./readme/any/README.md) | el | No description |  |
+| any | el | No description |  |
 
 
 ------

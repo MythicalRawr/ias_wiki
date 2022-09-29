@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) printTable
+## ![shared](../../.gitbook/assets/shared.png) printTable
 
 ```lua
 void printTable(tbl, indentation, done)

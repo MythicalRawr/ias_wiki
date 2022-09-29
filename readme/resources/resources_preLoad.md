@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [resources](./readme/resources/README.md):preLoad
+## ![shared](../../.gitbook/assets/shared.png) [resources](https://iaswiki.rawr.dev/readme/resources):preLoad
 
 ```lua
 void resources:preLoad(path)

@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [fmt](./readme/fmt/README.md):format
+## ![shared](../../.gitbook/assets/shared.png) [fmt](https://iaswiki.rawr.dev/readme/fmt):format
 
 ```lua
 string fmt:format(str, ...)
@@ -12,7 +12,7 @@ Returns a formated string
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | str | No description |  |
-| [any](./readme/any/README.md) | ... | No description |  |
+| any | ... | No description |  |
 
 
 ------

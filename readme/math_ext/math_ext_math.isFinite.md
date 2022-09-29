@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) math.isFinite
+## ![shared](../../.gitbook/assets/shared.png) math.isFinite
 
 ```lua
 boolean math.isFinite(val)

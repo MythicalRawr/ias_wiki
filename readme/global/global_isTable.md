@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) isTable
+## ![shared](../../.gitbook/assets/shared.png) isTable
 
 ```lua
 boolean isTable(el)
@@ -11,7 +11,7 @@ Returns true if its a table
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [any](./readme/any/README.md) | el | No description |  |
+| any | el | No description |  |
 
 
 ------

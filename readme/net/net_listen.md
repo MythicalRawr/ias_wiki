@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [net](./readme/net/README.md):listen
+## ![shared](../../.gitbook/assets/shared.png) [net](https://iaswiki.rawr.dev/readme/net):listen
 
 ```lua
 void net:listen(netId, hookName, callback)

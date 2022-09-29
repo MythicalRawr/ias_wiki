@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) math.isNan
+## ![shared](../../.gitbook/assets/shared.png) math.isNan
 
 ```lua
 boolean math.isNan(val)

@@ -1,4 +1,4 @@
-## ![server](.gitbook/assets/server.png) [Entity](./readme/Entity/README.md):dropItem
+## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):dropItem
 
 ```lua
 boolean Entity:dropItem(slot, pos)
@@ -12,7 +12,7 @@ Drops the given item slot on the given pos
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | slot | No description |  |
-| [Vector](./readme/Vector/README.md) | pos | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
 
 
 ------

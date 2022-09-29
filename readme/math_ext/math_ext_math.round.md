@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) math.round
+## ![shared](../../.gitbook/assets/shared.png) math.round
 
 ```lua
 number math.round(val)

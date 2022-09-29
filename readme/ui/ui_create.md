@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [ui](./readme/ui/README.md):create
+## ![client](../../.gitbook/assets/client.png) [ui](https://iaswiki.rawr.dev/readme/ui):create
 
 ```lua
 UIBase ui:create(uiType, parent)
@@ -12,7 +12,7 @@ Creates a new ui base element.
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | uiType | frame, group, button, progress_bar, input, inventory_slot, label, image, keypad, item_list |  |
-| [UIBase](./readme/UIBase/README.md) | parent | No description | ✔ |
+| [UIBase](https://iaswiki.rawr.dev/readme/uibase) | parent | No description | ✔ |
 
 
 ------
@@ -20,5 +20,5 @@ Creates a new ui base element.
 
 | Type   | Description |
 | ------ | ----------: |
-| [UIBase](./readme/UIBase/README.md) | No description |
+| [UIBase](https://iaswiki.rawr.dev/readme/uibase) | No description |
 

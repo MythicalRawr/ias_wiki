@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [Ghost](./readme/Ghost/README.md):draw
+## ![client](../../.gitbook/assets/client.png) [Ghost](https://iaswiki.rawr.dev/readme/ghost):draw
 
 ```lua
 void Ghost:draw()

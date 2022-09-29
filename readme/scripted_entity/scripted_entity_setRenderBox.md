@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ENT](./readme/ENT/README.md):setRenderBox
+## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setRenderBox
 
 ```lua
 void ENT:setRenderBox(aabb)
@@ -11,5 +11,5 @@ Sets the render box of the entity.,⚠ `initPhysics` & `initCirclePhysics` **res
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [AABB](./readme/AABB/README.md) | aabb | No description |  |
+| [AABB](https://iaswiki.rawr.dev/readme/aabb) | aabb | No description |  |
 

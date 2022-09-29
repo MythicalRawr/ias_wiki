@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [hooks](./readme/hooks/README.md):call
+## ![shared](../../.gitbook/assets/shared.png) [hooks](https://iaswiki.rawr.dev/readme/hooks):call
 
 ```lua
 void hooks:call(hookId, data)
@@ -12,5 +12,5 @@ Emits data to the given hookId
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | hookId | No description |  |
-| [any](./readme/any/README.md) | data | No description |  |
+| any | data | No description |  |
 

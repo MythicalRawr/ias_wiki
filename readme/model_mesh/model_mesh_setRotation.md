@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ModelMesh](./readme/ModelMesh/README.md):setRotation
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):setRotation
 
 ```lua
 void ModelMesh:setRotation(rot)
@@ -11,5 +11,5 @@ Sets the mesh rotation in degrees
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](./readme/Vector3/README.md) | rot | No description |  |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | rot | No description |  |
 

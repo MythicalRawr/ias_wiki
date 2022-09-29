@@ -1,4 +1,5 @@
-## ![unknown](.gitbook/assets/unknown.png) ![Base](.gitbook/assets/base.png) Vector3
+## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) Vector3
+
 
 ------
 ## Fields
@@ -8,4 +9,5 @@
 | number | x |
 | number | y |
 | number | z |
+
 

@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [ENT](./readme/ENT/README.md):onGrabEnd
+## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onGrabEnd
 
 ```lua
 void ENT:onGrabEnd(entity)
@@ -11,5 +11,5 @@ Called when an entity stops grabbing this entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/Entity/README.md) | entity | No description |  |
+| [Entity](https://iaswiki.rawr.dev/readme/entity) | entity | No description |  |
 

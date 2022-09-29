@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [MOD](./readme/MOD/README.md):onStateEnter
+## ![client](../../.gitbook/assets/client.png) [MOD](https://iaswiki.rawr.dev/readme/mod):onStateEnter
 
 ```lua
 void MOD:onStateEnter(state)

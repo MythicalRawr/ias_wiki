@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [camera](./readme/camera/README.md):isValid
+## ![shared](../../.gitbook/assets/shared.png) [camera](https://iaswiki.rawr.dev/readme/camera):isValid
 
 ```lua
 boolean camera:isValid()

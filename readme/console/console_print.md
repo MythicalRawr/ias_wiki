@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [console](./readme/console/README.md):print
+## ![shared](../../.gitbook/assets/shared.png) [console](https://iaswiki.rawr.dev/readme/console):print
 
 ```lua
 void console:print(text, type)
@@ -12,5 +12,5 @@ Prints the text on the console
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | text | No description |  |
-| [CONSOLE.LOG](./readme/CONSOLE.LOG/README.md) | type | No description | ✔ |
+| [CONSOLE.LOG](https://iaswiki.rawr.dev/readme/console.log) | type | No description | ✔ |
 

@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Tile](./readme/Tile/README.md):getRoom
+## ![shared](../../.gitbook/assets/shared.png) [Tile](https://iaswiki.rawr.dev/readme/tile):getRoom
 
 ```lua
 Room Tile:getRoom()
@@ -11,5 +11,5 @@ Returns the current room the tile is in
 
 | Type   | Description |
 | ------ | ----------: |
-| [Room](./readme/Room/README.md) | No description |
+| [Room](https://iaswiki.rawr.dev/readme/room) | No description |
 

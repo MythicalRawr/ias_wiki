@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](./readme/Packet/README.md):readByte
+## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):readByte
 
 ```lua
 any Packet:readByte()
@@ -11,5 +11,5 @@ Reads a byte from the net packet
 
 | Type   | Description |
 | ------ | ----------: |
-| [any](./readme/any/README.md) | No description |
+| any | No description |
 

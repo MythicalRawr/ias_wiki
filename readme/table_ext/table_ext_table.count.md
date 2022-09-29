@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) table.count
+## ![shared](../../.gitbook/assets/shared.png) table.count
 
 ```lua
 number table.count(tbl)

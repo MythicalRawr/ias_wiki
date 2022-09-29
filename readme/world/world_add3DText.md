@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) [world](./readme/world/README.md):add3DText
+## ![client](../../.gitbook/assets/client.png) [world](https://iaswiki.rawr.dev/readme/world):add3DText
 
 ```lua
 void world:add3DText(speaker, msg, color)
@@ -13,5 +13,5 @@ Creates a client side chat text
 | ------ | ---- | ----------- | -------: |
 | string | speaker | No description |  |
 | string | msg | No description |  |
-| [Color](./readme/Color/README.md) | color | No description | ✔ |
+| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description | ✔ |
 

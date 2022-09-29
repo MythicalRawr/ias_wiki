@@ -1,4 +1,4 @@
-## ![client](.gitbook/assets/client.png) LocalPlayer
+## ![client](../../.gitbook/assets/client.png) LocalPlayer
 
 ```lua
 Player LocalPlayer()
@@ -11,5 +11,5 @@ Returns the local player if exists
 
 | Type   | Description |
 | ------ | ----------: |
-| [Player](./readme/Player/README.md) | No description |
+| [Player](https://iaswiki.rawr.dev/readme/player) | No description |
 

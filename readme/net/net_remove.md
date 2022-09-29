@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [net](./readme/net/README.md):remove
+## ![shared](../../.gitbook/assets/shared.png) [net](https://iaswiki.rawr.dev/readme/net):remove
 
 ```lua
 void net:remove(netId, hookName)

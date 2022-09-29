@@ -1,4 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [AABB](./readme/AABB/README.md):right
+## ![shared](../../.gitbook/assets/shared.png) [AABB](https://iaswiki.rawr.dev/readme/aabb):right
 
 ```lua
 number AABB:right()
