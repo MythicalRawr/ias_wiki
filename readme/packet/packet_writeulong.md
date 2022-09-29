@@ -1,0 +1,15 @@
+# Packet:writeULong
+
+### ![shared](../../home/packet/.gitbook/assets/shared.png) [Packet](../../home/packet/home/Packet/):writeULong
+
+```lua
+void Packet:writeULong(data)
+```
+
+### Writes a unsigned long in the net packet.
+
+### Parameters
+
+| Type   | Name | Description    | Optional |
+| ------ | ---- | -------------- | -------: |
+| number | data | No description |          |

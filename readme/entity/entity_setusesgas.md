@@ -1,0 +1,15 @@
+# Entity:setUsesGas
+
+### ![shared](../../home/entity/.gitbook/assets/shared.png) [Entity](../../home/entity/home/Entity/):setUsesGas
+
+```lua
+void Entity:setUsesGas(mode)
+```
+
+### enables or disables gas use at an entity
+
+### Parameters
+
+| Type    | Name | Description    | Optional |
+| ------- | ---- | -------------- | -------: |
+| boolean | mode | No description |          |

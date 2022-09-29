@@ -1,0 +1,23 @@
+# Entity:hasItem
+
+### ![shared](../../home/entity/.gitbook/assets/shared.png) [Entity](../../home/entity/home/Entity/):hasItem
+
+```lua
+boolean Entity:hasItem(id)
+```
+
+### Returns true if the storage has the given id
+
+### Parameters
+
+| Type   | Name | Description    | Optional |
+| ------ | ---- | -------------- | -------: |
+| string | id   | No description |          |
+
+***
+
+### Returns
+
+| Type    |    Description |
+| ------- | -------------: |
+| boolean | No description |
