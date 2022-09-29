@@ -47,7 +47,7 @@ jobs:
                   git stash --all
 
                   git checkout wiki
-                  rm -rf ./home && rm -rf ./SUMMARY.md
+                  rm -rf ./readme && rm -rf ./SUMMARY.md
 
                   git stash pop
                   git add --all
