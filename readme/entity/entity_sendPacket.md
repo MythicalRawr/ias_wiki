@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):sendPacket
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):sendPacket
 
 ```lua
 void Entity:sendPacket(id, ply, packet, reliable)
@@ -12,7 +12,7 @@ Send a packet to the given player with the given id
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-| ![Player](./readme/player "mention") | ply | No description |  |
-| ![Packet](./readme/packet "mention") | packet | No description |  |
+| [Player](https://iaswiki.rawr.dev/readme/player) | ply | No description |  |
+| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
 | boolean | reliable | No description | ✔ |
 

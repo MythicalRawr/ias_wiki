@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):forward
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):forward
 
 ```lua
 Vector Entity:forward(distance)
@@ -19,5 +19,5 @@ Returns ent forward facing position
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Vector](./readme/vector "mention") | No description |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
 

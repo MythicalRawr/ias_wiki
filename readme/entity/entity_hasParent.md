@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):hasParent
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):hasParent
 
 ```lua
 boolean Entity:hasParent()

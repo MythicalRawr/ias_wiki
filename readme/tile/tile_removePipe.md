@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Tile](./readme/tile "mention"):removePipe
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):removePipe
 
 ```lua
 void Tile:removePipe(networkId)

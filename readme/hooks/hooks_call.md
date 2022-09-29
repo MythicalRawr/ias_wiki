@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![hooks](./readme/hooks "mention"):call
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [hooks](https://iaswiki.rawr.dev/readme/hooks):call
 
 ```lua
 void hooks:call(hookId, data)

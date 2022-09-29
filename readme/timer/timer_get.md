@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![timer](./readme/timer "mention"):get
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [timer](https://iaswiki.rawr.dev/readme/timer):get
 
 ```lua
 timerObj timer:get(id)
@@ -19,5 +19,5 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 
 | Type   | Description |
 | ------ | ----------: |
-| ![timerObj](./readme/timerobj "mention") | No description |
+| [timerObj](https://iaswiki.rawr.dev/readme/timerobj) | No description |
 

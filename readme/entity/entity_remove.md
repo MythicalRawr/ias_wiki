@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):remove
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):remove
 
 ```lua
 void Entity:remove()

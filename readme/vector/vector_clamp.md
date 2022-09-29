@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):clamp
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Vector](https://iaswiki.rawr.dev/readme/vector):clamp
 
 ```lua
 Vector Vector:clamp(min, max)
@@ -11,8 +11,8 @@ Returns the clamped vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector](./readme/vector "mention") | min | No description |  |
-| ![Vector](./readme/vector "mention") | max | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | min | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | max | No description |  |
 
 
 ------
@@ -20,5 +20,5 @@ Returns the clamped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Vector](./readme/vector "mention") | No description |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
 

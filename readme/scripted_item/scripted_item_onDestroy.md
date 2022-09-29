@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):onDestroy
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):onDestroy
 
 ```lua
 void ITEM:onDestroy()

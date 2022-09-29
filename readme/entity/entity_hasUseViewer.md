@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):hasUseViewer
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):hasUseViewer
 
 ```lua
 boolean Entity:hasUseViewer(id)

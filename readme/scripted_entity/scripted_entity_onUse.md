@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![ENT](./readme/ent "mention"):onUse
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onUse
 
 ```lua
 void ENT:onUse(ent)
@@ -11,5 +11,5 @@ Triggered when a entity presses USE
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Entity](./readme/entity "mention") | ent | No description |  |
+| [Entity](https://iaswiki.rawr.dev/readme/entity) | ent | No description |  |
 

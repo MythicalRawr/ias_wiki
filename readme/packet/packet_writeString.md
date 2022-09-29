@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):writeString
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Packet](https://iaswiki.rawr.dev/readme/packet):writeString
 
 ```lua
 void Packet:writeString(data)

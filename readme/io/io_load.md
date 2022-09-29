@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![io](./readme/io "mention"):load
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [io](https://iaswiki.rawr.dev/readme/io):load
 
 ```lua
 string, string io:load(path)

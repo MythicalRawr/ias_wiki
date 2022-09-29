@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![worldDebug](./readme/worlddebug "mention"):line
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [worldDebug](https://iaswiki.rawr.dev/readme/worlddebug):line
 
 ```lua
 void worldDebug:line(startPos, endPos, ttl, color)
@@ -11,8 +11,8 @@ Draws a 3D debug line that will vanish after the given ttl time
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector3](./readme/vector3 "mention") | startPos | No description |  |
-| ![Vector3](./readme/vector3 "mention") | endPos | No description |  |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | startPos | No description |  |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | endPos | No description |  |
 | number | ttl | No description |  |
-| ![Color](./readme/color "mention") | color | No description | ✔ |
+| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description | ✔ |
 

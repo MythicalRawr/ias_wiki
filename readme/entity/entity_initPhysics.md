@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):initPhysics
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):initPhysics
 
 ```lua
 void Entity:initPhysics(phys, block)
@@ -11,6 +11,6 @@ Sets the entity physics type,If block is set, the VIS will be blocked by it
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![PHYSICS](./readme/physics "mention") | phys | No description | ✔ |
+| [PHYSICS](https://iaswiki.rawr.dev/readme/physics) | phys | No description | ✔ |
 | boolean | block | No description | ✔ |
 

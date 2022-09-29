@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![ModelMesh](./readme/modelmesh "mention"):getUV
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):getUV
 
 ```lua
 Vector ModelMesh:getUV()
@@ -11,5 +11,5 @@ Gets the mesh uv position
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Vector](./readme/vector "mention") | No description |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
 

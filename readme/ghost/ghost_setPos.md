@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Ghost](./readme/ghost "mention"):setPos
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):setPos
 
 ```lua
 void Ghost:setPos(pos)
@@ -11,5 +11,5 @@ Sets the current ghost position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector3](./readme/vector3 "mention") | pos | No description |  |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | pos | No description |  |
 

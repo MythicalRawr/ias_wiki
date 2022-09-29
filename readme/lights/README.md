@@ -1,2 +1,2 @@
-## ![unknown](../../.gitbook/assets/unknown.png) ![Base](../../.gitbook/assets/base.png) lights
+## <img src="../../.gitbook/assets/unknown.png" width="24" height=24 /><img src="../../.gitbook/assets/base.png" width="24" height=24 /> lights
 

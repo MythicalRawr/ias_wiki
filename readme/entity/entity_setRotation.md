@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setRotation
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setRotation
 
 ```lua
 void Entity:setRotation(rot)
@@ -11,5 +11,5 @@ Sets the rotation of the ent in degrees
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector](./readme/vector "mention") | rot | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | rot | No description |  |
 

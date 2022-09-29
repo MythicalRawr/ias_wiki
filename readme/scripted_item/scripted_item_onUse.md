@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):onUse
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):onUse
 
 ```lua
 void ITEM:onUse()

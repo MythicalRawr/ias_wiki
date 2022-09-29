@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![MOD](./readme/mod "mention"):onStateLeave
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [MOD](https://iaswiki.rawr.dev/readme/mod):onStateLeave
 
 ```lua
 void MOD:onStateLeave(state)

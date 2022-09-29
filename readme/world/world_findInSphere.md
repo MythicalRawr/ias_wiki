@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![world](./readme/world "mention"):findInSphere
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):findInSphere
 
 ```lua
 ENT[] world:findInSphere(pos, distance)
@@ -11,7 +11,7 @@ Finds entities in the world in a sphere radius
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector](./readme/vector "mention") | pos | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
 | number | distance | No description |  |
 
 
@@ -20,5 +20,5 @@ Finds entities in the world in a sphere radius
 
 | Type   | Description |
 | ------ | ----------: |
-| ![ENT[]](./readme/ent[] "mention") | No description |
+| [ENT[]](https://iaswiki.rawr.dev/readme/ent[]) | No description |
 

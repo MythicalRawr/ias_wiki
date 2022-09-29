@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Tile](./readme/tile "mention"):getIO
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):getIO
 
 ```lua
 WireIO Tile:getIO()
@@ -11,5 +11,5 @@ Returns the wire io on the tile, if any
 
 | Type   | Description |
 | ------ | ----------: |
-| ![WireIO](./readme/wireio "mention") | No description |
+| [WireIO](https://iaswiki.rawr.dev/readme/wireio) | No description |
 

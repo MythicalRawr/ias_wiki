@@ -1,4 +1,4 @@
-## ![unknown](../../.gitbook/assets/unknown.png) ![Base](../../.gitbook/assets/base.png) AABB
+## <img src="../../.gitbook/assets/unknown.png" width="24" height=24 /><img src="../../.gitbook/assets/base.png" width="24" height=24 /> AABB
 
 
 ------
@@ -6,6 +6,6 @@
 
 | Type   | Name |
 | ------ | ---: |
-| ![Vector](./readme/vector "mention") | pos |
-| ![Vector](./readme/vector "mention") | size |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | size |
 

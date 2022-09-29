@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):onGasDisconnected
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):onGasDisconnected
 
 ```lua
 void Entity:onGasDisconnected(network)
@@ -11,5 +11,5 @@ called when a gas pipe is disconnected from the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![GasNetwork](./readme/gasnetwork "mention") | network | No description |  |
+| [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork) | network | No description |  |
 

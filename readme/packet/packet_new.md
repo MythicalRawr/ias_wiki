@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):new
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Packet](https://iaswiki.rawr.dev/readme/packet):new
 
 ```lua
 Packet Packet:new()
@@ -11,5 +11,5 @@ Packet constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Packet](./readme/packet "mention") | No description |
+| [Packet](https://iaswiki.rawr.dev/readme/packet) | No description |
 

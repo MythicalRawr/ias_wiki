@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![WorkshopMOD](./readme/workshopmod "mention"):getSettings
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [WorkshopMOD](https://iaswiki.rawr.dev/readme/workshopmod):getSettings
 
 ```lua
 table WorkshopMOD:getSettings()

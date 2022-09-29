@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![ENT](./readme/ent "mention"):onPowerDisconnected
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onPowerDisconnected
 
 ```lua
 void ENT:onPowerDisconnected(id)

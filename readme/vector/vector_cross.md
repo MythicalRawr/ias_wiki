@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):cross
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Vector](https://iaswiki.rawr.dev/readme/vector):cross
 
 ```lua
 number Vector:cross(other)
@@ -11,7 +11,7 @@ Returns the cross vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector](./readme/vector "mention") | other | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | other | No description |  |
 
 
 ------

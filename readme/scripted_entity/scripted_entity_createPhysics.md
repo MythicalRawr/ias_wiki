@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):createPhysics
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):createPhysics
 
 ```lua
 void ENT:createPhysics()

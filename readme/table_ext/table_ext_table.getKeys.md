@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) table.getKeys
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> table.getKeys
 
 ```lua
 table table.getKeys(tbl)

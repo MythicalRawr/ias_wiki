@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setScale
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setScale
 
 ```lua
 void Entity:setScale(scale)
@@ -11,5 +11,5 @@ Sets the scale of the ent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector](./readme/vector "mention") | scale | No description |  |
+| [Vector](https://iaswiki.rawr.dev/readme/vector) | scale | No description |  |
 

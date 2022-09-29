@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![language](./readme/language "mention"):getLanguage
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [language](https://iaswiki.rawr.dev/readme/language):getLanguage
 
 ```lua
 string language:getLanguage()

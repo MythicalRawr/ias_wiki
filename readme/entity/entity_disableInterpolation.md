@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![Entity](./readme/entity "mention"):disableInterpolation
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):disableInterpolation
 
 ```lua
 void Entity:disableInterpolation(disable)

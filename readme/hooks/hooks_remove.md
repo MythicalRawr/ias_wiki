@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![hooks](./readme/hooks "mention"):remove
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [hooks](https://iaswiki.rawr.dev/readme/hooks):remove
 
 ```lua
 void hooks:remove(hookId, hookName)

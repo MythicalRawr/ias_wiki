@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):broadcastPacket
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):broadcastPacket
 
 ```lua
 void Entity:broadcastPacket(id, packet, reliable)
@@ -12,6 +12,6 @@ Broadcast a packet to all the players
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-| ![Packet](./readme/packet "mention") | packet | No description |  |
+| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
 | boolean | reliable | No description | ✔ |
 

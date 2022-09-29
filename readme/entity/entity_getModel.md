@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getModel
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):getModel
 
 ```lua
 Model Entity:getModel()
@@ -11,5 +11,5 @@ Returns ent model mesh
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Model](./readme/model "mention") | No description |
+| [Model](https://iaswiki.rawr.dev/readme/model) | No description |
 

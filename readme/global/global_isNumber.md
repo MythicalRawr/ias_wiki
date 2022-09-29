@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) isNumber
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> isNumber
 
 ```lua
 boolean isNumber(el)

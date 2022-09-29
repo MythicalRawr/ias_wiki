@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![ENT](./readme/ent "mention"):onStorageUpdate
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onStorageUpdate
 
 ```lua
 void ENT:onStorageUpdate(slot)

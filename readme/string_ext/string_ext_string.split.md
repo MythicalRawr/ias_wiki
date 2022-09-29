@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) string.split
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> string.split
 
 ```lua
 string[] string.split(str, sep, max)

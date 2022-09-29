@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Color](./readme/color "mention"):new
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Color](https://iaswiki.rawr.dev/readme/color):new
 
 ```lua
 Color Color:new(r, g, b, a)
@@ -22,5 +22,5 @@ Color constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Color](./readme/color "mention") | No description |
+| [Color](https://iaswiki.rawr.dev/readme/color) | No description |
 

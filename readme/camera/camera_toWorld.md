@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![camera](./readme/camera "mention"):toWorld
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [camera](https://iaswiki.rawr.dev/readme/camera):toWorld
 
 ```lua
 Vector3 camera:toWorld(pos)
@@ -11,7 +11,7 @@ Converts the screen position to world coordinates
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Vector3](./readme/vector3 "mention") | pos | No description |  |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | pos | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Converts the screen position to world coordinates
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Vector3](./readme/vector3 "mention") | No description |
+| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | No description |
 

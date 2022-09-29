@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![world](./readme/world "mention"):getMod
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):getMod
 
 ```lua
 WorkshopMOD world:getMod(id)
@@ -19,5 +19,5 @@ Returns the mod with the given id, if found,⚠ BE VERY CAREFUL, YOU MIGHT MESS 
 
 | Type   | Description |
 | ------ | ----------: |
-| ![WorkshopMOD](./readme/workshopmod "mention") | No description |
+| [WorkshopMOD](https://iaswiki.rawr.dev/readme/workshopmod) | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onGrabStart
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onGrabStart
 
 ```lua
 void ENT:onGrabStart(entity)
@@ -11,5 +11,5 @@ Called when an entity starts grabbing this entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Entity](./readme/entity "mention") | entity | No description |  |
+| [Entity](https://iaswiki.rawr.dev/readme/entity) | entity | No description |  |
 

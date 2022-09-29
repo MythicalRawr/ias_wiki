@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Color](./readme/color "mention"):length
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Color](https://iaswiki.rawr.dev/readme/color):length
 
 ```lua
 number Color:length()

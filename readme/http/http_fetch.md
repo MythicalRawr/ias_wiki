@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![http](./readme/http "mention"):fetch
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [http](https://iaswiki.rawr.dev/readme/http):fetch
 
 ```lua
 void http:fetch(url, headers, callback)

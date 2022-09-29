@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) ![ENT](./readme/ent "mention"):onNetRead
+## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onNetRead
 
 ```lua
 void ENT:onNetRead(packet)
@@ -11,5 +11,5 @@ The data to read from the netWrite (Server). Use this to sync variables between 
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Packet](./readme/packet "mention") | packet | No description |  |
+| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
 

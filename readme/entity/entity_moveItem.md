@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):moveItem
+## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):moveItem
 
 ```lua
 boolean Entity:moveItem(to, slot, newSlot)
@@ -11,7 +11,7 @@ Moves an item to a different inventory
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Entity](./readme/entity "mention") | to | No description |  |
+| [Entity](https://iaswiki.rawr.dev/readme/entity) | to | No description |  |
 | number | slot | No description |  |
 | number | newSlot | No description |  |
 

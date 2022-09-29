@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Tile](./readme/tile "mention"):getPipe
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):getPipe
 
 ```lua
 Pipe Tile:getPipe()
@@ -11,5 +11,5 @@ Returns the pipe on the tile, if any
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Pipe](./readme/pipe "mention") | No description |
+| [Pipe](https://iaswiki.rawr.dev/readme/pipe) | No description |
 

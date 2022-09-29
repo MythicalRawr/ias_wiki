@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![resources](./readme/resources "mention"):getModel
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [resources](https://iaswiki.rawr.dev/readme/resources):getModel
 
 ```lua
 Model resources:getModel(path)
@@ -19,5 +19,5 @@ Returns a Model object if loaded successfully, you should use addModel on Mod:on
 
 | Type   | Description |
 | ------ | ----------: |
-| ![Model](./readme/model "mention") | No description |
+| [Model](https://iaswiki.rawr.dev/readme/model) | No description |
 

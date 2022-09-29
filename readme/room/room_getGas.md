@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Room](./readme/room "mention"):getGas
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Room](https://iaswiki.rawr.dev/readme/room):getGas
 
 ```lua
 number Room:getGas(gasType)
@@ -11,7 +11,7 @@ Returns amount of gas in a room of the type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![GAS](./readme/gas "mention") | gasType | No description |  |
+| [GAS](https://iaswiki.rawr.dev/readme/gas) | gasType | No description |  |
 
 
 ------

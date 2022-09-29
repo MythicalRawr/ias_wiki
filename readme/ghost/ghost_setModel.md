@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Ghost](./readme/ghost "mention"):setModel
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):setModel
 
 ```lua
 void Ghost:setModel(mdl)
@@ -11,5 +11,5 @@ Sets the model for the ghost
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| ![Model](./readme/model "mention") | mdl | No description |  |
+| [Model](https://iaswiki.rawr.dev/readme/model) | mdl | No description |  |
 

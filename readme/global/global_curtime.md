@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) curtime
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> curtime
 
 ```lua
 number curtime()

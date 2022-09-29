@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) string.format
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> string.format
 
 ```lua
 string string.format(str, ...)

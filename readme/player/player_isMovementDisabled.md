@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):isMovementDisabled
+## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Player](https://iaswiki.rawr.dev/readme/player):isMovementDisabled
 
 ```lua
 boolean Player:isMovementDisabled()
