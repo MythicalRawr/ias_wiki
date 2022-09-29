@@ -21,14 +21,14 @@ function MOD:onLoad() end
 
 ---
 ---@env CLIENT
----@param state string The state opened (ie 'ingame', 'mainmenu', etc)
+---@param state string "The state opened (ie 'ingame', 'mainmenu', etc)"
 ---* Global event called by the game when the state is entered
 ---
 function MOD:onStateEnter(state) end
 
 ---
 ---@env CLIENT
----@param state string The state opened (ie 'ingame', 'mainmenu', etc)
+---@param state string "The state opened (ie 'ingame', 'mainmenu', etc)"
 ---* Global event called by the game before the state is changed
 ---
 function MOD:onStateLeave(state) end

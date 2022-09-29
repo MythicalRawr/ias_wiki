@@ -10,9 +10,8 @@ console = {}
 ---
 ---@env SHARED
 ---@param args string[]
----@return boolean, string
----|"If command was executed successfully"
----|"The error / success message"
+---@return boolean "If command was executed successfully"
+---@return string "The error / success message"
 ---* Executes a console command programmatically
 ---
 ---```lua
@@ -39,7 +38,7 @@ function console:print(text, type) end
 ---
 ---@env SHARED
 ---@param command string
----@param callback fun(args: string[]): success: boolean, msg: string ⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️
+---@param callback function "fun(args: string[]): success: boolean, msg: string"
 ---@param description? string
 ---@param flags? CONSOLE.FLAGS
 ---* Registers a new console command (the command id needs to be unique)

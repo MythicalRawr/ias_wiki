@@ -1,35 +1,20 @@
 ---@meta
 
 ---
----sound's entry class.
+---Sound's entry class.
 ---
 --- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Sound
-Sound = {}
-
----
----@env CLIENT
----* Set the sound volume
----
-Sound.volume = 1
-
----
----@env CLIENT
----* Set the sound pitch
----
-Sound.pitch = 1
-
----
----@env CLIENT
----* Set the sound loop
----
-Sound.loop = false
-
----
----@env CLIENT
----* Set the sound position
----
-Sound.position = nil
+---@field volume number "Set the sound volume"
+---@field pitch number "Set the sound pitch"
+---@field loop boolean "Set the sound loop"
+---@field position? Vector "Set the sound position"
+Sound = {
+	volume = 1,
+	pitch = 1,
+	loop = false,
+	position = nil
+}
 
 ---
 ---@env CLIENT

@@ -10,7 +10,8 @@ io = {}
 ---
 ---@env SHARED
 ---@param path string
----@return string error, string data
+---@return string error
+---@return string data
 ---* Loads a file on the data folder, make sure you pass the extension on the filePath
 ---
 function io:load(path) end

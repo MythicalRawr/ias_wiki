@@ -408,9 +408,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@edunad/lua-wiki-generator@npm:0.0.3":
-  version: 0.0.3
-  resolution: "@edunad/lua-wiki-generator@npm:0.0.3"
+"@edunad/lua-wiki-generator@npm:0.0.5":
+  version: 0.0.5
+  resolution: "@edunad/lua-wiki-generator@npm:0.0.5"
   dependencies:
     fs-extra: ^10.1.0
     glob: ^8.0.3
@@ -418,7 +418,7 @@ __metadata:
     yargs: ^17.5.1
   bin:
     lua-wiki-generator: cli.js
-  checksum: b65890d6fa414964eda06a24545d517c09b781a0d26f084768c96ec708b609dcdacbd2e44442aa6bbe37135cab879b41f80fee9de9a3d875d4cea20134484539
+  checksum: 46cd19f9ce3b4152539aff67126c641b4a94db5dfc92d3e0eef6fb569dc07b1a7be132221e4d3e6692154253e5a7f4f03feaf5e1f16e54ba5cb96e7aaf7979d1
   languageName: node
   linkType: hard
 
@@ -753,9 +753,9 @@ __metadata:
   linkType: hard
 
 "@sinclair/typebox@npm:^0.24.1":
-  version: 0.24.43
-  resolution: "@sinclair/typebox@npm:0.24.43"
-  checksum: 138fa1f2430a8890b21313b176d7d4d52daaddea363a66a3ba7e599fc158f0e9ff7796ae220e181d71a95e5af016830c04f4b69ca701c74161c3711836980eb8
+  version: 0.24.44
+  resolution: "@sinclair/typebox@npm:0.24.44"
+  checksum: 773d9efc85cea69129659239ebda902c1b09e3e82f19358e5cd0f60ba21203ea694afce71bca1062376550b2bd99de6eeea98e6c273eb233d25daca95357f0cf
   languageName: node
   linkType: hard
 
@@ -1199,9 +1199,9 @@ __metadata:
   linkType: hard
 
 "caniuse-lite@npm:^1.0.30001400":
-  version: 1.0.30001412
-  resolution: "caniuse-lite@npm:1.0.30001412"
-  checksum: 7f5f476355f25a9841c30785c11df5225e2e7613f3334573e8da5490f195ac897a525fe4b514fa926b7be7e7937f15743e466bbc3a3272e848fb7ace7432ae02
+  version: 1.0.30001414
+  resolution: "caniuse-lite@npm:1.0.30001414"
+  checksum: 97210cfd15ded093b20c33d35bef9711a88402c3345411dad420c991a41a3e38ad17fd66721e8334c86e9b2e4aa2c1851d3631f1441afb73b92d93b2b8ca890d
   languageName: node
   linkType: hard
 
@@ -1416,9 +1416,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.251":
-  version: 1.4.266
-  resolution: "electron-to-chromium@npm:1.4.266"
-  checksum: 99d8fdea6610074f6fe9c6c205c8d33cb324db04c14c1e851abc3d63b36a810c0a56c3f4bcd377a66b7c20a3246f29bc4d6fc7d304823d8ad9fb6fef851599f1
+  version: 1.4.268
+  resolution: "electron-to-chromium@npm:1.4.268"
+  checksum: 83de906e367a3df0152f24f30d78fe38b4e17715866a4f80b3a0e169a4613041b7ed3bfca6225ebc27b61af3b874479cea462034642b9a7b4ab84810bbcfc5d5
   languageName: node
   linkType: hard
 
@@ -1794,7 +1794,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ias_wiki@workspace:."
   dependencies:
-    "@edunad/lua-wiki-generator": 0.0.3
+    "@edunad/lua-wiki-generator": 0.0.5
   languageName: unknown
   linkType: soft
 

@@ -10,7 +10,7 @@ ITEM = {}
 ---
 ---@env CLIENT
 ---@param path string
----* Update the item icon (client side only)
+---* Update the item icon
 ---
 function ITEM:updateIcon(path) end
 
