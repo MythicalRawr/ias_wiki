@@ -22,10 +22,10 @@ const init = () => {
             } else if (type === 'SUMMARY') {
                 if (data.fileName) {
                     // Not root
-                    return `[${data.name}](${outputFolder}/${data.dir}/${data.fileName.replace('.md', '').toLowerCase()})`;
+                    return `[${data.name}](${outputFolder}/${data.dir}/${data.fileName})`;
                 } else {
                     // ROOT
-                    return `[${data.dir}](${outputFolder}/${data.dir}/README)`;
+                    return `[${data.dir}](${outputFolder}/${data.dir}/README.md)`;
                 }
             }
 
