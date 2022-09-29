@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [PathFinder](https://iaswiki.rawr.dev/readme/pathfinder):calculate
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [PathFinder](../pathfinder/README.md):calculate
 
 ```lua
 table PathFinder:calculate(from, to)
@@ -11,8 +11,8 @@ Returns a table<Vector> that contains a list of tiles to move to in order. If re
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | from | No description |  |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | to | No description |  |
+| [Vector](../vector/README.md) | from | No description |  |
+| [Vector](../vector/README.md) | to | No description |  |
 
 
 ------

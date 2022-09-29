@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [WorkshopMOD](https://iaswiki.rawr.dev/readme/workshopmod):getENV
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [WorkshopMOD](../workshopmod/README.md):getENV
 
 ```lua
 table WorkshopMOD:getENV()

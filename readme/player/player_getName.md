@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Player](https://iaswiki.rawr.dev/readme/player):getName
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):getName
 
 ```lua
 string Player:getName()

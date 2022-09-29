@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Model](https://iaswiki.rawr.dev/readme/model):isValid
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Model](../model/README.md):isValid
 
 ```lua
 boolean Model:isValid()

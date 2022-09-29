@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):draw
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Ghost](../ghost/README.md):draw
 
 ```lua
 void Ghost:draw()

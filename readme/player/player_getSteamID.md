@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Player](https://iaswiki.rawr.dev/readme/player):getSteamID
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):getSteamID
 
 ```lua
 number Player:getSteamID()

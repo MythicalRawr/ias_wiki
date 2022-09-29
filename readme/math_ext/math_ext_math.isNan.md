@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> math.isNan
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> math.isNan
 
 ```lua
 boolean math.isNan(val)

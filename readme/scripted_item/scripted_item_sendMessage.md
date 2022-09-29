@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):sendMessage
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ITEM](../item/README.md):sendMessage
 
 ```lua
 void ITEM:sendMessage(slot, packet)
@@ -12,5 +12,5 @@ Sends a packet to the given slot
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | slot | No description |  |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
+| [Packet](../packet/README.md) | packet | No description |  |
 

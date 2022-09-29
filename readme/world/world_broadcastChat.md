@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):broadcastChat
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):broadcastChat
 
 ```lua
 void world:broadcastChat(pos, speaker, msg, distance, color)
@@ -11,9 +11,9 @@ Creates a chat on the given position to all players,Distance controls how readab
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
+| [Vector](../vector/README.md) | pos | No description |  |
 | string | speaker | No description |  |
 | string | msg | No description |  |
 | number | distance | No description | ✔ |
-| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description | ✔ |
+| [Color](../color/README.md) | color | No description | ✔ |
 

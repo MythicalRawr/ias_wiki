@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onUseViewerRemoved
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):onUseViewerRemoved
 
 ```lua
 void ENT:onUseViewerRemoved(player)
@@ -11,5 +11,5 @@ Triggered a use viewer player is removed
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](https://iaswiki.rawr.dev/readme/player) | player | No description |  |
+| [Player](../player/README.md) | player | No description |  |
 

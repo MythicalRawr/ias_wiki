@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [AABB](https://iaswiki.rawr.dev/readme/aabb):top
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):top
 
 ```lua
 number AABB:top()

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):remove
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):remove
 
 ```lua
 void Entity:remove()

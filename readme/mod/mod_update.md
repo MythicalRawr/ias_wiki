@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [MOD](https://iaswiki.rawr.dev/readme/mod):update
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [MOD](../mod/README.md):update
 
 ```lua
 void MOD:update(delta)

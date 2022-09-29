@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):getColor
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ModelMesh](../modelmesh/README.md):getColor
 
 ```lua
 Color ModelMesh:getColor()
@@ -11,5 +11,5 @@ Gets the mesh color
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](https://iaswiki.rawr.dev/readme/color) | No description |
+| [Color](../color/README.md) | No description |
 

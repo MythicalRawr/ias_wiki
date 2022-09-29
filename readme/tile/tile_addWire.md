@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):addWire
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):addWire
 
 ```lua
 void Tile:addWire(type, networkId)
@@ -11,6 +11,6 @@ Adds the given wire type to the tile
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](https://iaswiki.rawr.dev/readme/wire) | type | No description |  |
+| [WIRE](../wire/README.md) | type | No description |  |
 | number | networkId | No description | ✔ |
 

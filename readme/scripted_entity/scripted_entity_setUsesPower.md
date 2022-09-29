@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):setUsesPower
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):setUsesPower
 
 ```lua
 void ENT:setUsesPower(set)

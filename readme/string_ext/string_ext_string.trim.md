@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> string.trim
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> string.trim
 
 ```lua
 string string.trim(str)

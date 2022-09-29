@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [lights](https://iaswiki.rawr.dev/readme/lights):create
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [lights](../lights/README.md):create
 
 ```lua
 light lights:create(pos, color, fallStart, fallEnd, lumi)
@@ -11,8 +11,8 @@ Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOV
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
-| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description |  |
+| [Vector](../vector/README.md) | pos | No description |  |
+| [Color](../color/README.md) | color | No description |  |
 | number | fallStart | No description | ✔ |
 | number | fallEnd | No description | ✔ |
 | number | lumi | No description | ✔ |
@@ -23,5 +23,5 @@ Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOV
 
 | Type   | Description |
 | ------ | ----------: |
-| [light](https://iaswiki.rawr.dev/readme/light) | No description |
+| [light](../light/README.md) | No description |
 

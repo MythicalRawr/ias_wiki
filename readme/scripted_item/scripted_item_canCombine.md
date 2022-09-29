@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):canCombine
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):canCombine
 
 ```lua
 boolean ITEM:canCombine(other)
@@ -11,7 +11,7 @@ Returns true if the item can be combined
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](https://iaswiki.rawr.dev/readme/item) | other | No description |  |
+| [ITEM](../item/README.md) | other | No description |  |
 
 
 ------

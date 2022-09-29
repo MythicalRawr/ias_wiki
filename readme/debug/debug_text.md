@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [worldDebug](https://iaswiki.rawr.dev/readme/worlddebug):text
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [worldDebug](../worlddebug/README.md):text
 
 ```lua
 void worldDebug:text(pos, ttl, text, color)
@@ -11,8 +11,8 @@ Draws a 3D debug text that will vanish after the given ttl time
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | pos | No description |  |
+| [Vector3](../vector3/README.md) | pos | No description |  |
 | number | ttl | No description |  |
 | string | text | No description |  |
-| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description | ✔ |
+| [Color](../color/README.md) | color | No description | ✔ |
 

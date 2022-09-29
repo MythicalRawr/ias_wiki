@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onNetPacket
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):onNetPacket
 
 ```lua
 void ENT:onNetPacket(id, packet, ply)
@@ -12,6 +12,6 @@ Called when the server recieves a net packet from the player (client)
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
-| [Player](https://iaswiki.rawr.dev/readme/player) | ply | No description |  |
+| [Packet](../packet/README.md) | packet | No description |  |
+| [Player](../player/README.md) | ply | No description |  |
 

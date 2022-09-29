@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Room](https://iaswiki.rawr.dev/readme/room):addGas
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Room](../room/README.md):addGas
 
 ```lua
 void Room:addGas(gasType, amount)
@@ -11,6 +11,6 @@ adds the amount of gas to a room
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](https://iaswiki.rawr.dev/readme/gas) | gasType | No description |  |
+| [GAS](../gas/README.md) | gasType | No description |  |
 | number | amount | No description |  |
 

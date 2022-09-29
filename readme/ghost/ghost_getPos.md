@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):getPos
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Ghost](../ghost/README.md):getPos
 
 ```lua
 Vector3 Ghost:getPos()
@@ -11,5 +11,5 @@ Gets the current ghost position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | No description |
+| [Vector3](../vector3/README.md) | No description |
 

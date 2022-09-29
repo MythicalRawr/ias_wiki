@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):new
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Ghost](../ghost/README.md):new
 
 ```lua
 Ghost Ghost:new()
@@ -11,5 +11,5 @@ Ghost constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Ghost](https://iaswiki.rawr.dev/readme/ghost) | No description |
+| [Ghost](../ghost/README.md) | No description |
 

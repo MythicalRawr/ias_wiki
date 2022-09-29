@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):create
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):create
 
 ```lua
 ENT world:create(class, parent)
@@ -12,7 +12,7 @@ Creates and spawns a new entity on the world
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | class | No description |  |
-| [ENT](https://iaswiki.rawr.dev/readme/ent) | parent | No description | ✔ |
+| [ENT](../ent/README.md) | parent | No description | ✔ |
 
 
 ------
@@ -20,5 +20,5 @@ Creates and spawns a new entity on the world
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](https://iaswiki.rawr.dev/readme/ent) | No description |
+| [ENT](../ent/README.md) | No description |
 

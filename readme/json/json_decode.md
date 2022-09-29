@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [json](https://iaswiki.rawr.dev/readme/json):decode
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [json](../json/README.md):decode
 
 ```lua
 table json:decode(data)

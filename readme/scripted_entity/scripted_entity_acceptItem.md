@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):acceptItem
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):acceptItem
 
 ```lua
 void ENT:acceptItem(item, slot, mover)
@@ -11,7 +11,7 @@ If the entity should accept the item on the given slot by the given entity.,If m
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](https://iaswiki.rawr.dev/readme/item) | item | No description |  |
+| [ITEM](../item/README.md) | item | No description |  |
 | number | slot | No description |  |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | mover | No description |  |
+| [Entity](../entity/README.md) | mover | No description |  |
 

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Color](https://iaswiki.rawr.dev/readme/color):length
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Color](../color/README.md):length
 
 ```lua
 number Color:length()

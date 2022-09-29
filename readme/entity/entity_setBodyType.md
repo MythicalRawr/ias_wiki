@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setBodyType
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setBodyType
 
 ```lua
 void Entity:setBodyType(type)
@@ -11,5 +11,5 @@ Updates the entity physics body type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PHYSICS](https://iaswiki.rawr.dev/readme/physics) | type | No description |  |
+| [PHYSICS](../physics/README.md) | type | No description |  |
 

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setParent
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):setParent
 
 ```lua
 void Entity:setParent(ent)
@@ -11,5 +11,5 @@ Sets the entity parent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | ent | No description |  |
+| [Entity](../entity/README.md) | ent | No description |  |
 

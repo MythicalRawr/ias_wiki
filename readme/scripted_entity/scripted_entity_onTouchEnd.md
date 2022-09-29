@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):onTouchEnd
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ENT](../ent/README.md):onTouchEnd
 
 ```lua
 void ENT:onTouchEnd(entity)
@@ -11,5 +11,5 @@ Called when an entity stops touching another entity (requires physics)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | entity | No description |  |
+| [Entity](../entity/README.md) | entity | No description |  |
 

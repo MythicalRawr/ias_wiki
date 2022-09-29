@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):getPower
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getPower
 
 ```lua
 WirePower Tile:getPower()
@@ -11,5 +11,5 @@ Returns the wire power on the tile, if any
 
 | Type   | Description |
 | ------ | ----------: |
-| [WirePower](https://iaswiki.rawr.dev/readme/wirepower) | No description |
+| [WirePower](../wirepower/README.md) | No description |
 

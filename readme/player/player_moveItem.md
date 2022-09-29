@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [Player](https://iaswiki.rawr.dev/readme/player):moveItem
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Player](../player/README.md):moveItem
 
 ```lua
 boolean Player:moveItem(oldStorage, newStorage, oldSlot, newSlot)
@@ -11,8 +11,8 @@ Locally moves an item from an inventory to another inventory and sends a validat
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ENT](https://iaswiki.rawr.dev/readme/ent) | oldStorage | No description |  |
-| [ENT](https://iaswiki.rawr.dev/readme/ent) | newStorage | No description |  |
+| [ENT](../ent/README.md) | oldStorage | No description |  |
+| [ENT](../ent/README.md) | newStorage | No description |  |
 | number | oldSlot | No description |  |
 | number | newSlot | No description |  |
 

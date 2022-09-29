@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):removeWire
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):removeWire
 
 ```lua
 void Tile:removeWire(type)
@@ -11,5 +11,5 @@ Removes the given wire type from the tile
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](https://iaswiki.rawr.dev/readme/wire) | type | No description |  |
+| [WIRE](../wire/README.md) | type | No description |  |
 

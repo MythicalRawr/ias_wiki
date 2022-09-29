@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setVelocity
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setVelocity
 
 ```lua
 void Entity:setVelocity(vel)
@@ -11,5 +11,5 @@ Sets the velocity of the ent (physics)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | vel | No description |  |
+| [Vector](../vector/README.md) | vel | No description |  |
 

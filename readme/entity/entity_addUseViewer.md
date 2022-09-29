@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):addUseViewer
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):addUseViewer
 
 ```lua
 void Entity:addUseViewer(id)

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Model](https://iaswiki.rawr.dev/readme/model):addMesh
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Model](../model/README.md):addMesh
 
 ```lua
 void Model:addMesh(mesh)
@@ -11,5 +11,5 @@ Adds the mesh to the model
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh) | mesh | No description |  |
+| [ModelMesh](../modelmesh/README.md) | mesh | No description |  |
 

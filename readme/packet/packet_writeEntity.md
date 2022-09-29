@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Packet](https://iaswiki.rawr.dev/readme/packet):writeEntity
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):writeEntity
 
 ```lua
 void Packet:writeEntity(data)
@@ -11,5 +11,5 @@ Writes a entity in the net packet.
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | data | No description |  |
+| [Entity](../entity/README.md) | data | No description |  |
 

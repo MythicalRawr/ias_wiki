@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):getTileByPos
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getTileByPos
 
 ```lua
 Tile Entity:getTileByPos(pos)
@@ -11,7 +11,7 @@ Returns the tile on the given position under the ent (needs to be a buildable ty
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
+| [Vector](../vector/README.md) | pos | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Returns the tile on the given position under the ent (needs to be a buildable ty
 
 | Type   | Description |
 | ------ | ----------: |
-| [Tile](https://iaswiki.rawr.dev/readme/tile) | No description |
+| [Tile](../tile/README.md) | No description |
 

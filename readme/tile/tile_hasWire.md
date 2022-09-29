@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Tile](https://iaswiki.rawr.dev/readme/tile):hasWire
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):hasWire
 
 ```lua
 boolean Tile:hasWire(type)
@@ -11,7 +11,7 @@ Returns true if the tile has the requested wire type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](https://iaswiki.rawr.dev/readme/wire) | type | No description |  |
+| [WIRE](../wire/README.md) | type | No description |  |
 
 
 ------

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> table.count
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> table.count
 
 ```lua
 number table.count(tbl)

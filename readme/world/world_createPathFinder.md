@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):createPathFinder
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):createPathFinder
 
 ```lua
 PathFinder world:createPathFinder(building)
@@ -11,7 +11,7 @@ Creates a PathFinder object for the given building
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | building | No description |  |
+| [Entity](../entity/README.md) | building | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Creates a PathFinder object for the given building
 
 | Type   | Description |
 | ------ | ----------: |
-| [PathFinder](https://iaswiki.rawr.dev/readme/pathfinder) | No description |
+| [PathFinder](../pathfinder/README.md) | No description |
 

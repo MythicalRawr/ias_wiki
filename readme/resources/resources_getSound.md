@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [resources](https://iaswiki.rawr.dev/readme/resources):getSound
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getSound
 
 ```lua
 Sound resources:getSound(path)
@@ -19,5 +19,5 @@ Returns a Sound object if loaded successfully, you should use preLoad on Mod:onL
 
 | Type   | Description |
 | ------ | ----------: |
-| [Sound](https://iaswiki.rawr.dev/readme/sound) | No description |
+| [Sound](../sound/README.md) | No description |
 

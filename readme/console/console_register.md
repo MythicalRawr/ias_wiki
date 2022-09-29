@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [console](https://iaswiki.rawr.dev/readme/console):register
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [console](../console/README.md):register
 
 ```lua
 void console:register(command, callback, description, flags)
@@ -23,5 +23,5 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | string | command | No description |  |
 | function | callback | fun(args: string[]): success: boolean, msg: string |  |
 | string | description | No description | ✔ |
-| [CONSOLE.FLAGS](https://iaswiki.rawr.dev/readme/console.flags) | flags | No description | ✔ |
+| [CONSOLE.FLAGS](../console.flags/README.md) | flags | No description | ✔ |
 

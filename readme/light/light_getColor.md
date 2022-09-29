@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [light](https://iaswiki.rawr.dev/readme/light):getColor
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):getColor
 
 ```lua
 Color light:getColor()
@@ -11,5 +11,5 @@ Gets the light color
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](https://iaswiki.rawr.dev/readme/color) | No description |
+| [Color](../color/README.md) | No description |
 

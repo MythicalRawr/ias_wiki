@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ENT](https://iaswiki.rawr.dev/readme/ent):draw
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):draw
 
 ```lua
 void ENT:draw()

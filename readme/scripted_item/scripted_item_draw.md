@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):draw
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ITEM](../item/README.md):draw
 
 ```lua
 void ITEM:draw()

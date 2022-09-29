@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Packet](https://iaswiki.rawr.dev/readme/packet):new
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):new
 
 ```lua
 Packet Packet:new()
@@ -11,5 +11,5 @@ Packet constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | No description |
+| [Packet](../packet/README.md) | No description |
 

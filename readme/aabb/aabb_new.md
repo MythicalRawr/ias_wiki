@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [AABB](https://iaswiki.rawr.dev/readme/aabb):new
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):new
 
 ```lua
 AABB AABB:new(x, y, width, height)
@@ -22,5 +22,5 @@ AABB constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [AABB](https://iaswiki.rawr.dev/readme/aabb) | No description |
+| [AABB](../aabb/README.md) | No description |
 

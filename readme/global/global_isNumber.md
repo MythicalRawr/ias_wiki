@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> isNumber
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> isNumber
 
 ```lua
 boolean isNumber(el)

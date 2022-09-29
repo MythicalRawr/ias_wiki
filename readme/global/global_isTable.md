@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> isTable
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> isTable
 
 ```lua
 boolean isTable(el)

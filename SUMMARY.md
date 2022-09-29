@@ -1,7 +1,7 @@
 # Table of contents
 
 * [☄ Welcome to It's Absolutely Safe's wiki!](README.md)
-  * <img src="../../.gitbook/assets/shared.png" width="24" height=24 />[tutorials](./readme/tutorials/README.md)
+  * [tutorials](./readme/tutorials/README.md)
     * [TODO](./readme/tutorials/tutorials\_server\_workshop.md)
   * [aabb](./readme/aabb/README.md)
     * [AABB:bottom](./readme/aabb/aabb_bottom.md)

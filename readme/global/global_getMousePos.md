@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> getMousePos
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> getMousePos
 
 ```lua
 Vector getMousePos()
@@ -11,5 +11,5 @@ Returns the local player last mouse position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](../vector/README.md) | No description |
 

@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/clientity.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setUseHint
+## <img src="../../.gitbook/assets/clientity.png" width="32" height="32" /> [Entity](../entity/README.md):setUseHint
 
 ```lua
 void Entity:setUseHint(hint, texture)
@@ -12,5 +12,5 @@ Sets the cursor hint & texture when the user hovers the ent
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | hint | No description |  |
-| [Texture](https://iaswiki.rawr.dev/readme/texture) | texture | No description |  |
+| [Texture](../texture/README.md) | texture | No description |  |
 

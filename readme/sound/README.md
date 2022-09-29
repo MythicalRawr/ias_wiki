@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/unknown.png" width="24" height=24 /><img src="../../.gitbook/assets/base.png" width="24" height=24 /> Sound
+## <img src="../../.gitbook/assets/unknown.png" width="32" height="32" /><img src="../../.gitbook/assets/base.png" width="32" height="32" /> Sound
 
 
 ------
@@ -9,5 +9,5 @@
 | number | volume |
 | number | pitch |
 | boolean | loop |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | position? |
+| [Vector](../vector/README.md) | position? |
 

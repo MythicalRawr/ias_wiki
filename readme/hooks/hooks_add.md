@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [hooks](https://iaswiki.rawr.dev/readme/hooks):add
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [hooks](../hooks/README.md):add
 
 ```lua
 void hooks:add(hookId, hookName, callback)

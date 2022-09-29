@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):setModel
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setModel
 
 ```lua
 void Entity:setModel(mdl)
@@ -11,5 +11,5 @@ Sets the entity model
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Model](https://iaswiki.rawr.dev/readme/model) | mdl | No description |  |
+| [Model](../model/README.md) | mdl | No description |  |
 

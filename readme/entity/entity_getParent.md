@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):getParent
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getParent
 
 ```lua
 Entity Entity:getParent()
@@ -11,5 +11,5 @@ Returns the parent ent (should be checked with hasParent first)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | No description |
+| [Entity](../entity/README.md) | No description |
 

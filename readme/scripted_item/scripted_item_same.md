@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [ITEM](https://iaswiki.rawr.dev/readme/item):same
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):same
 
 ```lua
 boolean ITEM:same(other)
@@ -11,7 +11,7 @@ Returns true if it's the same item
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](https://iaswiki.rawr.dev/readme/item) | other | No description |  |
+| [ITEM](../item/README.md) | other | No description |  |
 
 
 ------

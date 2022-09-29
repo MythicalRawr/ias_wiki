@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [Ghost](https://iaswiki.rawr.dev/readme/ghost):setColor
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Ghost](../ghost/README.md):setColor
 
 ```lua
 void Ghost:setColor(color)
@@ -11,5 +11,5 @@ Sets the current ghost color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description |  |
+| [Color](../color/README.md) | color | No description |  |
 

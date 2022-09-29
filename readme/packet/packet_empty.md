@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Packet](https://iaswiki.rawr.dev/readme/packet):empty
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):empty
 
 ```lua
 boolean Packet:empty()

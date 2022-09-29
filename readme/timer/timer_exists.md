@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [timer](https://iaswiki.rawr.dev/readme/timer):exists
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timer](../timer/README.md):exists
 
 ```lua
 boolean timer:exists(id)

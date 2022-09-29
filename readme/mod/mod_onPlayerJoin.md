@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [MOD](https://iaswiki.rawr.dev/readme/mod):onPlayerJoin
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [MOD](../mod/README.md):onPlayerJoin
 
 ```lua
 void MOD:onPlayerJoin(ply)
@@ -11,5 +11,5 @@ Global event called when a player joins the game
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](https://iaswiki.rawr.dev/readme/player) | ply | No description |  |
+| [Player](../player/README.md) | ply | No description |  |
 

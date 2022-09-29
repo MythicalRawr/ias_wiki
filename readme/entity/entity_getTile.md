@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):getTile
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getTile
 
 ```lua
 Tile Entity:getTile()
@@ -11,5 +11,5 @@ Returns the tile under the ent (needs setUseTile set!)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Tile](https://iaswiki.rawr.dev/readme/tile) | No description |
+| [Tile](../tile/README.md) | No description |
 

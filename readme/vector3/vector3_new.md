@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Vector3](https://iaswiki.rawr.dev/readme/vector3):new
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector3](../vector3/README.md):new
 
 ```lua
 Vector3 Vector3:new(x, y, z)
@@ -21,5 +21,5 @@ Vector3 constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | No description |
+| [Vector3](../vector3/README.md) | No description |
 

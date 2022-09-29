@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [net](https://iaswiki.rawr.dev/readme/net):listen
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [net](../net/README.md):listen
 
 ```lua
 void net:listen(netId, hookName, callback)

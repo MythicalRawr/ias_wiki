@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> LocalPlayer
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> LocalPlayer
 
 ```lua
 Player LocalPlayer()
@@ -11,5 +11,5 @@ Returns the local player if exists
 
 | Type   | Description |
 | ------ | ----------: |
-| [Player](https://iaswiki.rawr.dev/readme/player) | No description |
+| [Player](../player/README.md) | No description |
 

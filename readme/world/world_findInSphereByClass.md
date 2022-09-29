@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [world](https://iaswiki.rawr.dev/readme/world):findInSphereByClass
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findInSphereByClass
 
 ```lua
 ENT[] world:findInSphereByClass(class, pos, distance)
@@ -12,7 +12,7 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | class | No description |  |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
+| [Vector](../vector/README.md) | pos | No description |  |
 | number | distance | No description |  |
 
 
@@ -21,5 +21,5 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](https://iaswiki.rawr.dev/readme/ent[]) | No description |
+| [ENT[]](../ent[]/README.md) | No description |
 

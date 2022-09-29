@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [timerObj](https://iaswiki.rawr.dev/readme/timerobj):getRemainingTicks
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timerObj](../timerobj/README.md):getRemainingTicks
 
 ```lua
 number timerObj:getRemainingTicks()

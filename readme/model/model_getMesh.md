@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="24" height=24 /> [Model](https://iaswiki.rawr.dev/readme/model):getMesh
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Model](../model/README.md):getMesh
 
 ```lua
 ModelMesh Model:getMesh(name)
@@ -19,5 +19,5 @@ Returns the model mesh if found
 
 | Type   | Description |
 | ------ | ----------: |
-| [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh) | No description |
+| [ModelMesh](../modelmesh/README.md) | No description |
 

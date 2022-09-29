@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/client.png" width="24" height=24 /> [light](https://iaswiki.rawr.dev/readme/light):setStatus
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):setStatus
 
 ```lua
 void light:setStatus(on)

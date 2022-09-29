@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/server.png" width="24" height=24 /> [Entity](https://iaswiki.rawr.dev/readme/entity):onGasConnected
+## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):onGasConnected
 
 ```lua
 void Entity:onGasConnected(network)
@@ -11,5 +11,5 @@ called when a gas pipe is connected to the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork) | network | No description |  |
+| [GasNetwork](../gasnetwork/README.md) | network | No description |  |
 
