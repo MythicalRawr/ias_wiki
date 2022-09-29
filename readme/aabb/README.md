@@ -1,6 +1,6 @@
 # aabb
 
-### ![unknown](../../home/aabb/.gitbook/assets/unknown.png) ![Base](../../home/aabb/.gitbook/assets/base.png) AABB
+### ![unknown](../../.gitbook/assets/shared.png) ![Base](../../.gitbook/assets/base.png) AABB
 
 ***
 
@@ -8,5 +8,5 @@
 
 | Type                                   | Name |
 | -------------------------------------- | ---: |
-| [Vector](../../home/aabb/home/Vector/) |  pos |
+| [Vector](../vector/)                   |  pos |
 | [Vector](../../home/aabb/home/Vector/) | size |
