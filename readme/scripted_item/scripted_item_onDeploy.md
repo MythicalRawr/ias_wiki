@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):onDeploy
+## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):onDeploy
 
 ```lua
 void ITEM:onDeploy()

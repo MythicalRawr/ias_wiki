@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Tile](tile):removePipe
+## ![server](../../.gitbook/assets/server.png) ![Tile](./readme/tile "mention"):removePipe
 
 ```lua
 void Tile:removePipe(networkId)

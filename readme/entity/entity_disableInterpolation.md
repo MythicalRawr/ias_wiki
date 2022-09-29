@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Entity](entity):disableInterpolation
+## ![client](../../.gitbook/assets/client.png) ![Entity](./readme/entity "mention"):disableInterpolation
 
 ```lua
 void Entity:disableInterpolation(disable)

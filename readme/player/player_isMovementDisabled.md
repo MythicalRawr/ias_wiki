@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](player):isMovementDisabled
+## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):isMovementDisabled
 
 ```lua
 boolean Player:isMovementDisabled()

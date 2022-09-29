@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [worldDebug](worlddebug):line
+## ![client](../../.gitbook/assets/client.png) ![worldDebug](./readme/worlddebug "mention"):line
 
 ```lua
 void worldDebug:line(startPos, endPos, ttl, color)
@@ -11,8 +11,8 @@ Draws a 3D debug line that will vanish after the given ttl time
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](vector3) | startPos | No description |  |
-| [Vector3](vector3) | endPos | No description |  |
+| ![Vector3](./readme/vector3 "mention") | startPos | No description |  |
+| ![Vector3](./readme/vector3 "mention") | endPos | No description |  |
 | number | ttl | No description |  |
-| [Color](color) | color | No description | ✔ |
+| ![Color](./readme/color "mention") | color | No description | ✔ |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setBodyType
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setBodyType
 
 ```lua
 void Entity:setBodyType(type)
@@ -11,5 +11,5 @@ Updates the entity physics body type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PHYSICS](physics) | type | No description |  |
+| ![PHYSICS](./readme/physics "mention") | type | No description |  |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getAvailableSlotById
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getAvailableSlotById
 
 ```lua
 number Entity:getAvailableSlotById(id, amount)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](player):cancelUse
+## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):cancelUse
 
 ```lua
 boolean Player:cancelUse()

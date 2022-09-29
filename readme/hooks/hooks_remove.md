@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [hooks](hooks):remove
+## ![shared](../../.gitbook/assets/shared.png) ![hooks](./readme/hooks "mention"):remove
 
 ```lua
 void hooks:remove(hookId, hookName)

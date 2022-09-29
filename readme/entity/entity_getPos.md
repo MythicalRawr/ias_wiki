@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getPos
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getPos
 
 ```lua
 Vector Entity:getPos()
@@ -11,5 +11,5 @@ Returns the ent position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

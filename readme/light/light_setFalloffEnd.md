@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](light):setFalloffEnd
+## ![client](../../.gitbook/assets/client.png) ![light](./readme/light "mention"):setFalloffEnd
 
 ```lua
 void light:setFalloffEnd(val)

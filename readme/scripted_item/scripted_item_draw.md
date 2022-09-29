@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ITEM](item):draw
+## ![client](../../.gitbook/assets/client.png) ![ITEM](./readme/item "mention"):draw
 
 ```lua
 void ITEM:draw()

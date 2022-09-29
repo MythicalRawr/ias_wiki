@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [net](net):remove
+## ![shared](../../.gitbook/assets/shared.png) ![net](./readme/net "mention"):remove
 
 ```lua
 void net:remove(netId, hookName)

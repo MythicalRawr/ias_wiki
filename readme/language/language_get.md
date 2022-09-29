@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [language](language):get
+## ![client](../../.gitbook/assets/client.png) ![language](./readme/language "mention"):get
 
 ```lua
 string language:get(modID, key, ...)

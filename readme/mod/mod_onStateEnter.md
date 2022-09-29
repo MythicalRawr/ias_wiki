@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [MOD](mod):onStateEnter
+## ![client](../../.gitbook/assets/client.png) ![MOD](./readme/mod "mention"):onStateEnter
 
 ```lua
 void MOD:onStateEnter(state)

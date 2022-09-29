@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](light):ID
+## ![client](../../.gitbook/assets/client.png) ![light](./readme/light "mention"):ID
 
 ```lua
 number light:ID()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeUShort
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):writeUShort
 
 ```lua
 void Packet:writeUShort(data)

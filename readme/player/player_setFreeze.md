@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Player](player):setFreeze
+## ![server](../../.gitbook/assets/server.png) ![Player](./readme/player "mention"):setFreeze
 
 ```lua
 void Player:setFreeze(flags, set)
@@ -11,6 +11,6 @@ Sets / Unsets the freeze flags
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [FREEZE](freeze) | flags | No description |  |
+| ![FREEZE](./readme/freeze "mention") | flags | No description |  |
 | boolean | set | No description |  |
 

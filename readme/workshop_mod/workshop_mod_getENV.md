@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [WorkshopMOD](workshopmod):getENV
+## ![shared](../../.gitbook/assets/shared.png) ![WorkshopMOD](./readme/workshopmod "mention"):getENV
 
 ```lua
 table WorkshopMOD:getENV()

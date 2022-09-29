@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getUseType
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getUseType
 
 ```lua
 USE Entity:getUseType()
@@ -11,5 +11,5 @@ Returns the ent use type
 
 | Type   | Description |
 | ------ | ----------: |
-| [USE](use) | No description |
+| ![USE](./readme/use "mention") | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):lerp
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):lerp
 
 ```lua
 Vector Vector:lerp(other, t)
@@ -11,7 +11,7 @@ Returns the lerped vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](vector) | other | No description |  |
+| ![Vector](./readme/vector "mention") | other | No description |  |
 | number | t | No description |  |
 
 
@@ -20,5 +20,5 @@ Returns the lerped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

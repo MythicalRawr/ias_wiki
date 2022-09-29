@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [resources](resources):getTexture
+## ![client](../../.gitbook/assets/client.png) ![resources](./readme/resources "mention"):getTexture
 
 ```lua
 Texture resources:getTexture(path)
@@ -19,5 +19,5 @@ Returns a Texture object if loaded successfully, you should use preLoad on Mod:o
 
 | Type   | Description |
 | ------ | ----------: |
-| [Texture](texture) | No description |
+| ![Texture](./readme/texture "mention") | No description |
 

@@ -9,5 +9,5 @@
 | number | volume |
 | number | pitch |
 | boolean | loop |
-| [Vector](vector) | position? |
+| ![Vector](./readme/vector "mention") | position? |
 

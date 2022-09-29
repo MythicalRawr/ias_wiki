@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):setGrabbable
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):setGrabbable
 
 ```lua
 void Entity:setGrabbable(grab)

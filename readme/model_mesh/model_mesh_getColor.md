@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):getColor
+## ![shared](../../.gitbook/assets/shared.png) ![ModelMesh](./readme/modelmesh "mention"):getColor
 
 ```lua
 Color ModelMesh:getColor()
@@ -11,5 +11,5 @@ Gets the mesh color
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](color) | No description |
+| ![Color](./readme/color "mention") | No description |
 

@@ -11,5 +11,5 @@ Returns the local player if exists
 
 | Type   | Description |
 | ------ | ----------: |
-| [Player](player) | No description |
+| ![Player](./readme/player "mention") | No description |
 

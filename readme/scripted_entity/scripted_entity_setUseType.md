@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](ent):setUseType
+## ![server](../../.gitbook/assets/server.png) ![ENT](./readme/ent "mention"):setUseType
 
 ```lua
 void ENT:setUseType(set)
@@ -11,5 +11,5 @@ Sets the use type of the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [USE](use) | set | No description |  |
+| ![USE](./readme/use "mention") | set | No description |  |
 

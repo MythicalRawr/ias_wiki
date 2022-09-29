@@ -6,6 +6,6 @@
 
 | Type   | Name |
 | ------ | ---: |
-| [Vector](vector) | pos |
-| [Vector](vector) | size |
+| ![Vector](./readme/vector "mention") | pos |
+| ![Vector](./readme/vector "mention") | size |
 

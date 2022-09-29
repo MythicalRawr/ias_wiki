@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [WorkshopMOD](workshopmod):getSettings
+## ![shared](../../.gitbook/assets/shared.png) ![WorkshopMOD](./readme/workshopmod "mention"):getSettings
 
 ```lua
 table WorkshopMOD:getSettings()

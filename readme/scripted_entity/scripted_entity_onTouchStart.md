@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onTouchStart
+## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onTouchStart
 
 ```lua
 void ENT:onTouchStart(entity)
@@ -11,5 +11,5 @@ Called when an entity touches another entity (requires physics)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | entity | No description |  |
+| ![Entity](./readme/entity "mention") | entity | No description |  |
 

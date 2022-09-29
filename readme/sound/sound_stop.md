@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](sound):stop
+## ![client](../../.gitbook/assets/client.png) ![Sound](./readme/sound "mention"):stop
 
 ```lua
 void Sound:stop()

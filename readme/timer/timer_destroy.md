@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timerObj](timerobj):destroy
+## ![shared](../../.gitbook/assets/shared.png) ![timerObj](./readme/timerobj "mention"):destroy
 
 ```lua
 void timerObj:destroy()

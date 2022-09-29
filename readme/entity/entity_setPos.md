@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setPos
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setPos
 
 ```lua
 void Entity:setPos(pos)
@@ -11,5 +11,5 @@ Sets the position of the ent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](vector) | pos | No description |  |
+| ![Vector](./readme/vector "mention") | pos | No description |  |
 

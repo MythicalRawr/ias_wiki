@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [http](http):fetch
+## ![shared](../../.gitbook/assets/shared.png) ![http](./readme/http "mention"):fetch
 
 ```lua
 void http:fetch(url, headers, callback)

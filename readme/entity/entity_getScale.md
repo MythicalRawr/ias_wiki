@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getScale
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getScale
 
 ```lua
 void Entity:getScale()

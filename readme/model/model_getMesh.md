@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Model](model):getMesh
+## ![shared](../../.gitbook/assets/shared.png) ![Model](./readme/model "mention"):getMesh
 
 ```lua
 ModelMesh Model:getMesh(name)
@@ -19,5 +19,5 @@ Returns the model mesh if found
 
 | Type   | Description |
 | ------ | ----------: |
-| [ModelMesh](modelmesh) | No description |
+| ![ModelMesh](./readme/modelmesh "mention") | No description |
 

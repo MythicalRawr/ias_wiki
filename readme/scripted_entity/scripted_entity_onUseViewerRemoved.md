@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ENT](ent):onUseViewerRemoved
+## ![client](../../.gitbook/assets/client.png) ![ENT](./readme/ent "mention"):onUseViewerRemoved
 
 ```lua
 void ENT:onUseViewerRemoved(player)
@@ -11,5 +11,5 @@ Triggered a use viewer player is removed
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](player) | player | No description |  |
+| ![Player](./readme/player "mention") | player | No description |  |
 

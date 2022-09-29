@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getModel
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getModel
 
 ```lua
 Model Entity:getModel()
@@ -11,5 +11,5 @@ Returns ent model mesh
 
 | Type   | Description |
 | ------ | ----------: |
-| [Model](model) | No description |
+| ![Model](./readme/model "mention") | No description |
 

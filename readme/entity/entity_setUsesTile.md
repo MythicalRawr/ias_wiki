@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setUsesTile
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setUsesTile
 
 ```lua
 void Entity:setUsesTile(mode)

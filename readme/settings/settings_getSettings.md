@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [settings](settings):getSettings
+## ![client](../../.gitbook/assets/client.png) ![settings](./readme/settings "mention"):getSettings
 
 ```lua
 table settings:getSettings()

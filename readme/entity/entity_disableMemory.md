@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Entity](entity):disableMemory
+## ![client](../../.gitbook/assets/client.png) ![Entity](./readme/entity "mention"):disableMemory
 
 ```lua
 void Entity:disableMemory(disable)

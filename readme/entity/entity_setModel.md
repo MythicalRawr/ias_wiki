@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setModel
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setModel
 
 ```lua
 void Entity:setModel(mdl)
@@ -11,5 +11,5 @@ Sets the entity model
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Model](model) | mdl | No description |  |
+| ![Model](./readme/model "mention") | mdl | No description |  |
 

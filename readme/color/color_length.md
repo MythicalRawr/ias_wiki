@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](color):length
+## ![shared](../../.gitbook/assets/shared.png) ![Color](./readme/color "mention"):length
 
 ```lua
 number Color:length()

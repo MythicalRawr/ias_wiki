@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](gasnetwork):ID
+## ![shared](../../.gitbook/assets/shared.png) ![GasNetwork](./readme/gasnetwork "mention"):ID
 
 ```lua
 number GasNetwork:ID()

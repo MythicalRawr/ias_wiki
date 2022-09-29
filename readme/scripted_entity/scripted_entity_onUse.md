@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](ent):onUse
+## ![server](../../.gitbook/assets/server.png) ![ENT](./readme/ent "mention"):onUse
 
 ```lua
 void ENT:onUse(ent)
@@ -11,5 +11,5 @@ Triggered when a entity presses USE
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | ent | No description |  |
+| ![Entity](./readme/entity "mention") | ent | No description |  |
 

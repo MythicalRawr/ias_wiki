@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):removeItemById
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):removeItemById
 
 ```lua
 boolean Entity:removeItemById(id, amount)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):dot
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):dot
 
 ```lua
 number Vector:dot(other)
@@ -11,7 +11,7 @@ Returns the dot vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](vector) | other | No description |  |
+| ![Vector](./readme/vector "mention") | other | No description |  |
 
 
 ------

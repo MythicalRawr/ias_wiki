@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setUsesPower
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setUsesPower
 
 ```lua
 void Entity:setUsesPower(mode)

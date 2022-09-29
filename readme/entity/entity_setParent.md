@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):setParent
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):setParent
 
 ```lua
 void Entity:setParent(ent)
@@ -11,5 +11,5 @@ Sets the entity parent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | ent | No description |  |
+| ![Entity](./readme/entity "mention") | ent | No description |  |
 

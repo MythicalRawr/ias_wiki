@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [fmt](fmt):format
+## ![shared](../../.gitbook/assets/shared.png) ![fmt](./readme/fmt "mention"):format
 
 ```lua
 string fmt:format(str, ...)

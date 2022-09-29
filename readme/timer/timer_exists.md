@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timer](timer):exists
+## ![shared](../../.gitbook/assets/shared.png) ![timer](./readme/timer "mention"):exists
 
 ```lua
 boolean timer:exists(id)

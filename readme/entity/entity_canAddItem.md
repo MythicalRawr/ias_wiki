@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):canAddItem
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):canAddItem
 
 ```lua
 boolean Entity:canAddItem(slot, count)

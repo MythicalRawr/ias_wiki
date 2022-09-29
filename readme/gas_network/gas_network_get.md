@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](gasnetwork):get
+## ![shared](../../.gitbook/assets/shared.png) ![GasNetwork](./readme/gasnetwork "mention"):get
 
 ```lua
 number GasNetwork:get(gasType)
@@ -11,7 +11,7 @@ Returns amount of gas in a GasNetwork of the type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](gas) | gasType | No description |  |
+| ![GAS](./readme/gas "mention") | gasType | No description |  |
 
 
 ------

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):readBool
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):readBool
 
 ```lua
 boolean Packet:readBool()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector3](vector3):new
+## ![shared](../../.gitbook/assets/shared.png) ![Vector3](./readme/vector3 "mention"):new
 
 ```lua
 Vector3 Vector3:new(x, y, z)
@@ -21,5 +21,5 @@ Vector3 constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector3](vector3) | No description |
+| ![Vector3](./readme/vector3 "mention") | No description |
 

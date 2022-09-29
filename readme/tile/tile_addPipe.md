@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Tile](tile):addPipe
+## ![server](../../.gitbook/assets/server.png) ![Tile](./readme/tile "mention"):addPipe
 
 ```lua
 void Tile:addPipe(networkId)

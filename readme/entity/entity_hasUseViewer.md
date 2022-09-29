@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):hasUseViewer
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):hasUseViewer
 
 ```lua
 boolean Entity:hasUseViewer(id)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onPostLuaReload
+## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onPostLuaReload
 
 ```lua
 void ENT:onPostLuaReload()

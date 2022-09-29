@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):atan2
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):atan2
 
 ```lua
 number Vector:atan2()

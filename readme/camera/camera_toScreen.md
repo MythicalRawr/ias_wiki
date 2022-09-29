@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [camera](camera):toScreen
+## ![shared](../../.gitbook/assets/shared.png) ![camera](./readme/camera "mention"):toScreen
 
 ```lua
 Vector camera:toScreen(pos)
@@ -11,7 +11,7 @@ Converts the world position to screen coordinates
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](vector3) | pos | No description |  |
+| ![Vector3](./readme/vector3 "mention") | pos | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Converts the world position to screen coordinates
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

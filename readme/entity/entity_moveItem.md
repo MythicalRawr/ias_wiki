@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):moveItem
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):moveItem
 
 ```lua
 boolean Entity:moveItem(to, slot, newSlot)
@@ -11,7 +11,7 @@ Moves an item to a different inventory
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | to | No description |  |
+| ![Entity](./readme/entity "mention") | to | No description |  |
 | number | slot | No description |  |
 | number | newSlot | No description |  |
 

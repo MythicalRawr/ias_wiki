@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setUsesGas
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setUsesGas
 
 ```lua
 void Entity:setUsesGas(mode)

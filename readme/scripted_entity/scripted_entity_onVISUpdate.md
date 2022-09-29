@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onVISUpdate
+## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onVISUpdate
 
 ```lua
 void ENT:onVISUpdate(id)

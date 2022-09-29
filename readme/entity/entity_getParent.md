@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getParent
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getParent
 
 ```lua
 Entity Entity:getParent()
@@ -11,5 +11,5 @@ Returns the parent ent (should be checked with hasParent first)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Entity](entity) | No description |
+| ![Entity](./readme/entity "mention") | No description |
 

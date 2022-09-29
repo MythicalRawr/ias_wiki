@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getHealth
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getHealth
 
 ```lua
 number Entity:getHealth()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](player):isDeveloper
+## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):isDeveloper
 
 ```lua
 boolean Player:isDeveloper()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [io](io):save
+## ![shared](../../.gitbook/assets/shared.png) ![io](./readme/io "mention"):save
 
 ```lua
 string io:save(path, data)

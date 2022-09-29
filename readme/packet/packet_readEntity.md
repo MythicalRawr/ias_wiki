@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):readEntity
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):readEntity
 
 ```lua
 ENT Packet:readEntity()
@@ -11,5 +11,5 @@ Reads a entity from the net packet
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](ent) | No description |
+| ![ENT](./readme/ent "mention") | No description |
 

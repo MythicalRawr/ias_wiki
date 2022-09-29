@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [world](world):create
+## ![server](../../.gitbook/assets/server.png) ![world](./readme/world "mention"):create
 
 ```lua
 ENT world:create(class, parent)
@@ -12,7 +12,7 @@ Creates and spawns a new entity on the world
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | class | No description |  |
-| [ENT](ent) | parent | No description | ✔ |
+| ![ENT](./readme/ent "mention") | parent | No description | ✔ |
 
 
 ------
@@ -20,5 +20,5 @@ Creates and spawns a new entity on the world
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](ent) | No description |
+| ![ENT](./readme/ent "mention") | No description |
 

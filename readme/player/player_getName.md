@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](player):getName
+## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):getName
 
 ```lua
 string Player:getName()

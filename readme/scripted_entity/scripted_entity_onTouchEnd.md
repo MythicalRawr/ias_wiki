@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onTouchEnd
+## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onTouchEnd
 
 ```lua
 void ENT:onTouchEnd(entity)
@@ -11,5 +11,5 @@ Called when an entity stops touching another entity (requires physics)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | entity | No description |  |
+| ![Entity](./readme/entity "mention") | entity | No description |  |
 

@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](sound):isValid
+## ![client](../../.gitbook/assets/client.png) ![Sound](./readme/sound "mention"):isValid
 
 ```lua
 boolean Sound:isValid()

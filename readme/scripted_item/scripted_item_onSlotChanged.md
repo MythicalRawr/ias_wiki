@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):onSlotChanged
+## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):onSlotChanged
 
 ```lua
 void ITEM:onSlotChanged(slot)

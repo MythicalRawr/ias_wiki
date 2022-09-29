@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](entity):onPowerConnected
+## ![server](../../.gitbook/assets/server.png) ![Entity](./readme/entity "mention"):onPowerConnected
 
 ```lua
 void Entity:onPowerConnected(network)
@@ -11,5 +11,5 @@ called when a power cable is connected to the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PowerNetwork](powernetwork) | network | No description |  |
+| ![PowerNetwork](./readme/powernetwork "mention") | network | No description |  |
 

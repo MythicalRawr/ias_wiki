@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isUsable
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):isUsable
 
 ```lua
 boolean Entity:isUsable()

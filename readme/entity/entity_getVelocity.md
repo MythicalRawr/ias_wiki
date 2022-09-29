@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getVelocity
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):getVelocity
 
 ```lua
 Vector Entity:getVelocity()
@@ -11,5 +11,5 @@ Returns the velocity of the ent (physics)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

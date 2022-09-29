@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](world):findByClass
+## ![shared](../../.gitbook/assets/shared.png) ![world](./readme/world "mention"):findByClass
 
 ```lua
 ENT[] world:findByClass(class)
@@ -19,5 +19,5 @@ Finds entities in the world by class type (EX: entity_ship)
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](ent[]) | No description |
+| ![ENT[]](./readme/ent[] "mention") | No description |
 

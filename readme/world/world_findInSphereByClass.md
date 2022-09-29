@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](world):findInSphereByClass
+## ![shared](../../.gitbook/assets/shared.png) ![world](./readme/world "mention"):findInSphereByClass
 
 ```lua
 ENT[] world:findInSphereByClass(class, pos, distance)
@@ -12,7 +12,7 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | class | No description |  |
-| [Vector](vector) | pos | No description |  |
+| ![Vector](./readme/vector "mention") | pos | No description |  |
 | number | distance | No description |  |
 
 
@@ -21,5 +21,5 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](ent[]) | No description |
+| ![ENT[]](./readme/ent[] "mention") | No description |
 

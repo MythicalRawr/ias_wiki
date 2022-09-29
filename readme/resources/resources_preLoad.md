@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [resources](resources):preLoad
+## ![shared](../../.gitbook/assets/shared.png) ![resources](./readme/resources "mention"):preLoad
 
 ```lua
 void resources:preLoad(path)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):cross
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):cross
 
 ```lua
 number Vector:cross(other)
@@ -11,7 +11,7 @@ Returns the cross vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](vector) | other | No description |  |
+| ![Vector](./readme/vector "mention") | other | No description |  |
 
 
 ------

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [io](io):load
+## ![shared](../../.gitbook/assets/shared.png) ![io](./readme/io "mention"):load
 
 ```lua
 string, string io:load(path)

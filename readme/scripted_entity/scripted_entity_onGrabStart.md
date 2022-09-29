@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onGrabStart
+## ![shared](../../.gitbook/assets/shared.png) ![ENT](./readme/ent "mention"):onGrabStart
 
 ```lua
 void ENT:onGrabStart(entity)
@@ -11,5 +11,5 @@ Called when an entity starts grabbing this entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | entity | No description |  |
+| ![Entity](./readme/entity "mention") | entity | No description |  |
 

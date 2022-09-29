@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):isValid
+## ![shared](../../.gitbook/assets/shared.png) ![Ghost](./readme/ghost "mention"):isValid
 
 ```lua
 boolean Ghost:isValid()

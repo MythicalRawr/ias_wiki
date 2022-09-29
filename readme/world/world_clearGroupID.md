@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [world](world):clearGroupID
+## ![client](../../.gitbook/assets/client.png) ![world](./readme/world "mention"):clearGroupID
 
 ```lua
 void world:clearGroupID(groupid)

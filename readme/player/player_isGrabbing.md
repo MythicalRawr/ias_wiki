@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](player):isGrabbing
+## ![shared](../../.gitbook/assets/shared.png) ![Player](./readme/player "mention"):isGrabbing
 
 ```lua
 boolean Player:isGrabbing()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setMass
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):setMass
 
 ```lua
 void Entity:setMass(mass)

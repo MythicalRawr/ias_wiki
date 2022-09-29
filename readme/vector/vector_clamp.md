@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):clamp
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):clamp
 
 ```lua
 Vector Vector:clamp(min, max)
@@ -11,8 +11,8 @@ Returns the clamped vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](vector) | min | No description |  |
-| [Vector](vector) | max | No description |  |
+| ![Vector](./readme/vector "mention") | min | No description |  |
+| ![Vector](./readme/vector "mention") | max | No description |  |
 
 
 ------
@@ -20,5 +20,5 @@ Returns the clamped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

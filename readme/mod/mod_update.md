@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [MOD](mod):update
+## ![shared](../../.gitbook/assets/shared.png) ![MOD](./readme/mod "mention"):update
 
 ```lua
 void MOD:update(delta)

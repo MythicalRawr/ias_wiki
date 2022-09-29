@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Model](model):isValid
+## ![shared](../../.gitbook/assets/shared.png) ![Model](./readme/model "mention"):isValid
 
 ```lua
 boolean Model:isValid()

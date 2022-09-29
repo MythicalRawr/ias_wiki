@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Texture](texture):isValid
+## ![client](../../.gitbook/assets/client.png) ![Texture](./readme/texture "mention"):isValid
 
 ```lua
 boolean Texture:isValid()

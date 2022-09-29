@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):hasParent
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):hasParent
 
 ```lua
 boolean Entity:hasParent()

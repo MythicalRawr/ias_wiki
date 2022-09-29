@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](color):dot
+## ![shared](../../.gitbook/assets/shared.png) ![Color](./readme/color "mention"):dot
 
 ```lua
 number Color:dot()

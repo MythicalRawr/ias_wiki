@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):length
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):length
 
 ```lua
 number Vector:length()

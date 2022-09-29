@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeFloat
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):writeFloat
 
 ```lua
 void Packet:writeFloat(data)

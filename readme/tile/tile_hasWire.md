@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Tile](tile):hasWire
+## ![shared](../../.gitbook/assets/shared.png) ![Tile](./readme/tile "mention"):hasWire
 
 ```lua
 boolean Tile:hasWire(type)
@@ -11,7 +11,7 @@ Returns true if the tile has the requested wire type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](wire) | type | No description |  |
+| ![WIRE](./readme/wire "mention") | type | No description |  |
 
 
 ------

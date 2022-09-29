@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ui](ui):create
+## ![client](../../.gitbook/assets/client.png) ![ui](./readme/ui "mention"):create
 
 ```lua
 UIBase ui:create(uiType, parent)
@@ -12,7 +12,7 @@ Creates a new ui base element.
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | uiType | frame, group, button, progress_bar, input, inventory_slot, label, image, keypad, item_list |  |
-| [UIBase](uibase) | parent | No description | ✔ |
+| ![UIBase](./readme/uibase "mention") | parent | No description | ✔ |
 
 
 ------
@@ -20,5 +20,5 @@ Creates a new ui base element.
 
 | Type   | Description |
 | ------ | ----------: |
-| [UIBase](uibase) | No description |
+| ![UIBase](./readme/uibase "mention") | No description |
 

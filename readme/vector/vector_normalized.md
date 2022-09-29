@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):normalized
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):normalized
 
 ```lua
 Vector Vector:normalized()
@@ -11,5 +11,5 @@ Returns the normalized vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [resources](resources):getModel
+## ![shared](../../.gitbook/assets/shared.png) ![resources](./readme/resources "mention"):getModel
 
 ```lua
 Model resources:getModel(path)
@@ -19,5 +19,5 @@ Returns a Model object if loaded successfully, you should use addModel on Mod:on
 
 | Type   | Description |
 | ------ | ----------: |
-| [Model](model) | No description |
+| ![Model](./readme/model "mention") | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):init
+## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):init
 
 ```lua
 void ITEM:init()

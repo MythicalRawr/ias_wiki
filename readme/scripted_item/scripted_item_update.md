@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):update
+## ![shared](../../.gitbook/assets/shared.png) ![ITEM](./readme/item "mention"):update
 
 ```lua
 void ITEM:update(delta)

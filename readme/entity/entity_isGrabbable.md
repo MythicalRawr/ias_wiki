@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isGrabbable
+## ![shared](../../.gitbook/assets/shared.png) ![Entity](./readme/entity "mention"):isGrabbable
 
 ```lua
 boolean Entity:isGrabbable()

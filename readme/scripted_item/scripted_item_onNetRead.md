@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ITEM](item):onNetRead
+## ![client](../../.gitbook/assets/client.png) ![ITEM](./readme/item "mention"):onNetRead
 
 ```lua
 void ITEM:onNetRead(packet)
@@ -11,5 +11,5 @@ The data to read from the netWrite (Server). Use this to sync variables between 
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](packet) | packet | No description |  |
+| ![Packet](./readme/packet "mention") | packet | No description |  |
 

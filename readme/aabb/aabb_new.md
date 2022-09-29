@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [AABB](aabb):new
+## ![shared](../../.gitbook/assets/shared.png) ![AABB](./readme/aabb "mention"):new
 
 ```lua
 AABB AABB:new(x, y, width, height)
@@ -22,5 +22,5 @@ AABB constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [AABB](aabb) | No description |
+| ![AABB](./readme/aabb "mention") | No description |
 

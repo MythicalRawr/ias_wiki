@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):seek
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):seek
 
 ```lua
 void Packet:seek(position)

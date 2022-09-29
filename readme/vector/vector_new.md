@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):new
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):new
 
 ```lua
 Vector Vector:new(x, y)
@@ -20,5 +20,5 @@ Vector constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](vector) | No description |
+| ![Vector](./readme/vector "mention") | No description |
 

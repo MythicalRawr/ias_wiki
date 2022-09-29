@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeEntity
+## ![shared](../../.gitbook/assets/shared.png) ![Packet](./readme/packet "mention"):writeEntity
 
 ```lua
 void Packet:writeEntity(data)
@@ -11,5 +11,5 @@ Writes a entity in the net packet.
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](entity) | data | No description |  |
+| ![Entity](./readme/entity "mention") | data | No description |  |
 

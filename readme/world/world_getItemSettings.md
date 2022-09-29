@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](world):getItemSettings
+## ![shared](../../.gitbook/assets/shared.png) ![world](./readme/world "mention"):getItemSettings
 
 ```lua
 table world:getItemSettings(id)

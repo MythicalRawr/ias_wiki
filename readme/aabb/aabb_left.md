@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [AABB](aabb):left
+## ![shared](../../.gitbook/assets/shared.png) ![AABB](./readme/aabb "mention"):left
 
 ```lua
 number AABB:left()

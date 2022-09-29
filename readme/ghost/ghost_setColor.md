@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Ghost](ghost):setColor
+## ![client](../../.gitbook/assets/client.png) ![Ghost](./readme/ghost "mention"):setColor
 
 ```lua
 void Ghost:setColor(color)
@@ -11,5 +11,5 @@ Sets the current ghost color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](color) | color | No description |  |
+| ![Color](./readme/color "mention") | color | No description |  |
 

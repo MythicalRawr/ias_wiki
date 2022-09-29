@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):isNaN
+## ![shared](../../.gitbook/assets/shared.png) ![Vector](./readme/vector "mention"):isNaN
 
 ```lua
 boolean Vector:isNaN()
