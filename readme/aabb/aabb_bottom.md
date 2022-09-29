@@ -1,4 +1,6 @@
-## ![shared](.gitbook/assets/shared.png) [AABB](./readme/AABB/README.md):bottom
+# AABB:bottom
+
+### ![shared](../../.gitbook/assets/global.png) [AABB](readme/AABB/):bottom
 
 ```lua
 number AABB:bottom()
@@ -6,10 +8,10 @@ number AABB:bottom()
 
 Returns the bottom
 
-------
-## Returns
+***
 
-| Type   | Description |
-| ------ | ----------: |
+### Returns
+
+| Type   |    Description |
+| ------ | -------------: |
 | number | No description |
-
