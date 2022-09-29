@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) printTable
 
-
-
 ```lua
 void printTable(tbl, indentation, done)
 ```
 
 Pretty prints the given table
-
 ------
 ## Parameters
 
@@ -16,5 +13,4 @@ Pretty prints the given table
 | table | tbl | No description |  |
 | number | indentation | No description |  |
 | function | done | No description |  |
-
 

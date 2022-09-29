@@ -1,18 +1,14 @@
-## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
-
-
+## ![server](.gitbook/assets/server.png) [Entity](./home/Entity):onPowerDisconnected
 
 ```lua
 void Entity:onPowerDisconnected(network)
 ```
 
 called when a power cable is disconnected from the entity
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PowerNetwork](home/PowerNetwork) | network | No description |  |
-
+| [PowerNetwork](./home/PowerNetwork) | network | No description |  |
 

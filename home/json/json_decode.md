@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [json](home/json)
-
-
+## ![shared](.gitbook/assets/shared.png) [json](./home/json):decode
 
 ```lua
 table json:decode(data)
 ```
 
 Decodes a json string to a lua table
-
 ------
 ## Parameters
 

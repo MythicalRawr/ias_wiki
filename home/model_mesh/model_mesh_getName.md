@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [ModelMesh](home/ModelMesh)
-
-
+## ![shared](.gitbook/assets/shared.png) [ModelMesh](./home/ModelMesh):getName
 
 ```lua
 string ModelMesh:getName()
 ```
 
 Returns the mesh name
-
-
 ------
 ## Returns
 

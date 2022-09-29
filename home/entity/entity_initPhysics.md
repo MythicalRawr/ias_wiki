@@ -1,19 +1,15 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):initPhysics
 
 ```lua
 void Entity:initPhysics(phys, block)
 ```
 
 Sets the entity physics type,If block is set, the VIS will be blocked by it
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PHYSICS](home/PHYSICS) | phys | No description | ✔ |
+| [PHYSICS](./home/PHYSICS) | phys | No description | ✔ |
 | boolean | block | No description | ✔ |
-
 

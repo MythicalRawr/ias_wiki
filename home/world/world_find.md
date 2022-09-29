@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [world](home/world)
-
-
+## ![shared](.gitbook/assets/shared.png) [world](./home/world):find
 
 ```lua
 ENT world:find(id)
 ```
 
 Finds an entity in the world by id
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Finds an entity in the world by id
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](home/ENT) | No description |
+| [ENT](./home/ENT) | No description |
 

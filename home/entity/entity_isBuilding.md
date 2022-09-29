@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):isBuilding
 
 ```lua
 boolean Entity:isBuilding()
 ```
 
 Returns true if the ent is buildable
-
-
 ------
 ## Returns
 

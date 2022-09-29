@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):isPowered
 
 ```lua
 boolean Entity:isPowered()
 ```
 
 Returns true if the ent is powered
-
-
 ------
 ## Returns
 

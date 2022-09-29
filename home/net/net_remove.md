@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [net](home/net)
-
-
+## ![shared](.gitbook/assets/shared.png) [net](./home/net):remove
 
 ```lua
 void net:remove(netId, hookName)
 ```
 
 Remove a listener for a specific netId
-
 ------
 ## Parameters
 
@@ -15,5 +12,4 @@ Remove a listener for a specific netId
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
 | string | hookName | No description |  |
-
 

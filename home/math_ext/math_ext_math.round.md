@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) math.round
 
-
-
 ```lua
 number math.round(val)
 ```
 
 Returns the rounded number
-
 ------
 ## Parameters
 

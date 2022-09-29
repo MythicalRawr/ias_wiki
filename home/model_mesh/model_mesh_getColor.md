@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [ModelMesh](home/ModelMesh)
-
-
+## ![shared](.gitbook/assets/shared.png) [ModelMesh](./home/ModelMesh):getColor
 
 ```lua
 Color ModelMesh:getColor()
 ```
 
 Gets the mesh color
-
-
 ------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](home/Color) | No description |
+| [Color](./home/Color) | No description |
 

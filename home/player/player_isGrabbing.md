@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Player](home/Player)
-
-
+## ![shared](.gitbook/assets/shared.png) [Player](./home/Player):isGrabbing
 
 ```lua
 boolean Player:isGrabbing()
 ```
 
 Returns true if the player is grabbing an object
-
-
 ------
 ## Returns
 

@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):findItemSlots
 
 ```lua
 number[] Entity:findItemSlots(id)
 ```
 
 Returns the slots where the given item id is present
-
 ------
 ## Parameters
 

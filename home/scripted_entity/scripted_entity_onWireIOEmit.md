@@ -1,13 +1,10 @@
-## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
-
-
+## ![server](.gitbook/assets/server.png) [ENT](./home/ENT):onWireIOEmit
 
 ```lua
 void ENT:onWireIOEmit(id, hasSignal)
 ```
 
 Triggered when the wire emits a signal
-
 ------
 ## Parameters
 
@@ -15,5 +12,4 @@ Triggered when the wire emits a signal
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
 | boolean | hasSignal | No description |  |
-
 

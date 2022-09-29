@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):setMeshTrigger
 
 ```lua
 void Entity:setMeshTrigger(name, trigger)
 ```
 
 Sets the entity physics mesh id as a trigger
-
 ------
 ## Parameters
 
@@ -15,5 +12,4 @@ Sets the entity physics mesh id as a trigger
 | ------ | ---- | ----------- | -------: |
 | string | name | No description |  |
 | boolean | trigger | No description |  |
-
 

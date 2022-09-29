@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [hooks](home/hooks)
-
-
+## ![shared](.gitbook/assets/shared.png) [hooks](./home/hooks):remove
 
 ```lua
 void hooks:remove(hookId, hookName)
 ```
 
 Remove a hook (aka listener) for a specific hookId
-
 ------
 ## Parameters
 
@@ -15,5 +12,4 @@ Remove a hook (aka listener) for a specific hookId
 | ------ | ---- | ----------- | -------: |
 | string | hookId | No description |  |
 | string | hookName | No description |  |
-
 

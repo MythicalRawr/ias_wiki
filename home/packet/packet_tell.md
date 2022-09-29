@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):tell
 
 ```lua
 number Packet:tell()
 ```
 
 Returns the current position of the cursor
-
-
 ------
 ## Returns
 

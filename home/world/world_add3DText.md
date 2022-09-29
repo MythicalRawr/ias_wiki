@@ -1,13 +1,10 @@
-## ![client](.gitbook/assets/client.png) [world](home/world)
-
-
+## ![client](.gitbook/assets/client.png) [world](./home/world):add3DText
 
 ```lua
 void world:add3DText(speaker, msg, color)
 ```
 
 Creates a client side chat text
-
 ------
 ## Parameters
 
@@ -15,6 +12,5 @@ Creates a client side chat text
 | ------ | ---- | ----------- | -------: |
 | string | speaker | No description |  |
 | string | msg | No description |  |
-| [Color](home/Color) | color | No description | ✔ |
-
+| [Color](./home/Color) | color | No description | ✔ |
 

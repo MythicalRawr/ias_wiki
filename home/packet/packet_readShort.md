@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):readShort
 
 ```lua
 number Packet:readShort()
 ```
 
 Reads a short from the net packet
-
-
 ------
 ## Returns
 

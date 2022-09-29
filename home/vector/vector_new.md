@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Vector](home/Vector)
-
-
+## ![shared](.gitbook/assets/shared.png) [Vector](./home/Vector):new
 
 ```lua
 Vector Vector:new(x, y)
 ```
 
 Vector constructor
-
 ------
 ## Parameters
 
@@ -21,5 +18,5 @@ Vector constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](home/Vector) | No description |
+| [Vector](./home/Vector) | No description |
 

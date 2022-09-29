@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):forward
 
 ```lua
 Vector Entity:forward(distance)
 ```
 
 Returns ent forward facing position
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns ent forward facing position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](home/Vector) | No description |
+| [Vector](./home/Vector) | No description |
 

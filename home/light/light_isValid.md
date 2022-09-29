@@ -1,14 +1,10 @@
-## ![client](.gitbook/assets/client.png) [light](home/light)
-
-
+## ![client](.gitbook/assets/client.png) [light](./home/light):isValid
 
 ```lua
 boolean light:isValid()
 ```
 
 Returns true if the light is valid
-
-
 ------
 ## Returns
 

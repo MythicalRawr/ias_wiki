@@ -1,13 +1,10 @@
-## ![client](.gitbook/assets/client.png) [language](home/language)
-
-
+## ![client](.gitbook/assets/client.png) [language](./home/language):get
 
 ```lua
 string language:get(modID, key, ...)
 ```
 
 Returns the i18n string (values are optional)
-
 ------
 ## Parameters
 
@@ -15,7 +12,7 @@ Returns the i18n string (values are optional)
 | ------ | ---- | ----------- | -------: |
 | string | modID | No description |  |
 | string | key | No description |  |
-| [any](home/any) | ... | No description | ✔ |
+| [any](./home/any) | ... | No description | ✔ |
 
 ------
 ## Returns

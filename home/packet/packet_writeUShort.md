@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):writeUShort
 
 ```lua
 void Packet:writeUShort(data)
 ```
 
 Writes a unsigned short in the net packet.
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | data | No description |  |
-
 

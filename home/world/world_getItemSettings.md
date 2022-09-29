@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [world](home/world)
-
-
+## ![shared](.gitbook/assets/shared.png) [world](./home/world):getItemSettings
 
 ```lua
 table world:getItemSettings(id)
 ```
 
 Gets the given item id settings
-
 ------
 ## Parameters
 

@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getItem
 
 ```lua
 ITEM Entity:getItem(index)
 ```
 
 Returns the item by index
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns the item by index
 
 | Type   | Description |
 | ------ | ----------: |
-| [ITEM](home/ITEM) | No description |
+| [ITEM](./home/ITEM) | No description |
 

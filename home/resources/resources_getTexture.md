@@ -1,13 +1,10 @@
-## ![client](.gitbook/assets/client.png) [resources](home/resources)
-
-
+## ![client](.gitbook/assets/client.png) [resources](./home/resources):getTexture
 
 ```lua
 Texture resources:getTexture(path)
 ```
 
 Returns a Texture object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the texture and not block the client
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns a Texture object if loaded successfully, you should use preLoad on Mod:o
 
 | Type   | Description |
 | ------ | ----------: |
-| [Texture](home/Texture) | No description |
+| [Texture](./home/Texture) | No description |
 

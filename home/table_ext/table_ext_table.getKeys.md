@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) table.getKeys
 
-
-
 ```lua
 table table.getKeys(tbl)
 ```
 
 Returns the table keys
-
 ------
 ## Parameters
 

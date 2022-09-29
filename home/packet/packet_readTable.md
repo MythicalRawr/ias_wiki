@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):readTable
 
 ```lua
 table Packet:readTable()
 ```
 
 Reads a table from the net packet
-
-
 ------
 ## Returns
 

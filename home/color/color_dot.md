@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Color](home/Color)
-
-
+## ![shared](.gitbook/assets/shared.png) [Color](./home/Color):dot
 
 ```lua
 number Color:dot()
 ```
 
 Returns the dot color
-
-
 ------
 ## Returns
 

@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [world](home/world)
-
-
+## ![shared](.gitbook/assets/shared.png) [world](./home/world):findByClass
 
 ```lua
 ENT[] world:findByClass(class)
 ```
 
 Finds entities in the world by class type (EX: entity_ship)
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Finds entities in the world by class type (EX: entity_ship)
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](home/ENT[]) | No description |
+| [ENT[]](./home/ENT[]) | No description |
 

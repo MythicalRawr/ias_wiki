@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [timer](home/timer)
-
-
+## ![shared](.gitbook/assets/shared.png) [timer](./home/timer):get
 
 ```lua
 timerObj timer:get(id)
 ```
 
 Returns a timerObj with the given id, make sure you validate with timer:exists first.
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 
 | Type   | Description |
 | ------ | ----------: |
-| [timerObj](home/timerObj) | No description |
+| [timerObj](./home/timerObj) | No description |
 

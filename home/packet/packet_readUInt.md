@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):readUInt
 
 ```lua
 number Packet:readUInt()
 ```
 
 Reads a unsigned int from the net packet
-
-
 ------
 ## Returns
 

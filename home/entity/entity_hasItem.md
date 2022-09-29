@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):hasItem
 
 ```lua
 boolean Entity:hasItem(id)
 ```
 
 Returns true if the storage has the given id
-
 ------
 ## Parameters
 

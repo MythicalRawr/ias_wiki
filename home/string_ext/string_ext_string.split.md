@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) string.split
 
-
-
 ```lua
 string[] string.split(str, sep, max)
 ```
 
 Splits the string with the given seperator
-
 ------
 ## Parameters
 

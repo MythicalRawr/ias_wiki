@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getLocalPos
 
 ```lua
 Vector Entity:getLocalPos()
 ```
 
 Returns the ent local position (relative to the parent)
-
-
 ------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](home/Vector) | No description |
+| [Vector](./home/Vector) | No description |
 

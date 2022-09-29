@@ -1,18 +1,14 @@
-## ![client](.gitbook/assets/client.png) [ITEM](home/ITEM)
-
-
+## ![client](.gitbook/assets/client.png) [ITEM](./home/ITEM):updateIcon
 
 ```lua
 void ITEM:updateIcon(path)
 ```
 
-Update the item icon (client side only)
-
+Update the item icon
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | path | No description |  |
-
 

@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) math.clamp
 
-
-
 ```lua
 number math.clamp(val, min, max)
 ```
 
 Clamps a number
-
 ------
 ## Parameters
 

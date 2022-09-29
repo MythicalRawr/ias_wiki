@@ -1,14 +1,10 @@
-## ![client](.gitbook/assets/client.png) [Sound](home/Sound)
-
-
+## ![client](.gitbook/assets/client.png) [Sound](./home/Sound):isValid
 
 ```lua
 boolean Sound:isValid()
 ```
 
 Returns true if the sound is valid
-
-
 ------
 ## Returns
 

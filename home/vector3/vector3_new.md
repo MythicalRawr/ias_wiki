@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Vector3](home/Vector3)
-
-
+## ![shared](.gitbook/assets/shared.png) [Vector3](./home/Vector3):new
 
 ```lua
 Vector3 Vector3:new(x, y, z)
 ```
 
 Vector3 constructor
-
 ------
 ## Parameters
 
@@ -22,5 +19,5 @@ Vector3 constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector3](home/Vector3) | No description |
+| [Vector3](./home/Vector3) | No description |
 

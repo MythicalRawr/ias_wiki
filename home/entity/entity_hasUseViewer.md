@@ -1,13 +1,10 @@
-## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
-
-
+## ![server](.gitbook/assets/server.png) [Entity](./home/Entity):hasUseViewer
 
 ```lua
 boolean Entity:hasUseViewer(id)
 ```
 
 Returns true if the given ent id is registered as a use viewer
-
 ------
 ## Parameters
 

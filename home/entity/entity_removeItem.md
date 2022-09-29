@@ -1,13 +1,10 @@
-## ![server](.gitbook/assets/server.png) [Entity](home/Entity)
-
-
+## ![server](.gitbook/assets/server.png) [Entity](./home/Entity):removeItem
 
 ```lua
 boolean Entity:removeItem(slot, amount)
 ```
 
 Removes the given amount (if not set, the whole item) on the given slot
-
 ------
 ## Parameters
 

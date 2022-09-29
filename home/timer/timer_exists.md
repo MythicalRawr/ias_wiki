@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [timer](home/timer)
-
-
+## ![shared](.gitbook/assets/shared.png) [timer](./home/timer):exists
 
 ```lua
 boolean timer:exists(id)
 ```
 
 Returns true if a timer with the given id exists
-
 ------
 ## Parameters
 

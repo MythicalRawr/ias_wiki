@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getItemCountById
 
 ```lua
 number Entity:getItemCountById(id)
 ```
 
 Returns the total amount of the item on the storage by id
-
 ------
 ## Parameters
 

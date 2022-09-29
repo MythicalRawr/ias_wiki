@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [json](home/json)
-
-
+## ![shared](.gitbook/assets/shared.png) [json](./home/json):encode
 
 ```lua
 string json:encode(data)
 ```
 
 Encodes a table to a json string
-
 ------
 ## Parameters
 

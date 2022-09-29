@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) math.isFinite
 
-
-
 ```lua
 boolean math.isFinite(val)
 ```
 
 Returns true if the number is finite
-
 ------
 ## Parameters
 

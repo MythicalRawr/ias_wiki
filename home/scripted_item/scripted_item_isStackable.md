@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [ITEM](home/ITEM)
-
-
+## ![shared](.gitbook/assets/shared.png) [ITEM](./home/ITEM):isStackable
 
 ```lua
 boolean ITEM:isStackable()
 ```
 
 Returns true if the item is stackable
-
-
 ------
 ## Returns
 

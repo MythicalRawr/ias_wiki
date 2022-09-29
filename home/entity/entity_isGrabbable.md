@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):isGrabbable
 
 ```lua
 boolean Entity:isGrabbable()
 ```
 
 Returns true if the ent is grabbable
-
-
 ------
 ## Returns
 

@@ -1,6 +1,4 @@
-## ![shared](.gitbook/assets/shared.png) [console](home/console)
-
-
+## ![shared](.gitbook/assets/shared.png) [console](./home/console):register
 
 ```lua
 void console:register(command, callback, description, flags)
@@ -22,8 +20,7 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | command | No description |  |
-| [fun(args:](home/fun(args:) | callback | string[]): success: boolean, msg: string ⚠️ The callback must return a boolean and a string (true or false if sucessfull, and the error / sucess message) ⚠️ |  |
+| function | callback | fun(args: string[]): success: boolean, msg: string |  |
 | string | description | No description | ✔ |
-| [CONSOLE.FLAGS](home/CONSOLE.FLAGS) | flags | No description | ✔ |
-
+| [CONSOLE.FLAGS](./home/CONSOLE.FLAGS) | flags | No description | ✔ |
 

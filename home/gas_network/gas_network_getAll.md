@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [GasNetwork](home/GasNetwork)
-
-
+## ![shared](.gitbook/assets/shared.png) [GasNetwork](./home/GasNetwork):getAll
 
 ```lua
 table GasNetwork:getAll()
 ```
 
 Returns all gasses that are in the GasNetwork
-
-
 ------
 ## Returns
 

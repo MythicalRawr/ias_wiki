@@ -1,7 +1,5 @@
 ## ![unknown](.gitbook/assets/unknown.png) ![Base](.gitbook/assets/base.png) Vector3
 
-
-
 ------
 ## Fields
 

@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [timer](home/timer)
-
-
+## ![shared](.gitbook/assets/shared.png) [timer](./home/timer):create
 
 ```lua
 timerObj timer:create(id, interval, ticks, callback)
 ```
 
 Creates a timer using the unique id, triggering every x seconds for an x ammount of times.,If ticks is set to <= than 0, it will run infinitely
-
 ------
 ## Parameters
 
@@ -16,12 +13,12 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 | string | id | No description |  |
 | number | interval | No description |  |
 | number | ticks | No description |  |
-| [fun()](home/fun()) | callback | No description |  |
+| function | callback | fun(data?: any): void |  |
 
 ------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
-| [timerObj](home/timerObj) | No description |
+| [timerObj](./home/timerObj) | No description |
 

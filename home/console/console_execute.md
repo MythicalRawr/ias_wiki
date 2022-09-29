@@ -1,9 +1,7 @@
-## ![shared](.gitbook/assets/shared.png) [console](home/console)
-
-
+## ![shared](.gitbook/assets/shared.png) [console](./home/console):execute
 
 ```lua
-boolean, console:execute(args)
+boolean, string console:execute(args)
 ```
 
 Executes a console command programmatically
@@ -24,5 +22,6 @@ console:execute({"my_command", "true"})
 
 | Type   | Description |
 | ------ | ----------: |
-| [boolean,](home/boolean,) | string |
+| boolean | If command was executed successfully |
+| string | The error / success message |
 

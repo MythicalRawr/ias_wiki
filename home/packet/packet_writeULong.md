@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):writeULong
 
 ```lua
 void Packet:writeULong(data)
 ```
 
 Writes a unsigned long in the net packet.
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | data | No description |  |
-
 

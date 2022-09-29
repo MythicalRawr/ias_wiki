@@ -1,13 +1,10 @@
 ## ![shared](.gitbook/assets/shared.png) string.trim
 
-
-
 ```lua
 string string.trim(str)
 ```
 
 Removes string white spaces
-
 ------
 ## Parameters
 

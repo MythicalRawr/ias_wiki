@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):readDouble
 
 ```lua
 number Packet:readDouble()
 ```
 
 Reads a double from the net packet
-
-
 ------
 ## Returns
 

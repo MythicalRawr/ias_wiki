@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getAvailableSlotById
 
 ```lua
 number Entity:getAvailableSlotById(id, amount)
 ```
 
 Returns the available slot index by id
-
 ------
 ## Parameters
 

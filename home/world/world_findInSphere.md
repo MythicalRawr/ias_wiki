@@ -1,19 +1,16 @@
-## ![shared](.gitbook/assets/shared.png) [world](home/world)
-
-
+## ![shared](.gitbook/assets/shared.png) [world](./home/world):findInSphere
 
 ```lua
 ENT[] world:findInSphere(pos, distance)
 ```
 
 Finds entities in the world in a sphere radius
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](home/Vector) | pos | No description |  |
+| [Vector](./home/Vector) | pos | No description |  |
 | number | distance | No description |  |
 
 ------
@@ -21,5 +18,5 @@ Finds entities in the world in a sphere radius
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](home/ENT[]) | No description |
+| [ENT[]](./home/ENT[]) | No description |
 

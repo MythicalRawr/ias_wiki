@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [ITEM](home/ITEM)
-
-
+## ![shared](.gitbook/assets/shared.png) [ITEM](./home/ITEM):ID
 
 ```lua
 string ITEM:ID()
 ```
 
 Returns the item unique id (class)
-
-
 ------
 ## Returns
 

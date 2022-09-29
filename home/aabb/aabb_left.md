@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
-
-
+## ![shared](.gitbook/assets/shared.png) [AABB](./home/AABB):left
 
 ```lua
 number AABB:left()
 ```
 
 Returns the left
-
-
 ------
 ## Returns
 

@@ -1,18 +1,14 @@
-## ![client](.gitbook/assets/client.png) [lights](home/lights)
-
-
+## ![client](.gitbook/assets/client.png) [lights](./home/lights):remove
 
 ```lua
 void lights:remove(id)
 ```
 
 Removes the a light by id
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
-
 

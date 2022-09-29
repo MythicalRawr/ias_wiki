@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Player](home/Player)
-
-
+## ![shared](.gitbook/assets/shared.png) [Player](./home/Player):isRotationDisabled
 
 ```lua
 boolean Player:isRotationDisabled()
 ```
 
 Returns true if the player rotation is disabled
-
-
 ------
 ## Returns
 

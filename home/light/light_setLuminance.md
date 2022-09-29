@@ -1,18 +1,14 @@
-## ![client](.gitbook/assets/client.png) [light](home/light)
-
-
+## ![client](.gitbook/assets/client.png) [light](./home/light):setLuminance
 
 ```lua
-void light:setFalloffEnd(val)
+void light:setLuminance(val)
 ```
 
-Sets the light falloff end
-
+Sets the light luminance
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | val | No description |  |
-
 

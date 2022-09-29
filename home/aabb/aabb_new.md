@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
-
-
+## ![shared](.gitbook/assets/shared.png) [AABB](./home/AABB):new
 
 ```lua
 AABB AABB:new(x, y, width, height)
 ```
 
 AABB constructor
-
 ------
 ## Parameters
 
@@ -23,5 +20,5 @@ AABB constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [AABB](home/AABB) | No description |
+| [AABB](./home/AABB) | No description |
 

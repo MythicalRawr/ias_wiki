@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Packet](home/Packet)
-
-
+## ![shared](.gitbook/assets/shared.png) [Packet](./home/Packet):readFloat
 
 ```lua
 number Packet:readFloat()
 ```
 
 Reads a float from the net packet
-
-
 ------
 ## Returns
 

@@ -1,18 +1,14 @@
-## ![server](.gitbook/assets/server.png) [ENT](home/ENT)
-
-
+## ![server](.gitbook/assets/server.png) [ENT](./home/ENT):onWireIOConnected
 
 ```lua
 void ENT:onWireIOConnected(id)
 ```
 
 Triggered when the entity is connected to the wire IO
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-
 

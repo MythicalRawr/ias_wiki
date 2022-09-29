@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):canAddItem
 
 ```lua
 boolean Entity:canAddItem(slot, count)
 ```
 
 Returns true if you can add an item on the given slot with the given amount
-
 ------
 ## Parameters
 

@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [world](home/world)
-
-
+## ![shared](.gitbook/assets/shared.png) [world](./home/world):getMod
 
 ```lua
 WorkshopMOD world:getMod(id)
 ```
 
 Returns the mod with the given id, if found,⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns the mod with the given id, if found,⚠ BE VERY CAREFUL, YOU MIGHT MESS 
 
 | Type   | Description |
 | ------ | ----------: |
-| [WorkshopMOD](home/WorkshopMOD) | No description |
+| [WorkshopMOD](./home/WorkshopMOD) | No description |
 

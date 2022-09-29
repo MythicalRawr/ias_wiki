@@ -1,19 +1,16 @@
-## ![shared](.gitbook/assets/shared.png) [Vector](home/Vector)
-
-
+## ![shared](.gitbook/assets/shared.png) [Vector](./home/Vector):lerp
 
 ```lua
 Vector Vector:lerp(other, t)
 ```
 
 Returns the lerped vector
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](home/Vector) | other | No description |  |
+| [Vector](./home/Vector) | other | No description |  |
 | number | t | No description |  |
 
 ------
@@ -21,5 +18,5 @@ Returns the lerped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](home/Vector) | No description |
+| [Vector](./home/Vector) | No description |
 

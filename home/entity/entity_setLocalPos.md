@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):setLocalPos
 
 ```lua
 void Entity:setLocalPos(pos)
 ```
 
 Sets the position of the ent (relative to the parent)
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](home/Vector) | pos | No description |  |
-
+| [Vector](./home/Vector) | pos | No description |  |
 

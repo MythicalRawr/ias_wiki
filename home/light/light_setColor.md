@@ -1,18 +1,14 @@
-## ![client](.gitbook/assets/client.png) [light](home/light)
-
-
+## ![client](.gitbook/assets/client.png) [light](./home/light):setColor
 
 ```lua
 void light:setColor(color)
 ```
 
 Sets the light color
-
 ------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](home/Color) | color | No description |  |
-
+| [Color](./home/Color) | color | No description |  |
 

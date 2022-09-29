@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [resources](home/resources)
-
-
+## ![shared](.gitbook/assets/shared.png) [resources](./home/resources):getModel
 
 ```lua
 Model resources:getModel(path)
 ```
 
 Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client
-
 ------
 ## Parameters
 
@@ -20,5 +17,5 @@ Returns a Model object if loaded successfully, you should use addModel on Mod:on
 
 | Type   | Description |
 | ------ | ----------: |
-| [Model](home/Model) | No description |
+| [Model](./home/Model) | No description |
 

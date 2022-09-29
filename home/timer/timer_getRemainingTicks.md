@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [timerObj](home/timerObj)
-
-
+## ![shared](.gitbook/assets/shared.png) [timerObj](./home/timerObj):getRemainingTicks
 
 ```lua
 number timerObj:getRemainingTicks()
 ```
 
 Returns how many remaining ticks the timer has
-
-
 ------
 ## Returns
 

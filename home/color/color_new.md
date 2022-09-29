@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Color](home/Color)
-
-
+## ![shared](.gitbook/assets/shared.png) [Color](./home/Color):new
 
 ```lua
 Color Color:new(r, g, b, a)
 ```
 
 Color constructor
-
 ------
 ## Parameters
 
@@ -23,5 +20,5 @@ Color constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](home/Color) | No description |
+| [Color](./home/Color) | No description |
 

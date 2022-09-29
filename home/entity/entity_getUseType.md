@@ -1,18 +1,14 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getUseType
 
 ```lua
 USE Entity:getUseType()
 ```
 
 Returns the ent use type
-
-
 ------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
-| [USE](home/USE) | No description |
+| [USE](./home/USE) | No description |
 

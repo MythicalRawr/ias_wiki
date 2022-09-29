@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [net](home/net)
-
-
+## ![shared](.gitbook/assets/shared.png) [net](./home/net):listen
 
 ```lua
 void net:listen(netId, hookName, callback)
 ```
 
 Creates a listener for a specific netId. Make sure your hookName is unique, it might get replaced by other listeners!
-
 ------
 ## Parameters
 
@@ -15,6 +12,5 @@ Creates a listener for a specific netId. Make sure your hookName is unique, it m
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
 | string | hookName | No description |  |
-| [fun(data:](home/fun(data:) | callback | any) |  |
-
+| function | callback | fun(data: any) |  |
 

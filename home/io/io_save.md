@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [io](home/io)
-
-
+## ![shared](.gitbook/assets/shared.png) [io](./home/io):save
 
 ```lua
 string io:save(path, data)
 ```
 
 Saves a file on the data folder, make sure you pass the extension on the filePath
-
 ------
 ## Parameters
 

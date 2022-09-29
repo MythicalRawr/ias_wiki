@@ -1,14 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [AABB](home/AABB)
-
-
+## ![shared](.gitbook/assets/shared.png) [AABB](./home/AABB):top
 
 ```lua
 number AABB:top()
 ```
 
 Returns the top
-
-
 ------
 ## Returns
 

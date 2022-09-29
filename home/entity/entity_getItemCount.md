@@ -1,13 +1,10 @@
-## ![shared](.gitbook/assets/shared.png) [Entity](home/Entity)
-
-
+## ![shared](.gitbook/assets/shared.png) [Entity](./home/Entity):getItemCount
 
 ```lua
 number Entity:getItemCount(slot)
 ```
 
 Returns the total amount of the item on the slot
-
 ------
 ## Parameters
 
