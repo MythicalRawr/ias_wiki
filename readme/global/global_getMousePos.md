@@ -1,0 +1,15 @@
+## ![client](.gitbook/assets/client.png) getMousePos
+
+```lua
+Vector getMousePos()
+```
+
+Returns the local player last mouse position
+
+------
+## Returns
+
+| Type   | Description |
+| ------ | ----------: |
+| [Vector](./readme/Vector/README.md) | No description |
+
