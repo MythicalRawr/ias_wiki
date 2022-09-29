@@ -7,7 +7,10 @@ const init = () => {
     const extensionTemplate = fs.readFileSync('./md-templates/EXTENSION_TEMPLATE.md', 'utf8');
     const summaryTemplate = fs.readFileSync('./md-templates/SUMMARY_TEMPLATE.md', 'utf8');
 
-    new WikiExtract('./ias-lib/**/*.lua', './readme', {
+    const website = 'https://iaswiki.rawr.dev/';
+    const output = 'readme';
+
+    new WikiExtract('./ias-lib/**/*.lua', `./${output}`, {
         templates: {
             summary: summaryTemplate,
             method: methodTemplate,
@@ -16,9 +19,12 @@ const init = () => {
         },
         mdLinkParser: (type, outputFolder, data) => {
             if (type === '$TITLE_NAME$') {
-                return `[${data.title.link}](${data.title.link.toLowerCase()})${data.title.msg.replace(data.title.link, '')}`;
+                return `[${data.title.link}](${website}${output}/${data.title.link.toLowerCase()})${data.title.msg.replace(
+                    data.title.link,
+                    '',
+                )}`;
             } else if (type === '$PARAMETERS$' || type === '$RETURNS$' || type === '$FIELDS$') {
-                return `[${data.link}](${data.link.toLowerCase()})`;
+                return `[${data.link}](${website}${output}/${data.link.toLowerCase()})`;
             } else if (type === 'SUMMARY') {
                 if (data.fileName) {
                     // Not root
