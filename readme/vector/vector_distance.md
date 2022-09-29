@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):distance
+## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):distance
 
 ```lua
 number Vector:distance(other)
@@ -11,7 +11,7 @@ Returns the distance of the vector from the given vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | other | No description |  |
+| [Vector](vector) | other | No description |  |
 
 
 ------

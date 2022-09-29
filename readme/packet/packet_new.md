@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):new
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):new
 
 ```lua
 Packet Packet:new()
@@ -11,5 +11,5 @@ Packet constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Packet](./readme/packet.md) | No description |
+| [Packet](packet) | No description |
 

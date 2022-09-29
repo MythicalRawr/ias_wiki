@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):writeString
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeString
 
 ```lua
 void Packet:writeString(data)

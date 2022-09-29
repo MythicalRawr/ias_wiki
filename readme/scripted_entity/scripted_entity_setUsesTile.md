@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesTile
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):setUsesTile
 
 ```lua
 void ENT:setUsesTile(set)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getStorageItems
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getStorageItems
 
 ```lua
 table Entity:getStorageItems()

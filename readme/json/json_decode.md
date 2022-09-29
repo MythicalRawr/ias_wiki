@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [json](./readme/json.md):decode
+## ![shared](../../.gitbook/assets/shared.png) [json](json):decode
 
 ```lua
 table json:decode(data)

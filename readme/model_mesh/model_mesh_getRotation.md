@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):getRotation
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):getRotation
 
 ```lua
 number ModelMesh:getRotation()

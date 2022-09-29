@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Room](./readme/room.md):isValid
+## ![shared](../../.gitbook/assets/shared.png) [Room](room):isValid
 
 ```lua
 boolean Room:isValid()

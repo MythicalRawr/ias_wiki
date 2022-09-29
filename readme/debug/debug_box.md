@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [worldDebug](./readme/worlddebug.md):box
+## ![client](../../.gitbook/assets/client.png) [worldDebug](worlddebug):box
 
 ```lua
 void worldDebug:box(pos, ttl, size, color, outline)
@@ -11,9 +11,9 @@ Draws a 3D debug box that will vanish after the given ttl time
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](./readme/vector3.md) | pos | No description |  |
+| [Vector3](vector3) | pos | No description |  |
 | number | ttl | No description |  |
-| [Vector](./readme/vector.md) | size | No description | ✔ |
-| [Color](./readme/color.md) | color | No description | ✔ |
+| [Vector](vector) | size | No description | ✔ |
+| [Color](color) | color | No description | ✔ |
 | boolean | outline | No description | ✔ |
 

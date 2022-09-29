@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ENT](./readme/ent.md):onUseViewerAdded
+## ![client](../../.gitbook/assets/client.png) [ENT](ent):onUseViewerAdded
 
 ```lua
 void ENT:onUseViewerAdded(player)
@@ -11,5 +11,5 @@ Triggered a use viewer player is added
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](./readme/player.md) | player | No description |  |
+| [Player](player) | player | No description |  |
 

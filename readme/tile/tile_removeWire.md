@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Tile](./readme/tile.md):removeWire
+## ![server](../../.gitbook/assets/server.png) [Tile](tile):removeWire
 
 ```lua
 void Tile:removeWire(type)
@@ -11,5 +11,5 @@ Removes the given wire type from the tile
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](./readme/wire.md) | type | No description |  |
+| [WIRE](wire) | type | No description |  |
 

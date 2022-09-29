@@ -11,5 +11,5 @@ Returns the local player last mouse position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](./readme/vector.md) | No description |
+| [Vector](vector) | No description |
 

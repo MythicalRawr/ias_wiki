@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):size
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):size
 
 ```lua
 number Packet:size()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timer](./readme/timer.md):get
+## ![shared](../../.gitbook/assets/shared.png) [timer](timer):get
 
 ```lua
 timerObj timer:get(id)
@@ -19,5 +19,5 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 
 | Type   | Description |
 | ------ | ----------: |
-| [timerObj](./readme/timerobj.md) | No description |
+| [timerObj](timerobj) | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):getOwner
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):getOwner
 
 ```lua
 Entity ITEM:getOwner()
@@ -11,5 +11,5 @@ Returns the current item owner
 
 | Type   | Description |
 | ------ | ----------: |
-| [Entity](./readme/entity.md) | No description |
+| [Entity](entity) | No description |
 

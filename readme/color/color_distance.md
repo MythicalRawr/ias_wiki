@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](./readme/color.md):distance
+## ![shared](../../.gitbook/assets/shared.png) [Color](color):distance
 
 ```lua
 number Color:distance()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):clear
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):clear
 
 ```lua
 void Packet:clear()

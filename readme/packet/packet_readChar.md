@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):readChar
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):readChar
 
 ```lua
 string Packet:readChar()

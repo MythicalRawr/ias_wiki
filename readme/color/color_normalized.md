@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](./readme/color.md):normalized
+## ![shared](../../.gitbook/assets/shared.png) [Color](color):normalized
 
 ```lua
 number Color:normalized()

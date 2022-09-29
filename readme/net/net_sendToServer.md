@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [net](./readme/net.md):sendToServer
+## ![client](../../.gitbook/assets/client.png) [net](net):sendToServer
 
 ```lua
 void net:sendToServer(netId, msg, reliable)
@@ -12,6 +12,6 @@ Sends a Packet to the server
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
-| [Packet](./readme/packet.md) | msg | No description |  |
+| [Packet](packet) | msg | No description |  |
 | boolean | reliable | optional = true | ✔ |
 

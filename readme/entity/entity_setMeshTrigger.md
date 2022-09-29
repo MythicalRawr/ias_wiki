@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setMeshTrigger
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setMeshTrigger
 
 ```lua
 void Entity:setMeshTrigger(name, trigger)

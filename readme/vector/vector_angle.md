@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):angle
+## ![shared](../../.gitbook/assets/shared.png) [Vector](vector):angle
 
 ```lua
 number Vector:angle(other)
@@ -11,7 +11,7 @@ Returns the angle of the vector from the given vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | other | No description |  |
+| [Vector](vector) | other | No description |  |
 
 
 ------

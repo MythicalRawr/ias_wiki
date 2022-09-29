@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):use
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):use
 
 ```lua
 void Entity:use(ent)
@@ -11,5 +11,5 @@ Programmatically "uses" the given ent (if marked as a use viewer)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/entity.md) | ent | No description |  |
+| [Entity](entity) | ent | No description |  |
 

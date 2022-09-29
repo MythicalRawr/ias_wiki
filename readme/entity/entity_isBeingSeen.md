@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isBeingSeen
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isBeingSeen
 
 ```lua
 boolean Entity:isBeingSeen()

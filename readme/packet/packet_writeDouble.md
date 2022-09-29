@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):writeDouble
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeDouble
 
 ```lua
 void Packet:writeDouble(data)

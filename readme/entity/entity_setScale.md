@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setScale
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setScale
 
 ```lua
 void Entity:setScale(scale)
@@ -11,5 +11,5 @@ Sets the scale of the ent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | scale | No description |  |
+| [Vector](vector) | scale | No description |  |
 

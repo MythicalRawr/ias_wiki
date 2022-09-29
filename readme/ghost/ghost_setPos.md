@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):setPos
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):setPos
 
 ```lua
 void Ghost:setPos(pos)
@@ -11,5 +11,5 @@ Sets the current ghost position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](./readme/vector3.md) | pos | No description |  |
+| [Vector3](vector3) | pos | No description |  |
 

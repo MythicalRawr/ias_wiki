@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [world](./readme/world.md):createPathFinder
+## ![server](../../.gitbook/assets/server.png) [world](world):createPathFinder
 
 ```lua
 PathFinder world:createPathFinder(building)
@@ -11,7 +11,7 @@ Creates a PathFinder object for the given building
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/entity.md) | building | No description |  |
+| [Entity](entity) | building | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Creates a PathFinder object for the given building
 
 | Type   | Description |
 | ------ | ----------: |
-| [PathFinder](./readme/pathfinder.md) | No description |
+| [PathFinder](pathfinder) | No description |
 

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):addUseViewer
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):addUseViewer
 
 ```lua
 void Entity:addUseViewer(id)

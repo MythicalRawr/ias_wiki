@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):addItem
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):addItem
 
 ```lua
 boolean Entity:addItem(id, amount, slot)

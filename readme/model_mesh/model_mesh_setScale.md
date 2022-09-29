@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setScale
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):setScale
 
 ```lua
 void ModelMesh:setScale(scale)
@@ -11,5 +11,5 @@ Sets the mesh scale
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](./readme/vector3.md) | scale | No description |  |
+| [Vector3](vector3) | scale | No description |  |
 

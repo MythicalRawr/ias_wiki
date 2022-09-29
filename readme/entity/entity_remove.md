@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):remove
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):remove
 
 ```lua
 void Entity:remove()

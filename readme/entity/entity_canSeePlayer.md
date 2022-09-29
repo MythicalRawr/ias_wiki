@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):canSeePlayer
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):canSeePlayer
 
 ```lua
 boolean Entity:canSeePlayer(id)

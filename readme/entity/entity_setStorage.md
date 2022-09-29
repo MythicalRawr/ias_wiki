@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setStorage
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setStorage
 
 ```lua
 void Entity:setStorage(slots)

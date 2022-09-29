@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):getOxygen
+## ![shared](../../.gitbook/assets/shared.png) [Player](player):getOxygen
 
 ```lua
 number Player:getOxygen()

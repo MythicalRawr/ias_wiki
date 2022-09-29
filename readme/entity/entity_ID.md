@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):ID
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):ID
 
 ```lua
 number Entity:ID()

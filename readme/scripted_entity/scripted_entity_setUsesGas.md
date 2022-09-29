@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesGas
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):setUsesGas
 
 ```lua
 void ENT:setUsesGas(set)

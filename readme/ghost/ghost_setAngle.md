@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):setAngle
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):setAngle
 
 ```lua
 void Ghost:setAngle(ang)

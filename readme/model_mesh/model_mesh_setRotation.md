@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setRotation
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):setRotation
 
 ```lua
 void ModelMesh:setRotation(rot)
@@ -11,5 +11,5 @@ Sets the mesh rotation in degrees
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](./readme/vector3.md) | rot | No description |  |
+| [Vector3](vector3) | rot | No description |  |
 

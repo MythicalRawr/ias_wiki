@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):onGrabEnd
+## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):onGrabEnd
 
 ```lua
 void ENT:onGrabEnd(entity)
@@ -11,5 +11,5 @@ Called when an entity stops grabbing this entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/entity.md) | entity | No description |  |
+| [Entity](entity) | entity | No description |  |
 

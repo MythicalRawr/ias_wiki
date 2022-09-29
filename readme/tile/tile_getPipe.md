@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Tile](./readme/tile.md):getPipe
+## ![shared](../../.gitbook/assets/shared.png) [Tile](tile):getPipe
 
 ```lua
 Pipe Tile:getPipe()
@@ -11,5 +11,5 @@ Returns the pipe on the tile, if any
 
 | Type   | Description |
 | ------ | ----------: |
-| [Pipe](./readme/pipe.md) | No description |
+| [Pipe](pipe) | No description |
 

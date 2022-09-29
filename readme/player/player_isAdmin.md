@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):isAdmin
+## ![shared](../../.gitbook/assets/shared.png) [Player](player):isAdmin
 
 ```lua
 boolean Player:isAdmin()

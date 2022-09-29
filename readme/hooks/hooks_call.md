@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [hooks](./readme/hooks.md):call
+## ![shared](../../.gitbook/assets/shared.png) [hooks](hooks):call
 
 ```lua
 void hooks:call(hookId, data)

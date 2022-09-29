@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):createPhysics
+## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):createPhysics
 
 ```lua
 void ENT:createPhysics()

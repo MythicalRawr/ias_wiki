@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [json](./readme/json.md):encode
+## ![shared](../../.gitbook/assets/shared.png) [json](json):encode
 
 ```lua
 string json:encode(data)

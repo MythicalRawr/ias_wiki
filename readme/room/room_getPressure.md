@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Room](./readme/room.md):getPressure
+## ![shared](../../.gitbook/assets/shared.png) [Room](room):getPressure
 
 ```lua
 number Room:getPressure()

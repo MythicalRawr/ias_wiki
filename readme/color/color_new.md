@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](./readme/color.md):new
+## ![shared](../../.gitbook/assets/shared.png) [Color](color):new
 
 ```lua
 Color Color:new(r, g, b, a)
@@ -22,5 +22,5 @@ Color constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](./readme/color.md) | No description |
+| [Color](color) | No description |
 

@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ENT](./readme/ent.md):onNetRead
+## ![client](../../.gitbook/assets/client.png) [ENT](ent):onNetRead
 
 ```lua
 void ENT:onNetRead(packet)
@@ -11,5 +11,5 @@ The data to read from the netWrite (Server). Use this to sync variables between 
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](./readme/packet.md) | packet | No description |  |
+| [Packet](packet) | packet | No description |  |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):register
+## ![shared](../../.gitbook/assets/shared.png) [console](console):register
 
 ```lua
 void console:register(command, callback, description, flags)
@@ -23,5 +23,5 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | string | command | No description |  |
 | function | callback | fun(args: string[]): success: boolean, msg: string |  |
 | string | description | No description | ✔ |
-| [CONSOLE.FLAGS](./readme/console.flags.md) | flags | No description | ✔ |
+| [CONSOLE.FLAGS](console.flags) | flags | No description | ✔ |
 

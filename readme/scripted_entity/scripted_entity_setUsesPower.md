@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesPower
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):setUsesPower
 
 ```lua
 void ENT:setUsesPower(set)

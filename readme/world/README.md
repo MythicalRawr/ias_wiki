@@ -1,2 +1,2 @@
-## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) world
+## ![unknown](../../.gitbook/assets/unknown.png) ![Base](../../.gitbook/assets/base.png) world
 

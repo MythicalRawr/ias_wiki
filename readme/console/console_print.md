@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):print
+## ![shared](../../.gitbook/assets/shared.png) [console](console):print
 
 ```lua
 void console:print(text, type)
@@ -12,5 +12,5 @@ Prints the text on the console
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | text | No description |  |
-| [CONSOLE.LOG](./readme/console.log.md) | type | No description | ✔ |
+| [CONSOLE.LOG](console.log) | type | No description | ✔ |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getType
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getType
 
 ```lua
 string Entity:getType()

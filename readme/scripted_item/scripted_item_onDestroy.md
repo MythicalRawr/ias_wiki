@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):onDestroy
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):onDestroy
 
 ```lua
 void ITEM:onDestroy()

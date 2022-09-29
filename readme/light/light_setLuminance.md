@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setLuminance
+## ![client](../../.gitbook/assets/client.png) [light](light):setLuminance
 
 ```lua
 void light:setLuminance(val)

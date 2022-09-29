@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):usePower
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):usePower
 
 ```lua
 boolean Entity:usePower(power)

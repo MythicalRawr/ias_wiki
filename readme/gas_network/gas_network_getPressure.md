@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](./readme/gasnetwork.md):getPressure
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](gasnetwork):getPressure
 
 ```lua
 number GasNetwork:getPressure()

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [GasNetwork](./readme/gasnetwork.md):add
+## ![server](../../.gitbook/assets/server.png) [GasNetwork](gasnetwork):add
 
 ```lua
 void GasNetwork:add(gasType, amount)
@@ -11,6 +11,6 @@ adds the amount of gas to a GasNetwork
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](./readme/gas.md) | gasType | No description |  |
+| [GAS](gas) | gasType | No description |  |
 | number | amount | No description |  |
 

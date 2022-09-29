@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ENT](./readme/ent.md):onStorageUpdate
+## ![client](../../.gitbook/assets/client.png) [ENT](ent):onStorageUpdate
 
 ```lua
 void ENT:onStorageUpdate(slot)

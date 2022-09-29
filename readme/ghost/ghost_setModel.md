@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):setModel
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):setModel
 
 ```lua
 void Ghost:setModel(mdl)
@@ -11,5 +11,5 @@ Sets the model for the ghost
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Model](./readme/model.md) | mdl | No description |  |
+| [Model](model) | mdl | No description |  |
 

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onWireIOEmit
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):onWireIOEmit
 
 ```lua
 void ENT:onWireIOEmit(id, hasSignal)

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):onGasConnected
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):onGasConnected
 
 ```lua
 void Entity:onGasConnected(network)
@@ -11,5 +11,5 @@ called when a gas pipe is connected to the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GasNetwork](./readme/gasnetwork.md) | network | No description |  |
+| [GasNetwork](gasnetwork) | network | No description |  |
 

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [world](./readme/world.md):broadcastChat
+## ![server](../../.gitbook/assets/server.png) [world](world):broadcastChat
 
 ```lua
 void world:broadcastChat(pos, speaker, msg, distance, color)
@@ -11,9 +11,9 @@ Creates a chat on the given position to all players,Distance controls how readab
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
+| [Vector](vector) | pos | No description |  |
 | string | speaker | No description |  |
 | string | msg | No description |  |
 | number | distance | No description | ✔ |
-| [Color](./readme/color.md) | color | No description | ✔ |
+| [Color](color) | color | No description | ✔ |
 

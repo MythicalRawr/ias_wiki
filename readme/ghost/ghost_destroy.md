@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):destroy
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):destroy
 
 ```lua
 void Ghost:destroy()

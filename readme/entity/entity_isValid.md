@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isValid
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isValid
 
 ```lua
 boolean Entity:isValid()

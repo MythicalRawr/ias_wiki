@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):clear
+## ![shared](../../.gitbook/assets/shared.png) [console](console):clear
 
 ```lua
 void console:clear()

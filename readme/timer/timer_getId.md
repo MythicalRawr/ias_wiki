@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timerObj](./readme/timerobj.md):getId
+## ![shared](../../.gitbook/assets/shared.png) [timerObj](timerobj):getId
 
 ```lua
 string timerObj:getId()

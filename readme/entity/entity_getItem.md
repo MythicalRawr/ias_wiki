@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getItem
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getItem
 
 ```lua
 ITEM Entity:getItem(index)
@@ -19,5 +19,5 @@ Returns the item by index
 
 | Type   | Description |
 | ------ | ----------: |
-| [ITEM](./readme/item.md) | No description |
+| [ITEM](item) | No description |
 

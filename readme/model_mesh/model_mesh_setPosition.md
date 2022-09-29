@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setPosition
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):setPosition
 
 ```lua
 void ModelMesh:setPosition(pos)
@@ -11,5 +11,5 @@ Sets the mesh position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
+| [Vector](vector) | pos | No description |  |
 

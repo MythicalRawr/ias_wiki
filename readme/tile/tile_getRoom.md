@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Tile](./readme/tile.md):getRoom
+## ![shared](../../.gitbook/assets/shared.png) [Tile](tile):getRoom
 
 ```lua
 Room Tile:getRoom()
@@ -11,5 +11,5 @@ Returns the current room the tile is in
 
 | Type   | Description |
 | ------ | ----------: |
-| [Room](./readme/room.md) | No description |
+| [Room](room) | No description |
 

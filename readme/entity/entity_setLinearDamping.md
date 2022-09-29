@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setLinearDamping
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setLinearDamping
 
 ```lua
 void Entity:setLinearDamping(damp)

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):setHealth
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):setHealth
 
 ```lua
 void Entity:setHealth(health)

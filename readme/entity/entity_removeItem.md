@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):removeItem
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):removeItem
 
 ```lua
 boolean Entity:removeItem(slot, amount)

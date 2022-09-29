@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):isStackable
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):isStackable
 
 ```lua
 boolean ITEM:isStackable()

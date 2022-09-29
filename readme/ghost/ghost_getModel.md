@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):getModel
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](ghost):getModel
 
 ```lua
 Model Ghost:getModel()
@@ -11,5 +11,5 @@ Gets the current ghost model
 
 | Type   | Description |
 | ------ | ----------: |
-| [Model](./readme/model.md) | No description |
+| [Model](model) | No description |
 

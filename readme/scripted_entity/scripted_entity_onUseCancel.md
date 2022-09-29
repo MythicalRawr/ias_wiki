@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onUseCancel
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):onUseCancel
 
 ```lua
 void ENT:onUseCancel(ent)
@@ -11,5 +11,5 @@ Triggered when a entity cancels USE (only on MENU mode)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](./readme/entity.md) | ent | No description |  |
+| [Entity](entity) | ent | No description |  |
 

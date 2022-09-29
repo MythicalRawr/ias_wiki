@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):onHolster
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):onHolster
 
 ```lua
 void ITEM:onHolster()

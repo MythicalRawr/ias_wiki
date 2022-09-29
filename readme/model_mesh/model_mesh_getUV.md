@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):getUV
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):getUV
 
 ```lua
 Vector ModelMesh:getUV()
@@ -11,5 +11,5 @@ Gets the mesh uv position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](./readme/vector.md) | No description |
+| [Vector](vector) | No description |
 

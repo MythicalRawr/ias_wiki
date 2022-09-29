@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):init
+## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):init
 
 ```lua
 void ENT:init()

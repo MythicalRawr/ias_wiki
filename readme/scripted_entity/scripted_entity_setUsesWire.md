@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesWire
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):setUsesWire
 
 ```lua
 void ENT:setUsesWire(set)

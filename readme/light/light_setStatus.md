@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setStatus
+## ![client](../../.gitbook/assets/client.png) [light](light):setStatus
 
 ```lua
 void light:setStatus(on)

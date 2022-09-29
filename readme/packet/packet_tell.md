@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):tell
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):tell
 
 ```lua
 number Packet:tell()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [MOD](./readme/mod.md):onPlayerJoin
+## ![shared](../../.gitbook/assets/shared.png) [MOD](mod):onPlayerJoin
 
 ```lua
 void MOD:onPlayerJoin(ply)
@@ -11,5 +11,5 @@ Global event called when a player joins the game
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](./readme/player.md) | ply | No description |  |
+| [Player](player) | ply | No description |  |
 

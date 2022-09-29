@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [resources](./readme/resources.md):getSound
+## ![client](../../.gitbook/assets/client.png) [resources](resources):getSound
 
 ```lua
 Sound resources:getSound(path)
@@ -19,5 +19,5 @@ Returns a Sound object if loaded successfully, you should use preLoad on Mod:onL
 
 | Type   | Description |
 | ------ | ----------: |
-| [Sound](./readme/sound.md) | No description |
+| [Sound](sound) | No description |
 

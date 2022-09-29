@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):writeUShort
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):writeUShort
 
 ```lua
 void Packet:writeUShort(data)

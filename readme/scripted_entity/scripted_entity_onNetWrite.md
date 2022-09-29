@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onNetWrite
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):onNetWrite
 
 ```lua
 void ENT:onNetWrite(packet)
@@ -11,5 +11,5 @@ Triggered when the server transmits an update
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](./readme/packet.md) | packet | No description |  |
+| [Packet](packet) | packet | No description |  |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isDestructible
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isDestructible
 
 ```lua
 boolean Entity:isDestructible()

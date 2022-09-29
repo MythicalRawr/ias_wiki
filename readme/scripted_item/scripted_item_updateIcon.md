@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ITEM](./readme/item.md):updateIcon
+## ![client](../../.gitbook/assets/client.png) [ITEM](item):updateIcon
 
 ```lua
 void ITEM:updateIcon(path)

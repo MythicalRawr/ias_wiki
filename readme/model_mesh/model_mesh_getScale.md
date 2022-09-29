@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):getScale
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):getScale
 
 ```lua
 Vector3 ModelMesh:getScale()
@@ -11,5 +11,5 @@ Gets the mesh scale
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector3](./readme/vector3.md) | No description |
+| [Vector3](vector3) | No description |
 

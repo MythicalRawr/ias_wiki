@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):same
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):same
 
 ```lua
 boolean ITEM:same(other)
@@ -11,7 +11,7 @@ Returns true if it's the same item
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](./readme/item.md) | other | No description |  |
+| [ITEM](item) | other | No description |  |
 
 
 ------

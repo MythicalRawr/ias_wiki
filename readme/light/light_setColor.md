@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setColor
+## ![client](../../.gitbook/assets/client.png) [light](light):setColor
 
 ```lua
 void light:setColor(color)
@@ -11,5 +11,5 @@ Sets the light color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](./readme/color.md) | color | No description |  |
+| [Color](color) | color | No description |  |
 

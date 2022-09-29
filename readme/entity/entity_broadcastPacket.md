@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):broadcastPacket
+## ![server](../../.gitbook/assets/server.png) [Entity](entity):broadcastPacket
 
 ```lua
 void Entity:broadcastPacket(id, packet, reliable)
@@ -12,6 +12,6 @@ Broadcast a packet to all the players
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-| [Packet](./readme/packet.md) | packet | No description |  |
+| [Packet](packet) | packet | No description |  |
 | boolean | reliable | No description | ✔ |
 

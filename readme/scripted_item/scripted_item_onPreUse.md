@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):onPreUse
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](item):onPreUse
 
 ```lua
 void ITEM:onPreUse()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):empty
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):empty
 
 ```lua
 boolean Packet:empty()

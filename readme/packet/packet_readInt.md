@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):readInt
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):readInt
 
 ```lua
 number Packet:readInt()

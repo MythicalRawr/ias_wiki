@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):isValid
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):isValid
 
 ```lua
 boolean ModelMesh:isValid()

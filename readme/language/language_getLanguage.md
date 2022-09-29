@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [language](./readme/language.md):getLanguage
+## ![client](../../.gitbook/assets/client.png) [language](language):getLanguage
 
 ```lua
 string language:getLanguage()

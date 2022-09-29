@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):execute
+## ![shared](../../.gitbook/assets/shared.png) [console](console):execute
 
 ```lua
 boolean, string console:execute(args)

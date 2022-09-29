@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):transmitUpdate
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):transmitUpdate
 
 ```lua
 void ENT:transmitUpdate()

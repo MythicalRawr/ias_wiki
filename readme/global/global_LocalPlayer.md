@@ -11,5 +11,5 @@ Returns the local player if exists
 
 | Type   | Description |
 | ------ | ----------: |
-| [Player](./readme/player.md) | No description |
+| [Player](player) | No description |
 

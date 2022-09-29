@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onPowerDisconnected
+## ![server](../../.gitbook/assets/server.png) [ENT](ent):onPowerDisconnected
 
 ```lua
 void ENT:onPowerDisconnected(id)

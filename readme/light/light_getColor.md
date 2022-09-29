@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):getColor
+## ![client](../../.gitbook/assets/client.png) [light](light):getColor
 
 ```lua
 Color light:getColor()
@@ -11,5 +11,5 @@ Gets the light color
 
 | Type   | Description |
 | ------ | ----------: |
-| [Color](./readme/color.md) | No description |
+| [Color](color) | No description |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):initPhysics
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):initPhysics
 
 ```lua
 void Entity:initPhysics(phys, block)
@@ -11,6 +11,6 @@ Sets the entity physics type,If block is set, the VIS will be blocked by it
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PHYSICS](./readme/physics.md) | phys | No description | ✔ |
+| [PHYSICS](physics) | phys | No description | ✔ |
 | boolean | block | No description | ✔ |
 

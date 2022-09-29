@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Room](./readme/room.md):getGas
+## ![shared](../../.gitbook/assets/shared.png) [Room](room):getGas
 
 ```lua
 number Room:getGas(gasType)
@@ -11,7 +11,7 @@ Returns amount of gas in a room of the type
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](./readme/gas.md) | gasType | No description |  |
+| [GAS](gas) | gasType | No description |  |
 
 
 ------

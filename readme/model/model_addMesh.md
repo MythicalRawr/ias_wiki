@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Model](./readme/model.md):addMesh
+## ![shared](../../.gitbook/assets/shared.png) [Model](model):addMesh
 
 ```lua
 void Model:addMesh(mesh)
@@ -11,5 +11,5 @@ Adds the mesh to the model
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ModelMesh](./readme/modelmesh.md) | mesh | No description |  |
+| [ModelMesh](modelmesh) | mesh | No description |  |
 

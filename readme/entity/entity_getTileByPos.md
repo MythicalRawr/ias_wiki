@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getTileByPos
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):getTileByPos
 
 ```lua
 Tile Entity:getTileByPos(pos)
@@ -11,7 +11,7 @@ Returns the tile on the given position under the ent (needs to be a buildable ty
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
+| [Vector](vector) | pos | No description |  |
 
 
 ------
@@ -19,5 +19,5 @@ Returns the tile on the given position under the ent (needs to be a buildable ty
 
 | Type   | Description |
 | ------ | ----------: |
-| [Tile](./readme/tile.md) | No description |
+| [Tile](tile) | No description |
 

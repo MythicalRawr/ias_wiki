@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setPos
+## ![client](../../.gitbook/assets/client.png) [light](light):setPos
 
 ```lua
 void light:setPos(pos)
@@ -11,5 +11,5 @@ Sets the light position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
+| [Vector](vector) | pos | No description |  |
 

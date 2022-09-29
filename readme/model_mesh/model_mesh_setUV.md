@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setUV
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):setUV
 
 ```lua
 void ModelMesh:setUV(pos)
@@ -11,5 +11,5 @@ Sets the mesh uv position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
+| [Vector](vector) | pos | No description |  |
 

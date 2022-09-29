@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):hasItem
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):hasItem
 
 ```lua
 boolean Entity:hasItem(id)

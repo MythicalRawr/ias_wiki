@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [lights](./readme/lights.md):remove
+## ![client](../../.gitbook/assets/client.png) [lights](lights):remove
 
 ```lua
 void lights:remove(id)

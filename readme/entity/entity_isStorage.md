@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isStorage
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isStorage
 
 ```lua
 boolean Entity:isStorage()

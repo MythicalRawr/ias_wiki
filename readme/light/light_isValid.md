@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):isValid
+## ![client](../../.gitbook/assets/client.png) [light](light):isValid
 
 ```lua
 boolean light:isValid()

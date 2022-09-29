@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setFriction
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setFriction
 
 ```lua
 void Entity:setFriction(friction)

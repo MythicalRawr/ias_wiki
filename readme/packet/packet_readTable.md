@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):readTable
+## ![shared](../../.gitbook/assets/shared.png) [Packet](packet):readTable
 
 ```lua
 table Packet:readTable()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isPowered
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):isPowered
 
 ```lua
 boolean Entity:isPowered()

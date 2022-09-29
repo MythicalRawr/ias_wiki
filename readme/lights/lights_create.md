@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [lights](./readme/lights.md):create
+## ![client](../../.gitbook/assets/client.png) [lights](lights):create
 
 ```lua
 light lights:create(pos, color, fallStart, fallEnd, lumi)
@@ -11,8 +11,8 @@ Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOV
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | pos | No description |  |
-| [Color](./readme/color.md) | color | No description |  |
+| [Vector](vector) | pos | No description |  |
+| [Color](color) | color | No description |  |
 | number | fallStart | No description | ✔ |
 | number | fallEnd | No description | ✔ |
 | number | lumi | No description | ✔ |
@@ -23,5 +23,5 @@ Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOV
 
 | Type   | Description |
 | ------ | ----------: |
-| [light](./readme/light.md) | No description |
+| [light](light) | No description |
 

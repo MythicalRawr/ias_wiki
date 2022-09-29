@@ -1,4 +1,4 @@
-## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) AABB
+## ![unknown](../../.gitbook/assets/unknown.png) ![Base](../../.gitbook/assets/base.png) AABB
 
 
 ------
@@ -6,6 +6,6 @@
 
 | Type   | Name |
 | ------ | ---: |
-| [Vector](./readme/vector.md) | pos |
-| [Vector](./readme/vector.md) | size |
+| [Vector](vector) | pos |
+| [Vector](vector) | size |
 

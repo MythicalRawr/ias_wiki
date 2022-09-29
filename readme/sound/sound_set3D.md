@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](./readme/sound.md):set3D
+## ![client](../../.gitbook/assets/client.png) [Sound](sound):set3D
 
 ```lua
 void Sound:set3D(maxDistance)

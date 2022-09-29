@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):isRotationDisabled
+## ![shared](../../.gitbook/assets/shared.png) [Player](player):isRotationDisabled
 
 ```lua
 boolean Player:isRotationDisabled()

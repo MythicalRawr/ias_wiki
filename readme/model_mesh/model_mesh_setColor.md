@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setColor
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](modelmesh):setColor
 
 ```lua
 void ModelMesh:setColor(color)
@@ -11,5 +11,5 @@ Sets the mesh color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](./readme/color.md) | color | No description |  |
+| [Color](color) | color | No description |  |
 

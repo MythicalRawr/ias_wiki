@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [MOD](./readme/mod.md):onLoad
+## ![shared](../../.gitbook/assets/shared.png) [MOD](mod):onLoad
 
 ```lua
 void MOD:onLoad()

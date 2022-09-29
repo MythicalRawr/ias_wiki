@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timerObj](./readme/timerobj.md):getRemainingTicks
+## ![shared](../../.gitbook/assets/shared.png) [timerObj](timerobj):getRemainingTicks
 
 ```lua
 number timerObj:getRemainingTicks()

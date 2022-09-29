@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setRotation
+## ![shared](../../.gitbook/assets/shared.png) [Entity](entity):setRotation
 
 ```lua
 void Entity:setRotation(rot)
@@ -11,5 +11,5 @@ Sets the rotation of the ent in degrees
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](./readme/vector.md) | rot | No description |  |
+| [Vector](vector) | rot | No description |  |
 

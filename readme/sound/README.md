@@ -1,4 +1,4 @@
-## ![unknown](../.gitbook/assets/unknown.png) ![Base](../.gitbook/assets/base.png) Sound
+## ![unknown](../../.gitbook/assets/unknown.png) ![Base](../../.gitbook/assets/base.png) Sound
 
 
 ------
@@ -9,5 +9,5 @@
 | number | volume |
 | number | pitch |
 | boolean | loop |
-| [Vector](./readme/vector.md) | position? |
+| [Vector](vector) | position? |
 

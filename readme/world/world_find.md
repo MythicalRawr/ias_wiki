@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](./readme/world.md):find
+## ![shared](../../.gitbook/assets/shared.png) [world](world):find
 
 ```lua
 ENT world:find(id)
@@ -19,5 +19,5 @@ Finds an entity in the world by id
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](./readme/ent.md) | No description |
+| [ENT](ent) | No description |
 

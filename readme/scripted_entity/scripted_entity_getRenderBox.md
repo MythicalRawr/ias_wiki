@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):getRenderBox
+## ![shared](../../.gitbook/assets/shared.png) [ENT](ent):getRenderBox
 
 ```lua
 AABB ENT:getRenderBox()
@@ -11,5 +11,5 @@ Gets the render box of the entity.
 
 | Type   | Description |
 | ------ | ----------: |
-| [AABB](./readme/aabb.md) | No description |
+| [AABB](aabb) | No description |
 
