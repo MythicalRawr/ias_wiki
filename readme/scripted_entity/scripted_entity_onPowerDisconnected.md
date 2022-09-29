@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onPowerDisconnected
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onPowerDisconnected
 
 ```lua
 void ENT:onPowerDisconnected(id)

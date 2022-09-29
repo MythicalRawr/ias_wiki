@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Model](https://iaswiki.rawr.dev/readme/model):isValid
+## ![shared](../../.gitbook/assets/shared.png) [Model](./readme/model.md):isValid
 
 ```lua
 boolean Model:isValid()

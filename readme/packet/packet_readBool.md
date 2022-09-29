@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):readBool
+## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):readBool
 
 ```lua
 boolean Packet:readBool()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](https://iaswiki.rawr.dev/readme/ghost):new
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):new
 
 ```lua
 Ghost Ghost:new()
@@ -11,5 +11,5 @@ Ghost constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Ghost](https://iaswiki.rawr.dev/readme/ghost) | No description |
+| [Ghost](./readme/ghost.md) | No description |
 

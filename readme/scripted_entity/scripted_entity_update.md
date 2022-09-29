@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):update
+## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):update
 
 ```lua
 void ENT:update(delta)

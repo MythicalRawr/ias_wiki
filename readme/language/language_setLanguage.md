@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [language](https://iaswiki.rawr.dev/readme/language):setLanguage
+## ![client](../../.gitbook/assets/client.png) [language](./readme/language.md):setLanguage
 
 ```lua
 void language:setLanguage(lang)

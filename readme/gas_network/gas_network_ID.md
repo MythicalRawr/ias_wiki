@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork):ID
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](./readme/gasnetwork.md):ID
 
 ```lua
 number GasNetwork:ID()

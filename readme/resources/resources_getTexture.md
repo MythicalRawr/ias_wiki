@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [resources](https://iaswiki.rawr.dev/readme/resources):getTexture
+## ![client](../../.gitbook/assets/client.png) [resources](./readme/resources.md):getTexture
 
 ```lua
 Texture resources:getTexture(path)
@@ -19,5 +19,5 @@ Returns a Texture object if loaded successfully, you should use preLoad on Mod:o
 
 | Type   | Description |
 | ------ | ----------: |
-| [Texture](https://iaswiki.rawr.dev/readme/texture) | No description |
+| [Texture](./readme/texture.md) | No description |
 

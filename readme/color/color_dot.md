@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Color](https://iaswiki.rawr.dev/readme/color):dot
+## ![shared](../../.gitbook/assets/shared.png) [Color](./readme/color.md):dot
 
 ```lua
 number Color:dot()

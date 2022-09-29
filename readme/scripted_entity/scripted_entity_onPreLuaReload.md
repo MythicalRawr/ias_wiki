@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onPreLuaReload
+## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):onPreLuaReload
 
 ```lua
 void ENT:onPreLuaReload()

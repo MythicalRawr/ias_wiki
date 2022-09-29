@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](https://iaswiki.rawr.dev/readme/world):find
+## ![shared](../../.gitbook/assets/shared.png) [world](./readme/world.md):find
 
 ```lua
 ENT world:find(id)
@@ -19,5 +19,5 @@ Finds an entity in the world by id
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT](https://iaswiki.rawr.dev/readme/ent) | No description |
+| [ENT](./readme/ent.md) | No description |
 

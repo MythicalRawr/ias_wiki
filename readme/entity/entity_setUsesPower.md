@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setUsesPower
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setUsesPower
 
 ```lua
 void Entity:setUsesPower(mode)

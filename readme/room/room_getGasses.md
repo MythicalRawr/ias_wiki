@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Room](https://iaswiki.rawr.dev/readme/room):getGasses
+## ![shared](../../.gitbook/assets/shared.png) [Room](./readme/room.md):getGasses
 
 ```lua
 table Room:getGasses()

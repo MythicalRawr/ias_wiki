@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [io](https://iaswiki.rawr.dev/readme/io):save
+## ![shared](../../.gitbook/assets/shared.png) [io](./readme/io.md):save
 
 ```lua
 string io:save(path, data)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):getOxygen
+## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):getOxygen
 
 ```lua
 number Player:getOxygen()

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setUsesTile
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesTile
 
 ```lua
 void ENT:setUsesTile(set)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](https://iaswiki.rawr.dev/readme/ghost):getAngle
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):getAngle
 
 ```lua
 number Ghost:getAngle()

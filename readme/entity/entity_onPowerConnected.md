@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):onPowerConnected
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):onPowerConnected
 
 ```lua
 void Entity:onPowerConnected(network)
@@ -11,5 +11,5 @@ called when a power cable is connected to the entity
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PowerNetwork](https://iaswiki.rawr.dev/readme/powernetwork) | network | No description |  |
+| [PowerNetwork](./readme/powernetwork.md) | network | No description |  |
 

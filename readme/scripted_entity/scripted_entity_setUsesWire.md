@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setUsesWire
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesWire
 
 ```lua
 void ENT:setUsesWire(set)

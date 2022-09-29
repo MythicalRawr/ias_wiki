@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):left
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):left
 
 ```lua
 Vector Entity:left()
@@ -11,5 +11,5 @@ Returns ent left facing position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

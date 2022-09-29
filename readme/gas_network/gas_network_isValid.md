@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork):isValid
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](./readme/gasnetwork.md):isValid
 
 ```lua
 boolean GasNetwork:isValid()

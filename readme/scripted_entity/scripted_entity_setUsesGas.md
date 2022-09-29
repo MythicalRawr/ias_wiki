@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setUsesGas
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesGas
 
 ```lua
 void ENT:setUsesGas(set)

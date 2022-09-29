@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [MOD](https://iaswiki.rawr.dev/readme/mod):onLoad
+## ![shared](../../.gitbook/assets/shared.png) [MOD](./readme/mod.md):onLoad
 
 ```lua
 void MOD:onLoad()

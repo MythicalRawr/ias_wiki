@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Ghost](https://iaswiki.rawr.dev/readme/ghost):getModel
+## ![shared](../../.gitbook/assets/shared.png) [Ghost](./readme/ghost.md):getModel
 
 ```lua
 Model Ghost:getModel()
@@ -11,5 +11,5 @@ Gets the current ghost model
 
 | Type   | Description |
 | ------ | ----------: |
-| [Model](https://iaswiki.rawr.dev/readme/model) | No description |
+| [Model](./readme/model.md) | No description |
 

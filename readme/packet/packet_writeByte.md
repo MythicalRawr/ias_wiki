@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):writeByte
+## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):writeByte
 
 ```lua
 void Packet:writeByte(data)

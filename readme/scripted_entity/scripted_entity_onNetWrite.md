@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onNetWrite
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onNetWrite
 
 ```lua
 void ENT:onNetWrite(packet)
@@ -11,5 +11,5 @@ Triggered when the server transmits an update
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
+| [Packet](./readme/packet.md) | packet | No description |  |
 

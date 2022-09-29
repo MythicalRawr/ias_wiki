@@ -6,7 +6,6 @@
 
 | Type   | Name |
 | ------ | ---: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | size |
-
+| [Vector](./readme/vector.md) | pos |
+| [Vector](./readme/vector.md) | size |
 

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [AABB](https://iaswiki.rawr.dev/readme/aabb):surfaceArea
+## ![shared](../../.gitbook/assets/shared.png) [AABB](./readme/aabb.md):surfaceArea
 
 ```lua
 number AABB:surfaceArea()

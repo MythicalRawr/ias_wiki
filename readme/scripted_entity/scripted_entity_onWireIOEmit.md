@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onWireIOEmit
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onWireIOEmit
 
 ```lua
 void ENT:onWireIOEmit(id, hasSignal)

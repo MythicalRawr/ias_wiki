@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):setUsesPower
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):setUsesPower
 
 ```lua
 void ENT:setUsesPower(set)

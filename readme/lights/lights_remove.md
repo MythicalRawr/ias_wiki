@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [lights](https://iaswiki.rawr.dev/readme/lights):remove
+## ![client](../../.gitbook/assets/client.png) [lights](./readme/lights.md):remove
 
 ```lua
 void lights:remove(id)

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):addItem
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):addItem
 
 ```lua
 boolean Entity:addItem(id, amount, slot)

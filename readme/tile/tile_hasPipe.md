@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Tile](https://iaswiki.rawr.dev/readme/tile):hasPipe
+## ![shared](../../.gitbook/assets/shared.png) [Tile](./readme/tile.md):hasPipe
 
 ```lua
 boolean Tile:hasPipe()

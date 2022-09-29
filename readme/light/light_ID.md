@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):ID
+## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):ID
 
 ```lua
 number light:ID()

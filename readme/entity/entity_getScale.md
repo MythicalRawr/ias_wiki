@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getScale
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getScale
 
 ```lua
 void Entity:getScale()

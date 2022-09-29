@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork):getAll
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](./readme/gasnetwork.md):getAll
 
 ```lua
 table GasNetwork:getAll()

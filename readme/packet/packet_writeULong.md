@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):writeULong
+## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):writeULong
 
 ```lua
 void Packet:writeULong(data)

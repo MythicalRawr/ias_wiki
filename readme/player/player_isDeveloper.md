@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):isDeveloper
+## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):isDeveloper
 
 ```lua
 boolean Player:isDeveloper()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getLocalPos
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getLocalPos
 
 ```lua
 Vector Entity:getLocalPos()
@@ -11,5 +11,5 @@ Returns the ent local position (relative to the parent)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

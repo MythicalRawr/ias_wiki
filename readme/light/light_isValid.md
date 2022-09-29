@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):isValid
+## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):isValid
 
 ```lua
 boolean light:isValid()

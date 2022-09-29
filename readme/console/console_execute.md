@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](https://iaswiki.rawr.dev/readme/console):execute
+## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):execute
 
 ```lua
 boolean, string console:execute(args)

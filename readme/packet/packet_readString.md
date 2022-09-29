@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):readString
+## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):readString
 
 ```lua
 string Packet:readString()

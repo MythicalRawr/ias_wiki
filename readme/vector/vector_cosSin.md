@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):cosSin
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):cosSin
 
 ```lua
 Vector Vector:cosSin(ang)
@@ -19,5 +19,5 @@ Returns the clamped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

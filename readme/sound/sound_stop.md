@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](https://iaswiki.rawr.dev/readme/sound):stop
+## ![client](../../.gitbook/assets/client.png) [Sound](./readme/sound.md):stop
 
 ```lua
 void Sound:stop()

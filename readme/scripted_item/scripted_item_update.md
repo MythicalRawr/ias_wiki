@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](https://iaswiki.rawr.dev/readme/item):update
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):update
 
 ```lua
 void ITEM:update(delta)

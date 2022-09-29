@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):isGrabbing
+## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):isGrabbing
 
 ```lua
 boolean Player:isGrabbing()

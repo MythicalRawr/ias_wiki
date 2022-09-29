@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):setPos
+## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setPos
 
 ```lua
 void light:setPos(pos)
@@ -11,5 +11,5 @@ Sets the light position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | pos | No description |  |
+| [Vector](./readme/vector.md) | pos | No description |  |
 

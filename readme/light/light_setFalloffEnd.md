@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):setFalloffEnd
+## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setFalloffEnd
 
 ```lua
 void light:setFalloffEnd(val)

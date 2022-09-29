@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):new
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):new
 
 ```lua
 Vector Vector:new(x, y)
@@ -20,5 +20,5 @@ Vector constructor
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

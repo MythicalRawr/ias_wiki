@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Texture](https://iaswiki.rawr.dev/readme/texture):isValid
+## ![client](../../.gitbook/assets/client.png) [Texture](./readme/texture.md):isValid
 
 ```lua
 boolean Texture:isValid()

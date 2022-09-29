@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [language](https://iaswiki.rawr.dev/readme/language):get
+## ![client](../../.gitbook/assets/client.png) [language](./readme/language.md):get
 
 ```lua
 string language:get(modID, key, ...)

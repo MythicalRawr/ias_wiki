@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [fmt](https://iaswiki.rawr.dev/readme/fmt):format
+## ![shared](../../.gitbook/assets/shared.png) [fmt](./readme/fmt.md):format
 
 ```lua
 string fmt:format(str, ...)

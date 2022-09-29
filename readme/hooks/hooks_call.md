@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [hooks](https://iaswiki.rawr.dev/readme/hooks):call
+## ![shared](../../.gitbook/assets/shared.png) [hooks](./readme/hooks.md):call
 
 ```lua
 void hooks:call(hookId, data)

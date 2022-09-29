@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getType
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getType
 
 ```lua
 string Entity:getType()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):isUsable
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isUsable
 
 ```lua
 boolean Entity:isUsable()

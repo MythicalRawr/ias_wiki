@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):getName
+## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):getName
 
 ```lua
 string Player:getName()

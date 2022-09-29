@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onTouchStart
+## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):onTouchStart
 
 ```lua
 void ENT:onTouchStart(entity)
@@ -11,5 +11,5 @@ Called when an entity touches another entity (requires physics)
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | entity | No description |  |
+| [Entity](./readme/entity.md) | entity | No description |  |
 

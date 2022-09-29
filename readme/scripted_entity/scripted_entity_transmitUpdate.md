@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):transmitUpdate
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):transmitUpdate
 
 ```lua
 void ENT:transmitUpdate()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):setScale
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):setScale
 
 ```lua
 void ModelMesh:setScale(scale)
@@ -11,5 +11,5 @@ Sets the mesh scale
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](https://iaswiki.rawr.dev/readme/vector3) | scale | No description |  |
+| [Vector3](./readme/vector3.md) | scale | No description |  |
 

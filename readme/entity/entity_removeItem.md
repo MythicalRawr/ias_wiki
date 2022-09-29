@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):removeItem
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):removeItem
 
 ```lua
 boolean Entity:removeItem(slot, amount)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):getPosition
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):getPosition
 
 ```lua
 Vector ModelMesh:getPosition()
@@ -11,5 +11,5 @@ Gets the mesh position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

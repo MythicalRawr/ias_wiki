@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ITEM](https://iaswiki.rawr.dev/readme/item):onNetWrite
+## ![server](../../.gitbook/assets/server.png) [ITEM](./readme/item.md):onNetWrite
 
 ```lua
 void ITEM:onNetWrite(packet)
@@ -11,5 +11,5 @@ Called by transmitUpdate by the server to send an update (should be used to sync
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | packet | No description |  |
+| [Packet](./readme/packet.md) | packet | No description |  |
 

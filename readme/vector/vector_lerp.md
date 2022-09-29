@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):lerp
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):lerp
 
 ```lua
 Vector Vector:lerp(other, t)
@@ -11,7 +11,7 @@ Returns the lerped vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | other | No description |  |
+| [Vector](./readme/vector.md) | other | No description |  |
 | number | t | No description |  |
 
 
@@ -20,5 +20,5 @@ Returns the lerped vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

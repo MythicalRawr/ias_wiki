@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [console](https://iaswiki.rawr.dev/readme/console):clear
+## ![shared](../../.gitbook/assets/shared.png) [console](./readme/console.md):clear
 
 ```lua
 void console:clear()

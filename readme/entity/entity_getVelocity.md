@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getVelocity
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getVelocity
 
 ```lua
 Vector Entity:getVelocity()
@@ -11,5 +11,5 @@ Returns the velocity of the ent (physics)
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

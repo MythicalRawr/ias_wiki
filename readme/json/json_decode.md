@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [json](https://iaswiki.rawr.dev/readme/json):decode
+## ![shared](../../.gitbook/assets/shared.png) [json](./readme/json.md):decode
 
 ```lua
 table json:decode(data)

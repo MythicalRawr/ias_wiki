@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):distance
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):distance
 
 ```lua
 number Vector:distance(other)
@@ -11,7 +11,7 @@ Returns the distance of the vector from the given vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | other | No description |  |
+| [Vector](./readme/vector.md) | other | No description |  |
 
 
 ------

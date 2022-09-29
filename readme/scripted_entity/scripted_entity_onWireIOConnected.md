@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onWireIOConnected
+## ![server](../../.gitbook/assets/server.png) [ENT](./readme/ent.md):onWireIOConnected
 
 ```lua
 void ENT:onWireIOConnected(id)

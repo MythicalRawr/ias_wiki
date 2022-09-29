@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ITEM](https://iaswiki.rawr.dev/readme/item):updateIcon
+## ![client](../../.gitbook/assets/client.png) [ITEM](./readme/item.md):updateIcon
 
 ```lua
 void ITEM:updateIcon(path)

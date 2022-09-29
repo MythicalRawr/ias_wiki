@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Entity](https://iaswiki.rawr.dev/readme/entity):disableMemory
+## ![client](../../.gitbook/assets/client.png) [Entity](./readme/entity.md):disableMemory
 
 ```lua
 void Entity:disableMemory(disable)

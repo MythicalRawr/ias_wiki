@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](https://iaswiki.rawr.dev/readme/world):findByClass
+## ![shared](../../.gitbook/assets/shared.png) [world](./readme/world.md):findByClass
 
 ```lua
 ENT[] world:findByClass(class)
@@ -19,5 +19,5 @@ Finds entities in the world by class type (EX: entity_ship)
 
 | Type   | Description |
 | ------ | ----------: |
-| [ENT[]](https://iaswiki.rawr.dev/readme/ent[]) | No description |
+| [ENT[]](./readme/ent[].md) | No description |
 

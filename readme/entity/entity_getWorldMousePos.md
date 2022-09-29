@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getWorldMousePos
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):getWorldMousePos
 
 ```lua
 Vector Entity:getWorldMousePos()
@@ -11,5 +11,5 @@ Returns the current mouse world position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

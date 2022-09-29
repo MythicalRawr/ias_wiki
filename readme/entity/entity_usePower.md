@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):usePower
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):usePower
 
 ```lua
 boolean Entity:usePower(power)

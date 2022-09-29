@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getStorageItems
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getStorageItems
 
 ```lua
 table Entity:getStorageItems()

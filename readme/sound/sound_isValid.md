@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](https://iaswiki.rawr.dev/readme/sound):isValid
+## ![client](../../.gitbook/assets/client.png) [Sound](./readme/sound.md):isValid
 
 ```lua
 boolean Sound:isValid()

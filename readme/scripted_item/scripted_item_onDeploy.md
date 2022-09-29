@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](https://iaswiki.rawr.dev/readme/item):onDeploy
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):onDeploy
 
 ```lua
 void ITEM:onDeploy()

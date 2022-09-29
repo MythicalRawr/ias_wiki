@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getRotation
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getRotation
 
 ```lua
 Vector Entity:getRotation()
@@ -11,5 +11,5 @@ Returns the ent rotation in degrees
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

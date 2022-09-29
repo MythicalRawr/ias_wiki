@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setHealth
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):setHealth
 
 ```lua
 void Entity:setHealth(health)

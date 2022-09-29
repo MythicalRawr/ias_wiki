@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):findItemSlots
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):findItemSlots
 
 ```lua
 number[] Entity:findItemSlots(id)

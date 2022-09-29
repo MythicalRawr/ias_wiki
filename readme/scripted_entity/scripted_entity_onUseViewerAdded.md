@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onUseViewerAdded
+## ![client](../../.gitbook/assets/client.png) [ENT](./readme/ent.md):onUseViewerAdded
 
 ```lua
 void ENT:onUseViewerAdded(player)
@@ -11,5 +11,5 @@ Triggered a use viewer player is added
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](https://iaswiki.rawr.dev/readme/player) | player | No description |  |
+| [Player](./readme/player.md) | player | No description |  |
 

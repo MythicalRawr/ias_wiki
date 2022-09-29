@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):onDestroy
+## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):onDestroy
 
 ```lua
 void ENT:onDestroy()

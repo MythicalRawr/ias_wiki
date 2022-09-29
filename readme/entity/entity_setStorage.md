@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setStorage
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setStorage
 
 ```lua
 void Entity:setStorage(slots)

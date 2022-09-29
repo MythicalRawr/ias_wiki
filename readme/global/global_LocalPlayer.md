@@ -11,5 +11,5 @@ Returns the local player if exists
 
 | Type   | Description |
 | ------ | ----------: |
-| [Player](https://iaswiki.rawr.dev/readme/player) | No description |
+| [Player](./readme/player.md) | No description |
 

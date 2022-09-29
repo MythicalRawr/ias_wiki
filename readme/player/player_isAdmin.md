@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Player](https://iaswiki.rawr.dev/readme/player):isAdmin
+## ![shared](../../.gitbook/assets/shared.png) [Player](./readme/player.md):isAdmin
 
 ```lua
 boolean Player:isAdmin()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [MOD](https://iaswiki.rawr.dev/readme/mod):update
+## ![shared](../../.gitbook/assets/shared.png) [MOD](./readme/mod.md):update
 
 ```lua
 void MOD:update(delta)

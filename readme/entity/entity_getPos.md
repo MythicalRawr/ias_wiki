@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):getPos
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):getPos
 
 ```lua
 Vector Entity:getPos()
@@ -11,5 +11,5 @@ Returns the ent position
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

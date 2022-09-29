@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ITEM](https://iaswiki.rawr.dev/readme/item):getOwner
+## ![shared](../../.gitbook/assets/shared.png) [ITEM](./readme/item.md):getOwner
 
 ```lua
 Entity ITEM:getOwner()
@@ -11,5 +11,5 @@ Returns the current item owner
 
 | Type   | Description |
 | ------ | ----------: |
-| [Entity](https://iaswiki.rawr.dev/readme/entity) | No description |
+| [Entity](./readme/entity.md) | No description |
 

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):removeUseViewer
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):removeUseViewer
 
 ```lua
 void Entity:removeUseViewer(id)

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [world](https://iaswiki.rawr.dev/readme/world):getItemSettings
+## ![shared](../../.gitbook/assets/shared.png) [world](./readme/world.md):getItemSettings
 
 ```lua
 table world:getItemSettings(id)

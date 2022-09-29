@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [light](https://iaswiki.rawr.dev/readme/light):setColor
+## ![client](../../.gitbook/assets/client.png) [light](./readme/light.md):setColor
 
 ```lua
 void light:setColor(color)
@@ -11,5 +11,5 @@ Sets the light color
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Color](https://iaswiki.rawr.dev/readme/color) | color | No description |  |
+| [Color](./readme/color.md) | color | No description |  |
 

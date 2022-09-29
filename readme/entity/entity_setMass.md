@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setMass
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setMass
 
 ```lua
 void Entity:setMass(mass)

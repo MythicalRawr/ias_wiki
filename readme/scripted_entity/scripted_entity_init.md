@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ENT](https://iaswiki.rawr.dev/readme/ent):init
+## ![shared](../../.gitbook/assets/shared.png) [ENT](./readme/ent.md):init
 
 ```lua
 void ENT:init()

@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):dot
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):dot
 
 ```lua
 number Vector:dot(other)
@@ -11,7 +11,7 @@ Returns the dot vector
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | other | No description |  |
+| [Vector](./readme/vector.md) | other | No description |  |
 
 
 ------

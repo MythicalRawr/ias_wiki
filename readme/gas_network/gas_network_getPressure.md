@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](https://iaswiki.rawr.dev/readme/gasnetwork):getPressure
+## ![shared](../../.gitbook/assets/shared.png) [GasNetwork](./readme/gasnetwork.md):getPressure
 
 ```lua
 number GasNetwork:getPressure()

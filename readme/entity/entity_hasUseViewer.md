@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):hasUseViewer
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):hasUseViewer
 
 ```lua
 boolean Entity:hasUseViewer(id)

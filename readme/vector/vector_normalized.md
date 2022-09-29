@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Vector](https://iaswiki.rawr.dev/readme/vector):normalized
+## ![shared](../../.gitbook/assets/shared.png) [Vector](./readme/vector.md):normalized
 
 ```lua
 Vector Vector:normalized()
@@ -11,5 +11,5 @@ Returns the normalized vector
 
 | Type   | Description |
 | ------ | ----------: |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | No description |
+| [Vector](./readme/vector.md) | No description |
 

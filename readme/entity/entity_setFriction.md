@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setFriction
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setFriction
 
 ```lua
 void Entity:setFriction(friction)

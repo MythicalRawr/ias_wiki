@@ -9,6 +9,5 @@
 | number | volume |
 | number | pitch |
 | boolean | loop |
-| [Vector](https://iaswiki.rawr.dev/readme/vector) | position? |
-
+| [Vector](./readme/vector.md) | position? |
 

@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [MOD](https://iaswiki.rawr.dev/readme/mod):onStateLeave
+## ![client](../../.gitbook/assets/client.png) [MOD](./readme/mod.md):onStateLeave
 
 ```lua
 void MOD:onStateLeave(state)

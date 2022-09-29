@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [Sound](https://iaswiki.rawr.dev/readme/sound):play
+## ![client](../../.gitbook/assets/client.png) [Sound](./readme/sound.md):play
 
 ```lua
 void Sound:play()

@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setGrabbable
+## ![server](../../.gitbook/assets/server.png) [Entity](./readme/entity.md):setGrabbable
 
 ```lua
 void Entity:setGrabbable(grab)

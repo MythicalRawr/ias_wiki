@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](https://iaswiki.rawr.dev/readme/modelmesh):getName
+## ![shared](../../.gitbook/assets/shared.png) [ModelMesh](./readme/modelmesh.md):getName
 
 ```lua
 string ModelMesh:getName()

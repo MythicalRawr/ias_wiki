@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Tile](https://iaswiki.rawr.dev/readme/tile):isValid
+## ![shared](../../.gitbook/assets/shared.png) [Tile](./readme/tile.md):isValid
 
 ```lua
 boolean Tile:isValid()

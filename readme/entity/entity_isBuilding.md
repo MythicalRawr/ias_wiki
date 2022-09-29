@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):isBuilding
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):isBuilding
 
 ```lua
 boolean Entity:isBuilding()

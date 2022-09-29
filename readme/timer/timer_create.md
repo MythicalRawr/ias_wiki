@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [timer](https://iaswiki.rawr.dev/readme/timer):create
+## ![shared](../../.gitbook/assets/shared.png) [timer](./readme/timer.md):create
 
 ```lua
 timerObj timer:create(id, interval, ticks, callback)
@@ -22,5 +22,5 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 
 | Type   | Description |
 | ------ | ----------: |
-| [timerObj](https://iaswiki.rawr.dev/readme/timerobj) | No description |
+| [timerObj](./readme/timerobj.md) | No description |
 

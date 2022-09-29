@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Entity](https://iaswiki.rawr.dev/readme/entity):setAngularDamping
+## ![shared](../../.gitbook/assets/shared.png) [Entity](./readme/entity.md):setAngularDamping
 
 ```lua
 void Entity:setAngularDamping(damp)

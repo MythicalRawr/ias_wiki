@@ -1,4 +1,4 @@
-## ![shared](../../.gitbook/assets/shared.png) [Packet](https://iaswiki.rawr.dev/readme/packet):size
+## ![shared](../../.gitbook/assets/shared.png) [Packet](./readme/packet.md):size
 
 ```lua
 number Packet:size()

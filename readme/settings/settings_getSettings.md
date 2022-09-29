@@ -1,4 +1,4 @@
-## ![client](../../.gitbook/assets/client.png) [settings](https://iaswiki.rawr.dev/readme/settings):getSettings
+## ![client](../../.gitbook/assets/client.png) [settings](./readme/settings.md):getSettings
 
 ```lua
 table settings:getSettings()

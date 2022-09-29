@@ -1,4 +1,4 @@
-## ![server](../../.gitbook/assets/server.png) [net](https://iaswiki.rawr.dev/readme/net):send
+## ![server](../../.gitbook/assets/server.png) [net](./readme/net.md):send
 
 ```lua
 void net:send(netId, msg, ply, reliable)
@@ -12,7 +12,7 @@ Sends a Packet to a specific Player.
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
-| [Packet](https://iaswiki.rawr.dev/readme/packet) | msg | No description |  |
-| [Player](https://iaswiki.rawr.dev/readme/player) | ply | No description |  |
+| [Packet](./readme/packet.md) | msg | No description |  |
+| [Player](./readme/player.md) | ply | No description |  |
 | boolean | reliable | optional = true | ✔ |
 
