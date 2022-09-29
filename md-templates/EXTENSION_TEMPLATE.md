@@ -1,2 +1,2 @@
-## <img src="../../.gitbook/assets/$SCOPE$.png" width="24" height=24 /> $TITLE_NAME$
+## <img src="../../.gitbook/assets/$SCOPE$.png" width="32" height="32" /> $TITLE_NAME$
 $HINTS$$METHOD$$DESCRIPTION$$EXAMPLE$$PARAMETERS$$RETURNS$
