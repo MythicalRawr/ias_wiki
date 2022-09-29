@@ -1,2 +1,2 @@
-## ![$SCOPE$](.gitbook/assets/$SCOPE$.png) $TITLE_NAME$
+## ![$SCOPE$](../../.gitbook/assets/$SCOPE$.png) $TITLE_NAME$
 $HINTS$$METHOD$$DESCRIPTION$$EXAMPLE$$PARAMETERS$$RETURNS$
