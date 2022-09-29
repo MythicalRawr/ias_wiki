@@ -25,5 +25,5 @@ coverY: 0
 | <p><br></p>                                                      |                                                                          |
 | ![](.gitbook/assets/callback.png)                                | A callback method                                                        |
 | ![](.gitbook/assets/event.png)                                   | An global event method, this will be called by the game                  |
-| ![](.gitbook/assets/todo.png))                                   | Unfinished / not fully implemented feature / wiki page                   |
+| ![](.gitbook/assets/unknown.png)                                 | Unfinished / not fully implemented feature / bad docs                    |
 | ![](.gitbook/assets/global.png)                                  | Global methods / variables                                               |
