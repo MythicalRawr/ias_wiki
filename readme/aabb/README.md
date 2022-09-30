@@ -1,16 +1,18 @@
-## <img src="../../.gitbook/assets/unknown.png" width="32" height="32" /><img src="../../.gitbook/assets/base.png" width="32" height="32" /> ~~AABB~~
+# aabb
 
-```patch
-Deprecated :
-- Pls don't use this
-```
+### ![](../../.gitbook/assets/unknown.png)![](../../.gitbook/assets/base.png) ~~AABB~~
 
 
-------
-## Fields
 
-| Type   | Name | Optional |
-| ------ | ---- | -------: |
-| [Vector](../vector/README.md) | pos |  |
-| [Vector](../vector/README.md) | size |  |
+> ~~⚠~~ Deprecated : Pls don't use this
 
+
+
+***
+
+### Fields
+
+| Type                 | Name | Optional |
+| -------------------- | ---- | -------: |
+| [Vector](../vector/) | pos  |          |
+| [Vector](../vector/) | size |          |
