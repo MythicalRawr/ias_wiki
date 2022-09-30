@@ -6,7 +6,7 @@ Vector Vector:clamp(min, max)
 
 Returns the clamped vector
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Returns the clamped vector
 | [Vector](../vector/README.md) | min | No description |  |
 | [Vector](../vector/README.md) | max | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

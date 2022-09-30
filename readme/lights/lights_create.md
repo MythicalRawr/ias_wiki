@@ -6,7 +6,7 @@ light lights:create(pos, color, fallStart, fallEnd, lumi)
 
 Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT ⚠
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -17,11 +17,9 @@ Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOV
 | number | fallEnd | No description | ✔ |
 | number | lumi | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [light](../light/README.md) | No description |
-

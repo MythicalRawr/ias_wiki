@@ -6,7 +6,7 @@ ENT[] world:findInSphereByClass(class, pos, distance)
 
 Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,11 +15,9 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 | [Vector](../vector/README.md) | pos | No description |  |
 | number | distance | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [ENT[]](../ent[]/README.md) | No description |
-

@@ -6,10 +6,9 @@ void Entity:setUsesTile(mode)
 
 enables or disables tile use at an entity
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | mode | No description |  |
-

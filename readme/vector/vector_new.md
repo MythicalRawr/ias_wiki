@@ -6,7 +6,7 @@ Vector Vector:new(x, y)
 
 Vector constructor
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Vector constructor
 | number | x | No description |  |
 | number | y | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

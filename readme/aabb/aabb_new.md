@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):new
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~[AABB](../aabb/README.md):new~~
+
+> ⚠ Deprecated: Pls don't use this
 
 ```lua
 AABB AABB:new(x, y, width, height)
@@ -6,7 +8,7 @@ AABB AABB:new(x, y, width, height)
 
 AABB constructor
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -16,11 +18,9 @@ AABB constructor
 | number | width | No description |  |
 | number | height | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [AABB](../aabb/README.md) | No description |
-

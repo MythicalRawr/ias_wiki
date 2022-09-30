@@ -6,7 +6,7 @@ Vector3 Vector3:new(x, y, z)
 
 Vector3 constructor
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,11 +15,9 @@ Vector3 constructor
 | number | y | No description |  |
 | number | z | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
-

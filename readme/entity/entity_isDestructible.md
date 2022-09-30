@@ -6,10 +6,9 @@ boolean Entity:isDestructible()
 
 Returns true if the ent is destructible
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

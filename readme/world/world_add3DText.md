@@ -6,7 +6,7 @@ void world:add3DText(speaker, msg, color)
 
 Creates a client side chat text
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,4 +14,3 @@ Creates a client side chat text
 | string | speaker | No description |  |
 | string | msg | No description |  |
 | [Color](../color/README.md) | color | No description | ✔ |
-

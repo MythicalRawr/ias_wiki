@@ -6,11 +6,10 @@ void console:print(text, type)
 
 Prints the text on the console
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | text | No description |  |
 | [CONSOLE.LOG](../console.log/README.md) | type | No description | ✔ |
-

@@ -6,10 +6,9 @@ void Entity:onPowerConnected(network)
 
 called when a power cable is connected to the entity
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [PowerNetwork](../powernetwork/README.md) | network | No description |  |
-

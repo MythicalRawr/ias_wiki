@@ -6,10 +6,9 @@ void Entity:setBodyType(type)
 
 Updates the entity physics body type
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [PHYSICS](../physics/README.md) | type | No description |  |
-

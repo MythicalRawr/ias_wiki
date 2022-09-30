@@ -6,10 +6,9 @@ Vector Entity:left()
 
 Returns ent left facing position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

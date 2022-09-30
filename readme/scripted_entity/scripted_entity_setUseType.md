@@ -6,10 +6,9 @@ void ENT:setUseType(set)
 
 Sets the use type of the entity
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [USE](../use/README.md) | set | No description |  |
-

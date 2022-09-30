@@ -6,10 +6,9 @@ string ITEM:ID()
 
 Returns the item unique id (class)
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-

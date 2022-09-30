@@ -6,10 +6,9 @@ void Entity:setPos(pos)
 
 Sets the position of the ent
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | pos | No description |  |
-

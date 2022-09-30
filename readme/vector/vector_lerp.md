@@ -6,7 +6,7 @@ Vector Vector:lerp(other, t)
 
 Returns the lerped vector
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Returns the lerped vector
 | [Vector](../vector/README.md) | other | No description |  |
 | number | t | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

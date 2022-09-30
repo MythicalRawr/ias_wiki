@@ -6,7 +6,7 @@ void worldDebug:line(startPos, endPos, ttl, color)
 
 Draws a 3D debug line that will vanish after the given ttl time
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,4 +15,3 @@ Draws a 3D debug line that will vanish after the given ttl time
 | [Vector3](../vector3/README.md) | endPos | No description |  |
 | number | ttl | No description |  |
 | [Color](../color/README.md) | color | No description | ✔ |
-

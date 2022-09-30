@@ -6,10 +6,9 @@ Color ModelMesh:getColor()
 
 Gets the mesh color
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
-

@@ -6,7 +6,7 @@ ENT world:create(class, parent)
 
 Creates and spawns a new entity on the world
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Creates and spawns a new entity on the world
 | string | class | No description |  |
 | [ENT](../ent/README.md) | parent | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [ENT](../ent/README.md) | No description |
-

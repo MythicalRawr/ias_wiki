@@ -6,10 +6,9 @@ Vector Entity:getLocalPos()
 
 Returns the ent local position (relative to the parent)
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

@@ -6,10 +6,9 @@ Vector3 Ghost:getPos()
 
 Gets the current ghost position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
-

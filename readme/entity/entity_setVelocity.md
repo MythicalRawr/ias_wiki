@@ -6,10 +6,9 @@ void Entity:setVelocity(vel)
 
 Sets the velocity of the ent (physics)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | vel | No description |  |
-

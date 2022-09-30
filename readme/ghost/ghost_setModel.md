@@ -6,10 +6,9 @@ void Ghost:setModel(mdl)
 
 Sets the model for the ghost
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Model](../model/README.md) | mdl | No description |  |
-

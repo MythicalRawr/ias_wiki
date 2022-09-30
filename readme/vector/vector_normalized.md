@@ -6,10 +6,9 @@ Vector Vector:normalized()
 
 Returns the normalized vector
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

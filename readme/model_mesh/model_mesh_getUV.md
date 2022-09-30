@@ -6,10 +6,9 @@ Vector ModelMesh:getUV()
 
 Gets the mesh uv position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

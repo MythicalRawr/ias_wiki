@@ -6,10 +6,9 @@ Ghost Ghost:new()
 
 Ghost constructor
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Ghost](../ghost/README.md) | No description |
-

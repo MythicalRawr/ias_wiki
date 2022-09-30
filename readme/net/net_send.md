@@ -6,7 +6,7 @@ void net:send(netId, msg, ply, reliable)
 
 Sends a Packet to a specific Player.
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,4 +15,3 @@ Sends a Packet to a specific Player.
 | [Packet](../packet/README.md) | msg | No description |  |
 | [Player](../player/README.md) | ply | No description |  |
 | boolean | reliable | optional = true | ✔ |
-

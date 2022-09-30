@@ -6,10 +6,9 @@ boolean light:isValid()
 
 Returns true if the light is valid
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

@@ -6,18 +6,16 @@ PathFinder world:createPathFinder(building)
 
 Creates a PathFinder object for the given building
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | building | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [PathFinder](../pathfinder/README.md) | No description |
-

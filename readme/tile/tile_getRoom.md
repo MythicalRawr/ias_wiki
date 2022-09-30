@@ -6,10 +6,9 @@ Room Tile:getRoom()
 
 Returns the current room the tile is in
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Room](../room/README.md) | No description |
-

@@ -6,18 +6,16 @@ boolean ITEM:same(other)
 
 Returns true if it's the same item
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [ITEM](../item/README.md) | other | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

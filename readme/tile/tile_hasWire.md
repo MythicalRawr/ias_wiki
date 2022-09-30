@@ -6,18 +6,16 @@ boolean Tile:hasWire(type)
 
 Returns true if the tile has the requested wire type
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [WIRE](../wire/README.md) | type | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

@@ -6,7 +6,7 @@ string[] string.split(str, sep, max)
 
 Splits the string with the given seperator
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,11 +15,9 @@ Splits the string with the given seperator
 | string | sep | No description |  |
 | number | max | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | string[] | No description |
-

@@ -6,10 +6,9 @@ Color light:getColor()
 
 Gets the light color
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
-

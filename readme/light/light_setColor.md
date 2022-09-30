@@ -6,10 +6,9 @@ void light:setColor(color)
 
 Sets the light color
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Color](../color/README.md) | color | No description |  |
-

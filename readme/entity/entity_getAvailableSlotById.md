@@ -6,7 +6,7 @@ number Entity:getAvailableSlotById(id, amount)
 
 Returns the available slot index by id
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Returns the available slot index by id
 | string | id | No description |  |
 | number | amount | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

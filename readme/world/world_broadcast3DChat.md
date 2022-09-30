@@ -6,7 +6,7 @@ void world:broadcast3DChat(pos, speaker, msg, color, groupid, distance)
 
 Creates a 3D chat on the given position to all players,Distance controls how readable the text is
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -17,4 +17,3 @@ Creates a 3D chat on the given position to all players,Distance controls how rea
 | [Color](../color/README.md) | color | No description | ✔ |
 | number | groupid | No description | ✔ |
 | number | distance | No description | ✔ |
-

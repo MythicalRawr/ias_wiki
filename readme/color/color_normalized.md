@@ -6,10 +6,9 @@ number Color:normalized()
 
 Returns the normalized color
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

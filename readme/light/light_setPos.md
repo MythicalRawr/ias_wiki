@@ -6,10 +6,9 @@ void light:setPos(pos)
 
 Sets the light position
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | pos | No description |  |
-

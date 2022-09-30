@@ -6,7 +6,7 @@ boolean Entity:dropItem(slot, pos)
 
 Drops the given item slot on the given pos
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Drops the given item slot on the given pos
 | number | slot | No description |  |
 | [Vector](../vector/README.md) | pos | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

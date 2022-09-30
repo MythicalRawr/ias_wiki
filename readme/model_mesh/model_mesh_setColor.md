@@ -6,10 +6,9 @@ void ModelMesh:setColor(color)
 
 Sets the mesh color
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Color](../color/README.md) | color | No description |  |
-

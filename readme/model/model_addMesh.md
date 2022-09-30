@@ -6,10 +6,9 @@ void Model:addMesh(mesh)
 
 Adds the mesh to the model
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [ModelMesh](../modelmesh/README.md) | mesh | No description |  |
-

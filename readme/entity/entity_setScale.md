@@ -6,10 +6,9 @@ void Entity:setScale(scale)
 
 Sets the scale of the ent
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | scale | No description |  |
-

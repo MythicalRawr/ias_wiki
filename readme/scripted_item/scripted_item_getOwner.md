@@ -6,10 +6,9 @@ Entity ITEM:getOwner()
 
 Returns the current item owner
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Entity](../entity/README.md) | No description |
-

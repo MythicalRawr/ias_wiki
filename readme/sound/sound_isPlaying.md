@@ -6,10 +6,9 @@ boolean Sound:isPlaying()
 
 Returns true if the sound is currently playing
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

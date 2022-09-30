@@ -6,10 +6,9 @@ void Entity:setParent(ent)
 
 Sets the entity parent
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | ent | No description |  |
-

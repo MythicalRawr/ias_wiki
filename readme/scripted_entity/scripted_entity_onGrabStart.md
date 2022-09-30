@@ -6,10 +6,9 @@ void ENT:onGrabStart(entity)
 
 Called when an entity starts grabbing this entity
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | entity | No description |  |
-

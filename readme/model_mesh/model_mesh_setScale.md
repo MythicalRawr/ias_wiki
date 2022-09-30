@@ -6,10 +6,9 @@ void ModelMesh:setScale(scale)
 
 Sets the mesh scale
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector3](../vector3/README.md) | scale | No description |  |
-

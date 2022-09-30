@@ -6,7 +6,7 @@ Color Color:new(r, g, b, a)
 
 Color constructor
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -16,11 +16,9 @@ Color constructor
 | number | b | No description |  |
 | number | a | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
-

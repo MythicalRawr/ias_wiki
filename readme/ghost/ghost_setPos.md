@@ -6,10 +6,9 @@ void Ghost:setPos(pos)
 
 Sets the current ghost position
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector3](../vector3/README.md) | pos | No description |  |
-

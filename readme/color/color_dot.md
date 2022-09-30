@@ -6,10 +6,9 @@ number Color:dot()
 
 Returns the dot color
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

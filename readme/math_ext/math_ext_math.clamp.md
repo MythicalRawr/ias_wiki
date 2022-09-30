@@ -6,7 +6,7 @@ number math.clamp(val, min, max)
 
 Clamps a number
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,11 +15,9 @@ Clamps a number
 | number | min | No description |  |
 | number | max | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

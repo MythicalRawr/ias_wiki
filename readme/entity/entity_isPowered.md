@@ -6,10 +6,9 @@ boolean Entity:isPowered()
 
 Returns true if the ent is powered
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

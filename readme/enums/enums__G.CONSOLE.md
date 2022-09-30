@@ -1,11 +1,10 @@
 ## <img src="../../.gitbook/assets/unknown.png" width="32" height="32" /><img src="../../.gitbook/assets/base.png" width="32" height="32" /> _G.CONSOLE
 
 
-------
+-----------------
 ## Fields
 
-| Type   | Name |
-| ------ | ---: |
-| table | FLAGS |
-| table | LOG |
-
+| Type   | Name | Optional |
+| ------ | ---- | -------: |
+| table | FLAGS |  |
+| table | LOG |  |

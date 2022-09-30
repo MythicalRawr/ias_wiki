@@ -6,10 +6,9 @@ void Entity:setModel(mdl)
 
 Sets the entity model
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Model](../model/README.md) | mdl | No description |  |
-

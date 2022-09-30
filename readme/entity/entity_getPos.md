@@ -6,10 +6,9 @@ Vector Entity:getPos()
 
 Returns the ent position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

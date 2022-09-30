@@ -6,10 +6,9 @@ WirePower Tile:getPower()
 
 Returns the wire power on the tile, if any
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [WirePower](../wirepower/README.md) | No description |
-

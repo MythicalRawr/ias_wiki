@@ -6,10 +6,9 @@ Tile Entity:getTile()
 
 Returns the tile under the ent (needs setUseTile set!)
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Tile](../tile/README.md) | No description |
-

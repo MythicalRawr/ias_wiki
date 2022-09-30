@@ -6,7 +6,7 @@ void net:sendToServer(netId, msg, reliable)
 
 Sends a Packet to the server
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,4 +14,3 @@ Sends a Packet to the server
 | string | netId | No description |  |
 | [Packet](../packet/README.md) | msg | No description |  |
 | boolean | reliable | optional = true | ✔ |
-

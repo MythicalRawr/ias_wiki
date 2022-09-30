@@ -6,7 +6,7 @@ boolean Entity:removeItemById(id, amount)
 
 Removes the given amount by item id
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Removes the given amount by item id
 | string | id | No description |  |
 | number | amount | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

@@ -6,10 +6,9 @@ void ModelMesh:setUV(pos)
 
 Sets the mesh uv position
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | pos | No description |  |
-

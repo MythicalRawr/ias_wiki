@@ -6,7 +6,7 @@ timerObj timer:create(id, interval, ticks, callback)
 
 Creates a timer using the unique id, triggering every x seconds for an x ammount of times.,If ticks is set to <= than 0, it will run infinitely
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -16,11 +16,9 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 | number | ticks | No description |  |
 | function | callback | fun(data?: any): void |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [timerObj](../timerobj/README.md) | No description |
-

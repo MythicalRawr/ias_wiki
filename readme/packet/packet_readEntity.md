@@ -6,10 +6,9 @@ ENT Packet:readEntity()
 
 Reads a entity from the net packet
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [ENT](../ent/README.md) | No description |
-

@@ -6,10 +6,9 @@ Model Entity:getModel()
 
 Returns ent model mesh
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Model](../model/README.md) | No description |
-

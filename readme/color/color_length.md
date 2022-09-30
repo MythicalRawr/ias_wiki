@@ -6,10 +6,9 @@ number Color:length()
 
 Returns the length of the color
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

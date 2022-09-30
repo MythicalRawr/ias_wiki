@@ -6,10 +6,9 @@ void Entity:onGasDisconnected(network)
 
 called when a gas pipe is disconnected from the entity
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [GasNetwork](../gasnetwork/README.md) | network | No description |  |
-

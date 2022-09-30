@@ -6,10 +6,9 @@ void ENT:onUseViewerRemoved(player)
 
 Triggered a use viewer player is removed
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Player](../player/README.md) | player | No description |  |
-

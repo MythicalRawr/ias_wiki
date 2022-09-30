@@ -6,10 +6,9 @@ number AABB:surfaceArea()
 
 Returns the surfaceArea
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

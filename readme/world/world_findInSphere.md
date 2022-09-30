@@ -6,7 +6,7 @@ ENT[] world:findInSphere(pos, distance)
 
 Finds entities in the world in a sphere radius
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Finds entities in the world in a sphere radius
 | [Vector](../vector/README.md) | pos | No description |  |
 | number | distance | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [ENT[]](../ent[]/README.md) | No description |
-

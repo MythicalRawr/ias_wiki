@@ -6,10 +6,9 @@ AABB ENT:getRenderBox()
 
 Gets the render box of the entity.
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [AABB](../aabb/README.md) | No description |
-

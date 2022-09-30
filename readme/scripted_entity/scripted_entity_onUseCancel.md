@@ -6,10 +6,9 @@ void ENT:onUseCancel(ent)
 
 Triggered when a entity cancels USE (only on MENU mode)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | ent | No description |  |
-

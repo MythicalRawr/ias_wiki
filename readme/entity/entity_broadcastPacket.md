@@ -6,7 +6,7 @@ void Entity:broadcastPacket(id, packet, reliable)
 
 Broadcast a packet to all the players
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,4 +14,3 @@ Broadcast a packet to all the players
 | string | id | No description |  |
 | [Packet](../packet/README.md) | packet | No description |  |
 | boolean | reliable | No description | ✔ |
-

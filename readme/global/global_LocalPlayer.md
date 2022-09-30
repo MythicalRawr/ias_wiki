@@ -6,10 +6,9 @@ Player LocalPlayer()
 
 Returns the local player if exists
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Player](../player/README.md) | No description |
-

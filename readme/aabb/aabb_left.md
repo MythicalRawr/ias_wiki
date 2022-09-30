@@ -6,10 +6,9 @@ number AABB:left()
 
 Returns the left
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

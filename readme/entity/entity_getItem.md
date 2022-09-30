@@ -6,18 +6,16 @@ ITEM Entity:getItem(index)
 
 Returns the item by index
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | index | No description |  |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [ITEM](../item/README.md) | No description |
-

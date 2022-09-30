@@ -6,7 +6,7 @@ void ENT:onNetPacket(id, packet, ply)
 
 Called when the server recieves a net packet from the player (client)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,4 +14,3 @@ Called when the server recieves a net packet from the player (client)
 | string | id | No description |  |
 | [Packet](../packet/README.md) | packet | No description |  |
 | [Player](../player/README.md) | ply | No description |  |
-

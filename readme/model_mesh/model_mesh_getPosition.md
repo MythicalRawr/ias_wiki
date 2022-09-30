@@ -6,10 +6,9 @@ Vector ModelMesh:getPosition()
 
 Gets the mesh position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-

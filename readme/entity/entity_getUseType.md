@@ -6,10 +6,9 @@ USE Entity:getUseType()
 
 Returns the ent use type
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [USE](../use/README.md) | No description |
-

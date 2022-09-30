@@ -6,7 +6,7 @@ boolean Entity:removeItem(slot, amount)
 
 Removes the given amount (if not set, the whole item) on the given slot
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -14,11 +14,9 @@ Removes the given amount (if not set, the whole item) on the given slot
 | number | slot | No description |  |
 | number | amount | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

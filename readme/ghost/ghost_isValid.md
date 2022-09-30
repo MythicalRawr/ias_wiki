@@ -6,10 +6,9 @@ boolean Ghost:isValid()
 
 Returns true if valid
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

@@ -6,10 +6,9 @@ void ENT:onUse(ent)
 
 Triggered when a entity presses USE
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | ent | No description |  |
-

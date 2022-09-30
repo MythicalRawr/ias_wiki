@@ -6,10 +6,9 @@ number Entity:ID()
 
 Returns the unique ent id
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-

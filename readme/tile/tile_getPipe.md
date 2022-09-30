@@ -6,10 +6,9 @@ Pipe Tile:getPipe()
 
 Returns the pipe on the tile, if any
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Pipe](../pipe/README.md) | No description |
-

@@ -6,7 +6,7 @@ void worldDebug:text(pos, ttl, text, color)
 
 Draws a 3D debug text that will vanish after the given ttl time
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,4 +15,3 @@ Draws a 3D debug text that will vanish after the given ttl time
 | number | ttl | No description |  |
 | string | text | No description |  |
 | [Color](../color/README.md) | color | No description | ✔ |
-

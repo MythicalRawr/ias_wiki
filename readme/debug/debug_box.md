@@ -6,7 +6,7 @@ void worldDebug:box(pos, ttl, size, color, outline)
 
 Draws a 3D debug box that will vanish after the given ttl time
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -16,4 +16,3 @@ Draws a 3D debug box that will vanish after the given ttl time
 | [Vector](../vector/README.md) | size | No description | ✔ |
 | [Color](../color/README.md) | color | No description | ✔ |
 | boolean | outline | No description | ✔ |
-

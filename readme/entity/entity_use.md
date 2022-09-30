@@ -6,10 +6,9 @@ void Entity:use(ent)
 
 Programmatically "uses" the given ent (if marked as a use viewer)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | ent | No description |  |
-

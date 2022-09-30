@@ -6,7 +6,7 @@ boolean Entity:addItem(id, amount, slot)
 
 Adds the given item id to the ent storage (ent needs to be marked with setStorage)
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,11 +15,9 @@ Adds the given item id to the ent storage (ent needs to be marked with setStorag
 | number | amount | No description | ✔ |
 | number | slot | No description | ✔ |
 
-
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-

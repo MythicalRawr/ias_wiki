@@ -6,10 +6,9 @@ Packet Packet:new()
 
 Packet constructor
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Packet](../packet/README.md) | No description |
-

@@ -6,10 +6,9 @@ void ENT:setUsesGas(set)
 
 Marks the entity to use gas
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | set | No description |  |
-

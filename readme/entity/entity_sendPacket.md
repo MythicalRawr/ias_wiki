@@ -6,7 +6,7 @@ void Entity:sendPacket(id, ply, packet, reliable)
 
 Send a packet to the given player with the given id
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
@@ -15,4 +15,3 @@ Send a packet to the given player with the given id
 | [Player](../player/README.md) | ply | No description |  |
 | [Packet](../packet/README.md) | packet | No description |  |
 | boolean | reliable | No description | ✔ |
-

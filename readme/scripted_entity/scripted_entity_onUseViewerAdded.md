@@ -6,10 +6,9 @@ void ENT:onUseViewerAdded(player)
 
 Triggered a use viewer player is added
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Player](../player/README.md) | player | No description |  |
-

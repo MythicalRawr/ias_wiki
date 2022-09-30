@@ -6,10 +6,9 @@ void Entity:setRotation(rot)
 
 Sets the rotation of the ent in degrees
 
-------
+-----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector](../vector/README.md) | rot | No description |  |
-

@@ -6,10 +6,9 @@ Vector getMousePos()
 
 Returns the local player last mouse position
 
-------
+-----------------
 ## Returns
 
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
