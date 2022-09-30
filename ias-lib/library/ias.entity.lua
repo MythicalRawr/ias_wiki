@@ -259,7 +259,6 @@ function Entity:getModel() end
 
 ---
 ---@env SHARED
----@see Entity:getParent
 ---@return Entity
 ---* Returns the parent ent (should be checked with hasParent first)
 ---
@@ -435,7 +434,6 @@ function Entity:use(ent) end
 
 ---
 ---@env SERVER
----@see Entity:broadcastPacket
 ---@param id string
 ---@param ply Player
 ---@param packet Packet

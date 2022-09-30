@@ -9,7 +9,6 @@ net = {}
 
 ---
 ---@env SERVER
----@see net:broadcast
 ---@param netId string
 ---@param msg Packet
 ---@param ply Player

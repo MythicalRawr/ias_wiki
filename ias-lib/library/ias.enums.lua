@@ -11,6 +11,9 @@ _G.CONSOLE = {
 
 ---
 ---@enum CONSOLE.FLAGS
+---@field CHEATS number
+---@field ADMIN number
+---@field DEVELOPER number
 ---
 _G.CONSOLE.FLAGS = {
 	CHEATS = 1,
@@ -21,6 +24,9 @@ _G.CONSOLE.FLAGS = {
 
 ---
 ---@enum CONSOLE.LOG
+---@field DEBUG number
+---@field WARNING number
+---@field ERROR number
 ---
 _G.CONSOLE.LOG = {
 	DEBUG = 3,
@@ -32,6 +38,7 @@ _G.CONSOLE.LOG = {
 
 ---
 ---@enum COMPONENTS
+---@field TILE number
 ---
 _G.COMPONENTS = {
 	TILE = 1
@@ -39,6 +46,9 @@ _G.COMPONENTS = {
 
 ---
 ---@enum USE
+---@field NONE number
+---@field SIMPLE number
+---@field MENU number
 ---
 _G.USE = {
 	NONE = 0,
@@ -50,6 +60,11 @@ _G.USE = {
 
 ---
 ---@enum GAS
+---@field NONE number
+---@field OXYGEN number
+---@field STEAM number
+---@field CO2 number
+---@field NITROGEN number
 ---
 _G.GAS = {
 	NONE = 0,
@@ -63,6 +78,8 @@ _G.GAS = {
 
 ---
 ---@enum FREEZE
+---@field MOVEMENT number
+---@field ROTATION number
 ---
 _G.FREEZE = {
 	MOVEMENT = 1,
@@ -73,6 +90,10 @@ _G.FREEZE = {
 
 ---
 ---@enum ITEM_RARITY
+---@field COMMON number
+---@field RARE number
+---@field EPIC number
+---@field LEGENDARY number
 ---
 _G.ITEM_RARITY = {
 	COMMON = 0,
@@ -85,6 +106,10 @@ _G.ITEM_RARITY = {
 
 ---
 ---@enum PHYSICS
+---@field STATIC number
+---@field DYNAMIC number
+---@field TRIGGER number
+---@field KINEMATIC number
 ---
 _G.PHYSICS = {
 	STATIC = 1,
@@ -97,6 +122,8 @@ _G.PHYSICS = {
 
 ---
 ---@enum WIRE
+---@field POWER number
+---@field IO number
 ---
 _G.WIRE = {
 	POWER = 1,

@@ -88,7 +88,6 @@ function Player:isFrozen() end
 
 ---
 ---@env CLIENT
----@see ENT:moveItem
 ---@param oldStorage ENT
 ---@param newStorage ENT
 ---@param oldSlot number

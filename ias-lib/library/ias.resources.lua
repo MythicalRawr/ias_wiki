@@ -9,7 +9,6 @@ resources = {}
 
 ---
 ---@env SHARED
----@see MOD:onLoad
 ---@param path string
 ---* Marks the given file for pre-loading
 ---
@@ -17,7 +16,6 @@ function resources:preLoad(path) end
 
 ---
 ---@env SHARED
----@see MOD:onLoad
 ---@param folder string
 ---* Marks the given folder for pre-loading
 ---

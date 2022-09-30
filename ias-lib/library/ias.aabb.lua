@@ -24,6 +24,7 @@ AABB = {
 ---@param y number
 ---@param width number
 ---@param height number
+---@deprecated Pls don't use this
 ---@return AABB
 ---* AABB constructor
 ---
