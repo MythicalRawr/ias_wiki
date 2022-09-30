@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----language's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class language
+---* language's entry class.
+---
 language = {}
 
 ---

@@ -1,11 +1,10 @@
 ---@meta
 
 ---
----json's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
---- [json.lua](https://github.com/rxi/json.lua)
 ---@class json
+---* json's entry class.
+---* [json.lua](https://github.com/rxi/json.lua)
+---
 json = {}
 
 ---

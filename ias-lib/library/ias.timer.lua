@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----timer's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class timer
+---* timer's entry class.
+---
 timer = {}
 
 ---

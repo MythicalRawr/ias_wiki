@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Hooks's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class hooks
+---* Hooks's entry class
+---
 hooks = {}
 
 ---

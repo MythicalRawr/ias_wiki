@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----WorkshopMOD's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class WorkshopMOD
+---* WorkshopMOD's entry class
+---
 WorkshopMOD = {}
 
 ---

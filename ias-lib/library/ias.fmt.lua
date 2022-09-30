@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----FMT's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class fmt
+---* FMT's entry class.
+---
 fmt = {}
 
 ---

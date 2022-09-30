@@ -1,13 +1,12 @@
 ---@meta
 
 ---
----Vector3's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Vector3: Vector
 ---@field x number
 ---@field y number
 ---@field z number
+---* Vector3's entry class
+---
 Vector3 = {
 	x = 0,
 	y = 0,

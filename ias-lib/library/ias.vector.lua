@@ -1,12 +1,11 @@
 ---@meta
 
 ---
----Vector's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Vector
 ---@field x number
 ---@field y number
+---* Vector's entry class
+---
 Vector = {
 	x = 0,
 	y = 0

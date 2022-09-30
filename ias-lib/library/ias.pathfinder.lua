@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----PathFinder's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class PathFinder
+---* PathFinder's entry class
+---
 PathFinder = {}
 
 ---

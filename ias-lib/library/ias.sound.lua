@@ -1,14 +1,13 @@
 ---@meta
 
 ---
----Sound's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Sound
 ---@field volume number "Set the sound volume"
 ---@field pitch number "Set the sound pitch"
 ---@field loop boolean "Set the sound loop"
 ---@field position? Vector "Set the sound position"
+---* Sound's entry class.
+---
 Sound = {
 	volume = 1,
 	pitch = 1,

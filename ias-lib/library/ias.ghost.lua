@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Ghost's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Ghost
+---* Ghost's entry class
+---
 Ghost = {}
 
 ---

@@ -1,11 +1,10 @@
 ---@meta
 
 ---
----packet's entry class.
----Remember that the reading order MUST MATCH the writing order!
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Packet
+---@hint @warning Remember that the reading order MUST MATCH the writing order!
+---* packet's entry class.
+---
 Packet = {}
 
 ---

@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Model's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Model
+---* Model's entry class.
+---
 Model = {}
 
 ---

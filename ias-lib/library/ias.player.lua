@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----player's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Player : ENT
+---* player's entry class.
+---
 Player = {}
 
 ---

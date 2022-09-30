@@ -1,12 +1,10 @@
 ---@meta
 
 ---
----AABB's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class AABB
 ---@field pos Vector
 ---@field size Vector
+---* AABB's entry class
 AABB = {
 	pos = {
 		x = 0,

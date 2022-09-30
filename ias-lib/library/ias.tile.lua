@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Tile's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Tile
+---* Tile's entry class.
+---
 Tile = {}
 
 ---

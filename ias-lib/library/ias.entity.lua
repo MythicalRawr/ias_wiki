@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Entity's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Entity
+---* Entity's entry class
+---
 Entity = {}
 
 ---

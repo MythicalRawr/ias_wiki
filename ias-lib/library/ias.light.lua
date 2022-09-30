@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----light's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class light
+---* light's entry class
+---
 light = {}
 
 ---

@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----MOD's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class MOD
+---* MOD's entry class
+---
 MOD = {}
 
 ---

@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----ui's entry class.
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class ui
+---* ui's entry class.
+---
 ui = {}
 
 ---

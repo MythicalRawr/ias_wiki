@@ -1,10 +1,9 @@
 ---@meta
 
 ---
----Room's entry class
----
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class Room
+---* Room's entry class
+---
 Room = {}
 
 ---

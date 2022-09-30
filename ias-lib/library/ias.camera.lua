@@ -1,9 +1,8 @@
 ---@meta
 
 ---
----camera's entry class
+---* Camera's entry class
 ---
---- [Ias Wiki](https://github.com/MythicalRawr/ias_wiki/wiki)
 ---@class camera
 camera = {}
 
