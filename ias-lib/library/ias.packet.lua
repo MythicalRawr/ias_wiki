@@ -2,7 +2,7 @@
 
 ---
 ---@class Packet
----@hint @warning Remember that the reading order MUST MATCH the writing order!
+---@hint @warning "Remember that the reading order MUST MATCH the writing order!"
 ---* packet's entry class.
 ---
 Packet = {}
