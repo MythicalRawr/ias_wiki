@@ -1,6 +1,4 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~[AABB](../aabb/README.md):new~~
-
-> ⚠ Deprecated: Pls don't use this
+## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):new
 
 ```lua
 AABB AABB:new(x, y, width, height)
