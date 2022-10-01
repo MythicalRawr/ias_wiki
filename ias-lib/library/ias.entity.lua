@@ -548,6 +548,29 @@ function Entity:disableInterpolation(disable) end
 function Entity:disableMemory(disable) end
 
 ---
+---@env CLIENT
+---@param name string
+---@param loop? boolean "false"
+---@param speed? number "1"
+---* Plays an animation on the entity
+---
+function Entity:setAnimation(name, loop, speed) end
+
+---
+---@env CLIENT
+---@return string "The animation"
+---* Returns the current playing animation, empty if none is playing.
+---
+function Entity:getCurrentAnimation() end
+
+---
+---@env CLIENT
+---@return string[] "The animation list"
+---* Returns the available animations on the model
+---
+function Entity:getAnimations() end
+
+---
 ---@env SHARED
 ---@param mode boolean
 ---* enables or disables power use at an entity
