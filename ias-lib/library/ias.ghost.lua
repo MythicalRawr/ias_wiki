@@ -56,6 +56,20 @@ function Ghost:getPos() end
 
 ---
 ---@env SHARED
+---@param pos Vector3
+---* Sets the current ghost scale
+---
+function Ghost:setScale(pos) end
+
+---
+---@env SHARED
+---@return Vector3
+---* Gets the current ghost scale
+---
+function Ghost:getScale() end
+
+---
+---@env SHARED
 ---@param ang number
 ---* Sets the current ghost angle in degrees
 ---

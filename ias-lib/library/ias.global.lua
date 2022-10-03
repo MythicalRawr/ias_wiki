@@ -44,8 +44,8 @@ getMousePos = function() end
 ---
 ---@env SHARED
 ---@param tbl table
----@param indentation number
----@param done function
+---@param indentation? number
+---@param done? function
 ---* Pretty prints the given table
 ---
 printTable = function(tbl, indentation, done) end

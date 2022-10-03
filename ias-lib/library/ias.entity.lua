@@ -151,11 +151,19 @@ function Entity:findItemSlots(id) end
 
 ---
 ---@env SHARED
+---@param slot number
+---@return boolean
+---* Returns true if the storage has an item on the given slot
+---
+function Entity:hasItem(slot) end
+
+---
+---@env SHARED
 ---@param id string
 ---@return boolean
 ---* Returns true if the storage has the given id
 ---
-function Entity:hasItem(id) end
+function Entity:hasItemById(id) end
 
 ---
 ---@env SHARED
@@ -195,13 +203,14 @@ function Entity:setVelocity(vel) end
 
 ---
 ---@env SHARED
+---@return Vector3
 ---* Returns the scale of the ent
 ---
 function Entity:getScale() end
 
 ---
 ---@env SHARED
----@param scale Vector
+---@param scale Vector3
 ---* Sets the scale of the ent
 ---
 function Entity:setScale(scale) end
@@ -283,6 +292,13 @@ function Entity:getType() end
 ---* Returns true if the ent is buildable
 ---
 function Entity:isBuilding() end
+
+---
+---@env SHARED
+---@return boolean
+---* Returns true if the ent is a player
+---
+function Entity:isPlayer() end
 
 ---
 ---@env SHARED
