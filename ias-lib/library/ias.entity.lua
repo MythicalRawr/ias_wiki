@@ -583,6 +583,13 @@ function Entity:stopAnimation(name) end
 
 ---
 ---@env CLIENT
+---@return boolean "Playing a animation"
+---* Returns true if playing a animation
+---
+function Entity:isAnimating() end
+
+---
+---@env CLIENT
 ---@return string "The animation"
 ---* Returns the current playing animation, empty if none is playing.
 ---
