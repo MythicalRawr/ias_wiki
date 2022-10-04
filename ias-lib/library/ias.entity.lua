@@ -590,13 +590,6 @@ function Entity:isAnimating() end
 
 ---
 ---@env CLIENT
----@return string "The animation"
----* Returns the current playing animation, empty if none is playing.
----
-function Entity:getCurrentAnimation() end
-
----
----@env CLIENT
 ---@return table "The animation list"
 ---* Returns the available animations on the model
 ---
