@@ -568,9 +568,18 @@ function Entity:disableMemory(disable) end
 ---@param name string
 ---@param loop? boolean "false"
 ---@param speed? number "1"
+---@return boolean "If the animation was started successfully"
 ---* Plays an animation on the entity
 ---
-function Entity:setAnimation(name, loop, speed) end
+function Entity:playAnimation(name, loop, speed) end
+
+---
+---@env CLIENT
+---@param name string
+---@return boolean "If the animation was stopped successfully"
+---* Stops an animation on the entity
+---
+function Entity:stopAnimation(name) end
 
 ---
 ---@env CLIENT
@@ -581,10 +590,17 @@ function Entity:getCurrentAnimation() end
 
 ---
 ---@env CLIENT
----@return string[] "The animation list"
+---@return table "The animation list"
 ---* Returns the available animations on the model
 ---
 function Entity:getAnimations() end
+
+---
+---@env CLIENT
+---@return table "The playing animation list"
+---* Returns the playing animations on the model
+---
+function Entity:getAnimationsPlaying() end
 
 ---
 ---@env SHARED
