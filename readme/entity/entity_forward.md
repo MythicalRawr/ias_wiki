@@ -4,7 +4,7 @@
 Vector Entity:forward(distance)
 ```
 
-Returns ent forward facing position
+Returns ent forward facing position<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 Vector3 Bone:getScale()
 ```
 
-Returns the custom scale modifier of the bone
+Returns the custom scale modifier of the bone<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void Entity:broadcastPacket(id, packet, reliable)
 ```
 
-Broadcast a packet to all the players
+Broadcast a packet to all the players<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void Entity:onGasConnected(network)
 ```
 
-called when a gas pipe is connected to the entity
+called when a gas pipe is connected to the entity<br>
 
 -----------------
 ## Parameters

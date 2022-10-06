@@ -4,7 +4,7 @@
 boolean ITEM:same(other)
 ```
 
-Returns true if it's the same item
+Returns true if it's the same item<br>
 
 -----------------
 ## Parameters

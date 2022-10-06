@@ -4,7 +4,7 @@
 string Player:getName()
 ```
 
-Returns the player name (aka name on steam)
+Returns the player name (aka name on steam)<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void ENT:onUseViewerRemoved(player)
 ```
 
-Triggered a use viewer player is removed
+Triggered a use viewer player is removed<br>
 
 -----------------
 ## Parameters

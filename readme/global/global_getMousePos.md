@@ -4,7 +4,7 @@
 Vector getMousePos()
 ```
 
-Returns the local player last mouse position
+Returns the local player last mouse position<br>
 
 -----------------
 ## Returns

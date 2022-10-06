@@ -4,4 +4,4 @@
 void Sound:stop()
 ```
 
-Stops playing the sound
+Stops playing the sound<br>

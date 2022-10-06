@@ -4,7 +4,7 @@
 number Room:getPressure()
 ```
 
-Returns the pressure in PSI
+Returns the pressure in PSI<br>
 
 -----------------
 ## Returns

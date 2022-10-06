@@ -4,7 +4,7 @@
 table world:getItemSettings(id)
 ```
 
-Gets the given item id settings
+Gets the given item id settings<br>
 
 -----------------
 ## Parameters

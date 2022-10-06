@@ -4,7 +4,7 @@
 number Entity:getHealth()
 ```
 
-Returns the ent health
+Returns the ent health<br>
 
 -----------------
 ## Returns

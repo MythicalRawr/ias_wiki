@@ -4,7 +4,7 @@
 void Sound:set3D(maxDistance)
 ```
 
-Sets the sound as 3D with the given min and max distance
+Sets the sound as 3D with the given min and max distance<br>
 
 -----------------
 ## Parameters

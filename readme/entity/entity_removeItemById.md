@@ -4,7 +4,7 @@
 boolean Entity:removeItemById(id, amount)
 ```
 
-Removes the given amount by item id
+Removes the given amount by item id<br>
 
 -----------------
 ## Parameters

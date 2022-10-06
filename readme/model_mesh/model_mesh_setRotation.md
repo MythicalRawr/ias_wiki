@@ -4,7 +4,7 @@
 void ModelMesh:setRotation(rot)
 ```
 
-Sets the mesh rotation in degrees
+Sets the mesh rotation in degrees<br>
 
 -----------------
 ## Parameters

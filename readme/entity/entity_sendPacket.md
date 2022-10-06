@@ -4,7 +4,7 @@
 void Entity:sendPacket(id, ply, packet, reliable)
 ```
 
-Send a packet to the given player with the given id
+Send a packet to the given player with the given id<br>
 
 -----------------
 ## Parameters

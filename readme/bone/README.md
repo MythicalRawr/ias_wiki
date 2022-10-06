@@ -1,2 +1,2 @@
 ## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Bone
-Bone's entry class
+Bone's entry class<br>

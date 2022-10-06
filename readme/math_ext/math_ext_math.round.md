@@ -4,7 +4,7 @@
 number math.round(val)
 ```
 
-Returns the rounded number
+Returns the rounded number<br>
 
 -----------------
 ## Parameters

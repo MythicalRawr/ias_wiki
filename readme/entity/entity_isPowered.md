@@ -4,7 +4,7 @@
 boolean Entity:isPowered()
 ```
 
-Returns true if the ent is powered
+Returns true if the ent is powered<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void ModelMesh:setScale(scale)
 ```
 
-Sets the mesh scale
+Sets the mesh scale<br>
 
 -----------------
 ## Parameters

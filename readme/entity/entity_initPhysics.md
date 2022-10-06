@@ -4,7 +4,7 @@
 void Entity:initPhysics(phys, block)
 ```
 
-Sets the entity physics type,If block is set, the VIS will be blocked by it
+Sets the entity physics type<br>If block is set, the VIS will be blocked by it<br>
 
 -----------------
 ## Parameters

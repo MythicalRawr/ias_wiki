@@ -4,7 +4,7 @@
 void Room:addGas(gasType, amount)
 ```
 
-adds the amount of gas to a room
+adds the amount of gas to a room<br>
 
 -----------------
 ## Parameters

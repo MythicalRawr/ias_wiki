@@ -4,7 +4,7 @@
 boolean Sound:isPlaying()
 ```
 
-Returns true if the sound is currently playing
+Returns true if the sound is currently playing<br>
 
 -----------------
 ## Returns

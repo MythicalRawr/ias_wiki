@@ -4,7 +4,7 @@
 number Packet:readUShort()
 ```
 
-Reads a unsigned short from the net packet
+Reads a unsigned short from the net packet<br>
 
 -----------------
 ## Returns

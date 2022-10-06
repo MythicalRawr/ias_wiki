@@ -4,7 +4,7 @@
 number timerObj:getRemainingTicks()
 ```
 
-Returns how many remaining ticks the timer has
+Returns how many remaining ticks the timer has<br>
 
 -----------------
 ## Returns

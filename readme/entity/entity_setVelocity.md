@@ -4,7 +4,7 @@
 void Entity:setVelocity(vel)
 ```
 
-Sets the velocity of the ent (physics)
+Sets the velocity of the ent (physics)<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 table Entity:getBones()
 ```
 
-Returns the available bones inside of the model based on the first animation sequence
+Returns the available bones inside of the model based on the first animation sequence<br>
 
 -----------------
 ## Returns

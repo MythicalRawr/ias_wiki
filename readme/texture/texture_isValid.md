@@ -4,7 +4,7 @@
 boolean Texture:isValid()
 ```
 
-Returns true if the texture is valid
+Returns true if the texture is valid<br>
 
 -----------------
 ## Returns

@@ -1,2 +1,2 @@
 ## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> ENT
-ENT's entry class
+ENT's entry class<br>

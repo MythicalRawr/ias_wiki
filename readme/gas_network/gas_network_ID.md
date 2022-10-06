@@ -4,7 +4,7 @@
 number GasNetwork:ID()
 ```
 
-Returns the GasNetwork id, unique per building
+Returns the GasNetwork id, unique per building<br>
 
 -----------------
 ## Returns

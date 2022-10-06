@@ -4,7 +4,7 @@
 Vector3 Vector3:new(x, y, z)
 ```
 
-Vector3 constructor
+Vector3 constructor<br>
 
 -----------------
 ## Parameters

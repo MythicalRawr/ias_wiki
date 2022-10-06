@@ -4,7 +4,7 @@
 table Packet:readTable()
 ```
 
-Reads a table from the net packet
+Reads a table from the net packet<br>
 
 -----------------
 ## Returns

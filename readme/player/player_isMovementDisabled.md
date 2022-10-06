@@ -4,7 +4,7 @@
 boolean Player:isMovementDisabled()
 ```
 
-Returns true if the player movement is disabled
+Returns true if the player movement is disabled<br>
 
 -----------------
 ## Returns

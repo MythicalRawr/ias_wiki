@@ -4,7 +4,7 @@
 number Vector:angle(other)
 ```
 
-Returns the angle of the vector from the given vector
+Returns the angle of the vector from the given vector<br>
 
 -----------------
 ## Parameters

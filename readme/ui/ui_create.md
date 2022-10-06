@@ -4,7 +4,7 @@
 UIBase ui:create(uiType, parent)
 ```
 
-Creates a new ui base element.
+Creates a new ui base element.<br>
 
 -----------------
 ## Parameters

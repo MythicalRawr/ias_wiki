@@ -4,7 +4,7 @@
 boolean Player:isDeveloper()
 ```
 
-Returns true if the player is a developer
+Returns true if the player is a developer<br>
 
 -----------------
 ## Returns

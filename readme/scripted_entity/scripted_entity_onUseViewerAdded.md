@@ -4,7 +4,7 @@
 void ENT:onUseViewerAdded(player)
 ```
 
-Triggered a use viewer player is added
+Triggered a use viewer player is added<br>
 
 -----------------
 ## Parameters

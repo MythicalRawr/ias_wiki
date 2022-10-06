@@ -4,7 +4,7 @@
 void Entity:setGrabbable(grab)
 ```
 
-Allows the ent to be grabbed or not
+Allows the ent to be grabbed or not<br>
 
 -----------------
 ## Parameters

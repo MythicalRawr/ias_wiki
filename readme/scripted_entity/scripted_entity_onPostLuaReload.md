@@ -4,4 +4,4 @@
 void ENT:onPostLuaReload()
 ```
 
-Called after the lua is reloaded
+Called after the lua is reloaded<br>

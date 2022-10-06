@@ -4,7 +4,7 @@
 void Entity:setRotation(rot)
 ```
 
-Sets the rotation of the ent in degrees
+Sets the rotation of the ent in degrees<br>
 
 -----------------
 ## Parameters

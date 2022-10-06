@@ -4,7 +4,7 @@
 boolean light:isValid()
 ```
 
-Returns true if the light is valid
+Returns true if the light is valid<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void Entity:setHealth(health)
 ```
 
-Sets the ent health
+Sets the ent health<br>
 
 -----------------
 ## Parameters

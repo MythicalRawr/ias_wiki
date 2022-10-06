@@ -4,7 +4,7 @@
 void Entity:setMeshTrigger(name, trigger)
 ```
 
-Sets the entity physics mesh id as a trigger
+Sets the entity physics mesh id as a trigger<br>
 
 -----------------
 ## Parameters

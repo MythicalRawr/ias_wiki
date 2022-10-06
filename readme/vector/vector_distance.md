@@ -4,7 +4,7 @@
 number Vector:distance(other)
 ```
 
-Returns the distance of the vector from the given vector
+Returns the distance of the vector from the given vector<br>
 
 -----------------
 ## Parameters

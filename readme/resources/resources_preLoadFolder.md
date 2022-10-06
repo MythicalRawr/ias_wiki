@@ -4,7 +4,7 @@
 void resources:preLoadFolder(folder)
 ```
 
-Marks the given folder for pre-loading
+Marks the given folder for pre-loading<br>
 
 -----------------
 ## Parameters

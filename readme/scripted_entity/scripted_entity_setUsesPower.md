@@ -4,7 +4,7 @@
 void ENT:setUsesPower(set)
 ```
 
-Marks the entity to use power
+Marks the entity to use power<br>
 
 -----------------
 ## Parameters

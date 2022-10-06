@@ -4,7 +4,7 @@
 Tile Entity:getTile()
 ```
 
-Returns the tile under the ent (needs setUseTile set!)
+Returns the tile under the ent (needs setUseTile set!)<br>
 
 -----------------
 ## Returns

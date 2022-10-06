@@ -4,4 +4,4 @@
 void console:clear()
 ```
 
-Clears the console
+Clears the console<br>

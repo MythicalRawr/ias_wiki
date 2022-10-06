@@ -1,2 +1,2 @@
 ## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> console
-console's entry class.
+console's entry class.<br>

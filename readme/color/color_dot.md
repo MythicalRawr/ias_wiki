@@ -4,7 +4,7 @@
 number Color:dot()
 ```
 
-Returns the dot color
+Returns the dot color<br>
 
 -----------------
 ## Returns

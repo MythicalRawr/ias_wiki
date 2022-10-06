@@ -4,7 +4,7 @@
 boolean Entity:isDestructible()
 ```
 
-Returns true if the ent is destructible
+Returns true if the ent is destructible<br>
 
 -----------------
 ## Returns

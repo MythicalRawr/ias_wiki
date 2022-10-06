@@ -4,7 +4,7 @@
 boolean Player:isGrabbing()
 ```
 
-Returns true if the player is grabbing an object
+Returns true if the player is grabbing an object<br>
 
 -----------------
 ## Returns

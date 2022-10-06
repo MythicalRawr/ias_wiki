@@ -4,7 +4,7 @@
 Player LocalPlayer()
 ```
 
-Returns the local player if exists
+Returns the local player if exists<br>
 
 -----------------
 ## Returns

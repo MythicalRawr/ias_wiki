@@ -4,7 +4,7 @@
 number Vector:dot(other)
 ```
 
-Returns the dot vector
+Returns the dot vector<br>
 
 -----------------
 ## Parameters

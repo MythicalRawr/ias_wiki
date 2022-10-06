@@ -7,4 +7,4 @@
 void Ghost:draw()
 ```
 
-Draws the ghost model
+Draws the ghost model<br>

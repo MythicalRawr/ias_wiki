@@ -4,7 +4,7 @@
 boolean math.isNan(val)
 ```
 
-Returns true if the number is NaN (not a number)
+Returns true if the number is NaN (not a number)<br>
 
 -----------------
 ## Parameters

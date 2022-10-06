@@ -4,7 +4,7 @@
 void Packet:writeEntity(data)
 ```
 
-Writes a entity in the net packet.
+Writes a entity in the net packet.<br>
 
 -----------------
 ## Parameters

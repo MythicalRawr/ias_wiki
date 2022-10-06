@@ -4,7 +4,7 @@
 number Entity:getAvailableSlot()
 ```
 
-Returns the an available slot index
+Returns the an available slot index<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 string language:get(modID, key, ...)
 ```
 
-Returns the i18n string (values are optional)
+Returns the i18n string (values are optional)<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void MOD:update(delta)
 ```
 
-Global event called every tick update
+Global event called every tick update<br>
 
 -----------------
 ## Parameters

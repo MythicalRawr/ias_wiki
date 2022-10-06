@@ -4,7 +4,7 @@
 void Packet:writeTable(data)
 ```
 
-Writes a table in the net packet.
+Writes a table in the net packet.<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 number Packet:tell()
 ```
 
-Returns the current position of the cursor
+Returns the current position of the cursor<br>
 
 -----------------
 ## Returns

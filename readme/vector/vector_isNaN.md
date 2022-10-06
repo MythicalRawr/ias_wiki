@@ -4,7 +4,7 @@
 boolean Vector:isNaN()
 ```
 
-Returns true if the vector is Not A Number (NaN)
+Returns true if the vector is Not A Number (NaN)<br>
 
 -----------------
 ## Returns

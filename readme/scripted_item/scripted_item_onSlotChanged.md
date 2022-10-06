@@ -4,7 +4,7 @@
 void ITEM:onSlotChanged(slot)
 ```
 
-Called when the item changes slots
+Called when the item changes slots<br>
 
 -----------------
 ## Parameters

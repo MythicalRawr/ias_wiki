@@ -4,7 +4,7 @@
 ENT[] world:findInSphere(pos, distance)
 ```
 
-Finds entities in the world in a sphere radius
+Finds entities in the world in a sphere radius<br>
 
 -----------------
 ## Parameters

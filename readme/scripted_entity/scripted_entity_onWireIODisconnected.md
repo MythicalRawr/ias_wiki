@@ -4,7 +4,7 @@
 void ENT:onWireIODisconnected(id)
 ```
 
-Triggered when the entity is disconnected from the wire IO
+Triggered when the entity is disconnected from the wire IO<br>
 
 -----------------
 ## Parameters

@@ -1,2 +1,2 @@
 ## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> net
-net's entry class
+net's entry class<br>

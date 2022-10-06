@@ -4,7 +4,7 @@
 void ENT:update(delta)
 ```
 
-Called every update tick
+Called every update tick<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 Entity ITEM:getOwner()
 ```
 
-Returns the current item owner
+Returns the current item owner<br>
 
 -----------------
 ## Returns

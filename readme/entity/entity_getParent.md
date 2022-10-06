@@ -4,7 +4,7 @@
 Entity Entity:getParent()
 ```
 
-Returns the parent ent (should be checked with hasParent first)
+Returns the parent ent (should be checked with hasParent first)<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 table Entity:getStorageItems()
 ```
 
-Returns the items in the ent storage
+Returns the items in the ent storage<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void resources:getContent(path)
 ```
 
-Fixes the given path with the mod's path,@/textures/blabalba.png = c++ content,@otherMod/textures/blabalba.png = @otherMod's content
+Fixes the given path with the mod's path<br>@/textures/blabalba.png = c++ content<br>@otherMod/textures/blabalba.png = @otherMod's content<br>
 
 -----------------
 ## Parameters

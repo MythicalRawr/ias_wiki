@@ -4,4 +4,4 @@
 void timerObj:destroy()
 ```
 
-Destroys the timer
+Destroys the timer<br>

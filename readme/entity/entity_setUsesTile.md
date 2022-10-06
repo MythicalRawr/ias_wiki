@@ -4,7 +4,7 @@
 void Entity:setUsesTile(mode)
 ```
 
-enables or disables tile use at an entity
+enables or disables tile use at an entity<br>
 
 -----------------
 ## Parameters

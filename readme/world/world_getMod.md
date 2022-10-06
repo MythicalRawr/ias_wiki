@@ -7,7 +7,7 @@
 WorkshopMOD world:getMod(id)
 ```
 
-Returns the mod with the given id, if found
+Returns the mod with the given id, if found<br>
 
 -----------------
 ## Parameters

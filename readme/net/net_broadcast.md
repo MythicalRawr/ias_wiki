@@ -4,7 +4,7 @@
 void net:broadcast(netId, msg, reliable)
 ```
 
-Broadcasts a Packet to all connected players
+Broadcasts a Packet to all connected players<br>
 
 -----------------
 ## Parameters

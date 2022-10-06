@@ -4,7 +4,7 @@
 Vector3 Ghost:getPos()
 ```
 
-Gets the current ghost position
+Gets the current ghost position<br>
 
 -----------------
 ## Returns

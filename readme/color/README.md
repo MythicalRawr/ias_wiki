@@ -1,5 +1,5 @@
 ## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Color
-Color's entry class
+Color's entry class<br>
 
 -----------------
 ## Fields

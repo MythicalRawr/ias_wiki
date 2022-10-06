@@ -4,7 +4,7 @@
 Sound resources:getSound(path)
 ```
 
-Returns a Sound object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the sound and not block the client
+Returns a Sound object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the sound and not block the client<br>
 
 -----------------
 ## Parameters

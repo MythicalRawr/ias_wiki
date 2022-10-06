@@ -4,7 +4,7 @@
 boolean Entity:canAddItem(slot, count)
 ```
 
-Returns true if you can add an item on the given slot with the given amount
+Returns true if you can add an item on the given slot with the given amount<br>
 
 -----------------
 ## Parameters

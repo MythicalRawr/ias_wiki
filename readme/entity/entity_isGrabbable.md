@@ -4,7 +4,7 @@
 boolean Entity:isGrabbable()
 ```
 
-Returns true if the ent is grabbable
+Returns true if the ent is grabbable<br>
 
 -----------------
 ## Returns

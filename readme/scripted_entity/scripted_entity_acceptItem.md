@@ -7,7 +7,7 @@
 void ENT:acceptItem(item, slot, mover)
 ```
 
-If the entity should accept the item on the given slot by the given entity.
+If the entity should accept the item on the given slot by the given entity.<br>
 
 -----------------
 ## Parameters

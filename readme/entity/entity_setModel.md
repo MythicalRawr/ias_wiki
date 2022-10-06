@@ -4,7 +4,7 @@
 void Entity:setModel(mdl)
 ```
 
-Sets the entity model
+Sets the entity model<br>
 
 -----------------
 ## Parameters

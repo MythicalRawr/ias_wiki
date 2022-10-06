@@ -4,7 +4,7 @@
 void ENT:onUseCancel(ent)
 ```
 
-Triggered when a entity cancels USE (only on MENU mode)
+Triggered when a entity cancels USE (only on MENU mode)<br>
 
 -----------------
 ## Parameters

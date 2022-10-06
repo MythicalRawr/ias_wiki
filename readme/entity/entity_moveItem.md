@@ -4,7 +4,7 @@
 boolean Entity:moveItem(to, slot, newSlot)
 ```
 
-Moves an item to a different inventory
+Moves an item to a different inventory<br>
 
 -----------------
 ## Parameters

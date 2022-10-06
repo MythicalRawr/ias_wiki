@@ -4,7 +4,7 @@
 void Ghost:setColor(color)
 ```
 
-Sets the current ghost color
+Sets the current ghost color<br>
 
 -----------------
 ## Parameters

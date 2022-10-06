@@ -4,7 +4,7 @@
 boolean ITEM:isStackable()
 ```
 
-Returns true if the item is stackable
+Returns true if the item is stackable<br>
 
 -----------------
 ## Returns

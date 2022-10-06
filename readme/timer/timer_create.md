@@ -4,7 +4,7 @@
 timerObj timer:create(id, interval, ticks, callback)
 ```
 
-Creates a timer using the unique id, triggering every x seconds for an x ammount of times.,If ticks is set to <= than 0, it will run infinitely
+Creates a timer using the unique id, triggering every x seconds for an x ammount of times.<br>If ticks is set to <= than 0, it will run infinitely<br>
 
 -----------------
 ## Parameters

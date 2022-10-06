@@ -4,7 +4,7 @@
 boolean, string console:execute(args)
 ```
 
-Executes a console command programmatically
+Executes a console command programmatically<br>
 ```lua
 --my_command is the command to execute, true is a parameter
 console:execute({"my_command", "true"})

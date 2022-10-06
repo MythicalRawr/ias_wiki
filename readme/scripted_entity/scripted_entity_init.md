@@ -4,4 +4,4 @@
 void ENT:init()
 ```
 
-Called when the entity is initialized
+Called when the entity is initialized<br>

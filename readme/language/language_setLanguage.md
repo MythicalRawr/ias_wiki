@@ -4,7 +4,7 @@
 void language:setLanguage(lang)
 ```
 
-Sets the game language (en, pt, etc)
+Sets the game language (en, pt, etc)<br>
 
 -----------------
 ## Parameters

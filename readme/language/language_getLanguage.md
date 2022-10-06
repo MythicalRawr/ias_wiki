@@ -4,7 +4,7 @@
 string language:getLanguage()
 ```
 
-Returns the current game language
+Returns the current game language<br>
 
 -----------------
 ## Returns

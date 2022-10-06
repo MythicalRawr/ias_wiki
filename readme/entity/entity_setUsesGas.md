@@ -4,7 +4,7 @@
 void Entity:setUsesGas(mode)
 ```
 
-enables or disables gas use at an entity
+enables or disables gas use at an entity<br>
 
 -----------------
 ## Parameters

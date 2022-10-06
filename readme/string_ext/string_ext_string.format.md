@@ -4,7 +4,7 @@
 string string.format(str, ...)
 ```
 
-Formats the given string with the given params,Ex: string.format("hello {}, age {}", "world", 20) = "hello world, age 20"
+Formats the given string with the given params<br>Ex: string.format("hello {}, age {}", "world", 20) = "hello world, age 20"<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 Texture resources:getTexture(path)
 ```
 
-Returns a Texture object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the texture and not block the client
+Returns a Texture object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the texture and not block the client<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 ENT Packet:readEntity()
 ```
 
-Reads a entity from the net packet
+Reads a entity from the net packet<br>
 
 -----------------
 ## Returns

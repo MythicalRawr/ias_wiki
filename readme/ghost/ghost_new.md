@@ -4,7 +4,7 @@
 Ghost Ghost:new()
 ```
 
-Ghost constructor
+Ghost constructor<br>
 
 -----------------
 ## Returns

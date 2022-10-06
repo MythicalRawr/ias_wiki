@@ -4,7 +4,7 @@
 number Entity:ID()
 ```
 
-Returns the unique ent id
+Returns the unique ent id<br>
 
 -----------------
 ## Returns

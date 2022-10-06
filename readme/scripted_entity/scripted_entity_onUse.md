@@ -4,7 +4,7 @@
 void ENT:onUse(ent)
 ```
 
-Triggered when a entity presses USE
+Triggered when a entity presses USE<br>
 
 -----------------
 ## Parameters

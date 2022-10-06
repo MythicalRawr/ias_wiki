@@ -4,7 +4,7 @@
 void net:remove(netId, hookName)
 ```
 
-Remove a listener for a specific netId
+Remove a listener for a specific netId<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void Entity:setBodyType(type)
 ```
 
-Updates the entity physics body type
+Updates the entity physics body type<br>
 
 -----------------
 ## Parameters

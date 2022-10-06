@@ -4,7 +4,7 @@
 ENT world:create(class, parent)
 ```
 
-Creates and spawns a new entity on the world
+Creates and spawns a new entity on the world<br>
 
 -----------------
 ## Parameters

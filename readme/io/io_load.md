@@ -4,7 +4,7 @@
 string, string io:load(path)
 ```
 
-Loads a file on the data folder, make sure you pass the extension on the filePath
+Loads a file on the data folder, make sure you pass the extension on the filePath<br>
 
 -----------------
 ## Parameters

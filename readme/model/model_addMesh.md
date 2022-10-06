@@ -4,7 +4,7 @@
 void Model:addMesh(mesh)
 ```
 
-Adds the mesh to the model
+Adds the mesh to the model<br>
 
 -----------------
 ## Parameters

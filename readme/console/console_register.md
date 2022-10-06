@@ -4,7 +4,7 @@
 void console:register(command, callback, description, flags)
 ```
 
-Registers a new console command (the command id needs to be unique)
+Registers a new console command (the command id needs to be unique)<br>
 ```lua
 console:register("my_command", function(args)
 if #args <= 1 then return false, "Missing arguments" end

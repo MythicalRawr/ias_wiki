@@ -4,7 +4,7 @@
 number Color:normalized()
 ```
 
-Returns the normalized color
+Returns the normalized color<br>
 
 -----------------
 ## Returns

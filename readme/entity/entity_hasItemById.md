@@ -4,7 +4,7 @@
 boolean Entity:hasItemById(id)
 ```
 
-Returns true if the storage has the given id
+Returns true if the storage has the given id<br>
 
 -----------------
 ## Parameters

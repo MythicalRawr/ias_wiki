@@ -4,7 +4,7 @@
 boolean Entity:canSeePlayer(id)
 ```
 
-Returns true if the entity can see the given id
+Returns true if the entity can see the given id<br>
 
 -----------------
 ## Parameters

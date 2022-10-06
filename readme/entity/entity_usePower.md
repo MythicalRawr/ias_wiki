@@ -4,7 +4,7 @@
 boolean Entity:usePower(power)
 ```
 
-Uses the given ammount of power (ent needs to be marked with setUsesPower) and returns true if successful
+Uses the given ammount of power (ent needs to be marked with setUsesPower) and returns true if successful<br>
 
 -----------------
 ## Parameters

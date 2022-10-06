@@ -4,7 +4,7 @@
 Vector Vector:new(x, y)
 ```
 
-Vector constructor
+Vector constructor<br>
 
 -----------------
 ## Parameters

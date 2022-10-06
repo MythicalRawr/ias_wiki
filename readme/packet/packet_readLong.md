@@ -4,7 +4,7 @@
 number Packet:readLong()
 ```
 
-Reads a long from the net packet
+Reads a long from the net packet<br>
 
 -----------------
 ## Returns

@@ -4,4 +4,4 @@
 void Bone:clear()
 ```
 
-Clears the position, rotation and scale modifiers for the bone.
+Clears the position, rotation and scale modifiers for the bone.<br>

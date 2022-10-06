@@ -4,7 +4,7 @@
 Vector3 Bone:getPosition()
 ```
 
-Returns the custom position offset of the bone
+Returns the custom position offset of the bone<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 boolean Entity:hasParent()
 ```
 
-Returns true if the ent has a parent
+Returns true if the ent has a parent<br>
 
 -----------------
 ## Returns

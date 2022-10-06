@@ -4,7 +4,7 @@
 Pipe Tile:getPipe()
 ```
 
-Returns the pipe on the tile, if any
+Returns the pipe on the tile, if any<br>
 
 -----------------
 ## Returns

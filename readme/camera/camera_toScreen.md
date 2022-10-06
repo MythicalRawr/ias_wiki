@@ -4,7 +4,7 @@
 Vector camera:toScreen(pos)
 ```
 
-Converts the world position to screen coordinates
+Converts the world position to screen coordinates<br>
 
 -----------------
 ## Parameters

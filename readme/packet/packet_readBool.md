@@ -4,7 +4,7 @@
 boolean Packet:readBool()
 ```
 
-Reads a boolean from the net packet
+Reads a boolean from the net packet<br>
 
 -----------------
 ## Returns

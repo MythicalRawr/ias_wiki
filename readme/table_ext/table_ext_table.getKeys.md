@@ -4,7 +4,7 @@
 table table.getKeys(tbl)
 ```
 
-Returns the table keys
+Returns the table keys<br>
 
 -----------------
 ## Parameters

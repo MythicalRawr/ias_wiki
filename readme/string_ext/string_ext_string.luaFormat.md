@@ -1,12 +1,12 @@
 ## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~string.luaFormat~~
 
-> ⚠ Deprecated: "Use string.format with {} instead of %d..etc"
+> ⚠ Deprecated: Use string.format with {} instead of %d..etc
 
 ```lua
 string string.luaFormat(str, ...)
 ```
 
-Old lua string.format
+Old lua string.format<br>
 
 -----------------
 ## Parameters

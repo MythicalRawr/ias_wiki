@@ -4,7 +4,7 @@
 Tile Entity:getTileByPos(pos)
 ```
 
-Returns the tile on the given position under the ent (needs to be a buildable type!)
+Returns the tile on the given position under the ent (needs to be a buildable type!)<br>
 
 -----------------
 ## Parameters

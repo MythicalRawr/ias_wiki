@@ -4,7 +4,7 @@
 Vector Entity:left()
 ```
 
-Returns ent left facing position
+Returns ent left facing position<br>
 
 -----------------
 ## Returns

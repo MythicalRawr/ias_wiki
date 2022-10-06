@@ -1,12 +1,10 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> ~~[Entity](../entity/README.md):setUseHint~~
-
-> ⚠ Deprecated: TODO
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):setUseHint
 
 ```lua
 void Entity:setUseHint(hint, texture)
 ```
 
-Sets the cursor hint & texture when the user hovers the ent
+Sets the cursor hint & texture when the user hovers the ent<br>
 
 -----------------
 ## Parameters

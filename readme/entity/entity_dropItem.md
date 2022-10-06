@@ -4,7 +4,7 @@
 boolean Entity:dropItem(slot, pos)
 ```
 
-Drops the given item slot on the given pos
+Drops the given item slot on the given pos<br>
 
 -----------------
 ## Parameters

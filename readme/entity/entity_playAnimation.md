@@ -4,7 +4,7 @@
 boolean Entity:playAnimation(name, loop, speed)
 ```
 
-Plays an animation on the entity
+Plays an animation on the entity<br>
 
 -----------------
 ## Parameters

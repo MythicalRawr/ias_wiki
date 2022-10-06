@@ -4,7 +4,7 @@
 void Bone:setRotation(rotation)
 ```
 
-Sets the custom position offset of the bone in degrees
+Sets the custom position offset of the bone in degrees<br>
 
 -----------------
 ## Parameters

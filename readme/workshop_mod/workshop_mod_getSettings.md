@@ -4,7 +4,7 @@
 table WorkshopMOD:getSettings()
 ```
 
-Returns the mod's settings
+Returns the mod's settings<br>
 
 -----------------
 ## Returns

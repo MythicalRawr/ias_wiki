@@ -4,7 +4,7 @@
 void ENT:onWireIOConnected(id)
 ```
 
-Triggered when the entity is connected to the wire IO
+Triggered when the entity is connected to the wire IO<br>
 
 -----------------
 ## Parameters

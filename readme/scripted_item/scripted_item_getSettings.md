@@ -4,7 +4,7 @@
 table ITEM:getSettings()
 ```
 
-Returns the item settings
+Returns the item settings<br>
 
 -----------------
 ## Returns

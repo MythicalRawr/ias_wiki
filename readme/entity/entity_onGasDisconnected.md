@@ -4,7 +4,7 @@
 void Entity:onGasDisconnected(network)
 ```
 
-called when a gas pipe is disconnected from the entity
+called when a gas pipe is disconnected from the entity<br>
 
 -----------------
 ## Parameters

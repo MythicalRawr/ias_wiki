@@ -4,7 +4,7 @@
 void ENT:onGrabEnd(entity)
 ```
 
-Called when an entity stops grabbing this entity
+Called when an entity stops grabbing this entity<br>
 
 -----------------
 ## Parameters

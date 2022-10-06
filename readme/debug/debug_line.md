@@ -4,7 +4,7 @@
 void worldDebug:line(startPos, endPos, ttl, color)
 ```
 
-Draws a 3D debug line that will vanish after the given ttl time
+Draws a 3D debug line that will vanish after the given ttl time<br>
 
 -----------------
 ## Parameters

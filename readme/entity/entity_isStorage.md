@@ -4,7 +4,7 @@
 boolean Entity:isStorage()
 ```
 
-Returns true if the ent stores items or not (aka has inventory)
+Returns true if the ent stores items or not (aka has inventory)<br>
 
 -----------------
 ## Returns

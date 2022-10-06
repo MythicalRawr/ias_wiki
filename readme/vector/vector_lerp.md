@@ -4,7 +4,7 @@
 Vector Vector:lerp(other, t)
 ```
 
-Returns the lerped vector
+Returns the lerped vector<br>
 
 -----------------
 ## Parameters

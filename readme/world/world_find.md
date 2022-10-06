@@ -4,7 +4,7 @@
 ENT world:find(id)
 ```
 
-Finds an entity in the world by id
+Finds an entity in the world by id<br>
 
 -----------------
 ## Parameters

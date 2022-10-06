@@ -4,7 +4,7 @@
 Vector3 Entity:getScale()
 ```
 
-Returns the scale of the ent
+Returns the scale of the ent<br>
 
 -----------------
 ## Returns

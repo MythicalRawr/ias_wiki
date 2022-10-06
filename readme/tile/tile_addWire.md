@@ -4,7 +4,7 @@
 void Tile:addWire(type, networkId)
 ```
 
-Adds the given wire type to the tile
+Adds the given wire type to the tile<br>
 
 -----------------
 ## Parameters

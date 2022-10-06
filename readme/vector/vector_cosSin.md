@@ -4,7 +4,7 @@
 Vector Vector:cosSin(ang)
 ```
 
-Returns the clamped vector
+Returns the clamped vector<br>
 
 -----------------
 ## Parameters

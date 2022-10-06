@@ -4,7 +4,7 @@
 number Packet:readDouble()
 ```
 
-Reads a double from the net packet
+Reads a double from the net packet<br>
 
 -----------------
 ## Returns

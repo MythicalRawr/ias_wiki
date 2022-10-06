@@ -4,7 +4,7 @@
 boolean Tile:hasPipe()
 ```
 
-Returns true if the tile has a pipe
+Returns true if the tile has a pipe<br>
 
 -----------------
 ## Returns

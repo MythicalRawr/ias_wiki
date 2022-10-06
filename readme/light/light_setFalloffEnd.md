@@ -4,7 +4,7 @@
 void light:setFalloffEnd(val)
 ```
 
-Sets the light falloff end
+Sets the light falloff end<br>
 
 -----------------
 ## Parameters

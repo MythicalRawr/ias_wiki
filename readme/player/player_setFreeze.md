@@ -4,7 +4,7 @@
 void Player:setFreeze(flags, set)
 ```
 
-Sets / Unsets the freeze flags
+Sets / Unsets the freeze flags<br>
 
 -----------------
 ## Parameters

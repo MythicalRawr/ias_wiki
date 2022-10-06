@@ -4,7 +4,7 @@
 boolean ModelMesh:isValid()
 ```
 
-Returns true if the mesh is valid
+Returns true if the mesh is valid<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 number Packet:size()
 ```
 
-Returns the size of the packet content
+Returns the size of the packet content<br>
 
 -----------------
 ## Returns

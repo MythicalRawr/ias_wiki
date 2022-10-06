@@ -4,7 +4,7 @@
 void net:sendToServer(netId, msg, reliable)
 ```
 
-Sends a Packet to the server
+Sends a Packet to the server<br>
 
 -----------------
 ## Parameters

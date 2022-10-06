@@ -4,7 +4,7 @@
 number Vector:length()
 ```
 
-Returns the length of the vector
+Returns the length of the vector<br>
 
 -----------------
 ## Returns

@@ -1,12 +1,12 @@
 ## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~[fmt](../fmt/README.md):format~~
 
-> ⚠ Deprecated: "Use string.format instead"
+> ⚠ Deprecated: Use string.format instead
 
 ```lua
 string fmt:format(str, ...)
 ```
 
-Returns a formated string
+Returns a formated string<br>
 
 -----------------
 ## Parameters

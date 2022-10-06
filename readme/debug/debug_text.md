@@ -4,7 +4,7 @@
 void worldDebug:text(pos, ttl, text, color)
 ```
 
-Draws a 3D debug text that will vanish after the given ttl time
+Draws a 3D debug text that will vanish after the given ttl time<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 number AABB:bottom()
 ```
 
-Returns the bottom
+Returns the bottom<br>
 
 -----------------
 ## Returns

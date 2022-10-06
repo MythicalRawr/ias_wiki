@@ -4,7 +4,7 @@
 table settings:getSettings()
 ```
 
-Gets the user game settings
+Gets the user game settings<br>
 
 -----------------
 ## Returns

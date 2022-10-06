@@ -4,7 +4,7 @@
 Vector3 Ghost:getScale()
 ```
 
-Gets the current ghost scale
+Gets the current ghost scale<br>
 
 -----------------
 ## Returns

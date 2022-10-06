@@ -8,7 +8,7 @@
 void ENT:setRenderBox(aabb)
 ```
 
-Sets the render box of the entity.
+Sets the render box of the entity.<br>
 
 -----------------
 ## Parameters

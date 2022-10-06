@@ -4,7 +4,7 @@
 AABB AABB:new(x, y, width, height)
 ```
 
-AABB constructor
+AABB constructor<br>
 
 -----------------
 ## Parameters

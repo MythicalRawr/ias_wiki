@@ -4,7 +4,7 @@
 number Color:distance()
 ```
 
-Returns the distance of the color
+Returns the distance of the color<br>
 
 -----------------
 ## Returns

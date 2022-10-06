@@ -4,7 +4,7 @@
 boolean Ghost:isValid()
 ```
 
-Returns true if valid
+Returns true if valid<br>
 
 -----------------
 ## Returns

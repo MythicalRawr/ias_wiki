@@ -4,7 +4,7 @@
 boolean Entity:isAnimating()
 ```
 
-Returns true if playing a animation
+Returns true if playing a animation<br>
 
 -----------------
 ## Returns

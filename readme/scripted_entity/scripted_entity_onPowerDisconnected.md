@@ -4,7 +4,7 @@
 void ENT:onPowerDisconnected(id)
 ```
 
-Called when a power network is disconnected from the entity
+Called when a power network is disconnected from the entity<br>
 
 -----------------
 ## Parameters

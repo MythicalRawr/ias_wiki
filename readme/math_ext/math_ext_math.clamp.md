@@ -4,7 +4,7 @@
 number math.clamp(val, min, max)
 ```
 
-Clamps a number
+Clamps a number<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void ModelMesh:setColor(color)
 ```
 
-Sets the mesh color
+Sets the mesh color<br>
 
 -----------------
 ## Parameters

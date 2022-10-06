@@ -4,4 +4,4 @@
 void ITEM:onHolster()
 ```
 
-Called when the item is un-selected by the player
+Called when the item is un-selected by the player<br>

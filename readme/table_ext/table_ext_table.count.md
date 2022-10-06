@@ -4,7 +4,7 @@
 number table.count(tbl)
 ```
 
-Returns the total amount of items on the table
+Returns the total amount of items on the table<br>
 
 -----------------
 ## Parameters

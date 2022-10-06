@@ -4,7 +4,7 @@
 void world:broadcastChat(pos, speaker, msg, distance, color)
 ```
 
-Creates a chat on the given position to all players,Distance controls how readable the text is
+Creates a chat on the given position to all players<br>Distance controls how readable the text is<br>
 
 -----------------
 ## Parameters

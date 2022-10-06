@@ -4,7 +4,7 @@
 void printTable(tbl)
 ```
 
-Pretty prints the given table
+Pretty prints the given table<br>
 
 -----------------
 ## Parameters

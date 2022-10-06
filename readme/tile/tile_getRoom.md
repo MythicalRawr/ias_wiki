@@ -4,7 +4,7 @@
 Room Tile:getRoom()
 ```
 
-Returns the current room the tile is in
+Returns the current room the tile is in<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void Entity:setParent(ent)
 ```
 
-Sets the entity parent
+Sets the entity parent<br>
 
 -----------------
 ## Parameters

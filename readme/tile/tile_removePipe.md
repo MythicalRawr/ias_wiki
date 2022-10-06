@@ -4,7 +4,7 @@
 void Tile:removePipe(networkId)
 ```
 
-Removes the given pipe networkId from the tile
+Removes the given pipe networkId from the tile<br>
 
 -----------------
 ## Parameters

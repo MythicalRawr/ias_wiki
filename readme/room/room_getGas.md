@@ -4,7 +4,7 @@
 number Room:getGas(gasType)
 ```
 
-Returns amount of gas in a room of the type
+Returns amount of gas in a room of the type<br>
 
 -----------------
 ## Parameters

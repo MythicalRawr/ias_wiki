@@ -4,7 +4,7 @@
 Vector Vector:clamp(min, max)
 ```
 
-Returns the clamped vector
+Returns the clamped vector<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 Vector Entity:getVelocity()
 ```
 
-Returns the velocity of the ent (physics)
+Returns the velocity of the ent (physics)<br>
 
 -----------------
 ## Returns

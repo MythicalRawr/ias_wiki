@@ -4,7 +4,7 @@
 void Bone:setScale(scale)
 ```
 
-Sets the custom scale modifier of the bone
+Sets the custom scale modifier of the bone<br>
 
 -----------------
 ## Parameters

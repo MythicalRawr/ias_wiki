@@ -4,7 +4,7 @@
 boolean Player:isFrozen()
 ```
 
-Returns true if the player rotation and movement are disabled
+Returns true if the player rotation and movement are disabled<br>
 
 -----------------
 ## Returns

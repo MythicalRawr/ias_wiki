@@ -4,7 +4,7 @@
 Vector3 Bone:getRotation()
 ```
 
-Returns the custom rotation offset of the bone in degrees
+Returns the custom rotation offset of the bone in degrees<br>
 
 -----------------
 ## Returns

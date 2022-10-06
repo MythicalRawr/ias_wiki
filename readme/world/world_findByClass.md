@@ -4,7 +4,7 @@
 ENT[] world:findByClass(class)
 ```
 
-Finds entities in the world by class type (EX: entity_ship)
+Finds entities in the world by class type (EX: entity_ship)<br>
 
 -----------------
 ## Parameters

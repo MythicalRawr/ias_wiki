@@ -4,7 +4,7 @@
 void net:listen(netId, hookName, callback)
 ```
 
-Creates a listener for a specific netId. Make sure your hookName is unique, it might get replaced by other listeners!
+Creates a listener for a specific netId. Make sure your hookName is unique, it might get replaced by other listeners!<br>
 
 -----------------
 ## Parameters

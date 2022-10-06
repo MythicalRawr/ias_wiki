@@ -4,7 +4,7 @@
 number Player:getSteamID()
 ```
 
-Returns the player steam id
+Returns the player steam id<br>
 
 -----------------
 ## Returns

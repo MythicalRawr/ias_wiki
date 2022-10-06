@@ -4,7 +4,7 @@
 Vector3 ModelMesh:getScale()
 ```
 
-Gets the mesh scale
+Gets the mesh scale<br>
 
 -----------------
 ## Returns

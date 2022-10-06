@@ -4,7 +4,7 @@
 boolean Entity:isBuilding()
 ```
 
-Returns true if the ent is buildable
+Returns true if the ent is buildable<br>
 
 -----------------
 ## Returns

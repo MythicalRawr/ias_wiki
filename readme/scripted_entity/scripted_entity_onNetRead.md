@@ -4,7 +4,7 @@
 void ENT:onNetRead(packet)
 ```
 
-The data to read from the netWrite (Server). Use this to sync variables between client and server
+The data to read from the netWrite (Server). Use this to sync variables between client and server<br>
 
 -----------------
 ## Parameters

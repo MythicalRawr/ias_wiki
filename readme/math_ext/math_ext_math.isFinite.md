@@ -4,7 +4,7 @@
 boolean math.isFinite(val)
 ```
 
-Returns true if the number is finite
+Returns true if the number is finite<br>
 
 -----------------
 ## Parameters

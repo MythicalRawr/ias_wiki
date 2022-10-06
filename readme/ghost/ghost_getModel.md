@@ -4,7 +4,7 @@
 Model Ghost:getModel()
 ```
 
-Gets the current ghost model
+Gets the current ghost model<br>
 
 -----------------
 ## Returns

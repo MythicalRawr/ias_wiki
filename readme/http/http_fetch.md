@@ -7,7 +7,7 @@
 void http:fetch(url, headers, callback)
 ```
 
-Queries the internetz using fetch.,By default it uses the method GET.
+Queries the internetz using fetch.<br>By default it uses the method GET.<br>
 
 -----------------
 ## Parameters

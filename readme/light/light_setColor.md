@@ -4,7 +4,7 @@
 void light:setColor(color)
 ```
 
-Sets the light color
+Sets the light color<br>
 
 -----------------
 ## Parameters

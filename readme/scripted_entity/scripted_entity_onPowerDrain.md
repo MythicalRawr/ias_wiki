@@ -4,7 +4,7 @@
 void ENT:onPowerDrain(id, amount)
 ```
 
-Called when power is drained
+Called when power is drained<br>
 
 -----------------
 ## Parameters

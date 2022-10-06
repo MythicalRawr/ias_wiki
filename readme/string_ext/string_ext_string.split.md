@@ -4,7 +4,7 @@
 string[] string.split(str, sep, max)
 ```
 
-Splits the string with the given seperator
+Splits the string with the given seperator<br>
 
 -----------------
 ## Parameters

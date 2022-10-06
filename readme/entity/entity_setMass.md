@@ -4,7 +4,7 @@
 void Entity:setMass(mass)
 ```
 
-Sets the entity physics mass
+Sets the entity physics mass<br>
 
 -----------------
 ## Parameters

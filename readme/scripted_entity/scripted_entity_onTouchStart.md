@@ -4,7 +4,7 @@
 void ENT:onTouchStart(entity)
 ```
 
-Called when an entity touches another entity (requires physics)
+Called when an entity touches another entity (requires physics)<br>
 
 -----------------
 ## Parameters

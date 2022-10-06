@@ -4,7 +4,7 @@
 void console:print(text, type)
 ```
 
-Prints the text on the console
+Prints the text on the console<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void world:add3DText(speaker, msg, color)
 ```
 
-Creates a client side chat text
+Creates a client side chat text<br>
 
 -----------------
 ## Parameters

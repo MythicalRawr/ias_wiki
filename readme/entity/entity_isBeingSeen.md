@@ -4,7 +4,7 @@
 boolean Entity:isBeingSeen()
 ```
 
-Returns true if a player can see the entity
+Returns true if a player can see the entity<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void ENT:onStorageUpdate(slot)
 ```
 
-Triggered when a slot is updated
+Triggered when a slot is updated<br>
 
 -----------------
 ## Parameters

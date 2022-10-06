@@ -4,7 +4,7 @@
 boolean Entity:isPlayer()
 ```
 
-Returns true if the ent is a player
+Returns true if the ent is a player<br>
 
 -----------------
 ## Returns

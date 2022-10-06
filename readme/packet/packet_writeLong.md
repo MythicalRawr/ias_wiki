@@ -4,7 +4,7 @@
 void Packet:writeLong(data)
 ```
 
-Writes a long in the net packet.
+Writes a long in the net packet.<br>
 
 -----------------
 ## Parameters

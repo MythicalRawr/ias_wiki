@@ -4,7 +4,7 @@
 timerObj timer:get(id)
 ```
 
-Returns a timerObj with the given id, make sure you validate with timer:exists first.
+Returns a timerObj with the given id, make sure you validate with timer:exists first.<br>
 
 -----------------
 ## Parameters

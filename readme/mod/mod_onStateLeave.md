@@ -4,7 +4,7 @@
 void MOD:onStateLeave(state)
 ```
 
-Global event called by the game before the state is changed
+Global event called by the game before the state is changed<br>
 
 -----------------
 ## Parameters

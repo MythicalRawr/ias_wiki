@@ -4,7 +4,7 @@
 number GasNetwork:get(gasType)
 ```
 
-Returns amount of gas in a GasNetwork of the type
+Returns amount of gas in a GasNetwork of the type<br>
 
 -----------------
 ## Parameters

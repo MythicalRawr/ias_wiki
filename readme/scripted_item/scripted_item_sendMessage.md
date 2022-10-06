@@ -4,7 +4,7 @@
 void ITEM:sendMessage(slot, packet)
 ```
 
-Sends a packet to the given slot
+Sends a packet to the given slot<br>
 
 -----------------
 ## Parameters

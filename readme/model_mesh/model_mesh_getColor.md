@@ -4,7 +4,7 @@
 Color ModelMesh:getColor()
 ```
 
-Gets the mesh color
+Gets the mesh color<br>
 
 -----------------
 ## Returns

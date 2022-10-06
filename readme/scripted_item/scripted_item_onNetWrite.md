@@ -4,7 +4,7 @@
 void ITEM:onNetWrite(packet)
 ```
 
-Called by transmitUpdate by the server to send an update (should be used to sync vars)
+Called by transmitUpdate by the server to send an update (should be used to sync vars)<br>
 
 -----------------
 ## Parameters

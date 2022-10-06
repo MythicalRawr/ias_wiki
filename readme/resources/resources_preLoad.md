@@ -4,7 +4,7 @@
 void resources:preLoad(path)
 ```
 
-Marks the given file for pre-loading
+Marks the given file for pre-loading<br>
 
 -----------------
 ## Parameters

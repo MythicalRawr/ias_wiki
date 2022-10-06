@@ -4,7 +4,7 @@
 void ITEM:destroy(quantity)
 ```
 
-Destroy the current item with the given quantity (if not set, destroys the whole item)
+Destroy the current item with the given quantity (if not set, destroys the whole item)<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void light:setPos(pos)
 ```
 
-Sets the light position
+Sets the light position<br>
 
 -----------------
 ## Parameters

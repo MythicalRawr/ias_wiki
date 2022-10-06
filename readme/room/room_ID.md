@@ -4,7 +4,7 @@
 number Room:ID()
 ```
 
-Returns the room id, unique per building
+Returns the room id, unique per building<br>
 
 -----------------
 ## Returns

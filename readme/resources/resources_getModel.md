@@ -4,7 +4,7 @@
 Model resources:getModel(path)
 ```
 
-Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client
+Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client<br>
 
 -----------------
 ## Parameters

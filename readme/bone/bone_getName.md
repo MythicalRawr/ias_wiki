@@ -4,7 +4,7 @@
 string Bone:getName()
 ```
 
-Returns the bone name
+Returns the bone name<br>
 
 -----------------
 ## Returns

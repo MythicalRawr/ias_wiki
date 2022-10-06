@@ -4,7 +4,7 @@
 number Packet:readUInt()
 ```
 
-Reads a unsigned int from the net packet
+Reads a unsigned int from the net packet<br>
 
 -----------------
 ## Returns

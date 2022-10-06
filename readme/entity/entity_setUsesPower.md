@@ -4,7 +4,7 @@
 void Entity:setUsesPower(mode)
 ```
 
-enables or disables power use at an entity
+enables or disables power use at an entity<br>
 
 -----------------
 ## Parameters

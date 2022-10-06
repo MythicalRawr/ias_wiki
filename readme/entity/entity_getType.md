@@ -4,7 +4,7 @@
 string Entity:getType()
 ```
 
-Returns the ent class type
+Returns the ent class type<br>
 
 -----------------
 ## Returns

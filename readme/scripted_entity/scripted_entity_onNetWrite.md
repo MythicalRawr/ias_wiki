@@ -4,7 +4,7 @@
 void ENT:onNetWrite(packet)
 ```
 
-Triggered when the server transmits an update
+Triggered when the server transmits an update<br>
 
 -----------------
 ## Parameters

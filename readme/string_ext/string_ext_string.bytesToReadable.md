@@ -4,7 +4,7 @@
 string string.bytesToReadable(bytes)
 ```
 
-Converts bytes to a readable string (aka 1GB.. 1TB.. etc)
+Converts bytes to a readable string (aka 1GB.. 1TB.. etc)<br>
 
 -----------------
 ## Parameters

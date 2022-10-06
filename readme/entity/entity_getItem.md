@@ -4,7 +4,7 @@
 ITEM Entity:getItem(index)
 ```
 
-Returns the item by index
+Returns the item by index<br>
 
 -----------------
 ## Parameters

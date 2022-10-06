@@ -4,7 +4,7 @@
 boolean Entity:hasUseViewer(id)
 ```
 
-Returns true if the given ent id is registered as a use viewer
+Returns true if the given ent id is registered as a use viewer<br>
 
 -----------------
 ## Parameters

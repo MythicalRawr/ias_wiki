@@ -4,7 +4,7 @@
 number Entity:getItemCountById(id)
 ```
 
-Returns the total amount of the item on the storage by id
+Returns the total amount of the item on the storage by id<br>
 
 -----------------
 ## Parameters

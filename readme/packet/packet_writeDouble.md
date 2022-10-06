@@ -4,7 +4,7 @@
 void Packet:writeDouble(data)
 ```
 
-Writes a double in the net packet.
+Writes a double in the net packet.<br>
 
 -----------------
 ## Parameters

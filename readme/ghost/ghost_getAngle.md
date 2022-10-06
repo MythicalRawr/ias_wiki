@@ -4,7 +4,7 @@
 number Ghost:getAngle()
 ```
 
-Gets the current ghost angle in degrees
+Gets the current ghost angle in degrees<br>
 
 -----------------
 ## Returns

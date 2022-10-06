@@ -4,7 +4,7 @@
 void Tile:addPipe(networkId)
 ```
 
-Adds the given pipe networkId to the tile
+Adds the given pipe networkId to the tile<br>
 
 -----------------
 ## Parameters

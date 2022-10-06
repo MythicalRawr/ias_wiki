@@ -4,7 +4,7 @@
 Vector Entity:getWorldMousePos()
 ```
 
-Returns the current mouse world position
+Returns the current mouse world position<br>
 
 -----------------
 ## Returns

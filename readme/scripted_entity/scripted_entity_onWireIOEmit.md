@@ -4,7 +4,7 @@
 void ENT:onWireIOEmit(id, hasSignal)
 ```
 
-Triggered when the wire emits a signal
+Triggered when the wire emits a signal<br>
 
 -----------------
 ## Parameters

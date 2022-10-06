@@ -4,7 +4,7 @@
 string ModelMesh:getName()
 ```
 
-Returns the mesh name
+Returns the mesh name<br>
 
 -----------------
 ## Returns

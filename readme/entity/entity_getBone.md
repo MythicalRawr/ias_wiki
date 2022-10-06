@@ -4,7 +4,7 @@
 Bone Entity:getBone(name)
 ```
 
-Returns a bone object that refers to an entity bone with the provided name
+Returns a bone object that refers to an entity bone with the provided name<br>
 
 -----------------
 ## Parameters

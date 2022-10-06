@@ -4,7 +4,7 @@
 ENT[] world:findInSphereByClass(class, pos, distance)
 ```
 
-Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)
+Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)<br>
 
 -----------------
 ## Parameters

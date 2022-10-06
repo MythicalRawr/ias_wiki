@@ -4,7 +4,7 @@
 boolean Entity:stopAnimation(name)
 ```
 
-Stops an animation on the entity
+Stops an animation on the entity<br>
 
 -----------------
 ## Parameters

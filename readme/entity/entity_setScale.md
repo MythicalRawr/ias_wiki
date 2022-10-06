@@ -4,7 +4,7 @@
 void Entity:setScale(scale)
 ```
 
-Sets the scale of the ent
+Sets the scale of the ent<br>
 
 -----------------
 ## Parameters

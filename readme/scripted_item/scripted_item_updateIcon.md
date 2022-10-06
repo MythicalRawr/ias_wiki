@@ -4,7 +4,7 @@
 void ITEM:updateIcon(path)
 ```
 
-Update the item icon
+Update the item icon<br>
 
 -----------------
 ## Parameters

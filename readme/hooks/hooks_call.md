@@ -4,7 +4,7 @@
 void hooks:call(hookId, data)
 ```
 
-Emits data to the given hookId
+Emits data to the given hookId<br>
 
 -----------------
 ## Parameters

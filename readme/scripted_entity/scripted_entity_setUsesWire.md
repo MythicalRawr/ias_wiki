@@ -4,7 +4,7 @@
 void ENT:setUsesWire(set)
 ```
 
-Marks the entity to use wire io
+Marks the entity to use wire io<br>
 
 -----------------
 ## Parameters

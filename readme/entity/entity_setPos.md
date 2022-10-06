@@ -4,7 +4,7 @@
 void Entity:setPos(pos)
 ```
 
-Sets the position of the ent
+Sets the position of the ent<br>
 
 -----------------
 ## Parameters

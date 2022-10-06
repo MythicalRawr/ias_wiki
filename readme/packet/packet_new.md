@@ -4,7 +4,7 @@
 Packet Packet:new()
 ```
 
-Packet constructor
+Packet constructor<br>
 
 -----------------
 ## Returns

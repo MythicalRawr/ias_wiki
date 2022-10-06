@@ -4,7 +4,7 @@
 string ITEM:ID()
 ```
 
-Returns the item unique id (class)
+Returns the item unique id (class)<br>
 
 -----------------
 ## Returns

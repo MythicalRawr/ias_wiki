@@ -4,7 +4,7 @@
 any Packet:readByte()
 ```
 
-Reads a byte from the net packet
+Reads a byte from the net packet<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 boolean Entity:isUsable()
 ```
 
-Returns true if the ent is usable
+Returns true if the ent is usable<br>
 
 -----------------
 ## Returns

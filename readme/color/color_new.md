@@ -4,7 +4,7 @@
 Color Color:new(r, g, b, a)
 ```
 
-Color constructor
+Color constructor<br>
 
 -----------------
 ## Parameters

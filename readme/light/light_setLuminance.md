@@ -4,7 +4,7 @@
 void light:setLuminance(val)
 ```
 
-Sets the light luminance
+Sets the light luminance<br>
 
 -----------------
 ## Parameters

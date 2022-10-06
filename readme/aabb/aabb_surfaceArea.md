@@ -4,7 +4,7 @@
 number AABB:surfaceArea()
 ```
 
-Returns the surfaceArea
+Returns the surfaceArea<br>
 
 -----------------
 ## Returns

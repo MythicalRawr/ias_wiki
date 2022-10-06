@@ -4,7 +4,7 @@
 void Packet:writeBool(data)
 ```
 
-Writes a boolean in the net packet.
+Writes a boolean in the net packet.<br>
 
 -----------------
 ## Parameters

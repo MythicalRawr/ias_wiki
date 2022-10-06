@@ -4,7 +4,7 @@
 number AABB:right()
 ```
 
-Returns the right
+Returns the right<br>
 
 -----------------
 ## Returns

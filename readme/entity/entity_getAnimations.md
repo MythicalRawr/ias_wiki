@@ -4,7 +4,7 @@
 table Entity:getAnimations()
 ```
 
-Returns the available animations on the model
+Returns the available animations on the model<br>
 
 -----------------
 ## Returns

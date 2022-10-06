@@ -4,7 +4,7 @@
 void Entity:setAngularDamping(damp)
 ```
 
-Sets the entity physics angular damping
+Sets the entity physics angular damping<br>
 
 -----------------
 ## Parameters

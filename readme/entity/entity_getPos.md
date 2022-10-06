@@ -4,7 +4,7 @@
 Vector Entity:getPos()
 ```
 
-Returns the ent position
+Returns the ent position<br>
 
 -----------------
 ## Returns

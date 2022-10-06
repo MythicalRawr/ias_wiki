@@ -4,7 +4,7 @@
 boolean isTable(el)
 ```
 
-Returns true if its a table
+Returns true if its a table<br>
 
 -----------------
 ## Parameters

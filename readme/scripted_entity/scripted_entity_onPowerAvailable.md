@@ -4,7 +4,7 @@
 number ENT:onPowerAvailable(id)
 ```
 
-Called to see if the entity has any power available
+Called to see if the entity has any power available<br>
 
 -----------------
 ## Parameters

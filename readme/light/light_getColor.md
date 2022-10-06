@@ -4,7 +4,7 @@
 Color light:getColor()
 ```
 
-Gets the light color
+Gets the light color<br>
 
 -----------------
 ## Returns

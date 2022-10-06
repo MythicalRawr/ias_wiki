@@ -4,4 +4,4 @@
 void Ghost:destroy()
 ```
 
-Destroys the ghost
+Destroys the ghost<br>

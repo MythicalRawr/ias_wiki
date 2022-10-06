@@ -4,7 +4,7 @@
 void Ghost:setModel(mdl)
 ```
 
-Sets the model for the ghost
+Sets the model for the ghost<br>
 
 -----------------
 ## Parameters

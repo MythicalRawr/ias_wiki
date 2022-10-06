@@ -4,7 +4,7 @@
 Vector Entity:getLocalPos()
 ```
 
-Returns the ent local position (relative to the parent)
+Returns the ent local position (relative to the parent)<br>
 
 -----------------
 ## Returns

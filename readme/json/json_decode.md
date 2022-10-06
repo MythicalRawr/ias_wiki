@@ -4,7 +4,7 @@
 table json:decode(data)
 ```
 
-Decodes a json string to a lua table
+Decodes a json string to a lua table<br>
 
 -----------------
 ## Parameters

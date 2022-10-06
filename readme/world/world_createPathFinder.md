@@ -4,7 +4,7 @@
 PathFinder world:createPathFinder(building)
 ```
 
-Creates a PathFinder object for the given building
+Creates a PathFinder object for the given building<br>
 
 -----------------
 ## Parameters

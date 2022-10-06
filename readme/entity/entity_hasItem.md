@@ -4,7 +4,7 @@
 boolean Entity:hasItem(slot)
 ```
 
-Returns true if the storage has an item on the given slot
+Returns true if the storage has an item on the given slot<br>
 
 -----------------
 ## Parameters

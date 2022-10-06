@@ -4,4 +4,4 @@
 void MOD:init()
 ```
 
-Called when the mod initializes
+Called when the mod initializes<br>

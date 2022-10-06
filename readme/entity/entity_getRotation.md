@@ -4,7 +4,7 @@
 Vector Entity:getRotation()
 ```
 
-Returns the ent rotation in degrees
+Returns the ent rotation in degrees<br>
 
 -----------------
 ## Returns

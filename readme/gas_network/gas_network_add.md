@@ -4,7 +4,7 @@
 void GasNetwork:add(gasType, amount)
 ```
 
-adds the amount of gas to a GasNetwork
+adds the amount of gas to a GasNetwork<br>
 
 -----------------
 ## Parameters

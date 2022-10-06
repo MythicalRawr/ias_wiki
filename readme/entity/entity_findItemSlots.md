@@ -4,7 +4,7 @@
 number[] Entity:findItemSlots(id)
 ```
 
-Returns the slots where the given item id is present
+Returns the slots where the given item id is present<br>
 
 -----------------
 ## Parameters

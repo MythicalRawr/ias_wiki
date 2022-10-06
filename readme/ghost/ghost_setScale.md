@@ -4,7 +4,7 @@
 void Ghost:setScale(pos)
 ```
 
-Sets the current ghost scale
+Sets the current ghost scale<br>
 
 -----------------
 ## Parameters

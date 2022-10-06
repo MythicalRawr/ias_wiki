@@ -4,7 +4,7 @@
 boolean Tile:isValid()
 ```
 
-Returns true if the tile is valid
+Returns true if the tile is valid<br>
 
 -----------------
 ## Returns

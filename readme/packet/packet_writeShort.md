@@ -4,7 +4,7 @@
 void Packet:writeShort(data)
 ```
 
-Writes a short in the net packet.
+Writes a short in the net packet.<br>
 
 -----------------
 ## Parameters

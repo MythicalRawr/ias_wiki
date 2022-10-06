@@ -4,7 +4,7 @@
 number Packet:readFloat()
 ```
 
-Reads a float from the net packet
+Reads a float from the net packet<br>
 
 -----------------
 ## Returns

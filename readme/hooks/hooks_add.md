@@ -4,7 +4,7 @@
 void hooks:add(hookId, hookName, callback)
 ```
 
-Creates a hook (aka listener) for a specific hookId,Make sure your hook hookName is unique, it might get replaced by other hooks!
+Creates a hook (aka listener) for a specific hookId<br>Make sure your hook hookName is unique, it might get replaced by other hooks!<br>
 
 -----------------
 ## Parameters

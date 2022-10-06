@@ -4,7 +4,7 @@
 boolean Room:isValid()
 ```
 
-Returns true if the room is valid
+Returns true if the room is valid<br>
 
 -----------------
 ## Returns

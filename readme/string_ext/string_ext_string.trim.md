@@ -4,7 +4,7 @@
 string string.trim(str)
 ```
 
-Removes string white spaces
+Removes string white spaces<br>
 
 -----------------
 ## Parameters

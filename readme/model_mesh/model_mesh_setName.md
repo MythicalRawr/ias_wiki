@@ -4,7 +4,7 @@
 void ModelMesh:setName(name)
 ```
 
-Sets the mesh name
+Sets the mesh name<br>
 
 -----------------
 ## Parameters

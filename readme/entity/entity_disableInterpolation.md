@@ -4,7 +4,7 @@
 void Entity:disableInterpolation(disable)
 ```
 
-Disables the snapshot interpolation, usefull for teleporting things.
+Disables the snapshot interpolation, usefull for teleporting things.<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 string json:encode(data)
 ```
 
-Encodes a table to a json string
+Encodes a table to a json string<br>
 
 -----------------
 ## Parameters

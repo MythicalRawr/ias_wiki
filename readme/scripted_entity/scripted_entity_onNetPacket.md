@@ -4,7 +4,7 @@
 void ENT:onNetPacket(id, packet, ply)
 ```
 
-Called when the server recieves a net packet from the player (client)
+Called when the server recieves a net packet from the player (client)<br>
 
 -----------------
 ## Parameters

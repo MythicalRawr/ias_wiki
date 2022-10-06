@@ -4,7 +4,7 @@
 boolean camera:isValid()
 ```
 
-Returns true if the camera object is valid
+Returns true if the camera object is valid<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 WirePower Tile:getPower()
 ```
 
-Returns the wire power on the tile, if any
+Returns the wire power on the tile, if any<br>
 
 -----------------
 ## Returns

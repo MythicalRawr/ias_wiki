@@ -4,7 +4,7 @@
 void ENT:setUsesTile(set)
 ```
 
-Marks the entity to use tile
+Marks the entity to use tile<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 Model Entity:getModel()
 ```
 
-Returns ent model mesh
+Returns ent model mesh<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 void ENT:setUsesGas(set)
 ```
 
-Marks the entity to use gas
+Marks the entity to use gas<br>
 
 -----------------
 ## Parameters

@@ -7,7 +7,7 @@
 table WorkshopMOD:getENV()
 ```
 
-Returns the mod's enviroment
+Returns the mod's enviroment<br>
 
 -----------------
 ## Returns

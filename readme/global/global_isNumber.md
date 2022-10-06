@@ -4,7 +4,7 @@
 boolean isNumber(el)
 ```
 
-Returns true if its a number
+Returns true if its a number<br>
 
 -----------------
 ## Parameters

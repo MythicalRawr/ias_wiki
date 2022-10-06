@@ -4,7 +4,7 @@
 void Entity:setLinearDamping(damp)
 ```
 
-Sets the entity physics linear damping
+Sets the entity physics linear damping<br>
 
 -----------------
 ## Parameters

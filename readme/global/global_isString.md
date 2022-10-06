@@ -4,7 +4,7 @@
 boolean isString(el)
 ```
 
-Returns true if its a string
+Returns true if its a string<br>
 
 -----------------
 ## Parameters

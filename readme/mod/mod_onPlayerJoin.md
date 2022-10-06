@@ -4,7 +4,7 @@
 void MOD:onPlayerJoin(ply)
 ```
 
-Global event called when a player joins the game
+Global event called when a player joins the game<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 AABB ENT:getRenderBox()
 ```
 
-Gets the render box of the entity.
+Gets the render box of the entity.<br>
 
 -----------------
 ## Returns

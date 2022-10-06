@@ -4,7 +4,7 @@
 string io:save(path, data)
 ```
 
-Saves a file on the data folder, make sure you pass the extension on the filePath
+Saves a file on the data folder, make sure you pass the extension on the filePath<br>
 
 -----------------
 ## Parameters

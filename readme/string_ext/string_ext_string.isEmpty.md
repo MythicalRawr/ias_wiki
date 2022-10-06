@@ -4,7 +4,7 @@
 boolean string.isEmpty(str)
 ```
 
-Returns true if the string is empty
+Returns true if the string is empty<br>
 
 -----------------
 ## Parameters

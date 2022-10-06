@@ -4,7 +4,7 @@
 void ENT:onVISUpdate(id)
 ```
 
-Called when the entity VIS is updated
+Called when the entity VIS is updated<br>
 
 -----------------
 ## Parameters

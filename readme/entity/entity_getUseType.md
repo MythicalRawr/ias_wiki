@@ -4,7 +4,7 @@
 USE Entity:getUseType()
 ```
 
-Returns the ent use type
+Returns the ent use type<br>
 
 -----------------
 ## Returns

@@ -4,7 +4,7 @@
 boolean ITEM:canCombine(other)
 ```
 
-Returns true if the item can be combined
+Returns true if the item can be combined<br>
 
 -----------------
 ## Parameters

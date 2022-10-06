@@ -4,7 +4,7 @@
 string timerObj:getId()
 ```
 
-Returns the timer id
+Returns the timer id<br>
 
 -----------------
 ## Returns

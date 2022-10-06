@@ -4,7 +4,7 @@
 number Color:length()
 ```
 
-Returns the length of the color
+Returns the length of the color<br>
 
 -----------------
 ## Returns

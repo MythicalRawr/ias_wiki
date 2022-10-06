@@ -4,7 +4,7 @@
 void hooks:remove(hookId, hookName)
 ```
 
-Remove a hook (aka listener) for a specific hookId
+Remove a hook (aka listener) for a specific hookId<br>
 
 -----------------
 ## Parameters

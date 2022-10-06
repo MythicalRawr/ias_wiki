@@ -4,7 +4,7 @@
 number ModelMesh:getRotation()
 ```
 
-Gets the mesh rotation in degrees
+Gets the mesh rotation in degrees<br>
 
 -----------------
 ## Returns

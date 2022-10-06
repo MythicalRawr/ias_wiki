@@ -4,7 +4,7 @@
 void Ghost:setAngle(ang)
 ```
 
-Sets the current ghost angle in degrees
+Sets the current ghost angle in degrees<br>
 
 -----------------
 ## Parameters

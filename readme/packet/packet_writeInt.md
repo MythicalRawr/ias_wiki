@@ -4,7 +4,7 @@
 void Packet:writeInt(data)
 ```
 
-Writes a int in the net packet.
+Writes a int in the net packet.<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void ENT:setUseType(set)
 ```
 
-Sets the use type of the entity
+Sets the use type of the entity<br>
 
 -----------------
 ## Parameters

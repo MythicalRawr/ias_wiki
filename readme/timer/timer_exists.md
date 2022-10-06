@@ -4,7 +4,7 @@
 boolean timer:exists(id)
 ```
 
-Returns true if a timer with the given id exists
+Returns true if a timer with the given id exists<br>
 
 -----------------
 ## Parameters

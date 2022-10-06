@@ -4,7 +4,7 @@
 void Entity:disableMemory(disable)
 ```
 
-Disables the fade memory, usefull for teleporting things.
+Disables the fade memory, usefull for teleporting things.<br>
 
 -----------------
 ## Parameters

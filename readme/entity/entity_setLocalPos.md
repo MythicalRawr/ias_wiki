@@ -4,7 +4,7 @@
 void Entity:setLocalPos(pos)
 ```
 
-Sets the position of the ent (relative to the parent)
+Sets the position of the ent (relative to the parent)<br>
 
 -----------------
 ## Parameters

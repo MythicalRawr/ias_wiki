@@ -4,7 +4,7 @@
 boolean Packet:empty()
 ```
 
-Returns true if the packet data is empty
+Returns true if the packet data is empty<br>
 
 -----------------
 ## Returns

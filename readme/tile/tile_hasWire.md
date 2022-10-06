@@ -4,7 +4,7 @@
 boolean Tile:hasWire(type)
 ```
 
-Returns true if the tile has the requested wire type
+Returns true if the tile has the requested wire type<br>
 
 -----------------
 ## Parameters

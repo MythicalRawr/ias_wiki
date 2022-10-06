@@ -4,7 +4,7 @@
 void Entity:use(ent)
 ```
 
-Programmatically "uses" the given ent (if marked as a use viewer)
+Programmatically "uses" the given ent (if marked as a use viewer)<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 number Entity:getAvailableSlotById(id, amount)
 ```
 
-Returns the available slot index by id
+Returns the available slot index by id<br>
 
 -----------------
 ## Parameters

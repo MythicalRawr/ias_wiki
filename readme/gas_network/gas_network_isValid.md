@@ -4,7 +4,7 @@
 boolean GasNetwork:isValid()
 ```
 
-Returns true if the GasNetwork is valid
+Returns true if the GasNetwork is valid<br>
 
 -----------------
 ## Returns

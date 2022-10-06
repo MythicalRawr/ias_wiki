@@ -4,7 +4,7 @@
 string Packet:readChar()
 ```
 
-Reads a char from the net packet
+Reads a char from the net packet<br>
 
 -----------------
 ## Returns

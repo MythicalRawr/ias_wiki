@@ -4,7 +4,7 @@
 void Entity:onPowerDisconnected(network)
 ```
 
-called when a power cable is disconnected from the entity
+called when a power cable is disconnected from the entity<br>
 
 -----------------
 ## Parameters

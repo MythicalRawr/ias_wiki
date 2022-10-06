@@ -4,7 +4,7 @@
 table Room:getGasses()
 ```
 
-Returns all gasses that are in the room
+Returns all gasses that are in the room<br>
 
 -----------------
 ## Returns

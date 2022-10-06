@@ -4,7 +4,7 @@
 Vector Vector:normalized()
 ```
 
-Returns the normalized vector
+Returns the normalized vector<br>
 
 -----------------
 ## Returns

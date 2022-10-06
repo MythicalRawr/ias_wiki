@@ -4,7 +4,7 @@
 boolean Entity:addItem(id, amount, slot, metadata)
 ```
 
-Adds the given item id to the ent storage (ent needs to be marked with setStorage)
+Adds the given item id to the ent storage (ent needs to be marked with setStorage)<br>
 
 -----------------
 ## Parameters

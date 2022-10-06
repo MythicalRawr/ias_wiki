@@ -4,7 +4,7 @@
 number Player:getOxygen()
 ```
 
-Returns the current player oxygen
+Returns the current player oxygen<br>
 
 -----------------
 ## Returns

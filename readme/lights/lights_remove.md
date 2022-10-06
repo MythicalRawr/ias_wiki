@@ -4,7 +4,7 @@
 void lights:remove(id)
 ```
 
-Removes the a light by id
+Removes the a light by id<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void light:setStatus(on)
 ```
 
-Turns the light on / off
+Turns the light on / off<br>
 
 -----------------
 ## Parameters

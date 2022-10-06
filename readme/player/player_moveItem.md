@@ -7,7 +7,7 @@
 boolean Player:moveItem(oldStorage, newStorage, oldSlot, newSlot)
 ```
 
-Locally moves an item from an inventory to another inventory and sends a validation request to the server.
+Locally moves an item from an inventory to another inventory and sends a validation request to the server.<br>
 
 -----------------
 ## Parameters

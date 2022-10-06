@@ -4,7 +4,7 @@
 boolean Model:isValid()
 ```
 
-Returns true if the model is valid
+Returns true if the model is valid<br>
 
 -----------------
 ## Returns

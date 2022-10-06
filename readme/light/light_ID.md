@@ -4,7 +4,7 @@
 number light:ID()
 ```
 
-Returns the light id
+Returns the light id<br>
 
 -----------------
 ## Returns

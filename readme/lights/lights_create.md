@@ -7,7 +7,7 @@
 light lights:create(pos, color, fallStart, fallEnd, lumi)
 ```
 
-Creates a light at the given location (client side only)
+Creates a light at the given location (client side only)<br>
 
 -----------------
 ## Parameters

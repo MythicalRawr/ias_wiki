@@ -4,7 +4,7 @@
 void ENT:onPowerConnected(id)
 ```
 
-Called when a power network is connected to the entity
+Called when a power network is connected to the entity<br>
 
 -----------------
 ## Parameters

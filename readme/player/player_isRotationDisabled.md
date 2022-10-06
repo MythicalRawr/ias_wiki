@@ -4,7 +4,7 @@
 boolean Player:isRotationDisabled()
 ```
 
-Returns true if the player rotation is disabled
+Returns true if the player rotation is disabled<br>
 
 -----------------
 ## Returns

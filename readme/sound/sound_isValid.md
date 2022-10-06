@@ -4,7 +4,7 @@
 boolean Sound:isValid()
 ```
 
-Returns true if the sound is valid
+Returns true if the sound is valid<br>
 
 -----------------
 ## Returns

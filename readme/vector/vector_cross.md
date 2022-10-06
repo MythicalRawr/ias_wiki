@@ -4,7 +4,7 @@
 number Vector:cross(other)
 ```
 
-Returns the cross vector
+Returns the cross vector<br>
 
 -----------------
 ## Parameters

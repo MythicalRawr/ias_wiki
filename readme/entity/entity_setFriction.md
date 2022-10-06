@@ -4,7 +4,7 @@
 void Entity:setFriction(friction)
 ```
 
-Sets the entity physics friction
+Sets the entity physics friction<br>
 
 -----------------
 ## Parameters

@@ -4,7 +4,7 @@
 void worldDebug:box(pos, ttl, size, color, outline)
 ```
 
-Draws a 3D debug box that will vanish after the given ttl time
+Draws a 3D debug box that will vanish after the given ttl time<br>
 
 -----------------
 ## Parameters

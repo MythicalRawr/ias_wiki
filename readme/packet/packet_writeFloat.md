@@ -4,7 +4,7 @@
 void Packet:writeFloat(data)
 ```
 
-Writes a float in the net packet.
+Writes a float in the net packet.<br>
 
 -----------------
 ## Parameters

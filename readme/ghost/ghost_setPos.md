@@ -4,7 +4,7 @@
 void Ghost:setPos(pos)
 ```
 
-Sets the current ghost position
+Sets the current ghost position<br>
 
 -----------------
 ## Parameters
