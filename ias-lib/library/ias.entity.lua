@@ -604,6 +604,21 @@ function Entity:getAnimations() end
 function Entity:getAnimationsPlaying() end
 
 ---
+---@env CLIENT
+---@return table "The bones list"
+---* Returns the available bones inside of the model based on the first animation sequence
+---
+function Entity:getBones() end
+
+---
+---@env CLIENT
+---@param name string
+---@return Bone "The bone"
+---* Returns a bone object that refers to an entity bone with the provided name
+---
+function Entity:getBone(name) end
+
+---
 ---@env SHARED
 ---@param mode boolean
 ---* enables or disables power use at an entity
