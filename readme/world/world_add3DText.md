@@ -13,4 +13,4 @@ Creates a client side chat text
 | ------ | ---- | ----------- | -------: |
 | string | speaker | No description |  |
 | string | msg | No description |  |
-| [Color](../color/README.md) | color | No description | ✔ |
+| [Color](../color/README.md) | color | Default: white | ✔ |

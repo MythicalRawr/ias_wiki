@@ -11,4 +11,4 @@ Sets the scale of the ent
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | scale | No description |  |
+| [Vector3](../vector3/README.md) | scale | No description |  |

@@ -14,4 +14,4 @@ Sends a Packet to a specific Player.
 | string | netId | No description |  |
 | [Packet](../packet/README.md) | msg | No description |  |
 | [Player](../player/README.md) | ply | No description |  |
-| boolean | reliable | optional = true | ✔ |
+| boolean | reliable | Default: true | ✔ |

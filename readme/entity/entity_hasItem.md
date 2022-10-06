@@ -1,17 +1,17 @@
 ## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):hasItem
 
 ```lua
-boolean Entity:hasItem(id)
+boolean Entity:hasItem(slot)
 ```
 
-Returns true if the storage has the given id
+Returns true if the storage has an item on the given slot
 
 -----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| number | slot | No description |  |
 
 -----------------
 ## Returns

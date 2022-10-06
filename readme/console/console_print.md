@@ -12,4 +12,4 @@ Prints the text on the console
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | text | No description |  |
-| [CONSOLE.LOG](../console.log/README.md) | type | No description | ✔ |
+| [CONSOLE.LOG](../console.log/README.md) | type | Default: CONSOLE.LOG.DEBUG | ✔ |

@@ -1,7 +1,7 @@
 ## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> printTable
 
 ```lua
-void printTable(tbl, indentation, done)
+void printTable(tbl)
 ```
 
 Pretty prints the given table
@@ -12,5 +12,3 @@ Pretty prints the given table
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | table | tbl | No description |  |
-| number | indentation | No description |  |
-| function | done | No description |  |

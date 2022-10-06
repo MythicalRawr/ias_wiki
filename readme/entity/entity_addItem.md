@@ -1,7 +1,7 @@
 ## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):addItem
 
 ```lua
-boolean Entity:addItem(id, amount, slot)
+boolean Entity:addItem(id, amount, slot, metadata)
 ```
 
 Adds the given item id to the ent storage (ent needs to be marked with setStorage)
@@ -12,8 +12,9 @@ Adds the given item id to the ent storage (ent needs to be marked with setStorag
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
-| number | amount | No description | ✔ |
-| number | slot | No description | ✔ |
+| number | amount | Defaults: 1 | ✔ |
+| number | slot | Defaults: -1 | ✔ |
+| table | metadata | Defaults: nil | ✔ |
 
 -----------------
 ## Returns

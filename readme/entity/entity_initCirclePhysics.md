@@ -12,5 +12,5 @@ Sets the entity physics with the given radius,If block is set, the VIS will be b
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | radius | No description |  |
-| [PHYSICS](../physics/README.md) | phys | No description | ✔ |
-| boolean | block | No description | ✔ |
+| [PHYSICS](../physics/README.md) | phys | Defaults: PHYSICS.DYNAMIC | ✔ |
+| boolean | block | Defaults: false | ✔ |

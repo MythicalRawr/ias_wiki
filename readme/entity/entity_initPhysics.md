@@ -11,5 +11,5 @@ Sets the entity physics type,If block is set, the VIS will be blocked by it
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [PHYSICS](../physics/README.md) | phys | No description | ✔ |
-| boolean | block | No description | ✔ |
+| [PHYSICS](../physics/README.md) | phys | Defaults: PHYSICS.DYNAMIC | ✔ |
+| boolean | block | Defaults: false | ✔ |

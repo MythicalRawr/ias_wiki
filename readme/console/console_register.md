@@ -22,5 +22,5 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | ------ | ---- | ----------- | -------: |
 | string | command | No description |  |
 | function | callback | fun(args: string[]): success: boolean, msg: string |  |
-| string | description | No description | ✔ |
-| [CONSOLE.FLAGS](../console.flags/README.md) | flags | No description | ✔ |
+| string | description | Default: <Empty> | ✔ |
+| [CONSOLE.FLAGS](../console.flags/README.md) | flags | Default: <Empty> | ✔ |

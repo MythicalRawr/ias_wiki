@@ -1,4 +1,4 @@
-## <img src="../../.gitbook/assets/clientity.png" width="32" height="32" /> ~~[Entity](../entity/README.md):setUseHint~~
+## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> ~~[Entity](../entity/README.md):setUseHint~~
 
 > ⚠ Deprecated: TODO
 

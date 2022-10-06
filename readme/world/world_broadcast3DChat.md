@@ -14,6 +14,6 @@ Creates a 3D chat on the given position to all players,Distance controls how rea
 | [Vector](../vector/README.md) | pos | No description |  |
 | string | speaker | No description |  |
 | string | msg | No description |  |
-| [Color](../color/README.md) | color | No description | ✔ |
-| number | groupid | No description | ✔ |
-| number | distance | No description | ✔ |
+| [Color](../color/README.md) | color | Default: white | ✔ |
+| number | groupid | Default: 0 | ✔ |
+| number | distance | Default: -1 (global) | ✔ |

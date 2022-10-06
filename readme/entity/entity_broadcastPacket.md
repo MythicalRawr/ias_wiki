@@ -13,4 +13,4 @@ Broadcast a packet to all the players
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
 | [Packet](../packet/README.md) | packet | No description |  |
-| boolean | reliable | No description | ✔ |
+| boolean | reliable | Defaults: true | ✔ |

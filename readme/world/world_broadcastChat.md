@@ -14,5 +14,5 @@ Creates a chat on the given position to all players,Distance controls how readab
 | [Vector](../vector/README.md) | pos | No description |  |
 | string | speaker | No description |  |
 | string | msg | No description |  |
-| number | distance | No description | ✔ |
-| [Color](../color/README.md) | color | No description | ✔ |
+| number | distance | Default: -1 (global) | ✔ |
+| [Color](../color/README.md) | color | Default: white | ✔ |

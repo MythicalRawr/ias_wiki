@@ -11,7 +11,7 @@ Returns ent forward facing position
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | distance | No description | ✔ |
+| number | distance | Defaults: 0 | ✔ |
 
 -----------------
 ## Returns

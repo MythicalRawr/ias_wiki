@@ -1,10 +1,13 @@
 ## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [lights](../lights/README.md):create
 
+{% hint style="warning" %} MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT {% endhint %}
+
+
 ```lua
 light lights:create(pos, color, fallStart, fallEnd, lumi)
 ```
 
-Creates a light at the given location (client side only),⚠ MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT ⚠
+Creates a light at the given location (client side only)
 
 -----------------
 ## Parameters
