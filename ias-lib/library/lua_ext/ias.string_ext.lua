@@ -50,7 +50,7 @@ string.format = function(str, ...) end
 ---@param str string
 ---@param ... any
 ---@return string
----@deprecated use string.format with {} instead of %d..etc
+---@deprecated "Use string.format with {} instead of %d..etc"
 ---* Old lua string.format
 ---
 string.luaFormat = function(str, ...) end

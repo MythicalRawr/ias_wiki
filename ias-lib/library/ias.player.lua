@@ -91,8 +91,8 @@ function Player:isFrozen() end
 ---@param newStorage ENT
 ---@param oldSlot number
 ---@param newSlot number
+---@hint @info "The moving player must be marked as a viewer on server and be within range of both inventories!"
 ---@return boolean "Local move was successful"
 ---* Locally moves an item from an inventory to another inventory and sends a validation request to the server.
----* The moving player must be marked as a viewer on server and be within range of both inventories!
 ---
 function Player:moveItem(oldStorage, newStorage, oldSlot, newSlot) end

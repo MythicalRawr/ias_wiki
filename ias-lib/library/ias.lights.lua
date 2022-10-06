@@ -13,9 +13,9 @@ lights = {}
 ---@param fallStart? number
 ---@param fallEnd? number
 ---@param lumi? number
+---@hint @warning "MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT"
 ---@return light
 ---* Creates a light at the given location (client side only)
----* ⚠ MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT ⚠
 ---
 function lights:create(pos, color, fallStart, fallEnd, lumi) end
 

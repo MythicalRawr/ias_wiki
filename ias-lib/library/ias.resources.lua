@@ -22,7 +22,7 @@ function resources:preLoadFolder(folder) end
 
 ---
 ---@env SHARED
----@param path? string
+---@param path? string "Default: Mod's folder"
 ---* Fixes the given path with the mod's path
 ---* @/textures/blabalba.png = c++ content
 ---* @otherMod/textures/blabalba.png = @otherMod's content

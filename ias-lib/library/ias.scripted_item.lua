@@ -102,9 +102,9 @@ function ITEM:canCombine(item) end
 
 ---
 ---@env SHARED
+---@hint @error "MUST BE IMPLEMENTED"
 ---@return table
 ---@nodiscard
----* ⚠ MUST BE IMPLEMENTED ⚠.
 ---* Return the item settings
 ---
 ---```lua
@@ -135,7 +135,7 @@ function ITEM:draw() end
 
 ---
 ---@env SHARED
----@param quantity? number
+---@param quantity? number "Default: 0"
 ---* Destroy the current item with the given quantity (if not set, destroys the whole item)
 ---
 function ITEM:destroy(quantity) end

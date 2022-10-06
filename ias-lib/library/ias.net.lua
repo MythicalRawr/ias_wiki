@@ -11,7 +11,7 @@ net = {}
 ---@param netId string
 ---@param msg Packet
 ---@param ply Player
----@param reliable? boolean "optional = true"
+---@param reliable? boolean "Default: true"
 ---* Sends a Packet to a specific Player.
 ---
 function net:send(netId, msg, ply, reliable) end
@@ -20,7 +20,7 @@ function net:send(netId, msg, ply, reliable) end
 ---@env SERVER
 ---@param netId string
 ---@param msg Packet
----@param reliable? boolean "optional = true"
+---@param reliable? boolean "Default: true"
 ---* Broadcasts a Packet to all connected players
 ---
 function net:broadcast(netId, msg, reliable) end
@@ -29,7 +29,7 @@ function net:broadcast(netId, msg, reliable) end
 ---@env CLIENT
 ---@param netId string
 ---@param msg Packet
----@param reliable? boolean "optional = true"
+---@param reliable? boolean "Default: true"
 ---* Sends a Packet to the server
 ---
 function net:sendToServer(netId, msg, reliable) end

@@ -91,7 +91,7 @@ function Ghost:setColor(color) end
 
 ---
 ---@env CLIENT
+---@hint @warning "Should be called in ENT:Draw or ITEM:Draw"
 ---* Draws the ghost model
----* ⚠ Should be called in ENT:Draw or ITEM:Draw ⚠
 ---
 function Ghost:draw() end

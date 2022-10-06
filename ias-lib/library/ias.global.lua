@@ -2,8 +2,8 @@
 
 ---
 ---@return boolean
+---@hint @info "For SHARED code, just don't check for SERVER or CLIENT"
 ---* Returns true if the current code is running on the SERVER
----* ⚠ For SHARED code, just don't check for SERVER or CLIENT ⚠
 ---
 ---[IasWiki](https://github.com/MythicalRawr/ias_wiki/wiki/global)
 ---
@@ -11,8 +11,8 @@ _G.SERVER = false
 
 ---
 ---@return boolean
+---@hint @info "For SHARED code, just don't check for SERVER or CLIENT"
 ---* Returns true if the current code is running on the CLIENT
----* ⚠ For SHARED code, just don't check for SERVER or CLIENT ⚠
 ---
 ---[IasWiki](https://github.com/MythicalRawr/ias_wiki/wiki/global)
 ---
@@ -44,11 +44,9 @@ getMousePos = function() end
 ---
 ---@env SHARED
 ---@param tbl table
----@param indentation? number
----@param done? function
 ---* Pretty prints the given table
 ---
-printTable = function(tbl, indentation, done) end
+printTable = function(tbl) end
 
 ---
 ---@env SHARED

@@ -50,9 +50,9 @@ function ENT:transmitUpdate() end
 ---
 ---@env SHARED
 ---@param aabb AABB
+---@hint @warning "`initPhysics` & `initCirclePhysics` **reset** this value. Should be placed **after** calling those (inside `createPhysics`)"
+---@hint @warning "If the entity has not physics this needs to be set, for VIS to work"
 ---* Sets the render box of the entity.
----* ⚠ `initPhysics` & `initCirclePhysics` **reset** this value. Should be placed **after** calling those (inside `createPhysics`) ⚠
----* ⚠ **If the entity has not physics this needs to be set, for VIS to work** ⚠
 ---
 function ENT:setRenderBox(aabb) end
 
@@ -206,8 +206,8 @@ function ENT:onUseViewerRemoved(player) end
 ---@param item ITEM
 ---@param slot number
 ---@param mover Entity
+---@hint @info "If method not defined, by default it accepts all items."
 ---* If the entity should accept the item on the given slot by the given entity.
----* If method not defined, by default it accepts all items.
 ---
 function ENT:acceptItem(item, slot, mover) end
 

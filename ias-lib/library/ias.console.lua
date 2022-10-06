@@ -29,7 +29,7 @@ function console:clear() end
 ---
 ---@env SHARED
 ---@param text string
----@param type? CONSOLE.LOG
+---@param type? CONSOLE.LOG "Default: CONSOLE.LOG.DEBUG"
 ---* Prints the text on the console
 ---
 function console:print(text, type) end
@@ -38,8 +38,8 @@ function console:print(text, type) end
 ---@env SHARED
 ---@param command string
 ---@param callback function "fun(args: string[]): success: boolean, msg: string"
----@param description? string
----@param flags? CONSOLE.FLAGS
+---@param description? string "Default: <Empty>"
+---@param flags? CONSOLE.FLAGS "Default: <Empty>"
 ---* Registers a new console command (the command id needs to be unique)
 ---
 ---```lua

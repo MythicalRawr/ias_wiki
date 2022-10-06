@@ -8,9 +8,9 @@ WorkshopMOD = {}
 
 ---
 ---@env SHARED
+---@hint @warning "YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!!"
 ---@return table
 ---* Returns the mod's enviroment
----* ⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
 ---
 function WorkshopMOD:getENV() end
 

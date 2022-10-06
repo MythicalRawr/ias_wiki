@@ -14,7 +14,7 @@ function Bone:getPosition() end
 
 ---
 ---@env CLIENT
----@param Vector3 "Custom offset"
+---@param position Vector3 "Custom offset"
 ---* Sets the custom local position offset of the bone
 ---
 function Bone:setPosition(position) end
@@ -28,7 +28,7 @@ function Bone:getRotation() end
 
 ---
 ---@env CLIENT
----@param Vector3 "Custom offset"
+---@param rotation Vector3 "Custom offset"
 ---* Sets the custom position offset of the bone in degrees
 ---
 function Bone:setRotation(rotation) end
@@ -42,7 +42,7 @@ function Bone:getScale() end
 
 ---
 ---@env CLIENT
----@param Vector3 "Custom modifier"
+---@param scale Vector3 "Custom modifier"
 ---* Sets the custom scale modifier of the bone
 ---
 function Bone:setScale(scale) end

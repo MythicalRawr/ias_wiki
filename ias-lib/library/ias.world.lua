@@ -9,7 +9,7 @@ world = {}
 ---
 ---@env SERVER
 ---@param class string
----@param parent? ENT
+---@param parent? ENT "Default: nil"
 ---@return ENT
 ---* Creates and spawns a new entity on the world
 ---
@@ -55,8 +55,8 @@ function world:findInSphereByClass(class, pos, distance) end
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
----@param color? Color
----@param groupid? number
+---@param color? Color "Default: white"
+---@param groupid? number "Default: 0"
 ---* Creates a client side 3d chat text
 ---
 function world:add3DText(pos, speaker, msg, color, groupid) end
@@ -65,7 +65,7 @@ function world:add3DText(pos, speaker, msg, color, groupid) end
 ---@env CLIENT
 ---@param speaker string
 ---@param msg string
----@param color? Color
+---@param color? Color "Default: white"
 ---* Creates a client side chat text
 ---
 function world:add3DText(speaker, msg, color) end
@@ -82,9 +82,9 @@ function world:clearGroupID(groupid) end
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
----@param color? Color
----@param groupid? number
----@param distance? number
+---@param color? Color "Default: white"
+---@param groupid? number "Default: 0"
+---@param distance? number "Default: -1 (global)"
 ---* Creates a 3D chat on the given position to all players
 ---* Distance controls how readable the text is
 ---
@@ -95,8 +95,8 @@ function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 ---@param pos Vector
 ---@param speaker string
 ---@param msg string
----@param distance? number
----@param color? Color
+---@param distance? number "Default: -1 (global)"
+---@param color? Color "Default: white"
 ---* Creates a chat on the given position to all players
 ---* Distance controls how readable the text is
 ---
@@ -121,8 +121,8 @@ function world:getItemSettings(id) end
 ---
 ---@env SHARED
 ---@param id string
+---@hint @warning "YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!!"
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found
----* ⚠ BE VERY CAREFUL, YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! ⚠
 ---
 function world:getMod(id) end
