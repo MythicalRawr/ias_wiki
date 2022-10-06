@@ -135,7 +135,7 @@ function Entity:getAvailableSlot() end
 ---
 ---@env SHARED
 ---@param id string
----@param amount? number
+---@param amount? number "Defaults: 1"
 ---@return number
 ---* Returns the available slot index by id
 ---
@@ -245,7 +245,7 @@ function Entity:setRotation(rot) end
 
 ---
 ---@env SHARED
----@param distance? number
+---@param distance? number "Defaults: 0"
 ---@return Vector
 ---* Returns ent forward facing position
 ---
@@ -316,7 +316,7 @@ function Entity:getTile() end
 function Entity:getTileByPos(pos) end
 
 ---
----@env CLIEntity
+---@env SHARED
 ---@param slot number
 ---@return boolean
 ---* Returns true if the item on the given slot was droped
@@ -324,16 +324,16 @@ function Entity:getTileByPos(pos) end
 function Entity:dropItem(slot) end
 
 ---
----@env CLIEntity
+---@env CLIENT
 ---@param id string
 ---@param packet Packet
----@param reliable? boolean
+---@param reliable? boolean "Defaults: true"
 ---* Sends the given packet to the server
 ---
 function Entity:sendPacket(id, packet, reliable) end
 
 ---
----@env CLIEntity
+---@env CLIENT
 ---@param hint string
 ---@param texture Texture
 ---@deprecated TODO
@@ -372,17 +372,18 @@ function Entity:setGrabbable(grab) end
 ---
 ---@env SERVER
 ---@param id string
----@param amount? number
----@param slot? number
+---@param amount? number "Defaults: 1"
+---@param slot? number "Defaults: -1"
+---@param metadata? table "Defaults: nil"
 ---@return boolean
 ---* Adds the given item id to the ent storage (ent needs to be marked with setStorage)
 ---
-function Entity:addItem(id, amount, slot) end
+function Entity:addItem(id, amount, slot, metadata) end
 
 ---
 ---@env SERVER
 ---@param slot number
----@param amount? number
+---@param amount? number "Removes the whole item if not set"
 ---@return boolean
 ---* Removes the given amount (if not set, the whole item) on the given slot
 ---
@@ -452,7 +453,7 @@ function Entity:use(ent) end
 ---@param id string
 ---@param ply Player
 ---@param packet Packet
----@param reliable? boolean
+---@param reliable? boolean "Defaults: true"
 ---* Send a packet to the given player with the given id
 ---
 function Entity:sendPacket(id, ply, packet, reliable) end
@@ -461,7 +462,7 @@ function Entity:sendPacket(id, ply, packet, reliable) end
 ---@env SERVER
 ---@param id string
 ---@param packet Packet
----@param reliable? boolean
+---@param reliable? boolean "Defaults: true"
 ---* Broadcast a packet to all the players
 ---
 function Entity:broadcastPacket(id, packet, reliable) end
@@ -482,8 +483,8 @@ function Entity:setModel(mdl) end
 
 ---
 ---@env SHARED
----@param phys? PHYSICS
----@param block? boolean
+---@param phys? PHYSICS "Defaults: PHYSICS.DYNAMIC"
+---@param block? boolean "Defaults: false"
 ---* Sets the entity physics type
 ---* If block is set, the VIS will be blocked by it
 ---
@@ -492,8 +493,8 @@ function Entity:initPhysics(phys, block) end
 ---
 ---@env SHARED
 ---@param radius number
----@param phys? PHYSICS
----@param block? boolean
+---@param phys? PHYSICS "Defaults: PHYSICS.DYNAMIC"
+---@param block? boolean "Defaults: false"
 ---* Sets the entity physics with the given radius
 ---* If block is set, the VIS will be blocked by it
 ---
@@ -566,8 +567,8 @@ function Entity:disableMemory(disable) end
 ---
 ---@env CLIENT
 ---@param name string
----@param loop? boolean "false"
----@param speed? number "1"
+---@param loop? boolean "Defaults: false"
+---@param speed? number "Defaults: 1"
 ---@return boolean "If the animation was started successfully"
 ---* Plays an animation on the entity
 ---

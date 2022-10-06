@@ -21,6 +21,14 @@ function resources:preLoad(path) end
 function resources:preLoadFolder(folder) end
 
 ---
+---@env SHARED
+---@param path? string
+---* Fixes the given path with the mod's path
+---* @/textures/blabalba.png = c++ content
+---* @otherMod/textures/blabalba.png = @otherMod's content
+function resources:getContent(path) end
+
+---
 ---@env CLIENT
 ---@param path string
 ---@return Sound
