@@ -9,9 +9,10 @@ resources = {}
 ---
 ---@env SHARED
 ---@param path string
+---@param loadFlags? any
 ---* Marks the given file for pre-loading
 ---
-function resources:preLoad(path) end
+function resources:preLoad(path, loadFlags) end
 
 ---
 ---@env SHARED
@@ -31,10 +32,22 @@ function resources:getContent(path) end
 ---
 ---@env CLIENT
 ---@param path string
+---@param loadFlags? LOAD.SOUND_FLAGS
 ---@return Sound
 ---* Returns a Sound object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the sound and not block the client
 ---
-function resources:getSound(path) end
+function resources:getSound(path, loadFlags) end
+
+---
+---@env CLIENT
+---@param url string
+---@param loadFlags? LOAD.SOUND_FLAGS
+---@hint @warning "If blocking is set, the sound will be destroyed after playing."
+---@hint @error "Loop will not working if blocking is set"
+---@return Sound
+---* Returns a Sound object if loaded successfully.
+---
+function resources:getHTTPSound(url, loadFlags) end
 
 ---
 ---@env CLIENT

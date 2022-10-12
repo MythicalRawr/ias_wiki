@@ -16,10 +16,10 @@ _G.CONSOLE = {
 ---@field DEVELOPER
 ---
 _G.CONSOLE.FLAGS = {
-	CHEATS = 1,
-	ADMIN = 2,
+	CHEATS = 2,
+	ADMIN = 4,
 
-	DEVELOPER = 3 -- Internal
+	DEVELOPER = 8 -- Internal
 }
 
 ---
@@ -128,6 +128,27 @@ _G.PHYSICS = {
 _G.WIRE = {
 	POWER = 1,
 	IO = 2
+}
+
+-----------------
+
+---
+---@class LOAD
+---@field SOUND_FLAGS table
+_G.LOAD = {
+	SOUND_FLAGS = {}
+}
+
+---
+---@enum LOAD.SOUND_FLAGS
+---@field SOUND_3D
+---@field BEAT_DETECTION
+---@field NO_BLOCK
+---
+_G.LOAD.SOUND_FLAGS = {
+	SOUND_3D = 2,
+	BEAT_DETECTION = 4,
+	NO_BLOCK = 8
 }
 
 -----------------
