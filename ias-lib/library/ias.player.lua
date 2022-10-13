@@ -36,6 +36,13 @@ function Player:isDeveloper() end
 
 ---
 ---@env SHARED
+---@return boolean
+---* Returns true if the player is nocliping
+---
+function Player:isNocliping() end
+
+---
+---@env SHARED
 ---@return number
 ---* Returns the current player oxygen
 ---
