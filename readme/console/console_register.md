@@ -6,7 +6,7 @@ void console:register(command, callback, description, flags)
 
 Registers a new console command (the command id needs to be unique)<br>
 ```lua
-console:register("my_command", function(args)
+console:register("my_command", function(args, userID)
 if #args <= 1 then return false, "Missing arguments" end
 
 console:print("Awesome " .. args[2], CONSOLE.LOG.DEBUG)
@@ -21,6 +21,6 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | command | No description |  |
-| function | callback | fun(args: string[]): success: boolean, msg: string |  |
+| function | callback | fun(args: string[], userID: number): success: boolean, msg: string |  |
 | string | description | Default: <Empty> | ✔ |
 | [CONSOLE.FLAGS](../console.flags/README.md) | flags | Default: <Empty> | ✔ |

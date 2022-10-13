@@ -8,5 +8,5 @@ Sound's entry class.<br>
 | ------ | ---- | -------: |
 | number | volume |  |
 | number | pitch |  |
-| boolean | loop |  |
 | [Vector](../vector/README.md) | position? |  |
+| boolean | loop |  |
