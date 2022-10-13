@@ -37,13 +37,13 @@ function console:print(text, type) end
 ---
 ---@env SHARED
 ---@param command string
----@param callback function "fun(args: string[]): success: boolean, msg: string"
+---@param callback function "fun(args: string[], userID: number): success: boolean, msg: string"
 ---@param description? string "Default: <Empty>"
 ---@param flags? CONSOLE.FLAGS "Default: <Empty>"
 ---* Registers a new console command (the command id needs to be unique)
 ---
 ---```lua
----console:register("my_command", function(args)
+---console:register("my_command", function(args, userID)
 ---	if #args <= 1 then return false, "Missing arguments" end
 ---
 ---	console:print("Awesome " .. args[2], CONSOLE.LOG.DEBUG)
