@@ -356,6 +356,13 @@ function Entity:setHealth(health) end
 
 ---
 ---@env SERVER
+---@param damage number
+---* Damages the entity
+---
+function Entity:takeDamage(damage) end
+
+---
+---@env SERVER
 ---@param power number
 ---@return boolean
 ---* Uses the given ammount of power (ent needs to be marked with setUsesPower) and returns true if successful

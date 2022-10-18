@@ -65,13 +65,15 @@ _G.USE = {
 ---@field STEAM
 ---@field CO2
 ---@field NITROGEN
+---@field FIRE
 ---
 _G.GAS = {
 	NONE = 0,
 	OXYGEN = 1,
 	STEAM = 2,
 	CO2 = 3,
-	NITROGEN = 4
+	NITROGEN = 4,
+	FIRE = 5
 }
 
 -----------------

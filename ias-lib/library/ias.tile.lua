@@ -84,3 +84,33 @@ function Tile:removePipe(networkId) end
 ---* Adds the given pipe networkId to the tile
 ---
 function Tile:addPipe(networkId) end
+
+---
+---@env SHARED
+---@return number
+---* Returns the pressure in PSI
+---
+function Tile:getPressure() end
+
+---
+---@env SHARED
+---@param gasType GAS
+---@return number
+---* Returns amount of gas in a Tile of the type
+---
+function Tile:getGas(gasType) end
+
+---
+---@env SHARED
+---@return table
+---* Returns all gasses that are in the Tile
+---
+function Tile:getGasses() end
+
+---
+---@env SERVER
+---@param gasType GAS
+---@param amount number
+---* adds the amount of gas to a Tile
+---
+function Tile:addGas(gasType, amount) end
