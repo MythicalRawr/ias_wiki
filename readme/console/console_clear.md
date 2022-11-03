@@ -6,5 +6,4 @@ void console:clear()
 
 Clears the console<br>
 
-
 --------
