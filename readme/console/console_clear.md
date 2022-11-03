@@ -4,5 +4,6 @@
 void console:clear()
 ```
 
-#### Clears the console<br>
------------------------
+Clears the console<br>
+
+<br><br>
