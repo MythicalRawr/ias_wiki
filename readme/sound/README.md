@@ -10,3 +10,6 @@ Sound's entry class.<br>
 | number | pitch |  |
 | [Vector](../vector/README.md) | position? |  |
 | boolean | loop |  |
+
+
+--------

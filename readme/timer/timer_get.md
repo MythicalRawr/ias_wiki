@@ -19,3 +19,6 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 | Type   | Description |
 | ------ | ----------: |
 | [timerObj](../timerobj/README.md) | No description |
+
+
+--------

@@ -19,3 +19,6 @@ Called to see if the entity has any power available<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

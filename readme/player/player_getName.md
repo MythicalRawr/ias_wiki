@@ -12,3 +12,6 @@ Returns the player name (aka name on steam)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

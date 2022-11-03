@@ -16,3 +16,6 @@ Draws a 3D debug box that will vanish after the given ttl time<br>
 | [Vector](../vector/README.md) | size | Default: {2, 2} | ✔ |
 | [Color](../color/README.md) | color | Default: Yellow | ✔ |
 | boolean | outline | Default: true | ✔ |
+
+
+--------

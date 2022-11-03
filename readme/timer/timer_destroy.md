@@ -5,3 +5,6 @@ void timerObj:destroy()
 ```
 
 Destroys the timer<br>
+
+
+--------

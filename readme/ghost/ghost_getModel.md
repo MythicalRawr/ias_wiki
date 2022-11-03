@@ -12,3 +12,6 @@ Gets the current ghost model<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Model](../model/README.md) | No description |
+
+
+--------

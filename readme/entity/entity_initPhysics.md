@@ -13,3 +13,6 @@ Sets the entity physics type<br>If block is set, the VIS will be blocked by it<b
 | ------ | ---- | ----------- | -------: |
 | [PHYSICS](../physics/README.md) | phys | Defaults: PHYSICS.DYNAMIC | ✔ |
 | boolean | block | Defaults: false | ✔ |
+
+
+--------

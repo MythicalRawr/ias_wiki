@@ -22,3 +22,6 @@ Returns a formated string<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

@@ -17,3 +17,6 @@ Creates a 3D chat on the given position to all players<br>Distance controls how 
 | [Color](../color/README.md) | color | Default: white | ✔ |
 | number | groupid | Default: 0 | ✔ |
 | number | distance | Default: -1 (global) | ✔ |
+
+
+--------

@@ -20,3 +20,6 @@ Returns a Sound object if loaded successfully, you should use preLoad on Mod:onL
 | Type   | Description |
 | ------ | ----------: |
 | [Sound](../sound/README.md) | No description |
+
+
+--------

@@ -19,3 +19,6 @@ Returns the clamped vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

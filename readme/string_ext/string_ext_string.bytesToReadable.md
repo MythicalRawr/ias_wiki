@@ -19,3 +19,6 @@ Converts bytes to a readable string (aka 1GB.. 1TB.. etc)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

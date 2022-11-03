@@ -12,3 +12,6 @@ Gets the user game settings<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
+
+
+--------

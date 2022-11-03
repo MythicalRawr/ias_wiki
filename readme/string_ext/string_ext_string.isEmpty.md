@@ -19,3 +19,6 @@ Returns true if the string is empty<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

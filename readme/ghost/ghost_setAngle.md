@@ -12,3 +12,6 @@ Sets the current ghost angle in degrees<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | ang | No description |  |
+
+
+--------

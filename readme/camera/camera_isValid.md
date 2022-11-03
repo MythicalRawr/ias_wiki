@@ -12,3 +12,6 @@ Returns true if the camera object is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

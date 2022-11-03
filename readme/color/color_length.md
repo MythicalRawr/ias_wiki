@@ -12,3 +12,6 @@ Returns the length of the color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

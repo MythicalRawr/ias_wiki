@@ -12,3 +12,6 @@ Sets the entity physics angular damping<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | damp | No description |  |
+
+
+--------

@@ -12,3 +12,6 @@ Reads a boolean from the net packet<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

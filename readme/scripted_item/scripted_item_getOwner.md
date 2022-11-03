@@ -12,3 +12,6 @@ Returns the current item owner<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Entity](../entity/README.md) | No description |
+
+
+--------

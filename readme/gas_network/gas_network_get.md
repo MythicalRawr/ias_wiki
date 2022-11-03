@@ -19,3 +19,6 @@ Returns amount of gas in a GasNetwork of the type<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

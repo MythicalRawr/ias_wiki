@@ -12,3 +12,6 @@ Returns the GasNetwork id, unique per building<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

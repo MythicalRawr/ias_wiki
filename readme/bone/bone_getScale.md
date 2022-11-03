@@ -12,3 +12,6 @@ Returns the custom scale modifier of the bone<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns the scale of the ent<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
+
+
+--------

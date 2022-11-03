@@ -11,3 +11,7 @@
 |  | STEAM |  |
 |  | CO2 |  |
 |  | NITROGEN |  |
+|  | FIRE |  |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if the tile is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

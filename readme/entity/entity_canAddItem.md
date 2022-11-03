@@ -20,3 +20,6 @@ Returns true if you can add an item on the given slot with the given amount<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

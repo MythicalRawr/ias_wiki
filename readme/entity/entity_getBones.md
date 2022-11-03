@@ -12,3 +12,6 @@ Returns the available bones inside of the model based on the first animation seq
 | Type   | Description |
 | ------ | ----------: |
 | table | The bones list |
+
+
+--------

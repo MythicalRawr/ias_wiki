@@ -12,3 +12,6 @@ Returns how many remaining ticks the timer has<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

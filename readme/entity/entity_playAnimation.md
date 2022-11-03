@@ -21,3 +21,6 @@ Plays an animation on the entity<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | If the animation was started successfully |
+
+
+--------

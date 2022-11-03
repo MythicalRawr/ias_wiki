@@ -12,3 +12,6 @@ Returns the playing animations on the model<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | The playing animation list |
+
+
+--------

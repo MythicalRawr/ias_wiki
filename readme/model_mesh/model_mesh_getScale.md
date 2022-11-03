@@ -12,3 +12,6 @@ Gets the mesh scale<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
+
+
+--------

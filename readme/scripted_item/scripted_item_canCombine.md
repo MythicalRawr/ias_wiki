@@ -19,3 +19,6 @@ Returns true if the item can be combined<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns the ent rotation in degrees<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

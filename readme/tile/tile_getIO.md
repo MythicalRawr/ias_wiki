@@ -12,3 +12,6 @@ Returns the wire io on the tile, if any<br>
 | Type   | Description |
 | ------ | ----------: |
 | [WireIO](../wireio/README.md) | No description |
+
+
+--------

@@ -13,3 +13,6 @@ Called when power is drained<br>
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
 | number | amount | No description |  |
+
+
+--------

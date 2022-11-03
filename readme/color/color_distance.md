@@ -12,3 +12,6 @@ Returns the distance of the color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if the ent is destructible<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

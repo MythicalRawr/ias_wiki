@@ -15,3 +15,6 @@ Draws a 3D debug text that will vanish after the given ttl time<br>
 | number | ttl | No description |  |
 | string | text | No description |  |
 | [Color](../color/README.md) | color | Default: Yellow | ✔ |
+
+
+--------

@@ -12,3 +12,6 @@ Returns the length of the vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

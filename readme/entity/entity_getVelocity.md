@@ -12,3 +12,6 @@ Returns the velocity of the ent (physics)<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

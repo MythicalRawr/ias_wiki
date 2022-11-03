@@ -25,3 +25,6 @@ console:execute({"my_command", "true"})
 | ------ | ----------: |
 | boolean | If command was executed successfully |
 | string | The error / success message |
+
+
+--------

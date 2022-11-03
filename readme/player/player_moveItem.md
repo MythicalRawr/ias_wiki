@@ -25,3 +25,6 @@ Locally moves an item from an inventory to another inventory and sends a validat
 | Type   | Description |
 | ------ | ----------: |
 | boolean | Local move was successful |
+
+
+--------

@@ -12,3 +12,6 @@ Called when a power network is connected to the entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
+
+
+--------

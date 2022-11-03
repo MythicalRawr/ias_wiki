@@ -20,3 +20,6 @@ Removes the given amount (if not set, the whole item) on the given slot<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -12,3 +12,6 @@ called when a power cable is connected to the entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [PowerNetwork](../powernetwork/README.md) | network | No description |  |
+
+
+--------

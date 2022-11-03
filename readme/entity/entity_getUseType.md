@@ -12,3 +12,6 @@ Returns the ent use type<br>
 | Type   | Description |
 | ------ | ----------: |
 | [USE](../use/README.md) | No description |
+
+
+--------

@@ -19,3 +19,6 @@ Finds an entity in the world by id<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ENT](../ent/README.md) | No description |
+
+
+--------

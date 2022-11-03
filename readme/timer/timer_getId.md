@@ -12,3 +12,6 @@ Returns the timer id<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

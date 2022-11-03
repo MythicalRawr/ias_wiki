@@ -5,3 +5,6 @@ void Sound:stop()
 ```
 
 Stops playing the sound<br>
+
+
+--------

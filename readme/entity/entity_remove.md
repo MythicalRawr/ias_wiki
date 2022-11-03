@@ -5,3 +5,6 @@ void Entity:remove()
 ```
 
 Removes the ent from the world<br>
+
+
+--------

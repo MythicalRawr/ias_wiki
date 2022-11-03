@@ -12,3 +12,6 @@ Ghost constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Ghost](../ghost/README.md) | No description |
+
+
+--------

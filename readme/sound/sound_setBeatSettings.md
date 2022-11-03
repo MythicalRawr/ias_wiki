@@ -14,3 +14,6 @@ Sets the beat detection settings for the channel<br>
 | number | bandwidth | No description |  |
 | number | center_freq | No description |  |
 | number | release_time | No description |  |
+
+
+--------

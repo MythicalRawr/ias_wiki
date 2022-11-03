@@ -12,3 +12,6 @@ Gets the render box of the entity.<br>
 | Type   | Description |
 | ------ | ----------: |
 | [AABB](../aabb/README.md) | No description |
+
+
+--------

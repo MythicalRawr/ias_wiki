@@ -19,3 +19,6 @@ Returns true if the storage has the given id<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

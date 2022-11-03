@@ -19,3 +19,6 @@ Uses the given ammount of power (ent needs to be marked with setUsesPower) and r
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -20,3 +20,6 @@ Returns the available slot index by id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

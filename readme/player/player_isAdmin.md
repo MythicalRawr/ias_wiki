@@ -12,3 +12,6 @@ Returns true if the player is an admin<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -19,3 +19,6 @@ Returns true if its a string<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

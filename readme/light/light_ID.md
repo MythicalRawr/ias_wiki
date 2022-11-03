@@ -12,3 +12,6 @@ Returns the light id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if the ent has a parent<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

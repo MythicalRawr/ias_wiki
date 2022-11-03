@@ -19,3 +19,6 @@ Returns a bone object that refers to an entity bone with the provided name<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Bone](../bone/README.md) | The bone |
+
+
+--------

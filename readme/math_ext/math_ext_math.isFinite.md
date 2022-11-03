@@ -19,3 +19,6 @@ Returns true if the number is finite<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

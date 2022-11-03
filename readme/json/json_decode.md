@@ -19,3 +19,6 @@ Decodes a json string to a lua table<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
+
+
+--------

@@ -19,3 +19,6 @@ Returns amount of gas in a room of the type<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

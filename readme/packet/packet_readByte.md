@@ -12,3 +12,6 @@ Reads a byte from the net packet<br>
 | Type   | Description |
 | ------ | ----------: |
 | any | No description |
+
+
+--------

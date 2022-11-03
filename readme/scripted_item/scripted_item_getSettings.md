@@ -12,3 +12,6 @@ Returns the item settings<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
+
+
+--------

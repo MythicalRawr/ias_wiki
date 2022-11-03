@@ -12,3 +12,6 @@ Returns true if a player can see the entity<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

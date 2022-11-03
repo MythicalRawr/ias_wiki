@@ -12,3 +12,6 @@ Sets the custom scale modifier of the bone<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector3](../vector3/README.md) | scale | Custom modifier |  |
+
+
+--------

@@ -12,3 +12,6 @@ Triggered when the entity is connected to the wire IO<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
+
+
+--------

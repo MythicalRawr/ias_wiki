@@ -19,3 +19,6 @@ Returns true if it's the same item<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

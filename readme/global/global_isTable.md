@@ -19,3 +19,6 @@ Returns true if its a table<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

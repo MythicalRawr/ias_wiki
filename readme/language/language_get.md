@@ -21,3 +21,6 @@ Returns the i18n string (values are optional)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

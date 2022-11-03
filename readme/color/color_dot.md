@@ -12,3 +12,6 @@ Returns the dot color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

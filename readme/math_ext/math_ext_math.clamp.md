@@ -21,3 +21,6 @@ Clamps a number<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

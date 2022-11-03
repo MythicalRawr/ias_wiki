@@ -19,3 +19,6 @@ Returns the rounded number<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

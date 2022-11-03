@@ -26,3 +26,6 @@ Creates a light at the given location (client side only)<br>
 | Type   | Description |
 | ------ | ----------: |
 | [light](../light/README.md) | No description |
+
+
+--------

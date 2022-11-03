@@ -17,3 +17,6 @@ If the entity should accept the item on the given slot by the given entity.<br>
 | [ITEM](../item/README.md) | item | No description |  |
 | number | slot | No description |  |
 | [Entity](../entity/README.md) | mover | No description |  |
+
+
+--------

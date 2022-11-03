@@ -13,3 +13,6 @@ Marks the given file for pre-loading<br>
 | ------ | ---- | ----------- | -------: |
 | string | path | No description |  |
 | any | loadFlags | No description | ✔ |
+
+
+--------

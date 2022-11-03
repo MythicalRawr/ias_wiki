@@ -12,3 +12,6 @@ Returns the local player last mouse position<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

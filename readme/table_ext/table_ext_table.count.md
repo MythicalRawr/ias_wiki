@@ -19,3 +19,6 @@ Returns the total amount of items on the table<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

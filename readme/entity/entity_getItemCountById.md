@@ -19,3 +19,6 @@ Returns the total amount of the item on the storage by id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

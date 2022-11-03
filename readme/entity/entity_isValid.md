@@ -12,3 +12,6 @@ Returns true if the ent is still valid on the game (ex: becomes false after call
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

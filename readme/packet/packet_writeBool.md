@@ -12,3 +12,6 @@ Writes a boolean in the net packet.<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | data | No description |  |
+
+
+--------

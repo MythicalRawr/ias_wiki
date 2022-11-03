@@ -12,3 +12,6 @@ Sets the game language (en, pt, etc)<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | lang | No description |  |
+
+
+--------

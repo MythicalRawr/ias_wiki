@@ -12,3 +12,6 @@ Returns the ent health<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Sets the use type of the entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [USE](../use/README.md) | set | No description |  |
+
+
+--------

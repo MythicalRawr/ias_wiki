@@ -19,3 +19,6 @@ Returns true if the storage has an item on the given slot<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

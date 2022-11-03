@@ -12,3 +12,6 @@ Fixes the given path with the mod's path<br>@/textures/blabalba.png = c++ conten
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | path | Default: Mod's folder | ✔ |
+
+
+--------

@@ -12,3 +12,6 @@ Marks the entity to use gas<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | set | No description |  |
+
+
+--------

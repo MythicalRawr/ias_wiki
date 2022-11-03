@@ -12,3 +12,6 @@ Removes the given wire type from the tile<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [WIRE](../wire/README.md) | type | No description |  |
+
+
+--------

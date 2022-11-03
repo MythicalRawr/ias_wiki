@@ -19,3 +19,6 @@ Returns the cross vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

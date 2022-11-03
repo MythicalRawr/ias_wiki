@@ -12,3 +12,6 @@ Returns true if the is playing from a url<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

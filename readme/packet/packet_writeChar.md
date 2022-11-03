@@ -12,3 +12,6 @@ Writes a char in the net packet.<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | string | data | No description |  |
+
+
+--------

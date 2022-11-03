@@ -12,3 +12,6 @@ Sets the custom position offset of the bone in degrees<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector3](../vector3/README.md) | rotation | Custom offset |  |
+
+
+--------

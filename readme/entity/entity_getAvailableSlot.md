@@ -12,3 +12,6 @@ Returns the an available slot index<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

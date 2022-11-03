@@ -5,3 +5,6 @@ void Ghost:destroy()
 ```
 
 Destroys the ghost<br>
+
+
+--------

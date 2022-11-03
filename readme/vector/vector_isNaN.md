@@ -12,3 +12,6 @@ Returns true if the vector is Not A Number (NaN)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if the item is stackable<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if playing a animation<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | Playing a animation |
+
+
+--------

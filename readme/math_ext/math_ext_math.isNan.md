@@ -19,3 +19,6 @@ Returns true if the number is NaN (not a number)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

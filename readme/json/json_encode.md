@@ -19,3 +19,6 @@ Encodes a table to a json string<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

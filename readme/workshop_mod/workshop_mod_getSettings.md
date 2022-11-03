@@ -12,3 +12,6 @@ Returns the mod's settings<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
+
+
+--------

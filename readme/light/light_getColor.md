@@ -12,3 +12,6 @@ Gets the light color<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
+
+
+--------

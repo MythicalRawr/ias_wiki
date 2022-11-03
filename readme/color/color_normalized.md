@@ -12,3 +12,6 @@ Returns the normalized color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

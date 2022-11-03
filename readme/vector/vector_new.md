@@ -20,3 +20,6 @@ Vector constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

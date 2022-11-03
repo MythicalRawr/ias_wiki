@@ -12,3 +12,6 @@ Returns true if the ent stores items or not (aka has inventory)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

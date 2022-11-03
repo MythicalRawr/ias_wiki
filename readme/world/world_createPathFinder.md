@@ -19,3 +19,6 @@ Creates a PathFinder object for the given building<br>
 | Type   | Description |
 | ------ | ----------: |
 | [PathFinder](../pathfinder/README.md) | No description |
+
+
+--------

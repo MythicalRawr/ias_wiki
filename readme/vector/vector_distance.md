@@ -19,3 +19,6 @@ Returns the distance of the vector from the given vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

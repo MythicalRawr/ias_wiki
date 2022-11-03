@@ -12,3 +12,6 @@ Returns the channel id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

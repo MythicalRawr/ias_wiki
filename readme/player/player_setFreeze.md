@@ -13,3 +13,6 @@ Sets / Unsets the freeze flags<br>
 | ------ | ---- | ----------- | -------: |
 | [FREEZE](../freeze/README.md) | flags | No description |  |
 | boolean | set | No description |  |
+
+
+--------

@@ -12,3 +12,6 @@ enables or disables gas use at an entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | mode | No description |  |
+
+
+--------

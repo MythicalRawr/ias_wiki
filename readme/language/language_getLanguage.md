@@ -12,3 +12,6 @@ Returns the current game language<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

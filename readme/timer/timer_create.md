@@ -22,3 +22,6 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 | Type   | Description |
 | ------ | ----------: |
 | [timerObj](../timerobj/README.md) | No description |
+
+
+--------

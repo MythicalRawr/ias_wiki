@@ -21,3 +21,6 @@ Splits the string with the given seperator<br>
 | Type   | Description |
 | ------ | ----------: |
 | string[] | No description |
+
+
+--------

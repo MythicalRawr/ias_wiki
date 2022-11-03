@@ -12,3 +12,6 @@ Returns the ent class type<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

@@ -20,3 +20,6 @@ Removes the given amount by item id<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

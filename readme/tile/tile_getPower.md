@@ -12,3 +12,6 @@ Returns the wire power on the tile, if any<br>
 | Type   | Description |
 | ------ | ----------: |
 | [WirePower](../wirepower/README.md) | No description |
+
+
+--------

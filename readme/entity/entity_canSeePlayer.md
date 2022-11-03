@@ -19,3 +19,6 @@ Returns true if the entity can see the given id<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

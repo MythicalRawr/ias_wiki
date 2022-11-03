@@ -13,3 +13,6 @@ Triggered when the wire emits a signal<br>
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
 | boolean | hasSignal | No description |  |
+
+
+--------

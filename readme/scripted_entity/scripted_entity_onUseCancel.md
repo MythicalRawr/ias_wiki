@@ -12,3 +12,6 @@ Triggered when a entity cancels USE (only on MENU mode)<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | ent | No description |  |
+
+
+--------

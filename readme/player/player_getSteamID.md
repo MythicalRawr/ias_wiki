@@ -12,3 +12,6 @@ Returns the player steam id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

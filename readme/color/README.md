@@ -10,3 +10,6 @@ Color's entry class<br>
 | number | g |  |
 | number | b |  |
 | number | a |  |
+
+
+--------

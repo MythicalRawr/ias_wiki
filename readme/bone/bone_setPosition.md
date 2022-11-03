@@ -12,3 +12,6 @@ Sets the custom local position offset of the bone<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Vector3](../vector3/README.md) | position | Custom offset |  |
+
+
+--------

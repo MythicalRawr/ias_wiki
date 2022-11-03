@@ -19,3 +19,6 @@ Returns true if a timer with the given id exists<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

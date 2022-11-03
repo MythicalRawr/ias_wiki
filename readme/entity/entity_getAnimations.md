@@ -12,3 +12,6 @@ Returns the available animations on the model<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | The animation list |
+
+
+--------

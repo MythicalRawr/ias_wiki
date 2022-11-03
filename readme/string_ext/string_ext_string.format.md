@@ -20,3 +20,6 @@ Formats the given string with the given params<br>Ex: string.format("hello {}, a
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

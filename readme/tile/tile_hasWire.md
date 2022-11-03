@@ -19,3 +19,6 @@ Returns true if the tile has the requested wire type<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

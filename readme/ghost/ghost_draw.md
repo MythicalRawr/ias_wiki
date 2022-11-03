@@ -8,3 +8,6 @@ void Ghost:draw()
 ```
 
 Draws the ghost model<br>
+
+
+--------

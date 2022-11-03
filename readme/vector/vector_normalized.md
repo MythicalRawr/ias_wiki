@@ -12,3 +12,6 @@ Returns the normalized vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
+
+
+--------

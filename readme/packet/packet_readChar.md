@@ -12,3 +12,6 @@ Reads a char from the net packet<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

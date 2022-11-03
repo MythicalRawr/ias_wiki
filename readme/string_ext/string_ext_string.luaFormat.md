@@ -22,3 +22,6 @@ Old lua string.format<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

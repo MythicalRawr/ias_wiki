@@ -19,3 +19,6 @@ Removes string white spaces<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

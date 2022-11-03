@@ -12,3 +12,6 @@ Returns true if the player rotation is disabled<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -16,3 +16,6 @@ Creates a chat on the given position to all players<br>Distance controls how rea
 | string | msg | No description |  |
 | number | distance | Default: -1 (global) | ✔ |
 | [Color](../color/README.md) | color | Default: white | ✔ |
+
+
+--------

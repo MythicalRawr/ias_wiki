@@ -12,3 +12,6 @@ Returns true if the tile has a pipe<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

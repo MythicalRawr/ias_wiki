@@ -12,3 +12,6 @@ Sets the sound as 3D with the given min and max distance<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | maxDistance | No description |  |
+
+
+--------

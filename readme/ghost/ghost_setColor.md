@@ -12,3 +12,6 @@ Sets the current ghost color<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Color](../color/README.md) | color | No description |  |
+
+
+--------

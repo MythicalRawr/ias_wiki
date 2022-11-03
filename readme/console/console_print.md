@@ -13,3 +13,6 @@ Prints the text on the console<br>
 | ------ | ---- | ----------- | -------: |
 | string | text | No description |  |
 | [CONSOLE.LOG](../console.log/README.md) | type | Default: CONSOLE.LOG.DEBUG | ✔ |
+
+
+--------

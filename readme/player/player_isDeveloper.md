@@ -12,3 +12,6 @@ Returns true if the player is a developer<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns the item unique id (class)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
+
+
+--------

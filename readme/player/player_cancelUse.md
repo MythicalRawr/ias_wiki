@@ -12,3 +12,6 @@ Cancels use (used when the player closes menus on the client, on the server this
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

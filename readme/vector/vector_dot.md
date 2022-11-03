@@ -19,3 +19,6 @@ Returns the dot vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

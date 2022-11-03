@@ -12,3 +12,6 @@ Removes the a light by id<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
+
+
+--------

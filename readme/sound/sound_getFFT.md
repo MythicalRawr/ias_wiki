@@ -22,3 +22,6 @@ Returns the sound FFT table<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
+
+
+--------

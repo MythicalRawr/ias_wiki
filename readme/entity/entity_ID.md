@@ -12,3 +12,6 @@ Returns the unique ent id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Returns true if the packet data is empty<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------

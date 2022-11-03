@@ -12,3 +12,6 @@ Returns the parent ent (should be checked with hasParent first)<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Entity](../entity/README.md) | No description |
+
+
+--------

@@ -12,3 +12,6 @@ Destroy the current item with the given quantity (if not set, destroys the whole
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | quantity | Default: 0 | ✔ |
+
+
+--------

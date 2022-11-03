@@ -22,3 +22,6 @@ Color constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
+
+
+--------

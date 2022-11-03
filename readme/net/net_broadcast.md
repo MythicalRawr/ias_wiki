@@ -14,3 +14,6 @@ Broadcasts a Packet to all connected players<br>
 | string | netId | No description |  |
 | [Packet](../packet/README.md) | msg | No description |  |
 | boolean | reliable | Default: true | ✔ |
+
+
+--------

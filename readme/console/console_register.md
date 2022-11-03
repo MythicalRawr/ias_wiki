@@ -24,3 +24,6 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | function | callback | fun(args: string[], userID: number): success: boolean, msg: string |  |
 | string | description | Default: <Empty> | ✔ |
 | [CONSOLE.FLAGS](../console.flags/README.md) | flags | Default: <Empty> | ✔ |
+
+
+--------

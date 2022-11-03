@@ -12,3 +12,6 @@ Returns the custom position offset of the bone<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
+
+
+--------

@@ -14,3 +14,6 @@ Creates a hook (aka listener) for a specific hookId<br>Make sure your hook hookN
 | string | hookId | No description |  |
 | string | hookName | No description |  |
 | function | callback | fun(data:any): void |  |
+
+
+--------

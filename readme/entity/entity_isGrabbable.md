@@ -12,3 +12,6 @@ Returns true if the ent is grabbable<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
+
+
+--------
