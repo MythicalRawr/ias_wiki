@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):create
+# [world](../world/README.md):create
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 ENT world:create(class, parent)
@@ -20,6 +22,3 @@ Creates and spawns a new entity on the world<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ENT](../ent/README.md) | No description |
-
-
---------

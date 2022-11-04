@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [language](../language/README.md):get
+# [language](../language/README.md):get
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string language:get(modID, key, ...)
@@ -21,6 +23,3 @@ Returns the i18n string (values are optional)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> table.getKeys
+# table.getKeys
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table table.getKeys(tbl)
@@ -19,6 +21,3 @@ Returns the table keys<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
-
-
---------

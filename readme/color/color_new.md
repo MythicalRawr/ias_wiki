@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Color](../color/README.md):new
+# [Color](../color/README.md):new
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Color Color:new(r, g, b, a)
@@ -22,6 +24,3 @@ Color constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
-
-
---------

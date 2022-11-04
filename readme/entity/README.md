@@ -1,5 +1,4 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Entity
+# Entity
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 Entity's entry class<br>
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):new
+# [Vector](../vector/README.md):new
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector Vector:new(x, y)
@@ -20,6 +22,3 @@ Vector constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
-
---------

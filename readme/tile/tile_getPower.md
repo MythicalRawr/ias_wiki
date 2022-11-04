@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getPower
+# [Tile](../tile/README.md):getPower
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 WirePower Tile:getPower()
@@ -12,6 +14,3 @@ Returns the wire power on the tile, if any<br>
 | Type   | Description |
 | ------ | ----------: |
 | [WirePower](../wirepower/README.md) | No description |
-
-
---------

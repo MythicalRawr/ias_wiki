@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):getBones
+# [Entity](../entity/README.md):getBones
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table Entity:getBones()
@@ -12,6 +14,3 @@ Returns the available bones inside of the model based on the first animation seq
 | Type   | Description |
 | ------ | ----------: |
 | table | The bones list |
-
-
---------

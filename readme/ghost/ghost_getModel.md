@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Ghost](../ghost/README.md):getModel
+# [Ghost](../ghost/README.md):getModel
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Model Ghost:getModel()
@@ -12,6 +14,3 @@ Gets the current ghost model<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Model](../model/README.md) | No description |
-
-
---------

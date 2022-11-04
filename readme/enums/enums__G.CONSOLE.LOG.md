@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> _G.CONSOLE.LOG
+# _G.CONSOLE.LOG
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 
 
 -----------------
@@ -9,6 +11,3 @@
 |  | DEBUG |  |
 |  | WARNING |  |
 |  | ERROR |  |
-
-
---------

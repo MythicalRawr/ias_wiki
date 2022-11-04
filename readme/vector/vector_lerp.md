@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):lerp
+# [Vector](../vector/README.md):lerp
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector Vector:lerp(other, t)
@@ -20,6 +22,3 @@ Returns the lerped vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
-
---------

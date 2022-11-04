@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Sound](../sound/README.md):id
+# [Sound](../sound/README.md):id
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Sound:id()
@@ -12,6 +14,3 @@ Returns the channel id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

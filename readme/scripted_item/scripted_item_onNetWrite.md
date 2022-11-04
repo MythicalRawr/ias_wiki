@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ITEM](../item/README.md):onNetWrite
+# [ITEM](../item/README.md):onNetWrite
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void ITEM:onNetWrite(packet)
@@ -12,6 +14,3 @@ Called by transmitUpdate by the server to send an update (should be used to sync
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Packet](../packet/README.md) | packet | No description |  |
-
-
---------

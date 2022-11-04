@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ModelMesh](../modelmesh/README.md):getName
+# [ModelMesh](../modelmesh/README.md):getName
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string ModelMesh:getName()
@@ -12,6 +14,3 @@ Returns the mesh name<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

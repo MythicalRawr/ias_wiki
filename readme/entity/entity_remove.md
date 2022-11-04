@@ -1,10 +1,9 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):remove
+# [Entity](../entity/README.md):remove
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:remove()
 ```
 
 Removes the ent from the world<br>
-
-
---------

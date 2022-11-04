@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):removeItemById
+# [Entity](../entity/README.md):removeItemById
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:removeItemById(id, amount)
@@ -20,6 +22,3 @@ Removes the given amount by item id<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

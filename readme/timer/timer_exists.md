@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timer](../timer/README.md):exists
+# [timer](../timer/README.md):exists
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean timer:exists(id)
@@ -19,6 +21,3 @@ Returns true if a timer with the given id exists<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

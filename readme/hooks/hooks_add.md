@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [hooks](../hooks/README.md):add
+# [hooks](../hooks/README.md):add
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void hooks:add(hookId, hookName, callback)
@@ -14,6 +16,3 @@ Creates a hook (aka listener) for a specific hookId<br>Make sure your hook hookN
 | string | hookId | No description |  |
 | string | hookName | No description |  |
 | function | callback | fun(data:any): void |  |
-
-
---------

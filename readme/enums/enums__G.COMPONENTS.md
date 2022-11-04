@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> _G.COMPONENTS
+# _G.COMPONENTS
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 
 
 -----------------
@@ -7,6 +9,3 @@
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
 |  | TILE |  |
-
-
---------

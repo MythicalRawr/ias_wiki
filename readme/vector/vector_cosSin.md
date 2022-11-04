@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):cosSin
+# [Vector](../vector/README.md):cosSin
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector Vector:cosSin(ang)
@@ -19,6 +21,3 @@ Returns the clamped vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
-
---------

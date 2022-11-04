@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):isValid
+# [light](../light/README.md):isValid
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean light:isValid()
@@ -12,6 +14,3 @@ Returns true if the light is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

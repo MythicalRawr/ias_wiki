@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Bone](../bone/README.md):getPosition
+# [Bone](../bone/README.md):getPosition
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector3 Bone:getPosition()
@@ -12,6 +14,3 @@ Returns the custom position offset of the bone<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
-
-
---------

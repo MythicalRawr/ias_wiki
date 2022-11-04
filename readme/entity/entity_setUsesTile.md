@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setUsesTile
+# [Entity](../entity/README.md):setUsesTile
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:setUsesTile(mode)
@@ -12,6 +14,3 @@ enables or disables tile use at an entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | mode | No description |  |
-
-
---------

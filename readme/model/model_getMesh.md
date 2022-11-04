@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Model](../model/README.md):getMesh
+# [Model](../model/README.md):getMesh
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 ModelMesh Model:getMesh(name)
@@ -19,6 +21,3 @@ Returns the model mesh if found<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ModelMesh](../modelmesh/README.md) | No description |
-
-
---------

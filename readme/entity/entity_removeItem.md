@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):removeItem
+# [Entity](../entity/README.md):removeItem
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:removeItem(slot, amount)
@@ -20,6 +22,3 @@ Removes the given amount (if not set, the whole item) on the given slot<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

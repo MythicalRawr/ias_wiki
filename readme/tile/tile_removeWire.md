@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):removeWire
+# [Tile](../tile/README.md):removeWire
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Tile:removeWire(type)
@@ -12,6 +14,3 @@ Removes the given wire type from the tile<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [WIRE](../wire/README.md) | type | No description |  |
-
-
---------

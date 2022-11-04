@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [worldDebug](../worlddebug/README.md):text
+# [worldDebug](../worlddebug/README.md):text
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void worldDebug:text(pos, ttl, text, color)
@@ -15,6 +17,3 @@ Draws a 3D debug text that will vanish after the given ttl time<br>
 | number | ttl | No description |  |
 | string | text | No description |  |
 | [Color](../color/README.md) | color | Default: Yellow | ✔ |
-
-
---------

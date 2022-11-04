@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):length
+# [Vector](../vector/README.md):length
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Vector:length()
@@ -12,6 +14,3 @@ Returns the length of the vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> string.trim
+# string.trim
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string string.trim(str)
@@ -19,6 +21,3 @@ Removes string white spaces<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

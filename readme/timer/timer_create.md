@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timer](../timer/README.md):create
+# [timer](../timer/README.md):create
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 timerObj timer:create(id, interval, ticks, callback)
@@ -22,6 +24,3 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 | Type   | Description |
 | ------ | ----------: |
 | [timerObj](../timerobj/README.md) | No description |
-
-
---------

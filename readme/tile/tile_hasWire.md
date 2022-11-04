@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):hasWire
+# [Tile](../tile/README.md):hasWire
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Tile:hasWire(type)
@@ -19,6 +21,3 @@ Returns true if the tile has the requested wire type<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

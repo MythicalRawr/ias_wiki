@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):hasItemById
+# [Entity](../entity/README.md):hasItemById
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:hasItemById(id)
@@ -19,6 +21,3 @@ Returns true if the storage has the given id<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

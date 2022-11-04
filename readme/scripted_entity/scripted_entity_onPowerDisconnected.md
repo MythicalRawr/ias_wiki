@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):onPowerDisconnected
+# [ENT](../ent/README.md):onPowerDisconnected
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void ENT:onPowerDisconnected(id)
@@ -12,6 +14,3 @@ Called when a power network is disconnected from the entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
-
-
---------

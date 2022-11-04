@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ModelMesh](../modelmesh/README.md):getRotation
+# [ModelMesh](../modelmesh/README.md):getRotation
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number ModelMesh:getRotation()
@@ -12,6 +14,3 @@ Gets the mesh rotation in degrees<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

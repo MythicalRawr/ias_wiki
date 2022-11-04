@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Room](../room/README.md):isValid
+# [Room](../room/README.md):isValid
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Room:isValid()
@@ -12,6 +14,3 @@ Returns true if the room is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

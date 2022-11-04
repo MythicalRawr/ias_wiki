@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Sound](../sound/README.md):isHTTP
+# [Sound](../sound/README.md):isHTTP
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Sound:isHTTP()
@@ -12,6 +14,3 @@ Returns true if the is playing from a url<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):removeUseViewer
+# [Entity](../entity/README.md):removeUseViewer
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:removeUseViewer(id)
@@ -12,6 +14,3 @@ Remove the ent id as a use viewer<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | id | No description |  |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):getAnimations
+# [Entity](../entity/README.md):getAnimations
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table Entity:getAnimations()
@@ -12,6 +14,3 @@ Returns the available animations on the model<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | The animation list |
-
-
---------

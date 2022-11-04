@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):acceptItem
+# [ENT](../ent/README.md):acceptItem
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 {% hint style="info" %} If method not defined, by default it accepts all items. {% endhint %}
 
@@ -17,6 +19,3 @@ If the entity should accept the item on the given slot by the given entity.<br>
 | [ITEM](../item/README.md) | item | No description |  |
 | number | slot | No description |  |
 | [Entity](../entity/README.md) | mover | No description |  |
-
-
---------

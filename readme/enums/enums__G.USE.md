@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> _G.USE
+# _G.USE
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 
 
 -----------------
@@ -9,6 +11,3 @@
 |  | NONE |  |
 |  | SIMPLE |  |
 |  | MENU |  |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):forward
+# [Entity](../entity/README.md):forward
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector Entity:forward(distance)
@@ -19,6 +21,3 @@ Returns ent forward facing position<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
-
---------

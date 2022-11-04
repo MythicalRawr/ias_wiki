@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> _G.WIRE
+# _G.WIRE
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 
 
 -----------------
@@ -8,6 +10,3 @@
 | ------ | ---- | -------: |
 |  | POWER |  |
 |  | IO |  |
-
-
---------

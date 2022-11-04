@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [PathFinder](../pathfinder/README.md):calculate
+# [PathFinder](../pathfinder/README.md):calculate
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table PathFinder:calculate(from, to)
@@ -20,6 +22,3 @@ Returns a table<Vector> that contains a list of tiles to move to in order. If re
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
-
-
---------

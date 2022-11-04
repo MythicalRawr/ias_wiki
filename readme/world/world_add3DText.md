@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [world](../world/README.md):add3DText
+# [world](../world/README.md):add3DText
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void world:add3DText(speaker, msg, color)
@@ -14,6 +16,3 @@ Creates a client side chat text<br>
 | string | speaker | No description |  |
 | string | msg | No description |  |
 | [Color](../color/README.md) | color | Default: white | ✔ |
-
-
---------

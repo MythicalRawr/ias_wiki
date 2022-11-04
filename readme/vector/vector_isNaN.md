@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):isNaN
+# [Vector](../vector/README.md):isNaN
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Vector:isNaN()
@@ -12,6 +14,3 @@ Returns true if the vector is Not A Number (NaN)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

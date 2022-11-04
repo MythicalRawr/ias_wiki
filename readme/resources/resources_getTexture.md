@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getTexture
+# [resources](../resources/README.md):getTexture
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Texture resources:getTexture(path)
@@ -19,6 +21,3 @@ Returns a Texture object if loaded successfully, you should use preLoad on Mod:o
 | Type   | Description |
 | ------ | ----------: |
 | [Texture](../texture/README.md) | No description |
-
-
---------

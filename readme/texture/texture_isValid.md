@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Texture](../texture/README.md):isValid
+# [Texture](../texture/README.md):isValid
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Texture:isValid()
@@ -12,6 +14,3 @@ Returns true if the texture is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

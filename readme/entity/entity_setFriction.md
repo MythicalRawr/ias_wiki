@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setFriction
+# [Entity](../entity/README.md):setFriction
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:setFriction(friction)
@@ -12,6 +14,3 @@ Sets the entity physics friction<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | friction | No description |  |
-
-
---------

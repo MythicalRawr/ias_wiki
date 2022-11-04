@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Color](../color/README.md):distance
+# [Color](../color/README.md):distance
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Color:distance()
@@ -12,6 +14,3 @@ Returns the distance of the color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

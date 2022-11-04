@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Sound](../sound/README.md):set3D
+# [Sound](../sound/README.md):set3D
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Sound:set3D(maxDistance)
@@ -12,6 +14,3 @@ Sets the sound as 3D with the given min and max distance<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | maxDistance | No description |  |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):canAddItem
+# [Entity](../entity/README.md):canAddItem
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:canAddItem(slot, count)
@@ -20,6 +22,3 @@ Returns true if you can add an item on the given slot with the given amount<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

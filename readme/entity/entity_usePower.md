@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):usePower
+# [Entity](../entity/README.md):usePower
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:usePower(power)
@@ -19,6 +21,3 @@ Uses the given ammount of power (ent needs to be marked with setUsesPower) and r
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

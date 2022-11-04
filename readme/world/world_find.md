@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):find
+# [world](../world/README.md):find
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 ENT world:find(id)
@@ -19,6 +21,3 @@ Finds an entity in the world by id<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ENT](../ent/README.md) | No description |
-
-
---------

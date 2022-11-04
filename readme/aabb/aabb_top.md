@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):top
+# [AABB](../aabb/README.md):top
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number AABB:top()
@@ -12,6 +14,3 @@ Returns the top<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

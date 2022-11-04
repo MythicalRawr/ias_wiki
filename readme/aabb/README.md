@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> AABB
+# AABB
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 AABB's entry class<br>
 
 -----------------
@@ -8,6 +10,3 @@ AABB's entry class<br>
 | ------ | ---- | -------: |
 | [Vector](../vector/README.md) | pos |  |
 | [Vector](../vector/README.md) | size |  |
-
-
---------

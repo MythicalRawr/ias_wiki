@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):isValid
+# [Tile](../tile/README.md):isValid
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Tile:isValid()
@@ -12,6 +14,3 @@ Returns true if the tile is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

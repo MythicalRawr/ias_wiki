@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [camera](../camera/README.md):isValid
+# [camera](../camera/README.md):isValid
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean camera:isValid()
@@ -12,6 +14,3 @@ Returns true if the camera object is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

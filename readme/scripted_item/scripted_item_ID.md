@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):ID
+# [ITEM](../item/README.md):ID
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string ITEM:ID()
@@ -12,6 +14,3 @@ Returns the item unique id (class)<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [worldDebug](../worlddebug/README.md):line
+# [worldDebug](../worlddebug/README.md):line
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void worldDebug:line(startPos, endPos, ttl, color)
@@ -15,6 +17,3 @@ Draws a 3D debug line that will vanish after the given ttl time<br>
 | [Vector3](../vector3/README.md) | endPos | No description |  |
 | number | ttl | No description |  |
 | [Color](../color/README.md) | color | Default: Yellow | ✔ |
-
-
---------

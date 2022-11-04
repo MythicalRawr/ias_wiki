@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [json](../json/README.md):encode
+# [json](../json/README.md):encode
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string json:encode(data)
@@ -19,6 +21,3 @@ Encodes a table to a json string<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

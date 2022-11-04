@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getRoom
+# [Tile](../tile/README.md):getRoom
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Room Tile:getRoom()
@@ -12,6 +14,3 @@ Returns the current room the tile is in<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Room](../room/README.md) | No description |
-
-
---------

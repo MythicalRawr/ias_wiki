@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Sound
+# Sound
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 Sound's entry class.<br>
 
 -----------------
@@ -10,6 +12,3 @@ Sound's entry class.<br>
 | number | pitch |  |
 | [Vector](../vector/README.md) | position? |  |
 | boolean | loop |  |
-
-
---------

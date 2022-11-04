@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):setUseHint
+# [Entity](../entity/README.md):setUseHint
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:setUseHint(hint, texture)
@@ -13,6 +15,3 @@ Sets the cursor hint & texture when the user hovers the ent<br>
 | ------ | ---- | ----------- | -------: |
 | string | hint | No description |  |
 | [Texture](../texture/README.md) | texture | No description |  |
-
-
---------

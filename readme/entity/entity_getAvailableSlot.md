@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getAvailableSlot
+# [Entity](../entity/README.md):getAvailableSlot
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Entity:getAvailableSlot()
@@ -12,6 +14,3 @@ Returns the an available slot index<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

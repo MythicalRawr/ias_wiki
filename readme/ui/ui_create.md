@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ui](../ui/README.md):create
+# [ui](../ui/README.md):create
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 UIBase ui:create(uiType, parent)
@@ -20,6 +22,3 @@ Creates a new ui base element.<br>
 | Type   | Description |
 | ------ | ----------: |
 | [UIBase](../uibase/README.md) | No description |
-
-
---------

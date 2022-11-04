@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):readChar
+# [Packet](../packet/README.md):readChar
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string Packet:readChar()
@@ -12,6 +14,3 @@ Reads a char from the net packet<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

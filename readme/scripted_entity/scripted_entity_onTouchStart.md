@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ENT](../ent/README.md):onTouchStart
+# [ENT](../ent/README.md):onTouchStart
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void ENT:onTouchStart(entity)
@@ -12,6 +14,3 @@ Called when an entity touches another entity (requires physics)<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | entity | No description |  |
-
-
---------

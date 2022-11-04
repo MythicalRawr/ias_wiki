@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):isStorage
+# [Entity](../entity/README.md):isStorage
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:isStorage()
@@ -12,6 +14,3 @@ Returns true if the ent stores items or not (aka has inventory)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

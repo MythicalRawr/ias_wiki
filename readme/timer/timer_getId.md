@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timerObj](../timerobj/README.md):getId
+# [timerObj](../timerobj/README.md):getId
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string timerObj:getId()
@@ -12,6 +14,3 @@ Returns the timer id<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

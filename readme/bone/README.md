@@ -1,5 +1,4 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Bone
+# Bone
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 Bone's entry class<br>
-
-
---------

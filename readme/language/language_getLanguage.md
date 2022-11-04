@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [language](../language/README.md):getLanguage
+# [language](../language/README.md):getLanguage
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string language:getLanguage()
@@ -12,6 +14,3 @@ Returns the current game language<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

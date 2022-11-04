@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):createPathFinder
+# [world](../world/README.md):createPathFinder
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 PathFinder world:createPathFinder(building)
@@ -19,6 +21,3 @@ Creates a PathFinder object for the given building<br>
 | Type   | Description |
 | ------ | ----------: |
 | [PathFinder](../pathfinder/README.md) | No description |
-
-
---------

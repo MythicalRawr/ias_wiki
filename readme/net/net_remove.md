@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [net](../net/README.md):remove
+# [net](../net/README.md):remove
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void net:remove(netId, hookName)
@@ -13,6 +15,3 @@ Remove a listener for a specific netId<br>
 | ------ | ---- | ----------- | -------: |
 | string | netId | No description |  |
 | string | hookName | No description |  |
-
-
---------

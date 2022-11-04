@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getItemCount
+# [Entity](../entity/README.md):getItemCount
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Entity:getItemCount(slot)
@@ -19,6 +21,3 @@ Returns the total amount of the item on the slot<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

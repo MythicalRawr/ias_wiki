@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Room](../room/README.md):getGas
+# [Room](../room/README.md):getGas
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Room:getGas(gasType)
@@ -19,6 +21,3 @@ Returns amount of gas in a room of the type<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

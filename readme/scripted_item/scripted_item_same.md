@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):same
+# [ITEM](../item/README.md):same
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean ITEM:same(other)
@@ -19,6 +21,3 @@ Returns true if it's the same item<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

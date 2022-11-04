@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> curtime
+# curtime
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number curtime()
@@ -12,6 +14,3 @@ Returns the epoch unix time in milliseconds (from 1/1/1970)... until 2038, then 
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

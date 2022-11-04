@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):broadcastChat
+# [world](../world/README.md):broadcastChat
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void world:broadcastChat(pos, speaker, msg, distance, color)
@@ -16,6 +18,3 @@ Creates a chat on the given position to all players<br>Distance controls how rea
 | string | msg | No description |  |
 | number | distance | Default: -1 (global) | ✔ |
 | [Color](../color/README.md) | color | Default: white | ✔ |
-
-
---------

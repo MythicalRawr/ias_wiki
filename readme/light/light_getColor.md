@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):getColor
+# [light](../light/README.md):getColor
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Color light:getColor()
@@ -12,6 +14,3 @@ Gets the light color<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Color](../color/README.md) | No description |
-
-
---------

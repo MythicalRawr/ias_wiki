@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):setGrabbable
+# [Entity](../entity/README.md):setGrabbable
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:setGrabbable(grab)
@@ -12,6 +14,3 @@ Allows the ent to be grabbed or not<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | boolean | grab | No description |  |
-
-
---------

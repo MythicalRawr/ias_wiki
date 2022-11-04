@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):isGrabbing
+# [Player](../player/README.md):isGrabbing
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Player:isGrabbing()
@@ -12,6 +14,3 @@ Returns true if the player is grabbing an object<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

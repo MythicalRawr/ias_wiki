@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ENT](../ent/README.md):setRenderBox
+# [ENT](../ent/README.md):setRenderBox
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 {% hint style="warning" %} `initPhysics` & `initCirclePhysics` **reset** this value. Should be placed **after** calling those (inside `createPhysics`) {% endhint %}
 {% hint style="warning" %} If the entity has not physics this needs to be set, for VIS to work {% endhint %}
@@ -16,6 +18,3 @@ Sets the render box of the entity.<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [AABB](../aabb/README.md) | aabb | No description |  |
-
-
---------

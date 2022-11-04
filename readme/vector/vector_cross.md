@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):cross
+# [Vector](../vector/README.md):cross
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Vector:cross(other)
@@ -19,6 +21,3 @@ Returns the cross vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

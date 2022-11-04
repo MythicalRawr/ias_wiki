@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):canCombine
+# [ITEM](../item/README.md):canCombine
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean ITEM:canCombine(other)
@@ -19,6 +21,3 @@ Returns true if the item can be combined<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

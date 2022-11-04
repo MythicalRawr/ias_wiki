@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Bone](../bone/README.md):getName
+# [Bone](../bone/README.md):getName
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string Bone:getName()
@@ -12,6 +14,3 @@ Returns the bone name<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

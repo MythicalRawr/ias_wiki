@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timer](../timer/README.md):get
+# [timer](../timer/README.md):get
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 timerObj timer:get(id)
@@ -19,6 +21,3 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 | Type   | Description |
 | ------ | ----------: |
 | [timerObj](../timerobj/README.md) | No description |
-
-
---------

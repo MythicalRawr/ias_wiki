@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):getItemSettings
+# [world](../world/README.md):getItemSettings
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table world:getItemSettings(id)
@@ -19,6 +21,3 @@ Gets the given item id settings<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [lights](../lights/README.md):create
+# [lights](../lights/README.md):create
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 {% hint style="warning" %} MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT {% endhint %}
 
@@ -26,6 +28,3 @@ Creates a light at the given location (client side only)<br>
 | Type   | Description |
 | ------ | ----------: |
 | [light](../light/README.md) | No description |
-
-
---------

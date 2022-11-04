@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):onGasDisconnected
+# [Entity](../entity/README.md):onGasDisconnected
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Entity:onGasDisconnected(network)
@@ -12,6 +14,3 @@ called when a gas pipe is disconnected from the entity<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [GasNetwork](../gasnetwork/README.md) | network | No description |  |
-
-
---------

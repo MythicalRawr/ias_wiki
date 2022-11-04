@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> math.round
+# math.round
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number math.round(val)
@@ -19,6 +21,3 @@ Returns the rounded number<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

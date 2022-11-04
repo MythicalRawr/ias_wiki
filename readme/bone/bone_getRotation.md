@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Bone](../bone/README.md):getRotation
+# [Bone](../bone/README.md):getRotation
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector3 Bone:getRotation()
@@ -12,6 +14,3 @@ Returns the custom rotation offset of the bone in degrees<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
-
-
---------

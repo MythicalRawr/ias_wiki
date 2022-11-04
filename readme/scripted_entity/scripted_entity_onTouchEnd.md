@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ENT](../ent/README.md):onTouchEnd
+# [ENT](../ent/README.md):onTouchEnd
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void ENT:onTouchEnd(entity)
@@ -12,6 +14,3 @@ Called when an entity stops touching another entity (requires physics)<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | [Entity](../entity/README.md) | entity | No description |  |
-
-
---------

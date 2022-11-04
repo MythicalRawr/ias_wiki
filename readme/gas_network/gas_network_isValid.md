@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [GasNetwork](../gasnetwork/README.md):isValid
+# [GasNetwork](../gasnetwork/README.md):isValid
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean GasNetwork:isValid()
@@ -12,6 +14,3 @@ Returns true if the GasNetwork is valid<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

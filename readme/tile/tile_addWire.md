@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):addWire
+# [Tile](../tile/README.md):addWire
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Tile:addWire(type, networkId)
@@ -13,6 +15,3 @@ Adds the given wire type to the tile<br>
 | ------ | ---- | ----------- | -------: |
 | [WIRE](../wire/README.md) | type | No description |  |
 | number | networkId | No description | ✔ |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [GasNetwork](../gasnetwork/README.md):get
+# [GasNetwork](../gasnetwork/README.md):get
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number GasNetwork:get(gasType)
@@ -19,6 +21,3 @@ Returns amount of gas in a GasNetwork of the type<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

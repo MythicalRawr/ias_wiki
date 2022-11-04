@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> math.isFinite
+# math.isFinite
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean math.isFinite(val)
@@ -19,6 +21,3 @@ Returns true if the number is finite<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Color](../color/README.md):normalized
+# [Color](../color/README.md):normalized
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Color:normalized()
@@ -12,6 +14,3 @@ Returns the normalized color<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

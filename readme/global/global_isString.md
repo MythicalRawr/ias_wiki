@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> isString
+# isString
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean isString(el)
@@ -19,6 +21,3 @@ Returns true if its a string<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

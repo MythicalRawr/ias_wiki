@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findByClass
+# [world](../world/README.md):findByClass
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 ENT[] world:findByClass(class)
@@ -19,6 +21,3 @@ Finds entities in the world by class type (EX: entity_ship)<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ENT[]](../ent[]/README.md) | No description |
-
-
---------

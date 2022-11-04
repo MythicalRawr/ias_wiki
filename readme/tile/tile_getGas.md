@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getGas
+# [Tile](../tile/README.md):getGas
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Tile:getGas(gasType)
@@ -19,6 +21,3 @@ Returns amount of gas in a Tile of the type<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

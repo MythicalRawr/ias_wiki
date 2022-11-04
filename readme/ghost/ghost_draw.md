@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Ghost](../ghost/README.md):draw
+# [Ghost](../ghost/README.md):draw
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 {% hint style="warning" %} Should be called in ENT:Draw or ITEM:Draw {% endhint %}
 
@@ -8,6 +10,3 @@ void Ghost:draw()
 ```
 
 Draws the ghost model<br>
-
-
---------

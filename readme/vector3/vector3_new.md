@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector3](../vector3/README.md):new
+# [Vector3](../vector3/README.md):new
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector3 Vector3:new(x, y, z)
@@ -21,6 +23,3 @@ Vector3 constructor<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector3](../vector3/README.md) | No description |
-
-
---------

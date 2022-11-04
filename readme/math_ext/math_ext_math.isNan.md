@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> math.isNan
+# math.isNan
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean math.isNan(val)
@@ -19,6 +21,3 @@ Returns true if the number is NaN (not a number)<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

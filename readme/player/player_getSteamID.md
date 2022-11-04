@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):getSteamID
+# [Player](../player/README.md):getSteamID
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Player:getSteamID()
@@ -12,6 +14,3 @@ Returns the player steam id<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

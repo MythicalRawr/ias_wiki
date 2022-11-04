@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> isNumber
+# isNumber
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean isNumber(el)
@@ -19,6 +21,3 @@ Returns true if its a number<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

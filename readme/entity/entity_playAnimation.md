@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):playAnimation
+# [Entity](../entity/README.md):playAnimation
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:playAnimation(name, loop, speed)
@@ -21,6 +23,3 @@ Plays an animation on the entity<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | If the animation was started successfully |
-
-
---------

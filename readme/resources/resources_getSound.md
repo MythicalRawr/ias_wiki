@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getSound
+# [resources](../resources/README.md):getSound
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Sound resources:getSound(path, loadFlags)
@@ -20,6 +22,3 @@ Returns a Sound object if loaded successfully, you should use preLoad on Mod:onL
 | Type   | Description |
 | ------ | ----------: |
 | [Sound](../sound/README.md) | No description |
-
-
---------

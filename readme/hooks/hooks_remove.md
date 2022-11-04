@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [hooks](../hooks/README.md):remove
+# [hooks](../hooks/README.md):remove
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void hooks:remove(hookId, hookName)
@@ -13,6 +15,3 @@ Remove a hook (aka listener) for a specific hookId<br>
 | ------ | ---- | ----------- | -------: |
 | string | hookId | No description |  |
 | string | hookName | No description |  |
-
-
---------

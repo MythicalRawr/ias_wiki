@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Player](../player/README.md):moveItem
+# [Player](../player/README.md):moveItem
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 {% hint style="info" %} The moving player must be marked as a viewer on server and be within range of both inventories! {% endhint %}
 
@@ -25,6 +27,3 @@ Locally moves an item from an inventory to another inventory and sends a validat
 | Type   | Description |
 | ------ | ----------: |
 | boolean | Local move was successful |
-
-
---------

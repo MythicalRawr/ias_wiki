@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [json](../json/README.md):decode
+# [json](../json/README.md):decode
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 table json:decode(data)
@@ -19,6 +21,3 @@ Decodes a json string to a lua table<br>
 | Type   | Description |
 | ------ | ----------: |
 | table | No description |
-
-
---------

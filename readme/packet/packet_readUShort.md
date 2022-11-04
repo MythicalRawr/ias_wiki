@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):readUShort
+# [Packet](../packet/README.md):readUShort
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Packet:readUShort()
@@ -12,6 +14,3 @@ Reads a unsigned short from the net packet<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

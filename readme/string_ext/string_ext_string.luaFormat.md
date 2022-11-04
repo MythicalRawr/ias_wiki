@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~string.luaFormat~~
+# ~~string.luaFormat~~
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 > ⚠ Deprecated: Use string.format with {} instead of %d..etc
 
@@ -22,6 +24,3 @@ Old lua string.format<br>
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

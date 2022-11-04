@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):writeLong
+# [Packet](../packet/README.md):writeLong
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void Packet:writeLong(data)
@@ -12,6 +14,3 @@ Writes a long in the net packet.<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | number | data | No description |  |
-
-
---------

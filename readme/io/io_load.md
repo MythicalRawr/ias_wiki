@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [io](../io/README.md):load
+# [io](../io/README.md):load
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string, string io:load(path)
@@ -20,6 +22,3 @@ Loads a file on the data folder, make sure you pass the extension on the filePat
 | ------ | ----------: |
 | string | error |
 | string | data |
-
-
---------

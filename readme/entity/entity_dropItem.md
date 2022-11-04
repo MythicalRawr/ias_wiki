@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):dropItem
+# [Entity](../entity/README.md):dropItem
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:dropItem(slot, pos)
@@ -20,6 +22,3 @@ Drops the given item slot on the given pos<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

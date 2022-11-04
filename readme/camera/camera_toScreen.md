@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [camera](../camera/README.md):toScreen
+# [camera](../camera/README.md):toScreen
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Vector camera:toScreen(pos)
@@ -19,6 +21,3 @@ Converts the world position to screen coordinates<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Vector](../vector/README.md) | No description |
-
-
---------

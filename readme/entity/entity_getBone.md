@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):getBone
+# [Entity](../entity/README.md):getBone
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 Bone Entity:getBone(name)
@@ -19,6 +21,3 @@ Returns a bone object that refers to an entity bone with the provided name<br>
 | Type   | Description |
 | ------ | ----------: |
 | [Bone](../bone/README.md) | The bone |
-
-
---------

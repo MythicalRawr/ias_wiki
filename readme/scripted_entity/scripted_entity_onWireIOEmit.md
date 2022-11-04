@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):onWireIOEmit
+# [ENT](../ent/README.md):onWireIOEmit
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void ENT:onWireIOEmit(id, hasSignal)
@@ -13,6 +15,3 @@ Triggered when the wire emits a signal<br>
 | ------ | ---- | ----------- | -------: |
 | string | id | No description |  |
 | boolean | hasSignal | No description |  |
-
-
---------

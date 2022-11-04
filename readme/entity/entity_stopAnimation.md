@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):stopAnimation
+# [Entity](../entity/README.md):stopAnimation
+
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:stopAnimation(name)
@@ -19,6 +21,3 @@ Stops an animation on the entity<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | If the animation was stopped successfully |
-
-
---------

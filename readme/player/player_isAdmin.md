@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):isAdmin
+# [Player](../player/README.md):isAdmin
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Player:isAdmin()
@@ -12,6 +14,3 @@ Returns true if the player is an admin<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

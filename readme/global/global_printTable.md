@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> printTable
+# printTable
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void printTable(tbl)
@@ -12,6 +14,3 @@ Pretty prints the given table<br>
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
 | table | tbl | No description |  |
-
-
---------

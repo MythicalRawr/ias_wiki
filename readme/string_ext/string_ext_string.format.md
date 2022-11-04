@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> string.format
+# string.format
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 string string.format(str, ...)
@@ -20,6 +22,3 @@ Formats the given string with the given params<br>Ex: string.format("hello {}, a
 | Type   | Description |
 | ------ | ----------: |
 | string | No description |
-
-
---------

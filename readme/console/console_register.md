@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [console](../console/README.md):register
+# [console](../console/README.md):register
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void console:register(command, callback, description, flags)
@@ -24,6 +26,3 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 | function | callback | fun(args: string[], userID: number): success: boolean, msg: string |  |
 | string | description | Default: <Empty> | ✔ |
 | [CONSOLE.FLAGS](../console.flags/README.md) | flags | Default: <Empty> | ✔ |
-
-
---------

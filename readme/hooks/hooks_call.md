@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [hooks](../hooks/README.md):call
+# [hooks](../hooks/README.md):call
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 void hooks:call(hookId, data)
@@ -13,6 +15,3 @@ Emits data to the given hookId<br>
 | ------ | ---- | ----------- | -------: |
 | string | hookId | No description |  |
 | any | data | No description |  |
-
-
---------

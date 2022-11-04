@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):getItem
+# [Entity](../entity/README.md):getItem
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 ITEM Entity:getItem(index)
@@ -19,6 +21,3 @@ Returns the item by index<br>
 | Type   | Description |
 | ------ | ----------: |
 | [ITEM](../item/README.md) | No description |
-
-
---------

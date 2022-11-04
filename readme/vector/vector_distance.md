@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):distance
+# [Vector](../vector/README.md):distance
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 number Vector:distance(other)
@@ -19,6 +21,3 @@ Returns the distance of the vector from the given vector<br>
 | Type   | Description |
 | ------ | ----------: |
 | number | No description |
-
-
---------

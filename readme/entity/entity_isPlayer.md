@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):isPlayer
+# [Entity](../entity/README.md):isPlayer
+
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:isPlayer()
@@ -12,6 +14,3 @@ Returns true if the ent is a player<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

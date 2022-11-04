@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):moveItem
+# [Entity](../entity/README.md):moveItem
+
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
 
 ```lua
 boolean Entity:moveItem(to, slot, newSlot)
@@ -21,6 +23,3 @@ Moves an item to a different inventory<br>
 | Type   | Description |
 | ------ | ----------: |
 | boolean | No description |
-
-
---------

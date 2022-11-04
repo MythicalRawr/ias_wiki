@@ -1,4 +1,6 @@
-## <img src="../../.gitbook/assets/base.png" width="32" height="32" /> Color
+# Color
+
+### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
 Color's entry class<br>
 
 -----------------
@@ -10,6 +12,3 @@ Color's entry class<br>
 | number | g |  |
 | number | b |  |
 | number | a |  |
-
-
---------
