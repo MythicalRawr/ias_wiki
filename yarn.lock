@@ -408,9 +408,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@edunad/lua-wiki-generator@npm:0.0.10":
-  version: 0.0.10
-  resolution: "@edunad/lua-wiki-generator@npm:0.0.10"
+"@edunad/lua-wiki-generator@npm:0.0.11":
+  version: 0.0.11
+  resolution: "@edunad/lua-wiki-generator@npm:0.0.11"
   dependencies:
     fast-glob: ^3.2.12
     fs-extra: ^10.1.0
@@ -418,7 +418,7 @@ __metadata:
     yargs: ^17.5.1
   bin:
     lua-wiki-generator: cli.js
-  checksum: 55ac5c370d42fbd66b8a95d86e8ee1dc5c6391b5b567eb1aed9b3259e76905a09acc2c0b92b60babbf4ab2cb47de69be94c9a44371391e9c29a145f65b18ba12
+  checksum: 48544cae71514052850731bbf73d6abd19cc3550fdacffd188dc85baf932355eeee8e9b5ea2ed5a569cc4f846b76c5cc50feb3b7a9e79a7a5753de17dffa99ab
   languageName: node
   linkType: hard
 
@@ -1852,7 +1852,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "ias_wiki@workspace:."
   dependencies:
-    "@edunad/lua-wiki-generator": 0.0.10
+    "@edunad/lua-wiki-generator": 0.0.11
   languageName: unknown
   linkType: soft
 
