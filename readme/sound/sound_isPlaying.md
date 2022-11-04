@@ -1,6 +1,6 @@
 # [Sound](../sound/README.md):isPlaying
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Sound](../sound/README.md):isPlaying
 
 ```lua
 boolean Sound:isPlaying()

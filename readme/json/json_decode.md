@@ -1,6 +1,6 @@
 # [json](../json/README.md):decode
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [json](../json/README.md):decode
 
 ```lua
 table json:decode(data)

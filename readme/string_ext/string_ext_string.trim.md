@@ -1,6 +1,6 @@
 # string.trim
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> string.trim
 
 ```lua
 string string.trim(str)

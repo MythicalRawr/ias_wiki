@@ -1,6 +1,6 @@
 # [net](../net/README.md):remove
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [net](../net/README.md):remove
 
 ```lua
 void net:remove(netId, hookName)

@@ -1,6 +1,6 @@
 # [Color](../color/README.md):dot
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Color](../color/README.md):dot
 
 ```lua
 number Color:dot()

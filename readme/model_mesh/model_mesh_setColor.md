@@ -1,6 +1,6 @@
 # [ModelMesh](../modelmesh/README.md):setColor
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ModelMesh](../modelmesh/README.md):setColor
 
 ```lua
 void ModelMesh:setColor(color)

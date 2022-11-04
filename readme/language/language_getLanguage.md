@@ -1,6 +1,6 @@
 # [language](../language/README.md):getLanguage
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [language](../language/README.md):getLanguage
 
 ```lua
 string language:getLanguage()

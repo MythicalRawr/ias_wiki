@@ -1,6 +1,6 @@
 # [Vector](../vector/README.md):cosSin
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):cosSin
 
 ```lua
 Vector Vector:cosSin(ang)

@@ -1,6 +1,6 @@
 # [Player](../player/README.md):isGrabbing
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):isGrabbing
 
 ```lua
 boolean Player:isGrabbing()

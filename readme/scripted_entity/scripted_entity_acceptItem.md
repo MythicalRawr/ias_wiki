@@ -1,6 +1,6 @@
 # [ENT](../ent/README.md):acceptItem
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):acceptItem
 
 {% hint style="info" %} If method not defined, by default it accepts all items. {% endhint %}
 

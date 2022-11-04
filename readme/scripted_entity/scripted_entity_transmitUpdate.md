@@ -1,6 +1,6 @@
 # [ENT](../ent/README.md):transmitUpdate
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):transmitUpdate
 
 ```lua
 void ENT:transmitUpdate()

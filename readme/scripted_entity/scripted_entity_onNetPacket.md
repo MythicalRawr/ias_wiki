@@ -1,6 +1,6 @@
 # [ENT](../ent/README.md):onNetPacket
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [ENT](../ent/README.md):onNetPacket
 
 ```lua
 void ENT:onNetPacket(id, packet, ply)

@@ -1,6 +1,6 @@
 # [Player](../player/README.md):moveItem
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Player](../player/README.md):moveItem
 
 {% hint style="info" %} The moving player must be marked as a viewer on server and be within range of both inventories! {% endhint %}
 

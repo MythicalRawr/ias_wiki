@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):sendPacket
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):sendPacket
 
 ```lua
 void Entity:sendPacket(id, ply, packet, reliable)

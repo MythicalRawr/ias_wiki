@@ -1,6 +1,6 @@
 # [camera](../camera/README.md):isValid
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [camera](../camera/README.md):isValid
 
 ```lua
 boolean camera:isValid()

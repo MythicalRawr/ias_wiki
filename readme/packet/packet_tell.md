@@ -1,6 +1,6 @@
 # [Packet](../packet/README.md):tell
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Packet](../packet/README.md):tell
 
 ```lua
 number Packet:tell()

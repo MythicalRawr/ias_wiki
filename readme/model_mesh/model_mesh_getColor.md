@@ -1,6 +1,6 @@
 # [ModelMesh](../modelmesh/README.md):getColor
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ModelMesh](../modelmesh/README.md):getColor
 
 ```lua
 Color ModelMesh:getColor()

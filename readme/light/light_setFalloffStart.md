@@ -1,6 +1,6 @@
 # [light](../light/README.md):setFalloffStart
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):setFalloffStart
 
 ```lua
 void light:setFalloffStart(val)

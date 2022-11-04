@@ -1,6 +1,6 @@
 # [MOD](../mod/README.md):onStateEnter
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [MOD](../mod/README.md):onStateEnter
 
 ```lua
 void MOD:onStateEnter(state)

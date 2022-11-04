@@ -1,6 +1,6 @@
 # [resources](../resources/README.md):getContent
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [resources](../resources/README.md):getContent
 
 ```lua
 void resources:getContent(path)

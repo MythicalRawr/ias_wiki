@@ -1,6 +1,6 @@
 # [Tile](../tile/README.md):getIO
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getIO
 
 ```lua
 WireIO Tile:getIO()

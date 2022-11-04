@@ -1,6 +1,6 @@
 # [ITEM](../item/README.md):onSlotChanged
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):onSlotChanged
 
 ```lua
 void ITEM:onSlotChanged(slot)

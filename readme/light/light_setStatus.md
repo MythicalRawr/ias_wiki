@@ -1,6 +1,6 @@
 # [light](../light/README.md):setStatus
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):setStatus
 
 ```lua
 void light:setStatus(on)

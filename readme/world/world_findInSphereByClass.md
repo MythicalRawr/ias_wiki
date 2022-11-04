@@ -1,6 +1,6 @@
 # [world](../world/README.md):findInSphereByClass
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findInSphereByClass
 
 ```lua
 ENT[] world:findInSphereByClass(class, pos, distance)

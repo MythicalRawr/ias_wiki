@@ -1,6 +1,6 @@
 # [console](../console/README.md):register
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [console](../console/README.md):register
 
 ```lua
 void console:register(command, callback, description, flags)

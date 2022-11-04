@@ -1,6 +1,6 @@
 # [hooks](../hooks/README.md):call
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [hooks](../hooks/README.md):call
 
 ```lua
 void hooks:call(hookId, data)

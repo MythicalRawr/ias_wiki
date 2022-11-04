@@ -1,6 +1,6 @@
 # [ITEM](../item/README.md):getOwner
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ITEM](../item/README.md):getOwner
 
 ```lua
 Entity ITEM:getOwner()

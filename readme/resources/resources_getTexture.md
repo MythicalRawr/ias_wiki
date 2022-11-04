@@ -1,6 +1,6 @@
 # [resources](../resources/README.md):getTexture
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getTexture
 
 ```lua
 Texture resources:getTexture(path)

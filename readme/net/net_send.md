@@ -1,6 +1,6 @@
 # [net](../net/README.md):send
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [net](../net/README.md):send
 
 ```lua
 void net:send(netId, msg, ply, reliable)

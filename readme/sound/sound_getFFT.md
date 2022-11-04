@@ -1,6 +1,6 @@
 # [Sound](../sound/README.md):getFFT
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Sound](../sound/README.md):getFFT
 
 {% hint style="warning" %} Supported FFT Sizes: 256, 512, 1024, 2048 {% endhint %}
 

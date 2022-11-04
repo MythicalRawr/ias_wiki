@@ -1,6 +1,6 @@
 # [GasNetwork](../gasnetwork/README.md):ID
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [GasNetwork](../gasnetwork/README.md):ID
 
 ```lua
 number GasNetwork:ID()

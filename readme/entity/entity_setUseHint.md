@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):setUseHint
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):setUseHint
 
 ```lua
 void Entity:setUseHint(hint, texture)

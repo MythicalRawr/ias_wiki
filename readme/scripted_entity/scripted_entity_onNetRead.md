@@ -1,6 +1,6 @@
 # [ENT](../ent/README.md):onNetRead
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):onNetRead
 
 ```lua
 void ENT:onNetRead(packet)

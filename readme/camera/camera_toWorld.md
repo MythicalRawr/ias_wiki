@@ -1,6 +1,6 @@
 # [camera](../camera/README.md):toWorld
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [camera](../camera/README.md):toWorld
 
 ```lua
 Vector3 camera:toWorld(pos)

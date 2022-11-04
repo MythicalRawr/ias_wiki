@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):addItem
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):addItem
 
 ```lua
 boolean Entity:addItem(id, amount, slot, metadata)

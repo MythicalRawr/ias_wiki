@@ -1,6 +1,6 @@
 # table.count
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> table.count
 
 ```lua
 number table.count(tbl)

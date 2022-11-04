@@ -1,6 +1,6 @@
 # [PathFinder](../pathfinder/README.md):calculate
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [PathFinder](../pathfinder/README.md):calculate
 
 ```lua
 table PathFinder:calculate(from, to)

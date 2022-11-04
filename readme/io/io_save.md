@@ -1,6 +1,6 @@
 # [io](../io/README.md):save
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [io](../io/README.md):save
 
 ```lua
 string io:save(path, data)

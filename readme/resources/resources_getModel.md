@@ -1,6 +1,6 @@
 # [resources](../resources/README.md):getModel
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [resources](../resources/README.md):getModel
 
 ```lua
 Model resources:getModel(path)

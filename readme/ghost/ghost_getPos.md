@@ -1,6 +1,6 @@
 # [Ghost](../ghost/README.md):getPos
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Ghost](../ghost/README.md):getPos
 
 ```lua
 Vector3 Ghost:getPos()

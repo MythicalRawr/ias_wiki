@@ -1,6 +1,6 @@
 # [Tile](../tile/README.md):getPressure
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getPressure
 
 ```lua
 number Tile:getPressure()

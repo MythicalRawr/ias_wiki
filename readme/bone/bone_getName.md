@@ -1,6 +1,6 @@
 # [Bone](../bone/README.md):getName
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Bone](../bone/README.md):getName
 
 ```lua
 string Bone:getName()

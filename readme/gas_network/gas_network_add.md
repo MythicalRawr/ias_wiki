@@ -1,6 +1,6 @@
 # [GasNetwork](../gasnetwork/README.md):add
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [GasNetwork](../gasnetwork/README.md):add
 
 ```lua
 void GasNetwork:add(gasType, amount)

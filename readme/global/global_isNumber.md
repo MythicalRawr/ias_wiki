@@ -1,6 +1,6 @@
 # isNumber
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> isNumber
 
 ```lua
 boolean isNumber(el)

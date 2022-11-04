@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):getBone
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):getBone
 
 ```lua
 Bone Entity:getBone(name)

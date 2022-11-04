@@ -1,6 +1,6 @@
 # [Tile](../tile/README.md):getGasses
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getGasses
 
 ```lua
 table Tile:getGasses()

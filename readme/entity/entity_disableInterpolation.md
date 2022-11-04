@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):disableInterpolation
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Entity](../entity/README.md):disableInterpolation
 
 ```lua
 void Entity:disableInterpolation(disable)

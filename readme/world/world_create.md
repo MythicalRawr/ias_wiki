@@ -1,6 +1,6 @@
 # [world](../world/README.md):create
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):create
 
 ```lua
 ENT world:create(class, parent)

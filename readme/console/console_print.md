@@ -1,6 +1,6 @@
 # [console](../console/README.md):print
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [console](../console/README.md):print
 
 ```lua
 void console:print(text, type)

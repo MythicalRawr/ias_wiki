@@ -1,6 +1,6 @@
 # [Player](../player/README.md):isFrozen
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Player](../player/README.md):isFrozen
 
 ```lua
 boolean Player:isFrozen()

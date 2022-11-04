@@ -1,6 +1,6 @@
 # ~~[fmt](../fmt/README.md):format~~
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> ~~[fmt](../fmt/README.md):format~~
 
 > ⚠ Deprecated: Use string.format instead
 

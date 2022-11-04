@@ -1,6 +1,6 @@
 # [world](../world/README.md):broadcast3DChat
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):broadcast3DChat
 
 ```lua
 void world:broadcast3DChat(pos, speaker, msg, color, groupid, distance)

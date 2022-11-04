@@ -1,6 +1,6 @@
 # [Ghost](../ghost/README.md):draw
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Ghost](../ghost/README.md):draw
 
 {% hint style="warning" %} Should be called in ENT:Draw or ITEM:Draw {% endhint %}
 

@@ -1,6 +1,6 @@
 # [Bone](../bone/README.md):getRotation
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Bone](../bone/README.md):getRotation
 
 ```lua
 Vector3 Bone:getRotation()

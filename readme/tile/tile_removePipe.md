@@ -1,6 +1,6 @@
 # [Tile](../tile/README.md):removePipe
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):removePipe
 
 ```lua
 void Tile:removePipe(networkId)

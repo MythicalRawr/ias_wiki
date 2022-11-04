@@ -1,6 +1,6 @@
 # [language](../language/README.md):get
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [language](../language/README.md):get
 
 ```lua
 string language:get(modID, key, ...)

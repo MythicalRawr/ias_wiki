@@ -1,6 +1,6 @@
 # math.isFinite
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> math.isFinite
 
 ```lua
 boolean math.isFinite(val)

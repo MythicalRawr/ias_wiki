@@ -1,6 +1,6 @@
 # [Vector3](../vector3/README.md):new
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector3](../vector3/README.md):new
 
 ```lua
 Vector3 Vector3:new(x, y, z)

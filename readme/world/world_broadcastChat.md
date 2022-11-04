@@ -1,6 +1,6 @@
 # [world](../world/README.md):broadcastChat
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [world](../world/README.md):broadcastChat
 
 ```lua
 void world:broadcastChat(pos, speaker, msg, distance, color)

@@ -1,6 +1,6 @@
 # [http](../http/README.md):fetch
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [http](../http/README.md):fetch
 
 {% hint style="info" %} Available methods: DELETE, POST, GET, PUT, HEAD, OPTIONS, PATCH {% endhint %}
 

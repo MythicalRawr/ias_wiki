@@ -1,6 +1,6 @@
 # [Room](../room/README.md):addGas
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Room](../room/README.md):addGas
 
 ```lua
 void Room:addGas(gasType, amount)

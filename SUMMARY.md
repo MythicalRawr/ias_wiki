@@ -38,6 +38,8 @@
     * [worldDebug:box](./readme/debug/debug_box.md)
     * [worldDebug:line](./readme/debug/debug_line.md)
     * [worldDebug:text](./readme/debug/debug_text.md)
+  * [door](./readme/door/README.md)
+    * [Door:isOpen](./readme/door/door_isOpen.md)
   * [entity](./readme/entity/README.md)
     * [Entity:ID](./readme/entity/entity_ID.md)
     * [Entity:addItem](./readme/entity/entity_addItem.md)

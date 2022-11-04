@@ -1,6 +1,6 @@
 # [ITEM](../item/README.md):sendMessage
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ITEM](../item/README.md):sendMessage
 
 ```lua
 void ITEM:sendMessage(slot, packet)

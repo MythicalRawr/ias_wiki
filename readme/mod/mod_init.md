@@ -1,6 +1,6 @@
 # [MOD](../mod/README.md):init
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [MOD](../mod/README.md):init
 
 ```lua
 void MOD:init()

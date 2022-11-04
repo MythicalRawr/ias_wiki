@@ -1,6 +1,6 @@
 # [light](../light/README.md):setColor
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [light](../light/README.md):setColor
 
 ```lua
 void light:setColor(color)

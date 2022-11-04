@@ -1,6 +1,6 @@
 # [world](../world/README.md):clearGroupID
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [world](../world/README.md):clearGroupID
 
 ```lua
 void world:clearGroupID(groupid)

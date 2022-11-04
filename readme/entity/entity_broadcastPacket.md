@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):broadcastPacket
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):broadcastPacket
 
 ```lua
 void Entity:broadcastPacket(id, packet, reliable)

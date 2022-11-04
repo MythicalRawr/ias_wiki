@@ -1,6 +1,6 @@
 # [AABB](../aabb/README.md):bottom
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [AABB](../aabb/README.md):bottom
 
 ```lua
 number AABB:bottom()

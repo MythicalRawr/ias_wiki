@@ -1,6 +1,6 @@
 # [timer](../timer/README.md):create
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [timer](../timer/README.md):create
 
 ```lua
 timerObj timer:create(id, interval, ticks, callback)

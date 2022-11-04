@@ -1,6 +1,6 @@
 # [worldDebug](../worlddebug/README.md):line
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [worldDebug](../worlddebug/README.md):line
 
 ```lua
 void worldDebug:line(startPos, endPos, ttl, color)

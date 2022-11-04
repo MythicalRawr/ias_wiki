@@ -1,6 +1,6 @@
 # [resources](../resources/README.md):getHTTPSound
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getHTTPSound
 
 {% hint style="warning" %} If blocking is set, the sound will be destroyed after playing. {% endhint %}
 {% hint style="error" %} Loop will not working if blocking is set {% endhint %}

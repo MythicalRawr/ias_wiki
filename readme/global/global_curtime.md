@@ -1,6 +1,6 @@
 # curtime
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> curtime
 
 ```lua
 number curtime()

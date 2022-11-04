@@ -1,6 +1,6 @@
 # [Model](../model/README.md):addMesh
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Model](../model/README.md):addMesh
 
 ```lua
 void Model:addMesh(mesh)

@@ -1,6 +1,6 @@
 # [resources](../resources/README.md):getSound
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [resources](../resources/README.md):getSound
 
 ```lua
 Sound resources:getSound(path, loadFlags)

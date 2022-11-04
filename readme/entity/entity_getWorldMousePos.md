@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):getWorldMousePos
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Entity](../entity/README.md):getWorldMousePos
 
 ```lua
 Vector Entity:getWorldMousePos()

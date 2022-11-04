@@ -1,6 +1,6 @@
 # [WorkshopMOD](../workshopmod/README.md):getENV
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [WorkshopMOD](../workshopmod/README.md):getENV
 
 {% hint style="warning" %} YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!! {% endhint %}
 

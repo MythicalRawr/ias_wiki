@@ -1,6 +1,6 @@
 # [Entity](../entity/README.md):setMeshTrigger
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Entity](../entity/README.md):setMeshTrigger
 
 ```lua
 void Entity:setMeshTrigger(name, trigger)

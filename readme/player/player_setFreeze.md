@@ -1,6 +1,6 @@
 # [Player](../player/README.md):setFreeze
 
-### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Player](../player/README.md):setFreeze
 
 ```lua
 void Player:setFreeze(flags, set)

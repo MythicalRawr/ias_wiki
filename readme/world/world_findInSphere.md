@@ -1,6 +1,6 @@
 # [world](../world/README.md):findInSphere
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findInSphere
 
 ```lua
 ENT[] world:findInSphere(pos, distance)

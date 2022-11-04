@@ -1,6 +1,6 @@
 # [Texture](../texture/README.md):isValid
 
-### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [Texture](../texture/README.md):isValid
 
 ```lua
 boolean Texture:isValid()

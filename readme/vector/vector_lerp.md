@@ -1,6 +1,6 @@
 # [Vector](../vector/README.md):lerp
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Vector](../vector/README.md):lerp
 
 ```lua
 Vector Vector:lerp(other, t)

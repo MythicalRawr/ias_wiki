@@ -1,6 +1,6 @@
 # [ENT](../ent/README.md):update
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> $TITLE_NAME$
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [ENT](../ent/README.md):update
 
 ```lua
 void ENT:update(delta)
