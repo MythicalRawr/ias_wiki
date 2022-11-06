@@ -19,6 +19,32 @@ _G.SERVER = false
 _G.CLIENT = false
 
 ---
+---@return number
+---* Returns how much meters a tile is
+---
+_G.TILE_METERS = nil
+---
+---@return number
+---* Returns the max player clicking distance (in meters)
+---
+_G.PLAYER_MAX_CLICKING_DISTANCE = nil
+---
+---@return number
+---* Returns the PHYSICS simulation vel steps
+---
+_G.PHYS_VEL_STEPS = nil
+---
+---@return number
+---* Returns the PHYSICS simulation pos steps
+---
+_G.PHYS_POS_STEPS = nil
+---
+---@return number
+---* Returns the number of psi in one atmosphere
+---
+_G.ATMOS_ATMOSPHERE = nil
+
+---
 ---@env CLIENT
 ---@return Player
 ---* Returns the local player if exists
@@ -63,6 +89,14 @@ isNumber = function(el) end
 ---* Returns true if its a table
 ---
 isTable = function(el) end
+
+---
+---@env SHARED
+---@param el any
+---@return boolean
+---* Returns true if its a string
+---
+isString = function(el) end
 
 ---
 ---@env SHARED
