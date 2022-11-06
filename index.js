@@ -2,10 +2,12 @@ const fs = require('fs');
 const { WikiExtract } = require('@edunad/lua-wiki-generator');
 
 const init = () => {
+    const summaryTemplate = fs.readFileSync('./md-templates/SUMMARY_TEMPLATE.md', 'utf8');
+
     const methodTemplate = fs.readFileSync('./md-templates/METHOD_TEMPLATE.md', 'utf8');
     const classTemplate = fs.readFileSync('./md-templates/CLASS_TEMPLATE.md', 'utf8');
     const extensionTemplate = fs.readFileSync('./md-templates/EXTENSION_TEMPLATE.md', 'utf8');
-    const summaryTemplate = fs.readFileSync('./md-templates/SUMMARY_TEMPLATE.md', 'utf8');
+    const gvarTemplate = fs.readFileSync('./md-templates/GVAR_TEMPLATE.md', 'utf8');
 
     new WikiExtract('./ias-lib/**/*.lua', './readme', {
         templates: {
@@ -13,6 +15,7 @@ const init = () => {
             method: methodTemplate,
             class: classTemplate,
             extension: extensionTemplate,
+            gvar: gvarTemplate,
         },
         mdLinkParser: (type, outputFolder, data) => {
             if (type === '$TITLE_NAME$') {
