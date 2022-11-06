@@ -128,7 +128,7 @@ function Entity:getItemCountById(id) end
 ---
 ---@env SHARED
 ---@return number
----* Returns the an available slot index
+---* Returns the first available slot index
 ---
 function Entity:getAvailableSlot() end
 
