@@ -4,6 +4,10 @@
 ---@class Vector
 ---@field x number
 ---@field y number
+---@operator add(Vector): Vector
+---@operator sub(Vector): Vector
+---@operator mul(Vector): Vector
+---@operator div(Vector): Vector
 ---* Vector's entry class
 ---
 Vector = {
