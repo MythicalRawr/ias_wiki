@@ -8,6 +8,13 @@ ITEM = {}
 
 ---
 ---@env CLIENT
+---@return number
+---* Returns the amount of items in the stack
+---
+function ITEM:count() end
+
+---
+---@env CLIENT
 ---@param path string
 ---* Update the item icon
 ---
