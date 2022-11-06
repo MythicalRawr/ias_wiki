@@ -13,8 +13,8 @@ Finds entities in the world in a sphere radius<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | pos | No description |  |
-| number | distance | No description |  |
+| [Vector](../vector/README.md) | pos | No description |   |
+| number | distance | No description |   |
 
 -----------------
 ## Returns

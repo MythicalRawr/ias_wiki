@@ -13,7 +13,7 @@ Returns true if the tile has the requested wire type<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](../wire/README.md) | type | No description |  |
+| [WIRE](../wire/README.md) | type | No description |   |
 
 -----------------
 ## Returns

@@ -13,4 +13,4 @@ Damages the entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | damage | No description |  |
+| number | damage | No description |   |

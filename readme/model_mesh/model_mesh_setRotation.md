@@ -13,4 +13,4 @@ Sets the mesh rotation in degrees<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](../vector3/README.md) | rot | No description |  |
+| [Vector3](../vector3/README.md) | rot | No description |   |

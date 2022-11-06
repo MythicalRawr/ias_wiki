@@ -13,5 +13,5 @@ Prints the text on the console<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | text | No description |  |
+| string | text | No description |   |
 | [CONSOLE.LOG](../console.log/README.md) | type | Default: CONSOLE.LOG.DEBUG | ✔ |

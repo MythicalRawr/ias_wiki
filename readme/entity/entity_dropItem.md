@@ -13,8 +13,8 @@ Drops the given item slot on the given pos<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
-| [Vector](../vector/README.md) | pos | No description |  |
+| number | slot | No description |   |
+| [Vector](../vector/README.md) | pos | No description |   |
 
 -----------------
 ## Returns

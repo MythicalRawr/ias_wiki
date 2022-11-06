@@ -8,5 +8,5 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| table | FLAGS |  |
-| table | LOG |  |
+| table | FLAGS |   |
+| table | LOG |   |

@@ -13,4 +13,4 @@ Writes a float in the net packet.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | data | No description |  |
+| number | data | No description |   |

@@ -13,7 +13,7 @@ Called to see if the entity has any power available<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
+| number | id | No description |   |
 
 -----------------
 ## Returns

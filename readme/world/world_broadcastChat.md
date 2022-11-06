@@ -13,8 +13,8 @@ Creates a chat on the given position to all players<br>Distance controls how rea
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | pos | No description |  |
-| string | speaker | No description |  |
-| string | msg | No description |  |
+| [Vector](../vector/README.md) | pos | No description |   |
+| string | speaker | No description |   |
+| string | msg | No description |   |
 | number | distance | Default: -1 (global) | ✔ |
 | [Color](../color/README.md) | color | Default: white | ✔ |

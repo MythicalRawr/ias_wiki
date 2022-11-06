@@ -13,4 +13,4 @@ Marks the given folder for pre-loading<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | folder | No description |  |
+| string | folder | No description |   |

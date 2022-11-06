@@ -13,7 +13,7 @@ Returns true if the item can be combined<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](../item/README.md) | other | No description |  |
+| [ITEM](../item/README.md) | other | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Returns true if a timer with the given id exists<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 
 -----------------
 ## Returns

@@ -13,5 +13,5 @@ Sets the entity physics mesh id as a trigger<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | name | No description |  |
-| boolean | trigger | No description |  |
+| string | name | No description |   |
+| boolean | trigger | No description |   |

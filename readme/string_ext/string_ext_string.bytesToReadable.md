@@ -13,7 +13,7 @@ Converts bytes to a readable string (aka 1GB.. 1TB.. etc)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | bytes | No description |  |
+| number | bytes | No description |   |
 
 -----------------
 ## Returns

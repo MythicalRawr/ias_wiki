@@ -13,5 +13,5 @@ Sets the cursor hint & texture when the user hovers the ent<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | hint | No description |  |
-| [Texture](../texture/README.md) | texture | No description |  |
+| string | hint | No description |   |
+| [Texture](../texture/README.md) | texture | No description |   |

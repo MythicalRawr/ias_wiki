@@ -8,5 +8,5 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | POWER |  |
-|  | IO |  |
+|  | POWER |   |
+|  | IO |   |

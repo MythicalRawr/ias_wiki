@@ -13,9 +13,9 @@ Clamps a number<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | val | No description |  |
-| number | min | No description |  |
-| number | max | No description |  |
+| number | val | No description |   |
+| number | min | No description |   |
+| number | max | No description |   |
 
 -----------------
 ## Returns

@@ -13,8 +13,8 @@ Returns the lerped vector<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | other | No description |  |
-| number | t | No description |  |
+| [Vector](../vector/README.md) | other | No description |   |
+| number | t | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Returns the table keys<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| table | tbl | No description |  |
+| table | tbl | No description |   |
 
 -----------------
 ## Returns

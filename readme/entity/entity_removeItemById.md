@@ -13,8 +13,8 @@ Removes the given amount by item id<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
-| number | amount | No description |  |
+| string | id | No description |   |
+| number | amount | No description |   |
 
 -----------------
 ## Returns

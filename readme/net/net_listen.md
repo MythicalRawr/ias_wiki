@@ -13,6 +13,6 @@ Creates a listener for a specific netId. Make sure your hookName is unique, it m
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | netId | No description |  |
-| string | hookName | No description |  |
-| function | callback | fun(data: any) |  |
+| string | netId | No description |   |
+| string | hookName | No description |   |
+| function | callback | fun(data: any) |   |

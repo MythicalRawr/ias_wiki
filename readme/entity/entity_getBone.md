@@ -13,7 +13,7 @@ Returns a bone object that refers to an entity bone with the provided name<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | name | No description |  |
+| string | name | No description |   |
 
 -----------------
 ## Returns

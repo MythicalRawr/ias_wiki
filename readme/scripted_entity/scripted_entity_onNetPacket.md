@@ -13,6 +13,6 @@ Called when the server recieves a net packet from the player (client)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
-| [Packet](../packet/README.md) | packet | No description |  |
-| [Player](../player/README.md) | ply | No description |  |
+| string | id | No description |   |
+| [Packet](../packet/README.md) | packet | No description |   |
+| [Player](../player/README.md) | ply | No description |   |

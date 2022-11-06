@@ -13,7 +13,7 @@ Returns the model mesh if found<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | name | No description |  |
+| string | name | No description |   |
 
 -----------------
 ## Returns

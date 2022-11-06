@@ -13,7 +13,7 @@ Returns the clamped vector<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | ang | No description |  |
+| number | ang | No description |   |
 
 -----------------
 ## Returns

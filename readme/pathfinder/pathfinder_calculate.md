@@ -13,8 +13,8 @@ Returns a table<Vector> that contains a list of tiles to move to in order. If re
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | from | No description |  |
-| [Vector](../vector/README.md) | to | No description |  |
+| [Vector](../vector/README.md) | from | No description |   |
+| [Vector](../vector/README.md) | to | No description |   |
 
 -----------------
 ## Returns

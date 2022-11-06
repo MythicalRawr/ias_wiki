@@ -16,10 +16,10 @@ Locally moves an item from an inventory to another inventory and sends a validat
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ENT](../ent/README.md) | oldStorage | No description |  |
-| [ENT](../ent/README.md) | newStorage | No description |  |
-| number | oldSlot | No description |  |
-| number | newSlot | No description |  |
+| [ENT](../ent/README.md) | oldStorage | No description |   |
+| [ENT](../ent/README.md) | newStorage | No description |   |
+| number | oldSlot | No description |   |
+| number | newSlot | No description |   |
 
 -----------------
 ## Returns

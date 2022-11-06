@@ -13,4 +13,4 @@ Global event called every tick update<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | delta | No description |  |
+| number | delta | No description |   |

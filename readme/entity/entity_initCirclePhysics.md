@@ -13,6 +13,6 @@ Sets the entity physics with the given radius<br>If block is set, the VIS will b
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | radius | No description |  |
+| number | radius | No description |   |
 | [PHYSICS](../physics/README.md) | phys | Defaults: PHYSICS.DYNAMIC | ✔ |
 | boolean | block | Defaults: false | ✔ |

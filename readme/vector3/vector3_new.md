@@ -13,9 +13,9 @@ Vector3 constructor<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | x | No description |  |
-| number | y | No description |  |
-| number | z | No description |  |
+| number | x | No description |   |
+| number | y | No description |   |
+| number | z | No description |   |
 
 -----------------
 ## Returns

@@ -13,9 +13,9 @@ Moves an item to a different inventory<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](../entity/README.md) | to | No description |  |
-| number | slot | No description |  |
-| number | newSlot | No description |  |
+| [Entity](../entity/README.md) | to | No description |   |
+| number | slot | No description |   |
+| number | newSlot | No description |   |
 
 -----------------
 ## Returns

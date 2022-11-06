@@ -13,9 +13,9 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | class | No description |  |
-| [Vector](../vector/README.md) | pos | No description |  |
-| number | distance | No description |  |
+| string | class | No description |   |
+| [Vector](../vector/README.md) | pos | No description |   |
+| number | distance | No description |   |
 
 -----------------
 ## Returns

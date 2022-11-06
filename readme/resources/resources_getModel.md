@@ -13,7 +13,7 @@ Returns a Model object if loaded successfully, you should use addModel on Mod:on
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |
 
 -----------------
 ## Returns

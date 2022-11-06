@@ -8,7 +8,7 @@ Color's entry class<br>
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| number | r |  |
-| number | g |  |
-| number | b |  |
-| number | a |  |
+| number | r |   |
+| number | g |   |
+| number | b |   |
+| number | a |   |

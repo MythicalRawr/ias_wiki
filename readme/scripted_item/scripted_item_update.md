@@ -13,4 +13,4 @@ Called every update tick<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | delta | No description |  |
+| number | delta | No description |   |

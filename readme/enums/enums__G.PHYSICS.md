@@ -8,7 +8,7 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | STATIC |  |
-|  | DYNAMIC |  |
-|  | TRIGGER |  |
-|  | KINEMATIC |  |
+|  | STATIC |   |
+|  | DYNAMIC |   |
+|  | TRIGGER |   |
+|  | KINEMATIC |   |

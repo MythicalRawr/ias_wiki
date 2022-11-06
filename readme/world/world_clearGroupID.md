@@ -13,4 +13,4 @@ Clears all the messaged with that group ID (3d only)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | groupid | No description |  |
+| number | groupid | No description |   |

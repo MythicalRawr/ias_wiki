@@ -8,6 +8,6 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | CHEATS |  |
-|  | ADMIN |  |
-|  | DEVELOPER |  |
+|  | CHEATS |   |
+|  | ADMIN |   |
+|  | DEVELOPER |   |

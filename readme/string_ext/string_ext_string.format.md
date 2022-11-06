@@ -13,8 +13,8 @@ Formats the given string with the given params<br>Ex: string.format("hello {}, a
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | str | No description |  |
-| any | ... | No description |  |
+| string | str | No description |   |
+| any | ... | No description |   |
 
 -----------------
 ## Returns

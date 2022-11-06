@@ -13,7 +13,7 @@ Returns true if the entity can see the given id<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
+| number | id | No description |   |
 
 -----------------
 ## Returns

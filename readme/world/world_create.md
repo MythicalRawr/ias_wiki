@@ -13,7 +13,7 @@ Creates and spawns a new entity on the world<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | class | No description |  |
+| string | class | No description |   |
 | [ENT](../ent/README.md) | parent | Default: nil | ✔ |
 
 -----------------

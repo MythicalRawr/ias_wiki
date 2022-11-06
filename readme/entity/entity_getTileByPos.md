@@ -13,7 +13,7 @@ Returns the tile on the given position under the ent (needs to be a buildable ty
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | pos | No description |  |
+| [Vector](../vector/README.md) | pos | No description |   |
 
 -----------------
 ## Returns

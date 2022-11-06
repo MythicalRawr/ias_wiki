@@ -13,7 +13,7 @@ Returns the rounded number<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | val | No description |  |
+| number | val | No description |   |
 
 -----------------
 ## Returns

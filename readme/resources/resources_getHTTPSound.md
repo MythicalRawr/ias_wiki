@@ -17,7 +17,7 @@ Returns a Sound object if loaded successfully.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | url | No description |  |
+| string | url | No description |   |
 | [LOAD.SOUND_FLAGS](../load.sound_flags/README.md) | loadFlags | No description | ✔ |
 
 -----------------

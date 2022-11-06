@@ -16,7 +16,7 @@ Returns the sound FFT table<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | fft_size | The FFT size |  |
+| number | fft_size | The FFT size |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Uses the given ammount of power (ent needs to be marked with setUsesPower) and r
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | power | No description |  |
+| number | power | No description |   |
 
 -----------------
 ## Returns

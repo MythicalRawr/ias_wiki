@@ -13,4 +13,4 @@ Triggers when a music ends<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| function | callback | fun(): void |  |
+| function | callback | fun(): void |   |

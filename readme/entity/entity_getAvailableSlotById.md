@@ -13,7 +13,7 @@ Returns the available slot index by id<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 | number | amount | Defaults: 1 | ✔ |
 
 -----------------

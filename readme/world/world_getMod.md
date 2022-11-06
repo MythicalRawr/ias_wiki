@@ -16,7 +16,7 @@ Returns the mod with the given id, if found<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 
 -----------------
 ## Returns

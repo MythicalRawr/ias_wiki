@@ -13,5 +13,5 @@ Called when power is drained<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
-| number | amount | No description |  |
+| number | id | No description |   |
+| number | amount | No description |   |

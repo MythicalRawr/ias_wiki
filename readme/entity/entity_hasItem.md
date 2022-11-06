@@ -13,7 +13,7 @@ Returns true if the storage has an item on the given slot<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
+| number | slot | No description |   |
 
 -----------------
 ## Returns

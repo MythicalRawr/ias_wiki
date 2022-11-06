@@ -13,6 +13,6 @@ Creates a client side chat text<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | speaker | No description |  |
-| string | msg | No description |  |
+| string | speaker | No description |   |
+| string | msg | No description |   |
 | [Color](../color/README.md) | color | Default: white | ✔ |

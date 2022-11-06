@@ -13,7 +13,7 @@ Returns a timerObj with the given id, make sure you validate with timer:exists f
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 
 -----------------
 ## Returns

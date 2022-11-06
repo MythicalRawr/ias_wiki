@@ -13,4 +13,4 @@ Marks the ent as a storage with the given max slots.<br>⚠️Needs to be replic
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slots | No description |  |
+| number | slots | No description |   |

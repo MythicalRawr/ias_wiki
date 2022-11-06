@@ -13,5 +13,5 @@ Marks the given file for pre-loading<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |
 | any | loadFlags | No description | ✔ |

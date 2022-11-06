@@ -13,4 +13,4 @@ Marks the entity to use tile<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| boolean | set | No description |  |
+| boolean | set | No description |   |

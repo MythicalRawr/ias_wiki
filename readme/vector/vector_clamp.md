@@ -13,8 +13,8 @@ Returns the clamped vector<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | min | No description |  |
-| [Vector](../vector/README.md) | max | No description |  |
+| [Vector](../vector/README.md) | min | No description |   |
+| [Vector](../vector/README.md) | max | No description |   |
 
 -----------------
 ## Returns

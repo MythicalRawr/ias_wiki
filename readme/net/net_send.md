@@ -13,7 +13,7 @@ Sends a Packet to a specific Player.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | netId | No description |  |
-| [Packet](../packet/README.md) | msg | No description |  |
-| [Player](../player/README.md) | ply | No description |  |
+| string | netId | No description |   |
+| [Packet](../packet/README.md) | msg | No description |   |
+| [Player](../player/README.md) | ply | No description |   |
 | boolean | reliable | Default: true | ✔ |

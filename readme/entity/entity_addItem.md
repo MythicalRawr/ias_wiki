@@ -13,7 +13,7 @@ Adds the given item id to the ent storage (ent needs to be marked with setStorag
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 | number | amount | Defaults: 1 | ✔ |
 | number | slot | Defaults: -1 | ✔ |
 | table | metadata | Defaults: nil | ✔ |

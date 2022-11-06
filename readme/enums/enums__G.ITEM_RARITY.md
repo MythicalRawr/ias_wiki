@@ -8,7 +8,7 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | COMMON |  |
-|  | RARE |  |
-|  | EPIC |  |
-|  | LEGENDARY |  |
+|  | COMMON |   |
+|  | RARE |   |
+|  | EPIC |   |
+|  | LEGENDARY |   |

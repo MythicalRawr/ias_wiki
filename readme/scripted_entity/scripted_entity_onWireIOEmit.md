@@ -13,5 +13,5 @@ Triggered when the wire emits a signal<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
-| boolean | hasSignal | No description |  |
+| string | id | No description |   |
+| boolean | hasSignal | No description |   |

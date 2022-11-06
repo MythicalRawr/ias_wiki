@@ -15,8 +15,8 @@ Old lua string.format<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | str | No description |  |
-| any | ... | No description |  |
+| string | str | No description |   |
+| any | ... | No description |   |
 
 -----------------
 ## Returns

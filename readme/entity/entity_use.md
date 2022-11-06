@@ -13,4 +13,4 @@ Programmatically "uses" the given ent (if marked as a use viewer)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](../entity/README.md) | ent | No description |  |
+| [Entity](../entity/README.md) | ent | No description |   |

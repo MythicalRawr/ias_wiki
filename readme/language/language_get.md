@@ -13,8 +13,8 @@ Returns the i18n string (values are optional)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | modID | No description |  |
-| string | key | No description |  |
+| string | modID | No description |   |
+| string | key | No description |   |
 | any | ... | No description | ✔ |
 
 -----------------

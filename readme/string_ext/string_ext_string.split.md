@@ -13,9 +13,9 @@ Splits the string with the given seperator<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | str | No description |  |
-| string | sep | No description |  |
-| number | max | No description |  |
+| string | str | No description |   |
+| string | sep | No description |   |
+| number | max | No description |   |
 
 -----------------
 ## Returns

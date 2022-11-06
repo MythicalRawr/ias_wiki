@@ -13,7 +13,7 @@ Returns true if the number is NaN (not a number)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | val | No description |  |
+| number | val | No description |   |
 
 -----------------
 ## Returns

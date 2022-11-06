@@ -16,8 +16,8 @@ Creates a light at the given location (client side only)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | pos | No description |  |
-| [Color](../color/README.md) | color | No description |  |
+| [Vector](../vector/README.md) | pos | No description |   |
+| [Color](../color/README.md) | color | No description |   |
 | number | fallStart | No description | ✔ |
 | number | fallEnd | No description | ✔ |
 | number | lumi | No description | ✔ |

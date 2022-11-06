@@ -13,7 +13,7 @@ Returns true if the storage has the given id<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Returns the total amount of items on the table<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| table | tbl | No description |  |
+| table | tbl | No description |   |
 
 -----------------
 ## Returns

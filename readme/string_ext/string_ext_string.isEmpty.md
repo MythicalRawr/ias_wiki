@@ -13,7 +13,7 @@ Returns true if the string is empty<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | str | No description |  |
+| string | str | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Creates a new ui base element.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | uiType | frame, group, button, progress_bar, input, inventory_slot, label, image, keypad, item_list |  |
+| string | uiType | frame, group, button, progress_bar, input, inventory_slot, label, image, keypad, item_list |   |
 | [UIBase](../uibase/README.md) | parent | No description | ✔ |
 
 -----------------

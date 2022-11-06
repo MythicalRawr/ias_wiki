@@ -13,4 +13,4 @@ Update the item icon<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |

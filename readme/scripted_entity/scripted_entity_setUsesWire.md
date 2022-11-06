@@ -13,4 +13,4 @@ Marks the entity to use wire io<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| boolean | set | No description |  |
+| boolean | set | No description |   |

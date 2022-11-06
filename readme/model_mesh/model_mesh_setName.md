@@ -13,4 +13,4 @@ Sets the mesh name<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | name | No description |  |
+| string | name | No description |   |

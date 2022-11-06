@@ -13,7 +13,7 @@ Finds entities in the world by class type (EX: entity_ship)<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | class | No description |  |
+| string | class | No description |   |
 
 -----------------
 ## Returns

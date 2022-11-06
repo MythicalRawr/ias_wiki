@@ -13,4 +13,4 @@ Triggered a use viewer player is added<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](../player/README.md) | player | No description |  |
+| [Player](../player/README.md) | player | No description |   |

@@ -13,7 +13,7 @@ Returns the item by index<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | index | No description |  |
+| number | index | No description |   |
 
 -----------------
 ## Returns

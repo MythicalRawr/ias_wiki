@@ -13,8 +13,8 @@ Vector constructor<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | x | No description |  |
-| number | y | No description |  |
+| number | x | No description |   |
+| number | y | No description |   |
 
 -----------------
 ## Returns

@@ -13,8 +13,8 @@ Returns true if you can add an item on the given slot with the given amount<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
-| number | count | No description |  |
+| number | slot | No description |   |
+| number | count | No description |   |
 
 -----------------
 ## Returns

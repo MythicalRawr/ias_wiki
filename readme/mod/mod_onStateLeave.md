@@ -13,4 +13,4 @@ Global event called by the game before the state is changed<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | state | The state opened (ie 'ingame', 'mainmenu', etc) |  |
+| string | state | The state opened (ie 'ingame', 'mainmenu', etc) |   |

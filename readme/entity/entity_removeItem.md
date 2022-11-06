@@ -13,7 +13,7 @@ Removes the given amount (if not set, the whole item) on the given slot<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
+| number | slot | No description |   |
 | number | amount | Removes the whole item if not set | ✔ |
 
 -----------------

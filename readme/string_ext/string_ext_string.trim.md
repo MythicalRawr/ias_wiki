@@ -13,7 +13,7 @@ Removes string white spaces<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | str | No description |  |
+| string | str | No description |   |
 
 -----------------
 ## Returns

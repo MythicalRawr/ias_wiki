@@ -13,5 +13,5 @@ Remove a hook (aka listener) for a specific hookId<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | hookId | No description |  |
-| string | hookName | No description |  |
+| string | hookId | No description |   |
+| string | hookName | No description |   |

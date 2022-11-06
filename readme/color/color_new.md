@@ -13,9 +13,9 @@ Color constructor<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | r | No description |  |
-| number | g | No description |  |
-| number | b | No description |  |
+| number | r | No description |   |
+| number | g | No description |   |
+| number | b | No description |   |
 | number | a | No description | ✔ |
 
 -----------------

@@ -13,4 +13,4 @@ Sets the light falloff start<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | val | No description |  |
+| number | val | No description |   |

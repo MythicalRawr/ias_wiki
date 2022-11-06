@@ -13,4 +13,4 @@ The data to read from the netWrite (Server). Use this to sync variables between 
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](../packet/README.md) | packet | No description |  |
+| [Packet](../packet/README.md) | packet | No description |   |

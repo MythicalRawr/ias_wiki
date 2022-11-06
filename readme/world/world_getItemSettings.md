@@ -13,7 +13,7 @@ Gets the given item id settings<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
+| string | id | No description |   |
 
 -----------------
 ## Returns

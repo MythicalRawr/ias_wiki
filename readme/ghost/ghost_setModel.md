@@ -13,4 +13,4 @@ Sets the model for the ghost<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Model](../model/README.md) | mdl | No description |  |
+| [Model](../model/README.md) | mdl | No description |   |

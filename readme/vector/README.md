@@ -8,5 +8,5 @@ Vector's entry class<br>
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| number | x |  |
-| number | y |  |
+| number | x |   |
+| number | y |   |

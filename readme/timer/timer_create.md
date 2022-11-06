@@ -13,10 +13,10 @@ Creates a timer using the unique id, triggering every x seconds for an x ammount
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
-| number | interval | No description |  |
-| number | ticks | No description |  |
-| function | callback | fun(data?: any): void |  |
+| string | id | No description |   |
+| number | interval | No description |   |
+| number | ticks | No description |   |
+| function | callback | fun(data?: any): void |   |
 
 -----------------
 ## Returns

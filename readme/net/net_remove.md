@@ -13,5 +13,5 @@ Remove a listener for a specific netId<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | netId | No description |  |
-| string | hookName | No description |  |
+| string | netId | No description |   |
+| string | hookName | No description |   |

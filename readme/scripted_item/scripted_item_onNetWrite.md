@@ -13,4 +13,4 @@ Called by transmitUpdate by the server to send an update (should be used to sync
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Packet](../packet/README.md) | packet | No description |  |
+| [Packet](../packet/README.md) | packet | No description |   |

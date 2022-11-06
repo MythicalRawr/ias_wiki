@@ -13,6 +13,6 @@ Sends a Packet to the server<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | netId | No description |  |
-| [Packet](../packet/README.md) | msg | No description |  |
+| string | netId | No description |   |
+| [Packet](../packet/README.md) | msg | No description |   |
 | boolean | reliable | Default: true | ✔ |

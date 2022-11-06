@@ -13,4 +13,4 @@ Triggers when a beat is detected<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| function | callback | fun(beatPosition: number): void |  |
+| function | callback | fun(beatPosition: number): void |   |

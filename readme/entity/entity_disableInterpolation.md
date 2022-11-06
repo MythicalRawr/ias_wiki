@@ -13,4 +13,4 @@ Disables the snapshot interpolation, usefull for teleporting things.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| boolean | disable | No description |  |
+| boolean | disable | No description |   |

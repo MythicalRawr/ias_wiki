@@ -17,4 +17,4 @@ Sets the render box of the entity.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [AABB](../aabb/README.md) | aabb | No description |  |
+| [AABB](../aabb/README.md) | aabb | No description |   |

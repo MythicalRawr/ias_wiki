@@ -13,7 +13,7 @@ Returns the total amount of the item on the slot<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
+| number | slot | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Returns amount of gas in a room of the type<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](../gas/README.md) | gasType | No description |  |
+| [GAS](../gas/README.md) | gasType | No description |   |
 
 -----------------
 ## Returns

@@ -13,7 +13,7 @@ Decodes a json string to a lua table<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | data | No description |  |
+| string | data | No description |   |
 
 -----------------
 ## Returns

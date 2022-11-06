@@ -13,4 +13,4 @@ Called when a power network is disconnected from the entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
+| number | id | No description |   |

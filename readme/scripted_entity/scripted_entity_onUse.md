@@ -13,4 +13,4 @@ Triggered when a entity presses USE<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](../entity/README.md) | ent | No description |  |
+| [Entity](../entity/README.md) | ent | No description |   |

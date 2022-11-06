@@ -13,4 +13,4 @@ Global event called when a player joins the game<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](../player/README.md) | ply | No description |  |
+| [Player](../player/README.md) | ply | No description |   |

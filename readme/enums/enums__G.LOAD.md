@@ -8,4 +8,4 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| table | SOUND_FLAGS |  |
+| table | SOUND_FLAGS |   |

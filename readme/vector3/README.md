@@ -8,6 +8,6 @@ Vector3's entry class<br>
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| number | x |  |
-| number | y |  |
-| number | z |  |
+| number | x |   |
+| number | y |   |
+| number | z |   |

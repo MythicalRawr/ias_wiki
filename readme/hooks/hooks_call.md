@@ -13,5 +13,5 @@ Emits data to the given hookId<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | hookId | No description |  |
-| any | data | No description |  |
+| string | hookId | No description |   |
+| any | data | No description |   |

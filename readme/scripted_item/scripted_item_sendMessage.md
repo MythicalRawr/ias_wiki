@@ -13,5 +13,5 @@ Sends a packet to the given slot<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | slot | No description |  |
-| [Packet](../packet/README.md) | packet | No description |  |
+| number | slot | No description |   |
+| [Packet](../packet/README.md) | packet | No description |   |

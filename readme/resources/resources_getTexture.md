@@ -13,7 +13,7 @@ Returns a Texture object if loaded successfully, you should use preLoad on Mod:o
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |
 
 -----------------
 ## Returns

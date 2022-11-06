@@ -8,6 +8,6 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | SOUND_3D |  |
-|  | BEAT_DETECTION |  |
-|  | NO_BLOCK |  |
+|  | SOUND_3D |   |
+|  | BEAT_DETECTION |   |
+|  | NO_BLOCK |   |

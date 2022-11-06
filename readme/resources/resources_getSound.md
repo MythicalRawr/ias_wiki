@@ -13,7 +13,7 @@ Returns a Sound object if loaded successfully, you should use preLoad on Mod:onL
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |
 | [LOAD.SOUND_FLAGS](../load.sound_flags/README.md) | loadFlags | No description | ✔ |
 
 -----------------

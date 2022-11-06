@@ -13,4 +13,4 @@ Sets the entity physics friction<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | friction | No description |  |
+| number | friction | No description |   |

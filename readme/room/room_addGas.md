@@ -13,5 +13,5 @@ adds the amount of gas to a room<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GAS](../gas/README.md) | gasType | No description |  |
-| number | amount | No description |  |
+| [GAS](../gas/README.md) | gasType | No description |   |
+| number | amount | No description |   |

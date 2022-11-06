@@ -13,7 +13,7 @@ Finds an entity in the world by id<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
+| number | id | No description |   |
 
 -----------------
 ## Returns

@@ -13,4 +13,4 @@ Sets the entity model<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Model](../model/README.md) | mdl | No description |  |
+| [Model](../model/README.md) | mdl | No description |   |

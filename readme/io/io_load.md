@@ -13,7 +13,7 @@ Loads a file on the data folder, make sure you pass the extension on the filePat
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | path | No description |  |
+| string | path | No description |   |
 
 -----------------
 ## Returns

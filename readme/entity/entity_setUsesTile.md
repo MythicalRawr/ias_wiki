@@ -13,4 +13,4 @@ enables or disables tile use at an entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| boolean | mode | No description |  |
+| boolean | mode | No description |   |

@@ -13,7 +13,7 @@ Creates a PathFinder object for the given building<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](../entity/README.md) | building | No description |  |
+| [Entity](../entity/README.md) | building | No description |   |
 
 -----------------
 ## Returns

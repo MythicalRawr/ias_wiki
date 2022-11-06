@@ -13,7 +13,7 @@ Returns true if its a number<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| any | el | No description |  |
+| any | el | No description |   |
 
 -----------------
 ## Returns

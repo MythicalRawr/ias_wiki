@@ -13,7 +13,7 @@ Returns true if the given ent id is registered as a use viewer<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| number | id | No description |  |
+| number | id | No description |   |
 
 -----------------
 ## Returns

@@ -13,5 +13,5 @@ Adds the given wire type to the tile<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [WIRE](../wire/README.md) | type | No description |  |
+| [WIRE](../wire/README.md) | type | No description |   |
 | number | networkId | No description | ✔ |

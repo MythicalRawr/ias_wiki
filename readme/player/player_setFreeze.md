@@ -13,5 +13,5 @@ Sets / Unsets the freeze flags<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [FREEZE](../freeze/README.md) | flags | No description |  |
-| boolean | set | No description |  |
+| [FREEZE](../freeze/README.md) | flags | No description |   |
+| boolean | set | No description |   |

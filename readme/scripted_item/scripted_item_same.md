@@ -13,7 +13,7 @@ Returns true if it's the same item<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [ITEM](../item/README.md) | other | No description |  |
+| [ITEM](../item/README.md) | other | No description |   |
 
 -----------------
 ## Returns

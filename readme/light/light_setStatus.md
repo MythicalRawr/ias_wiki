@@ -13,4 +13,4 @@ Turns the light on / off<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| boolean | on | No description |  |
+| boolean | on | No description |   |

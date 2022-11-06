@@ -18,7 +18,7 @@ console:execute({"my_command", "true"})
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string[] | args | No description |  |
+| string[] | args | No description |   |
 
 -----------------
 ## Returns

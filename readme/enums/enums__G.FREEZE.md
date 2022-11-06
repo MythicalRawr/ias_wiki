@@ -8,5 +8,5 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | MOVEMENT |  |
-|  | ROTATION |  |
+|  | MOVEMENT |   |
+|  | ROTATION |   |

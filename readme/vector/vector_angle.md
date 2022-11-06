@@ -13,7 +13,7 @@ Returns the angle of the vector from the given vector<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | other | No description |  |
+| [Vector](../vector/README.md) | other | No description |   |
 
 -----------------
 ## Returns

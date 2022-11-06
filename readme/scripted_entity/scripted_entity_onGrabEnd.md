@@ -13,4 +13,4 @@ Called when an entity stops grabbing this entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Entity](../entity/README.md) | entity | No description |  |
+| [Entity](../entity/README.md) | entity | No description |   |

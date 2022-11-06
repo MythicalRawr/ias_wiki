@@ -16,6 +16,6 @@ Queries the internetz using fetch.<br>By default it uses the method GET.<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | url | No description |  |
-| table | headers | EX: { METHOD = 'GET' } |  |
-| function | callback | fun(hasErrored: boolean, data: string): void |  |
+| string | url | No description |   |
+| table | headers | EX: { METHOD = 'GET' } |   |
+| function | callback | fun(hasErrored: boolean, data: string): void |   |

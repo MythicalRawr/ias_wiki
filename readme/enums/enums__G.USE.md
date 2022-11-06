@@ -8,6 +8,6 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | NONE |  |
-|  | SIMPLE |  |
-|  | MENU |  |
+|  | NONE |   |
+|  | SIMPLE |   |
+|  | MENU |   |

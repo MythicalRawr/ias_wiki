@@ -13,4 +13,4 @@ called when a gas pipe is connected to the entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [GasNetwork](../gasnetwork/README.md) | network | No description |  |
+| [GasNetwork](../gasnetwork/README.md) | network | No description |   |

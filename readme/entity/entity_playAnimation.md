@@ -13,7 +13,7 @@ Plays an animation on the entity<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | name | No description |  |
+| string | name | No description |   |
 | boolean | loop | Defaults: false | ✔ |
 | number | speed | Defaults: 1 | ✔ |
 

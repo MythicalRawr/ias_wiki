@@ -13,7 +13,7 @@ Draws a 3D debug text that will vanish after the given ttl time<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector3](../vector3/README.md) | pos | No description |  |
-| number | ttl | No description |  |
-| string | text | No description |  |
+| [Vector3](../vector3/README.md) | pos | No description |   |
+| number | ttl | No description |   |
+| string | text | No description |   |
 | [Color](../color/README.md) | color | Default: Yellow | ✔ |

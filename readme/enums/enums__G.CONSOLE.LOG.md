@@ -8,6 +8,6 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | DEBUG |  |
-|  | WARNING |  |
-|  | ERROR |  |
+|  | DEBUG |   |
+|  | WARNING |   |
+|  | ERROR |   |

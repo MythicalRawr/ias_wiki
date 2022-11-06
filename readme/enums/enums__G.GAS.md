@@ -8,9 +8,9 @@
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-|  | NONE |  |
-|  | OXYGEN |  |
-|  | STEAM |  |
-|  | CO2 |  |
-|  | NITROGEN |  |
-|  | FIRE |  |
+|  | NONE |   |
+|  | OXYGEN |   |
+|  | STEAM |   |
+|  | CO2 |   |
+|  | NITROGEN |   |
+|  | FIRE |   |

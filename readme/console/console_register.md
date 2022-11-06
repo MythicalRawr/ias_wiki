@@ -22,7 +22,7 @@ end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Ad
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | command | No description |  |
-| function | callback | fun(args: string[], userID: number): success: boolean, msg: string |  |
+| string | command | No description |   |
+| function | callback | fun(args: string[], userID: number): success: boolean, msg: string |   |
 | string | description | Default: <Empty> | ✔ |
 | [CONSOLE.FLAGS](../console.flags/README.md) | flags | Default: <Empty> | ✔ |

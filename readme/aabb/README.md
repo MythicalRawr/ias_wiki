@@ -8,5 +8,5 @@ AABB's entry class<br>
 
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
-| [Vector](../vector/README.md) | pos |  |
-| [Vector](../vector/README.md) | size |  |
+| [Vector](../vector/README.md) | pos |   |
+| [Vector](../vector/README.md) | size |   |

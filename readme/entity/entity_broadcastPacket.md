@@ -13,6 +13,6 @@ Broadcast a packet to all the players<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| string | id | No description |  |
-| [Packet](../packet/README.md) | packet | No description |  |
+| string | id | No description |   |
+| [Packet](../packet/README.md) | packet | No description |   |
 | boolean | reliable | Defaults: true | ✔ |

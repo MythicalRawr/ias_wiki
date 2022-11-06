@@ -13,4 +13,4 @@ Pretty prints the given table<br>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| table | tbl | No description |  |
+| table | tbl | No description |   |
