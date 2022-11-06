@@ -6,7 +6,7 @@
 number Entity:getAvailableSlot()
 ```
 
-Returns the an available slot index<br>
+Returns the first available slot index<br>
 
 -----------------
 ## Returns
