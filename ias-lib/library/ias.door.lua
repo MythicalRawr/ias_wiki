@@ -1,7 +1,7 @@
 ---@meta
 
 ---
----@class Door : ENT
+---@class Door : Entity
 ---* door's entry class.
 ---
 Door = {}
