@@ -6,9 +6,13 @@
 ---@field y number
 ---@field z number
 ---@operator add(Vector3): Vector3
+---@operator add(number): Vector3
 ---@operator sub(Vector3): Vector3
+---@operator sub(number): Vector3
 ---@operator mul(Vector3): Vector3
+---@operator mul(number): Vector3
 ---@operator div(Vector3): Vector3
+---@operator div(number): Vector3
 ---* Vector3's entry class
 ---
 Vector3 = {
