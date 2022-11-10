@@ -114,3 +114,11 @@ function Tile:getGasses() end
 ---* adds the amount of gas to a Tile
 ---
 function Tile:addGas(gasType, amount) end
+
+---
+---@env SHARED
+---@param direction DIRECTION
+---@param offset? number "Defaults to 1"
+---* Gets the neightbor of the tile in the requested direction
+---
+function Tile:getNeighbor(direction, offset) end

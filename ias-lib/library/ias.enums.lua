@@ -135,6 +135,22 @@ _G.WIRE = {
 -----------------
 
 ---
+---@enum DIRECTION
+---@field UP
+---@field DOWN
+---@field RIGHT
+---@field LEFT
+---
+_G.DIRECTION = {
+	UP = 1,
+	DOWN = 2,
+	RIGHT = 3,
+	LEFT = 4
+}
+
+-----------------
+
+---
 ---@class LOAD
 ---@field SOUND_FLAGS table
 _G.LOAD = {
