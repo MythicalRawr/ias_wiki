@@ -15,6 +15,31 @@ ui = {}
 ---
 function ui:create(uiType, parent) end
 
+---
+---@env CLIENT
+---@return number
+---* Returns the width of the game window
+---
+function ui:width() end
+
+---
+---@env CLIENT
+---@return number
+---* Returns the height of the game window
+---
+function ui:height() end
+
+---
+---@env CLIENT
+---@param id string "Unique popup id"
+---@param title string "The popup title"
+---@param message string "The popup message"
+---@param type? UI_POPUP_TYPE "The popup type (Default: GENERIC)"
+---@return Frame
+---* Creates a popup and returns it's frame
+---
+function ui:createPopup(id, title, message, type) end
+
 -------------------------------------------
 
 ---

@@ -2,6 +2,7 @@
 
 ---
 ---@class CONSOLE
+---@env SHARED
 ---@field FLAGS table
 ---@field LOG table
 _G.CONSOLE = {
@@ -11,6 +12,7 @@ _G.CONSOLE = {
 
 ---
 ---@enum CONSOLE.FLAGS
+---@env SHARED
 ---@field CHEATS
 ---@field ADMIN
 ---@field DEVELOPER
@@ -24,6 +26,7 @@ _G.CONSOLE.FLAGS = {
 
 ---
 ---@enum CONSOLE.LOG
+---@env SHARED
 ---@field DEBUG
 ---@field WARNING
 ---@field ERROR
@@ -38,6 +41,7 @@ _G.CONSOLE.LOG = {
 
 ---
 ---@enum COMPONENTS
+---@env SHARED
 ---@field TILE
 ---
 _G.COMPONENTS = {
@@ -46,6 +50,7 @@ _G.COMPONENTS = {
 
 ---
 ---@enum USE
+---@env SHARED
 ---@field NONE
 ---@field SIMPLE
 ---@field MENU
@@ -60,6 +65,7 @@ _G.USE = {
 
 ---
 ---@enum GAS
+---@env SHARED
 ---@field NONE
 ---@field OXYGEN
 ---@field STEAM
@@ -80,6 +86,7 @@ _G.GAS = {
 
 ---
 ---@enum FREEZE
+---@env SHARED
 ---@field MOVEMENT
 ---@field ROTATION
 ---
@@ -92,6 +99,7 @@ _G.FREEZE = {
 
 ---
 ---@enum ITEM_RARITY
+---@env SHARED
 ---@field COMMON
 ---@field RARE
 ---@field EPIC
@@ -108,6 +116,7 @@ _G.ITEM_RARITY = {
 
 ---
 ---@enum PHYSICS
+---@env SHARED
 ---@field STATIC
 ---@field DYNAMIC
 ---@field TRIGGER
@@ -124,6 +133,7 @@ _G.PHYSICS = {
 
 ---
 ---@enum WIRE
+---@env SHARED
 ---@field POWER
 ---@field IO
 ---
@@ -136,6 +146,7 @@ _G.WIRE = {
 
 ---
 ---@enum DIRECTION
+---@env SHARED
 ---@field UP
 ---@field DOWN
 ---@field RIGHT
@@ -152,6 +163,7 @@ _G.DIRECTION = {
 
 ---
 ---@class LOAD
+---@env SHARED
 ---@field SOUND_FLAGS table
 _G.LOAD = {
 	SOUND_FLAGS = {}
@@ -159,6 +171,7 @@ _G.LOAD = {
 
 ---
 ---@enum LOAD.SOUND_FLAGS
+---@env CLIENT
 ---@field SOUND_3D
 ---@field BEAT_DETECTION
 ---@field NO_BLOCK
@@ -169,10 +182,26 @@ _G.LOAD.SOUND_FLAGS = {
 	NO_BLOCK = 8
 }
 
+---
+---@enum UI_POPUP_TYPE
+---@env CLIENT
+---@field GENERIC
+---@field WARNING
+---@field ERR
+---@field LOADING
+---
+_G.UI_POPUP_TYPE = {
+	GENERIC = 0,
+	WARNING = 1,
+	ERR = 2,
+	LOADING = 3
+}
+
 -----------------
 
 ---
 ---@enum INPUT
+---@env SHARED
 ---
 _G.INPUT = {
 	KEY = {
