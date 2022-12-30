@@ -15,6 +15,13 @@ function GasNetwork:ID() end
 
 ---
 ---@env SHARED
+---@return number
+---* Returns the GasNetwork tileId
+---
+function GasNetwork:tileIndex() end
+
+---
+---@env SHARED
 ---@return boolean
 ---* Returns true if the GasNetwork is valid
 ---
@@ -49,3 +56,10 @@ function GasNetwork:getAll() end
 ---* adds the amount of gas to a GasNetwork
 ---
 function GasNetwork:add(gasType, amount) end
+
+---
+---@env SERVER
+---@return Vector[]
+---* Returns tall the positons of pipes in this network
+---
+function GasNetwork:getPipePositions() end

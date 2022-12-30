@@ -86,6 +86,20 @@ function Vector:cross(other) end
 ---
 ---@env SHARED
 ---@return Vector
+---* Returns the floored vector
+---
+function Vector:floor() end
+
+---
+---@env SHARED
+---@return Vector
+---* Returns the ceiled vector
+---
+function Vector:ceil() end
+
+---
+---@env SHARED
+---@return Vector
 ---* Returns the normalized vector
 ---
 function Vector:normalized() end

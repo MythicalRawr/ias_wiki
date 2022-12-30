@@ -29,7 +29,7 @@ function Tile:getPower() end
 
 ---
 ---@env SHARED
----@return Pipe
+---@return GasNetwork
 ---* Returns the pipe on the tile, if any
 ---
 function Tile:getPipe() end
@@ -81,9 +81,10 @@ function Tile:removePipe(networkId) end
 ---
 ---@env SERVER
 ---@param networkId number
+---@param colorId number
 ---* Adds the given pipe networkId to the tile
 ---
-function Tile:addPipe(networkId) end
+function Tile:addPipe(networkId, colorId) end
 
 ---
 ---@env SHARED
@@ -122,3 +123,10 @@ function Tile:addGas(gasType, amount) end
 ---* Gets the neightbor of the tile in the requested direction
 ---
 function Tile:getNeighbor(direction, offset) end
+
+---
+---@env SHARED
+---@return Vector
+---* Returns the local position of the tile
+---
+function Tile:getPos() end
