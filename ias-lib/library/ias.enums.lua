@@ -165,8 +165,12 @@ _G.DIRECTION = {
 ---@class LOAD
 ---@env SHARED
 ---@field SOUND_FLAGS table
+---@field TEXTURE_FLAGS table
+---@field MODEL_FLAGS table
 _G.LOAD = {
-	SOUND_FLAGS = {}
+	SOUND_FLAGS = {},
+	TEXTURE_FLAGS = {},
+	MODEL_FLAGS = {}
 }
 
 ---
@@ -181,6 +185,18 @@ _G.LOAD.SOUND_FLAGS = {
 	BEAT_DETECTION = 4,
 	NO_BLOCK = 8
 }
+
+---
+---@enum LOAD.TEXTURE_FLAGS
+---@env CLIENT
+---
+_G.LOAD.TEXTURE_FLAGS = {}
+
+---
+---@enum LOAD.MODEL_FLAGS
+---@env CLIENT
+---
+_G.LOAD.MODEL_FLAGS = {}
 
 ---
 ---@enum UI_POPUP_TYPE

@@ -52,15 +52,17 @@ function resources:getHTTPSound(url, loadFlags) end
 ---
 ---@env CLIENT
 ---@param path string
+---@param loadFlags? LOAD.TEXTURE_FLAGS
 ---@return Texture
 ---* Returns a Texture object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the texture and not block the client
 ---
-function resources:getTexture(path) end
+function resources:getTexture(path, loadFlags) end
 
 ---
 ---@env SHARED
 ---@param path string
+---@param loadFlags? LOAD.MODEL_FLAGS
 ---@return Model
 ---* Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client
 ---
-function resources:getModel(path) end
+function resources:getModel(path, loadFlags) end
