@@ -73,18 +73,16 @@ function Tile:addWire(type, networkId) end
 
 ---
 ---@env SERVER
----@param networkId number
----* Removes the given pipe networkId from the tile
+---* Removes the pipe from the tile
 ---
-function Tile:removePipe(networkId) end
+function Tile:removePipe() end
 
 ---
 ---@env SERVER
----@param networkId number
 ---@param colorId number
----* Adds the given pipe networkId to the tile
+---* Adds the given pipe to the tile
 ---
-function Tile:addPipe(networkId, colorId) end
+function Tile:addPipe(colorId) end
 
 ---
 ---@env SHARED
