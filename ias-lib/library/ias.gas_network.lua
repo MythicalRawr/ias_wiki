@@ -16,6 +16,13 @@ function GasNetwork:ID() end
 ---
 ---@env SHARED
 ---@return number
+---* Returns color id
+---
+function GasNetwork:getColorId() end
+
+---
+---@env SHARED
+---@return number
 ---* Returns the GasNetwork tileId
 ---
 function GasNetwork:tileIndex() end
