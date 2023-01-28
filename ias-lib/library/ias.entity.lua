@@ -551,11 +551,18 @@ function Entity:setAngularDamping(damp) end
 function Entity:setBodyType(type) end
 
 ---
----@env SERVER
+---@env SHARED
 ---@return Vector
 ---* Returns the current mouse world position
 ---
 function Entity:getWorldMousePos() end
+
+---
+---@env SHARED
+---@return Vector
+---* Returns the current mouse localized position
+---
+function Entity:getLocalMousePos() end
 
 ---
 ---@env CLIENT
