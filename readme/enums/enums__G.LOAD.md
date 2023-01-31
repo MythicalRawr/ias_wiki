@@ -9,3 +9,5 @@
 | Type   | Name | Optional |
 | ------ | ---- | -------: |
 | table | SOUND_FLAGS |   |
+| table | TEXTURE_FLAGS |   |
+| table | MODEL_FLAGS |   |

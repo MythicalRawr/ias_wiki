@@ -3,7 +3,7 @@
 ### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [Tile](../tile/README.md):getPipe
 
 ```lua
-GasNetwork Tile:getPipe()
+Pipe Tile:getPipe()
 ```
 
 Returns the pipe on the tile, if any<br>
@@ -13,4 +13,4 @@ Returns the pipe on the tile, if any<br>
 
 | Type   | Description |
 | ------ | ----------: |
-| [GasNetwork](../gasnetwork/README.md) | No description |
+| [Pipe](../pipe/README.md) | No description |
