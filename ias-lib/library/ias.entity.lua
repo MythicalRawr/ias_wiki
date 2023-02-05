@@ -357,9 +357,10 @@ function Entity:setHealth(health) end
 ---
 ---@env SERVER
 ---@param damage number
+---@param attacker? Entity "Defaults: WORLD"
 ---* Damages the entity
 ---
-function Entity:takeDamage(damage) end
+function Entity:takeDamage(damage, attacker) end
 
 ---
 ---@env SERVER
