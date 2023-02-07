@@ -111,6 +111,13 @@ function Entity:canAddItem(slot, count) end
 
 ---
 ---@env SHARED
+---@return boolean
+---* Returns true if the inventory is empty
+---
+function Entity:inventoryEmpty() end
+
+---
+---@env SHARED
 ---@param slot number
 ---@return number
 ---* Returns the total amount of the item on the slot
