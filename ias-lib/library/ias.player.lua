@@ -23,13 +23,6 @@ function Player:getSteamID() end
 ---
 ---@env SHARED
 ---@return boolean
----* Returns true if the player is alive
----
-function Player:isAlive() end
-
----
----@env SHARED
----@return boolean
 ---* Returns true if the player is an admin
 ---
 function Player:isAdmin() end

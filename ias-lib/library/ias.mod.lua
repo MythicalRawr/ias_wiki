@@ -41,6 +41,20 @@ function MOD:onPlayerJoin(ply) end
 
 ---
 ---@env SHARED
+---@param ply Player
+---* Global event called when a player spawns / re-spawns
+---
+function MOD:onPlayerSpawn(ply) end
+
+---
+---@env SHARED
+---@param ply Player
+---* Global event called when a player dies
+---
+function MOD:onPlayerDeath(ply) end
+
+---
+---@env SHARED
 ---@param delta number
 ---* Global event called every tick update
 ---
