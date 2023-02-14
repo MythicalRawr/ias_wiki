@@ -11,28 +11,55 @@ Tile = {}
 ---@return boolean
 ---* Returns true if the tile is valid
 ---
-function Tile:isValid() end
+function Tile:isValid()
+end
 
 ---
 ---@env SHARED
 ---@return WireIO
 ---* Returns the wire io on the tile, if any
 ---
-function Tile:getIO() end
+function Tile:getIO()
+end
 
 ---
 ---@env SHARED
 ---@return WirePower
 ---* Returns the wire power on the tile, if any
 ---
-function Tile:getPower() end
+function Tile:getPower()
+end
+
+---
+---@env SHARED
+---@return boolean
+---* Returns true if the tile has a power wire
+---
+function Tile:hasPower()
+end
+
+---
+---@env SERVER
+---@param colorId number
+---* Adds the given power wire to the tile
+---
+function Tile:addPower(colorId)
+end
+
+---
+---@env SERVER
+---* Removes the power wire from the tile
+---
+function Tile:removePower()
+end
 
 ---
 ---@env SHARED
 ---@return GasNetwork
 ---* Returns the pipe on the tile, if any
 ---
-function Tile:getPipe() end
+function Tile:getPipe()
+end
 
 ---
 ---@env SHARED
@@ -40,28 +67,32 @@ function Tile:getPipe() end
 ---@return boolean
 ---* Returns true if the tile has the requested wire type
 ---
-function Tile:hasWire(type) end
+function Tile:hasWire(type)
+end
 
 ---
 ---@env SHARED
 ---@return boolean
 ---* Returns true if the tile has a pipe
 ---
-function Tile:hasPipe() end
+function Tile:hasPipe()
+end
 
 ---
 ---@env SHARED
 ---@return Room
 ---* Returns the current room the tile is in
 ---
-function Tile:getRoom() end
+function Tile:getRoom()
+end
 
 ---
 ---@env SERVER
 ---@param type WIRE
 ---* Removes the given wire type from the tile
 ---
-function Tile:removeWire(type) end
+function Tile:removeWire(type)
+end
 
 ---
 ---@env SERVER
@@ -69,27 +100,31 @@ function Tile:removeWire(type) end
 ---@param networkId? number
 ---* Adds the given wire type to the tile
 ---
-function Tile:addWire(type, networkId) end
+function Tile:addWire(type, networkId)
+end
 
 ---
 ---@env SERVER
 ---* Removes the pipe from the tile
 ---
-function Tile:removePipe() end
+function Tile:removePipe()
+end
 
 ---
 ---@env SERVER
 ---@param colorId number
 ---* Adds the given pipe to the tile
 ---
-function Tile:addPipe(colorId) end
+function Tile:addPipe(colorId)
+end
 
 ---
 ---@env SHARED
 ---@return number
 ---* Returns the pressure in PSI
 ---
-function Tile:getPressure() end
+function Tile:getPressure()
+end
 
 ---
 ---@env SHARED
@@ -97,14 +132,16 @@ function Tile:getPressure() end
 ---@return number
 ---* Returns amount of gas in a Tile of the type
 ---
-function Tile:getGas(gasType) end
+function Tile:getGas(gasType)
+end
 
 ---
 ---@env SHARED
 ---@return table
 ---* Returns all gasses that are in the Tile
 ---
-function Tile:getGasses() end
+function Tile:getGasses()
+end
 
 ---
 ---@env SERVER
@@ -112,7 +149,8 @@ function Tile:getGasses() end
 ---@param amount number
 ---* adds the amount of gas to a Tile
 ---
-function Tile:addGas(gasType, amount) end
+function Tile:addGas(gasType, amount)
+end
 
 ---
 ---@env SHARED
@@ -121,11 +159,13 @@ function Tile:addGas(gasType, amount) end
 ---@return Tile
 ---* Gets the neightbor of the tile in the requested direction
 ---
-function Tile:getNeighbor(direction, offset) end
+function Tile:getNeighbor(direction, offset)
+end
 
 ---
 ---@env SHARED
 ---@return Vector
 ---* Returns the local position of the tile
 ---
-function Tile:getPos() end
+function Tile:getPos()
+end
