@@ -103,3 +103,25 @@ function Player:isFrozen() end
 ---* Locally moves an item from an inventory to another inventory and sends a validation request to the server.
 ---
 function Player:moveItem(oldStorage, newStorage, oldSlot, newSlot) end
+
+---
+---@env SERVER
+---@param ent ENT
+---* Registers a new spawnpoint for the player
+---
+function Player:registerSpawnPoint(ent) end
+
+---
+---@env SERVER
+---@param ent ENT
+---* UnRegisters a new spawnpoint for the player
+---
+function Player:unregisterSpawnPoint(ent) end
+
+---
+---@env SERVER
+---@param ent ENT
+---@return boolean
+---* Returns true if the spawnpoint is already registered for the player
+---
+function Player:hasSpawnPoint(ent) end
