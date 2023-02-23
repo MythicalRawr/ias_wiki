@@ -189,17 +189,17 @@ function ENT:onWireIODisconnected(id) end
 
 ---
 ---@env CLIENT
----@param player Player
----* Triggered a use viewer player is added
+---@param id number
+---* Triggered a use viewer is added
 ---
-function ENT:onUseViewerAdded(player) end
+function ENT:onUseViewerAdded(id) end
 
 ---
 ---@env CLIENT
----@param player Player
----* Triggered a use viewer player is removed
+---@param id number
+---* Triggered a use viewer is removed
 ---
-function ENT:onUseViewerRemoved(player) end
+function ENT:onUseViewerRemoved(id) end
 
 ---
 ---@env CLIENT

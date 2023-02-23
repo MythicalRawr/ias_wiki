@@ -111,6 +111,13 @@ function Entity:canAddItem(slot, count) end
 
 ---
 ---@env SHARED
+---@return boolean
+---* Returns true if the inventory is empty
+---
+function Entity:inventoryEmpty() end
+
+---
+---@env SHARED
 ---@param slot number
 ---@return number
 ---* Returns the total amount of the item on the slot
@@ -355,11 +362,27 @@ function Entity:remove() end
 function Entity:setHealth(health) end
 
 ---
+---@env SHARED
+---@return boolean
+---* Returns true if the entity is alive
+---
+function Entity:isAlive() end
+
+---
+---@env SERVER
+---@param health number
+---@hint @info "Entity needs to be alive to heal"
+---* Heals the ent.
+---
+function Entity:heal(health) end
+
+---
 ---@env SERVER
 ---@param damage number
+---@param attacker? Entity "Defaults: WORLD"
 ---* Damages the entity
 ---
-function Entity:takeDamage(damage) end
+function Entity:takeDamage(damage, attacker) end
 
 ---
 ---@env SERVER

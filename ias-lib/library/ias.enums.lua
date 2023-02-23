@@ -20,7 +20,6 @@ _G.CONSOLE = {
 _G.CONSOLE.FLAGS = {
 	CHEATS = 2,
 	ADMIN = 4,
-
 	DEVELOPER = 8 -- Internal
 }
 
@@ -205,12 +204,14 @@ _G.LOAD.MODEL_FLAGS = {}
 ---@field WARNING
 ---@field ERR
 ---@field LOADING
+---@field QUESTION
 ---
 _G.UI_POPUP_TYPE = {
 	GENERIC = 0,
 	WARNING = 1,
 	ERR = 2,
-	LOADING = 3
+	LOADING = 3,
+	QUESTION = 4
 }
 
 -----------------
