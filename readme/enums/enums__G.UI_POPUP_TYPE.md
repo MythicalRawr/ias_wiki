@@ -12,3 +12,4 @@
 |  | WARNING |   |
 |  | ERR |   |
 |  | LOADING |   |
+|  | QUESTION |   |

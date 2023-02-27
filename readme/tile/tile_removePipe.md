@@ -3,14 +3,7 @@
 ### <img src="../../.gitbook/assets/server.png" width="32" height="32" /> [Tile](../tile/README.md):removePipe
 
 ```lua
-void Tile:removePipe(networkId)
+void Tile:removePipe()
 ```
 
-Removes the given pipe networkId from the tile<br>
-
------------------
-## Parameters
-
-| Type   | Name | Description | Optional |
-| ------ | ---- | ----------- | -------: |
-| number | networkId | No description |   |
+Removes the pipe from the tile<br>

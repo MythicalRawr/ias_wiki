@@ -3,14 +3,14 @@
 ### <img src="../../.gitbook/assets/client.png" width="32" height="32" /> [ENT](../ent/README.md):onUseViewerAdded
 
 ```lua
-void ENT:onUseViewerAdded(player)
+void ENT:onUseViewerAdded(id)
 ```
 
-Triggered a use viewer player is added<br>
+Triggered a use viewer is added<br>
 
 -----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Player](../player/README.md) | player | No description |   |
+| number | id | No description |   |
