@@ -327,11 +327,3 @@ isTable = function(el) end
 ---* Returns true if its a string
 ---
 isString = function(el) end
-
----
----@env SHARED
----@param el any
----@return boolean
----* Returns true if its a string
----
-isString = function(el) end
