@@ -2,56 +2,10 @@
 
 ---
 ---@class ENT : Entity
----* ENT's entry class, including lua
+---* ENT's entry class
 ---
 ENT = {}
 
----
----@env SERVER
----@param set boolean
----* Marks the entity to use power
----
-function ENT:setUsesPower(set)
-end
-
----
----@env SERVER
----@param set boolean
----* Marks the entity to use tile
----
-function ENT:setUsesTile(set)
-end
-
----
----@env SERVER
----@param set boolean
----* Marks the entity to use wire io
----
-function ENT:setUsesWire(set)
-end
-
----
----@env SERVER
----@param set boolean
----* Marks the entity to use gas
----
-function ENT:setUsesGas(set)
-end
-
----
----@env SERVER
----@param set USE
----* Sets the use type of the entity
----
-function ENT:setUseType(set)
-end
-
----
----@env SERVER
----* Triggers a netWrite and transmits that data to the client, triggering a netRead
----
-function ENT:transmitUpdate()
-end
 
 ---
 ---@env SHARED
@@ -306,4 +260,11 @@ end
 ---* Called every draw
 ---
 function ENT:draw()
+end
+
+---
+---@env SERVER
+---* Triggers a netWrite and transmits that data to the client, triggering a netRead
+---
+function ENT:transmitUpdate()
 end

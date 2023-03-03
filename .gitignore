@@ -11,3 +11,5 @@ SUMMARY.md
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+.docusaurus
