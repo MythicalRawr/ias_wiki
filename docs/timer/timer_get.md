@@ -1,0 +1,26 @@
+---
+sidebar_label: timer:get
+sidebar_class_name: env-shared
+---
+
+### ![](/img/wiki/shared.png) [timer](../timer/README.md):get
+
+```lua
+timerObj timer:get(id)
+```
+
+Returns a timerObj with the given id, make sure you validate with timer:exists first.<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | id | No description |   |
+
+-----------------
+## Returns
+
+| Type   | Description |
+| ------ | ----------: |
+| [timerObj](../timerobj/README.md) | No description |

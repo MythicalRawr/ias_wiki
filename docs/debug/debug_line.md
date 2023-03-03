@@ -1,0 +1,22 @@
+---
+sidebar_label: worldDebug:line
+sidebar_class_name: env-client
+---
+
+### ![](/img/wiki/client.png) [worldDebug](../worlddebug/README.md):line
+
+```lua
+void worldDebug:line(startPos, endPos, ttl, color)
+```
+
+Draws a 3D debug line that will vanish after the given ttl time<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector3](../vector3/README.md) | startPos | No description |   |
+| [Vector3](../vector3/README.md) | endPos | No description |   |
+| number | ttl | No description |   |
+| [Color](../color/README.md) | color | Default: Yellow | ✔ |

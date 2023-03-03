@@ -19,7 +19,7 @@ const config = {
     projectName: 'ias_wiki', // Usually your repo name.
 
     //onBrokenLinks: 'throw',
-    onBrokenMarkdownLinks: 'warn',
+    //onBrokenMarkdownLinks: 'warn',
 
     i18n: {
         defaultLocale: 'en',
@@ -58,7 +58,7 @@ const config = {
                 items: [
                     {
                         type: 'doc',
-                        docId: 'intro',
+                        docId: 'index',
                         position: 'left',
                         label: 'Wiki',
                     },
@@ -77,7 +77,7 @@ const config = {
                         items: [
                             {
                                 label: 'Wiki',
-                                to: '/docs/intro',
+                                to: '/docs/index',
                             },
                         ],
                     },
