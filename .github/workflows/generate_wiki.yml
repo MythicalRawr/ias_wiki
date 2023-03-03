@@ -1,14 +1,13 @@
-name: GENERATE WIKI
+name: 'GENERATE WIKI'
 on:
-    create:
+    push:
         tags:
             - v*
-    workflow_dispatch:
-permissions:
-    contents: write
-
 jobs:
     build:
+        permissions:
+            contents: write
+            pull-requests: write
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
