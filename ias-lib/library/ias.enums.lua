@@ -16,11 +16,19 @@ _G.CONSOLE = {
 ---@field CHEATS
 ---@field ADMIN
 ---@field DEVELOPER
+---@field CLIENT.VALIDATE
+---@field SERVER.REPLICATE
 ---
 _G.CONSOLE.FLAGS = {
 	CHEATS = 2,
 	ADMIN = 4,
-	DEVELOPER = 8 -- Internal
+	DEVELOPER = 8, -- Internal
+	CLIENT = {
+		VALIDATE = 10
+	},
+	SERVER = {
+		REPLICATE = 12
+	},
 }
 
 ---
