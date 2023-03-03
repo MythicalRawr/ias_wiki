@@ -18,7 +18,6 @@ _G.CONSOLE = {
 ---@field DEVELOPER
 ---@field CLIENT.VALIDATE
 ---@field SERVER.REPLICATE
----
 _G.CONSOLE.FLAGS = {
 	CHEATS = 2,
 	ADMIN = 4,
