@@ -11,3 +11,5 @@
 |  | CHEATS |   |
 |  | ADMIN |   |
 |  | DEVELOPER |   |
+|  | CLIENT.VALIDATE |   |
+|  | SERVER.REPLICATE |   |

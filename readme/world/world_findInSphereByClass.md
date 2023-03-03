@@ -1,18 +1,19 @@
-# [world](../world/README.md):findInBBOX
+# [world](../world/README.md):findInSphereByClass
 
-### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findInBBOX
+### <img src="../../.gitbook/assets/shared.png" width="32" height="32" /> [world](../world/README.md):findInSphereByClass
 
 ```lua
-ENT[] world:findInBBOX(pos, distance)
+ENT[] world:findInSphereByClass(class, pos, distance)
 ```
 
-Finds entities on the world in the given square size<br>
+Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)<br>
 
 -----------------
 ## Parameters
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
+| string | class | No description |   |
 | [Vector](../vector/README.md) | pos | No description |   |
 | number | distance | No description |   |
 
