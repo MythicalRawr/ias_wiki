@@ -1,4 +1,7 @@
-# _G.$TITLE_NAME$
+---
+sidebar_label: _G.$TITLE_NAME_CLEAN$
+sidebar_class_name: env-global
+---
 
-### <img src="../../.gitbook/assets/global.png" width="32" height="32" /> **_G**.$TITLE_NAME$
+### ![](/img/wiki/global.png) **_G**.$TITLE_NAME$
 $DEPRECATED$$HINTS$$DESCRIPTION$

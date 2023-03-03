@@ -1,4 +1,7 @@
-# $TITLE_NAME$
+---
+sidebar_label: $TITLE_NAME_CLEAN$
+sidebar_class_name: env-$SCOPE$
+---
 
-### <img src="../../.gitbook/assets/$SCOPE$.png" width="32" height="32" /> $TITLE_NAME$
+### ![](/img/wiki/$SCOPE$.png) $TITLE_NAME$
 $DEPRECATED$$HINTS$$METHOD$$DESCRIPTION$$EXAMPLE$$PARAMETERS$$RETURNS$

@@ -1,15 +1,15 @@
 {
-    "name": "ias_wiki",
-    "packageManager": "yarn@3.2.3",
-    "author": "Failcake (edunad)",
-    "repository": {
-        "url": "https://github.com/MythicalRawr/ias_wiki"
-    },
-    "main": "./index.js",
-    "scripts": {
-        "start": "node ."
-    },
-    "dependencies": {
-        "@edunad/lua-wiki-generator": "0.0.12"
-    }
+  "name": "ias_wiki",
+  "packageManager": "yarn@3.2.3",
+  "author": "Failcake (edunad)",
+  "repository": {
+    "url": "https://github.com/MythicalRawr/ias_wiki"
+  },
+  "main": "./index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "@edunad/lua-wiki-generator": "1.0.5"
+  }
 }

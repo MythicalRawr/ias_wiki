@@ -1,4 +1,7 @@
-# $TITLE_NAME$
+---
+sidebar_label: $TITLE_NAME_CLEAN$
+sidebar_class_name: env-base
+---
 
-### <img src="../../.gitbook/assets/base.png" width="32" height="32" /> $TITLE_NAME$
+### ![](/img/wiki/base.png) $TITLE_NAME$
 $DEPRECATED$$HINTS$$DESCRIPTION$$FIELDS$
