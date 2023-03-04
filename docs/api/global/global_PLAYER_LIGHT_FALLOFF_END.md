@@ -1,0 +1,8 @@
+---
+sidebar_label: _G.PLAYER_LIGHT_FALLOFF_END
+sidebar_class_name: env-tag env-global
+title: PLAYER_LIGHT_FALLOFF_END
+---
+
+# <img src='/img/wiki/global.png' alt='global' classname='env-tag' /> **_G**.PLAYER_LIGHT_FALLOFF_END
+Returns the end of distance of light falloff<br/>

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-    title: "It's Absolutelly Safe",
+    title: "It's Absolutely Safe",
     tagline: 'Dev Wiki',
     favicon: 'img/favicon.ico',
 
@@ -26,6 +26,8 @@ const config = {
         locales: ['en'],
     },
 
+    plugins: ['docusaurus-plugin-sass'],
+
     presets: [
         [
             'classic',
@@ -33,12 +35,10 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    // Please change this to your repo.
-                    // Remove this to remove the "edit this page" links.
-                    editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+                    editUrl: 'https://github.com/MythicalRawr/ias_wiki/tree/wiki/docs',
                 },
                 theme: {
-                    customCss: require.resolve('./src/css/custom.css'),
+                    customCss: [require.resolve('./src/css/index.scss')],
                 },
             }),
         ],
@@ -47,10 +47,9 @@ const config = {
     themeConfig:
         /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
-            // Replace with your project's social card
             image: 'img/small_capsule.png',
             navbar: {
-                title: "It's Absolutelly Safe",
+                title: "It's Absolutely Safe",
                 logo: {
                     alt: 'logo',
                     src: 'img/game_icon.png',
@@ -63,49 +62,67 @@ const config = {
                         label: 'Wiki',
                     },
                     {
-                        href: 'https://github.com/MythicalRawr/ias_wiki',
-                        label: 'GitHub',
+                        type: 'search',
                         position: 'right',
+                    },
+                    {
+                        type: 'localeDropdown',
+                        position: 'right',
+                    },
+                    {
+                        type: 'docsVersionDropdown',
+                        position: 'right',
+                    },
+                    {
+                        href: 'https://github.com/MythicalRawr/ias_wiki',
+                        position: 'right',
+                        className: 'header-github-link',
+                        'aria-label': 'GitHub repository',
                     },
                 ],
             },
+            algolia: {
+                // The application ID provided by Algolia
+                appId: 'YOUR_APP_ID',
+
+                // Public API key: it is safe to commit it
+                apiKey: 'YOUR_SEARCH_API_KEY',
+
+                indexName: 'YOUR_INDEX_NAME',
+
+                // Optional: see doc section below
+                contextualSearch: true,
+
+                // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+                externalUrlRegex: 'external\\.com|domain\\.com',
+
+                // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+                replaceSearchResultPathname: {
+                    from: '/docs/', // or as RegExp: /\/docs\//
+                    to: '/',
+                },
+
+                // Optional: Algolia search parameters
+                searchParameters: {},
+
+                // Optional: path for search page that enabled by default (`false` to disable it)
+                searchPagePath: 'search',
+
+                //... other Algolia params
+            },
             footer: {
                 style: 'dark',
-                links: [
-                    {
-                        title: 'Docs',
-                        items: [
-                            {
-                                label: 'Wiki',
-                                to: '/docs/index',
-                            },
-                        ],
-                    },
-                    {
-                        title: 'Community',
-                        items: [
-                            {
-                                label: 'Discord',
-                                href: 'https://discordapp.com/invite/docusaurus',
-                            },
-                        ],
-                    },
-                    {
-                        title: 'More',
-                        items: [
-                            {
-                                label: 'GitHub',
-                                href: 'https://github.com/MythicalRawr/ias_wiki',
-                            },
-                        ],
-                    },
-                ],
-                copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+                links: [],
+                copyright: `Copyright © ${new Date().getFullYear()} MythicalRawr 🐲. Built with Docusaurus 🦖`,
             },
             prism: {
                 darkTheme: darkCodeTheme,
                 theme: lightCodeTheme,
                 additionalLanguages: ['lua'],
+            },
+            colorMode: {
+                defaultMode: 'dark',
+                disableSwitch: true,
             },
         }),
 };

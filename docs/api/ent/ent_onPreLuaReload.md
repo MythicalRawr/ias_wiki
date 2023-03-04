@@ -1,0 +1,13 @@
+---
+sidebar_label: ENT:onPreLuaReload
+sidebar_class_name: env-tag env-shared
+title: ENT:onPreLuaReload
+---
+
+# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ENT](../ent/README.md):onPreLuaReload
+
+```lua
+void ENT:onPreLuaReload()
+```
+
+Called before the lua is reloaded<br/>

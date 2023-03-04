@@ -1,0 +1,20 @@
+---
+sidebar_label: ENT:onStorageUpdate
+sidebar_class_name: env-tag env-client
+title: ENT:onStorageUpdate
+---
+
+# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ENT](../ent/README.md):onStorageUpdate
+
+```lua
+void ENT:onStorageUpdate(slot)
+```
+
+Triggered when a slot is updated<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| number | slot | No description |   |

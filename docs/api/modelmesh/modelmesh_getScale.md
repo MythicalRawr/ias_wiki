@@ -1,0 +1,20 @@
+---
+sidebar_label: ModelMesh:getScale
+sidebar_class_name: env-tag env-shared
+title: ModelMesh:getScale
+---
+
+# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ModelMesh](../modelmesh/README.md):getScale
+
+```lua
+Vector3 ModelMesh:getScale()
+```
+
+Gets the mesh scale<br/>
+
+-----------------
+## Returns
+
+| Type   | Description |
+| ------ | ----------: |
+| [Vector3](../vector3/README.md) | No description |

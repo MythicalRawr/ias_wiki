@@ -1,0 +1,20 @@
+---
+sidebar_label: light:setPos
+sidebar_class_name: env-tag env-client
+title: light:setPos
+---
+
+# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [light](../light/README.md):setPos
+
+```lua
+void light:setPos(pos)
+```
+
+Sets the light position<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector](../vector/README.md) | pos | No description |   |

@@ -1,0 +1,20 @@
+---
+sidebar_label: Ghost:setScale
+sidebar_class_name: env-tag env-shared
+title: Ghost:setScale
+---
+
+# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Ghost](../ghost/README.md):setScale
+
+```lua
+void Ghost:setScale(pos)
+```
+
+Sets the current ghost scale<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Vector3](../vector3/README.md) | pos | No description |   |
