@@ -19,7 +19,9 @@ const init = () => {
     "utf8"
   );
 
-  new WikiExtract("./ias-lib/**/*.lua", "D:/ias_dev/ias_wiki/docs", {
+  const dest = "D:/ias_dev/ias_wiki/docs";
+
+  new WikiExtract("./ias-lib/**/*.lua", `${dest}/api`, {
     templates: {
       method: methodTemplate,
       class: classTemplate,
@@ -28,6 +30,20 @@ const init = () => {
     },
     mdTextParser: (folder, template, codeBlock) => {
       template = template.replace(/\$TITLE_NAME_CLEAN\$/g, codeBlock.title.msg);
+
+      // Override example parsing
+      let example = "";
+      if (codeBlock.commentBlock.examples.length > 0) {
+        example += "```lua {} showLineNumbers\n";
+        codeBlock.commentBlock.examples.forEach((ex) => {
+          example += `${ex}\n`;
+        });
+        example += "```\n\n";
+      }
+
+      template = template.replace(/\$EXAMPLE\$/g, example);
+      // ----
+
       return [true, template];
     },
     mdLinkParser: (type, outputFolder, data) => {
@@ -48,7 +64,11 @@ const init = () => {
 
       throw new Error(`Unknown type: ${type}`);
     },
-  }).extract();
+  })
+    .extract()
+    .then(() => {
+      fs.copyFileSync("./ias-lib/README.md", `${dest}/index.md`);
+    });
 };
 
 init();

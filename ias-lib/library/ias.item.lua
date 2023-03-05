@@ -11,14 +11,16 @@ ITEM = {}
 ---@return number
 ---* Returns the amount of items in the stack
 ---
-function ITEM:count() end
+function ITEM:count()
+end
 
 ---
 ---@env CLIENT
 ---@param path string
 ---* Update the item icon
 ---
-function ITEM:updateIcon(path) end
+function ITEM:updateIcon(path)
+end
 
 ---
 ---@env CLIENT
@@ -26,7 +28,8 @@ function ITEM:updateIcon(path) end
 ---@param packet Packet
 ---* Sends a packet to the given slot
 ---
-function ITEM:sendMessage(slot, packet) end
+function ITEM:sendMessage(slot, packet)
+end
 
 ------------------
 
@@ -34,78 +37,90 @@ function ITEM:sendMessage(slot, packet) end
 ---@env SHARED
 ---* Called when the item is initialized
 ---
-function ITEM:init() end
+function ITEM:init()
+end
 
 ---
 ---@env SHARED
 ---@param delta number
 ---* Called every update tick
 ---
-function ITEM:update(delta) end
+function ITEM:update(delta)
+end
 
 ---
 ---@env SHARED
 ---* Called when item use is canceled
 ---
-function ITEM:onCancelUse() end
+function ITEM:onCancelUse()
+end
 
 ---
 ---@env SHARED
 ---* Called when item use is preparing (only right click)
 ---
-function ITEM:onPreUse() end
+function ITEM:onPreUse()
+end
 
 ---
 ---@env SHARED
 ---* Called when item use is used (right + left click)
 ---
-function ITEM:onUse() end
+function ITEM:onUse()
+end
 
 ---
 ---@env CLIENT
 ---@param packet Packet
 ---* The data to read from the netWrite (Server). Use this to sync variables between client and server
 ---
-function ITEM:onNetRead(packet) end
+function ITEM:onNetRead(packet)
+end
 
 ---
 ---@env SERVER
 ---@param packet Packet
 ---* Called by transmitUpdate by the server to send an update (should be used to sync vars)
 ---
-function ITEM:onNetWrite(packet) end
+function ITEM:onNetWrite(packet)
+end
 
 ---
 ---@env SHARED
 ---@param slot number
 ---* Called when the item changes slots
 ---
-function ITEM:onSlotChanged(slot) end
+function ITEM:onSlotChanged(slot)
+end
 
 ---
 ---@env SHARED
 ---* Called when the item is being destroyed
 ---
-function ITEM:onDestroy() end
+function ITEM:onDestroy()
+end
 
 ---
 ---@env SHARED
 ---* Called when the item is un-selected by the player
 ---
-function ITEM:onHolster() end
+function ITEM:onHolster()
+end
 
 ---
 ---@env SHARED
 ---* Called when the item is selected by the player
 ---
-function ITEM:onDeploy() end
+function ITEM:onDeploy()
+end
 
 ---
 ---@env SHARED
 ---@param item ITEM
 ---* Called to override the check if the item can be combined.
 ---
-function ITEM:canCombine(item) end
+function ITEM:canCombine(item)
+end
 
 ---
 ---@env SHARED
@@ -125,41 +140,47 @@ function ITEM:canCombine(item) end
 ---}
 ---```
 ---
-function ITEM:getSettings() end
+function ITEM:getSettings()
+end
 
 ---
 ---@env SHARED
 ---@return Entity
 ---* Returns the current item owner
 ---
-function ITEM:getOwner() end
+function ITEM:getOwner()
+end
 
 ---
 ---@env CLIENT
 ---* Called every draw
 ---
-function ITEM:draw() end
+function ITEM:draw()
+end
 
 ---
 ---@env SHARED
 ---@param quantity? number "Default: 0"
 ---* Destroy the current item with the given quantity (if not set, destroys the whole item)
 ---
-function ITEM:destroy(quantity) end
+function ITEM:destroy(quantity)
+end
 
 ---
 ---@env SHARED
 ---@return table
 ---* Returns the item settings
 ---
-function ITEM:getSettings() end
+function ITEM:getSettings()
+end
 
 ---
 ---@env SHARED
 ---@return boolean
 ---* Returns true if the item is stackable
 ---
-function ITEM:isStackable() end
+function ITEM:isStackable()
+end
 
 ---
 ---@env SHARED
@@ -167,7 +188,8 @@ function ITEM:isStackable() end
 ---@return boolean
 ---* Returns true if the item can be combined
 ---
-function ITEM:canCombine(other) end
+function ITEM:canCombine(other)
+end
 
 ---
 ---@env SHARED
@@ -175,11 +197,13 @@ function ITEM:canCombine(other) end
 ---@return boolean
 ---* Returns true if it's the same item
 ---
-function ITEM:same(other) end
+function ITEM:same(other)
+end
 
 ---
 ---@env SHARED
 ---@return string
 ---* Returns the item unique id (class)
 ---
-function ITEM:ID() end
+function ITEM:ID()
+end
