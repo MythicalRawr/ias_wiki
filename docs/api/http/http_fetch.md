@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: http:fetch
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [http](../http/README.md):fetch
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [http](../http/README.md):fetch
 
 :::info
 Available methods: DELETE, POST, GET, PUT, HEAD, OPTIONS, PATCH

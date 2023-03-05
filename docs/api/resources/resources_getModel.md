@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: resources:getModel
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [resources](../resources/README.md):getModel
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [resources](../resources/README.md):getModel
 
 ```lua
 Model resources:getModel(path, loadFlags)

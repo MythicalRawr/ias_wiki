@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: GasNetwork:add
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [GasNetwork](../gasnetwork/README.md):add
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [GasNetwork](../gasnetwork/README.md):add
 
 ```lua
 void GasNetwork:add(gasType, amount)

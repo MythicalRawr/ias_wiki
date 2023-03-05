@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ENT:onUseViewerRemoved
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ENT](../ent/README.md):onUseViewerRemoved
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ENT](../ent/README.md):onUseViewerRemoved
 
 ```lua
 void ENT:onUseViewerRemoved(id)

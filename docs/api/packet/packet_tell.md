@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:tell
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):tell
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):tell
 
 ```lua
 number Packet:tell()

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: GasNetwork:get
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [GasNetwork](../gasnetwork/README.md):get
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [GasNetwork](../gasnetwork/README.md):get
 
 ```lua
 number GasNetwork:get(gasType)

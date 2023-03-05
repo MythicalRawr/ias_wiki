@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:readInt
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):readInt
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):readInt
 
 ```lua
 number Packet:readInt()

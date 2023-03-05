@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector:cross
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector](../vector/README.md):cross
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector](../vector/README.md):cross
 
 ```lua
 number Vector:cross(other)

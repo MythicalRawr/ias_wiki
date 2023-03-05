@@ -3,7 +3,7 @@ sidebar_label: _G.WIRE
 title: _G.WIRE
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> _G.WIRE
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> _G.WIRE
 
 
 -----------------

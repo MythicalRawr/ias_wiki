@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:onUse
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):onUse
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):onUse
 
 ```lua
 void ENT:onUse(ent)

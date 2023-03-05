@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: math.isNan
 ------
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> math.isNan
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> math.isNan
 
 ```lua
 boolean math.isNan(val)

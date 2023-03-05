@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Texture:isValid
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Texture](../texture/README.md):isValid
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Texture](../texture/README.md):isValid
 
 ```lua
 boolean Texture:isValid()

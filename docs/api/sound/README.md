@@ -3,7 +3,7 @@ sidebar_label: Sound
 title: Sound
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> Sound
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> Sound
 Sound's entry class.<br/>
 
 -----------------

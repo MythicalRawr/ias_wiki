@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: table.getKeys
 ------
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> table.getKeys
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> table.getKeys
 
 ```lua
 table table.getKeys(tbl)

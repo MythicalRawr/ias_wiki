@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: world:findInSphere
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [world](../world/README.md):findInSphere
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [world](../world/README.md):findInSphere
 
 ```lua
 ENT[] world:findInSphere(pos, distance)

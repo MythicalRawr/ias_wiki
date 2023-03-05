@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: light:setFalloffStart
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [light](../light/README.md):setFalloffStart
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [light](../light/README.md):setFalloffStart
 
 ```lua
 void light:setFalloffStart(val)

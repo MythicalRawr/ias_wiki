@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Bone:setRotation
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Bone](../bone/README.md):setRotation
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Bone](../bone/README.md):setRotation
 
 ```lua
 void Bone:setRotation(rotation)

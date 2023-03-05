@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Ghost:setAngle
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Ghost](../ghost/README.md):setAngle
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Ghost](../ghost/README.md):setAngle
 
 ```lua
 void Ghost:setAngle(ang)

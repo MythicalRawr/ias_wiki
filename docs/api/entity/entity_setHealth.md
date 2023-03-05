@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:setHealth
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):setHealth
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):setHealth
 
 ```lua
 void Entity:setHealth(health)

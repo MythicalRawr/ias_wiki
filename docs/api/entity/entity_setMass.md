@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Entity:setMass
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Entity](../entity/README.md):setMass
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Entity](../entity/README.md):setMass
 
 ```lua
 void Entity:setMass(mass)

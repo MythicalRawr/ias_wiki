@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: world:broadcastChat
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [world](../world/README.md):broadcastChat
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [world](../world/README.md):broadcastChat
 
 ```lua
 void world:broadcastChat(pos, speaker, msg, distance, color)

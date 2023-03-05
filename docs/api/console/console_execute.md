@@ -4,14 +4,14 @@ sidebar_class_name: env-tag env-shared
 title: console:execute
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [console](../console/README.md):execute
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [console](../console/README.md):execute
 
 ```lua
 boolean, string console:execute(args)
 ```
 
 Executes a console command programmatically<br/>
-```lua
+```lua {} showLineNumbers
 --my_command is the command to execute, true is a parameter
 console:execute({"my_command", "true"})
 ```

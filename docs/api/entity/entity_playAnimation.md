@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Entity:playAnimation
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Entity](../entity/README.md):playAnimation
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Entity](../entity/README.md):playAnimation
 
 ```lua
 boolean Entity:playAnimation(name, loop, speed)

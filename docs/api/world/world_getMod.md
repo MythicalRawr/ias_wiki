@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: world:getMod
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [world](../world/README.md):getMod
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [world](../world/README.md):getMod
 
 ```lua
 WorkshopMOD world:getMod(id)

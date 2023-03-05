@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ui:create
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ui](../ui/README.md):create
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ui](../ui/README.md):create
 
 ```lua
 UIBase ui:create(uiType, parent)

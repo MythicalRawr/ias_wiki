@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector:dot
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector](../vector/README.md):dot
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector](../vector/README.md):dot
 
 ```lua
 number Vector:dot(other)

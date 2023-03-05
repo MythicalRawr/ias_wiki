@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: light:isValid
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [light](../light/README.md):isValid
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [light](../light/README.md):isValid
 
 ```lua
 boolean light:isValid()

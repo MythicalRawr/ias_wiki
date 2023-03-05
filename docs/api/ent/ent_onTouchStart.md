@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: ENT:onTouchStart
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ENT](../ent/README.md):onTouchStart
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ENT](../ent/README.md):onTouchStart
 
 ```lua
 void ENT:onTouchStart(entity)

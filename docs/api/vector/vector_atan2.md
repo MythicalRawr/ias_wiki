@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector:atan2
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector](../vector/README.md):atan2
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector](../vector/README.md):atan2
 
 ```lua
 number Vector:atan2()

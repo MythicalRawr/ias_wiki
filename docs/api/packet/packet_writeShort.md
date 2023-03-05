@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:writeShort
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):writeShort
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):writeShort
 
 ```lua
 void Packet:writeShort(data)

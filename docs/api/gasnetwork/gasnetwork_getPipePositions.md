@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: GasNetwork:getPipePositions
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [GasNetwork](../gasnetwork/README.md):getPipePositions
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [GasNetwork](../gasnetwork/README.md):getPipePositions
 
 ```lua
 Vector[] GasNetwork:getPipePositions()

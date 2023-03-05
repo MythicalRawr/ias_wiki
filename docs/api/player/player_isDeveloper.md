@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Player:isDeveloper
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Player](../player/README.md):isDeveloper
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Player](../player/README.md):isDeveloper
 
 ```lua
 boolean Player:isDeveloper()

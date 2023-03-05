@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:transmitUpdate
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):transmitUpdate
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):transmitUpdate
 
 ```lua
 void ENT:transmitUpdate()

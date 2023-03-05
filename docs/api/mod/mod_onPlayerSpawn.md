@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: MOD:onPlayerSpawn
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [MOD](../mod/README.md):onPlayerSpawn
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [MOD](../mod/README.md):onPlayerSpawn
 
 ```lua
 void MOD:onPlayerSpawn(ply)

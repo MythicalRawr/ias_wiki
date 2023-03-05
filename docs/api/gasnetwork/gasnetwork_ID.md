@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: GasNetwork:ID
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [GasNetwork](../gasnetwork/README.md):ID
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [GasNetwork](../gasnetwork/README.md):ID
 
 ```lua
 number GasNetwork:ID()

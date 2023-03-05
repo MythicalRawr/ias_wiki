@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:writeInt
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):writeInt
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):writeInt
 
 ```lua
 void Packet:writeInt(data)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ITEM:onNetRead
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ITEM](../item/README.md):onNetRead
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ITEM](../item/README.md):onNetRead
 
 ```lua
 void ITEM:onNetRead(packet)

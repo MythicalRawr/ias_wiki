@@ -3,7 +3,7 @@ sidebar_label: _G.ITEM_RARITY
 title: _G.ITEM_RARITY
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> _G.ITEM_RARITY
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> _G.ITEM_RARITY
 
 
 -----------------

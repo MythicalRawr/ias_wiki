@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:onNetPacket
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):onNetPacket
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):onNetPacket
 
 ```lua
 void ENT:onNetPacket(id, packet, ply)

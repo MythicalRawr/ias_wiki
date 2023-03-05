@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ITEM:draw
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ITEM](../item/README.md):draw
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ITEM](../item/README.md):draw
 
 ```lua
 void ITEM:draw()

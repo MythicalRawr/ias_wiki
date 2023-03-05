@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: timer:exists
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [timer](../timer/README.md):exists
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [timer](../timer/README.md):exists
 
 ```lua
 boolean timer:exists(id)

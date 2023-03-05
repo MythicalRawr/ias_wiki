@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: hooks:add
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [hooks](../hooks/README.md):add
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [hooks](../hooks/README.md):add
 
 ```lua
 void hooks:add(hookId, hookName, callback)

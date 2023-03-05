@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: MOD:onPlayerJoin
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [MOD](../mod/README.md):onPlayerJoin
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [MOD](../mod/README.md):onPlayerJoin
 
 ```lua
 void MOD:onPlayerJoin(ply)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: world:add3DText
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [world](../world/README.md):add3DText
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [world](../world/README.md):add3DText
 
 ```lua
 void world:add3DText(speaker, msg, color)

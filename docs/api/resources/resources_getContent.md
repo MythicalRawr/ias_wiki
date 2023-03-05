@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: resources:getContent
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [resources](../resources/README.md):getContent
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [resources](../resources/README.md):getContent
 
 ```lua
 void resources:getContent(path)

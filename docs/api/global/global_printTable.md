@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: printTable
 ------
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> printTable
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> printTable
 
 ```lua
 void printTable(tbl)

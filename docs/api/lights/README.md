@@ -3,6 +3,6 @@ sidebar_label: lights
 title: lights
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> lights
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> lights
 lights's entry class<br/>
 

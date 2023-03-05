@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:onPowerAvailable
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):onPowerAvailable
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):onPowerAvailable
 
 ```lua
 number ENT:onPowerAvailable(id)

@@ -1,7 +1,7 @@
 ---
-title: Markdown page example
+title: It's Absolutely Safe
 ---
 
-# Markdown page example
+# It's Absolutely Safe
 
-You don't need React to write simple standalone pages.
+TODO

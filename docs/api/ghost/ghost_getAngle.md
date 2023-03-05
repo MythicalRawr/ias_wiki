@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Ghost:getAngle
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Ghost](../ghost/README.md):getAngle
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Ghost](../ghost/README.md):getAngle
 
 ```lua
 number Ghost:getAngle()

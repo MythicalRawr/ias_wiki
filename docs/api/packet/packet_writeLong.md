@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:writeLong
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):writeLong
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):writeLong
 
 ```lua
 void Packet:writeLong(data)

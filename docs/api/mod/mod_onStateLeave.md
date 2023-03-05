@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: MOD:onStateLeave
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [MOD](../mod/README.md):onStateLeave
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [MOD](../mod/README.md):onStateLeave
 
 ```lua
 void MOD:onStateLeave(state)

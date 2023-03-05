@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: resources:getTexture
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [resources](../resources/README.md):getTexture
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [resources](../resources/README.md):getTexture
 
 ```lua
 Texture resources:getTexture(path, loadFlags)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Tile:addGas
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Tile](../tile/README.md):addGas
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Tile](../tile/README.md):addGas
 
 ```lua
 void Tile:addGas(gasType, amount)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: io:load
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [io](../io/README.md):load
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [io](../io/README.md):load
 
 ```lua
 string, string io:load(path)

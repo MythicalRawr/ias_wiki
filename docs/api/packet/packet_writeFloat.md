@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:writeFloat
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):writeFloat
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):writeFloat
 
 ```lua
 void Packet:writeFloat(data)

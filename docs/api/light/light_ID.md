@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: light:ID
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [light](../light/README.md):ID
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [light](../light/README.md):ID
 
 ```lua
 number light:ID()

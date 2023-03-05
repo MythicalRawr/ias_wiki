@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: world:create
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [world](../world/README.md):create
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [world](../world/README.md):create
 
 ```lua
 ENT world:create(class, parent)

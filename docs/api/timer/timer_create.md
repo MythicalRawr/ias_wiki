@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: timer:create
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [timer](../timer/README.md):create
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [timer](../timer/README.md):create
 
 ```lua
 timerObj timer:create(id, interval, ticks, callback)

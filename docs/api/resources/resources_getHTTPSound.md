@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: resources:getHTTPSound
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [resources](../resources/README.md):getHTTPSound
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [resources](../resources/README.md):getHTTPSound
 
 :::warning
 If blocking is set, the sound will be destroyed after playing.

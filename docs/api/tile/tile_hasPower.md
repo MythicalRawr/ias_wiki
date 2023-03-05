@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Tile:hasPower
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Tile](../tile/README.md):hasPower
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Tile](../tile/README.md):hasPower
 
 ```lua
 boolean Tile:hasPower()

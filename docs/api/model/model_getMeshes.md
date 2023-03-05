@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Model:getMeshes
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Model](../model/README.md):getMeshes
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Model](../model/README.md):getMeshes
 
 ```lua
 ModelMesh[] Model:getMeshes()

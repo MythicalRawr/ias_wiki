@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Bone:getRotation
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Bone](../bone/README.md):getRotation
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Bone](../bone/README.md):getRotation
 
 ```lua
 Vector3 Bone:getRotation()

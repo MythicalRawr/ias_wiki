@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: ModelMesh:getColor
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ModelMesh](../modelmesh/README.md):getColor
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ModelMesh](../modelmesh/README.md):getColor
 
 ```lua
 Color ModelMesh:getColor()

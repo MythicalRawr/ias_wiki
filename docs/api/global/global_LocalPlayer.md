@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: LocalPlayer
 ------
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> LocalPlayer
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> LocalPlayer
 
 ```lua
 Player LocalPlayer()

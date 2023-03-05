@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:sendPacket
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):sendPacket
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):sendPacket
 
 ```lua
 void Entity:sendPacket(id, ply, packet, reliable)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: ITEM:same
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ITEM](../item/README.md):same
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ITEM](../item/README.md):same
 
 ```lua
 boolean ITEM:same(other)

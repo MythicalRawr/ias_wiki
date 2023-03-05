@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: MOD:onStateEnter
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [MOD](../mod/README.md):onStateEnter
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [MOD](../mod/README.md):onStateEnter
 
 ```lua
 void MOD:onStateEnter(state)

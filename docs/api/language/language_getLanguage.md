@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: language:getLanguage
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [language](../language/README.md):getLanguage
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [language](../language/README.md):getLanguage
 
 ```lua
 string language:getLanguage()

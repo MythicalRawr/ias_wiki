@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector:distance
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector](../vector/README.md):distance
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector](../vector/README.md):distance
 
 ```lua
 number Vector:distance(other)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: fmt:format
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> ~~[fmt](../fmt/README.md):format~~
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> ~~[fmt](../fmt/README.md):format~~
 
 > ⚠ Deprecated: Use string.format instead
 

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Bone:setPosition
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Bone](../bone/README.md):setPosition
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Bone](../bone/README.md):setPosition
 
 ```lua
 void Bone:setPosition(position)

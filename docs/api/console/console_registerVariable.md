@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: console:registerVariable
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [console](../console/README.md):registerVariable
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [console](../console/README.md):registerVariable
 
 :::warning
 Console commands should be registered on the MOD:init() function
@@ -19,7 +19,7 @@ void console:registerVariable(command, var, description, flags)
 ```
 
 Registers a new console command<br/>
-```lua
+```lua {} showLineNumbers
 local myVar = false
 console:registerVariable("my_command", myVar, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Admin only and requires cheats enabled
 ```

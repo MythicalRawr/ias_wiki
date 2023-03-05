@@ -13,29 +13,91 @@
     --ifm-color-primary-light: #33925d;
     --ifm-color-primary-lighter: #359962;
     --ifm-color-primary-lightest: #3cad6e;
+
     --ifm-code-font-size: 95%;
+    --ifm-hr-background-color: #484848;
+
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+    --ifm-table-background: #090a1196;
+    --ifm-table-border-color: #000;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-    --ifm-color-primary: #25c2a0;
-    --ifm-color-primary-dark: #21af90;
-    --ifm-color-primary-darker: #1fa588;
-    --ifm-color-primary-darkest: #1a8870;
-    --ifm-color-primary-light: #29d5b0;
-    --ifm-color-primary-lighter: #32d8b4;
-    --ifm-color-primary-lightest: #4fddbf;
+    --ifm-color-primary: #16ffa6;
+    --ifm-color-primary-dark: #00f99a;
+    --ifm-color-primary-darker: #00eb92;
+    --ifm-color-primary-darkest: #00c278;
+    --ifm-color-primary-light: #32ffb1;
+    --ifm-color-primary-lighter: #40ffb6;
+    --ifm-color-primary-lightest: #69ffc6;
+
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
 
+html[data-theme='dark'] {
+    --ifm-background-color: #191b20;
+    --ifm-navbar-background-color: #0e0e0f;
+    --ifm-table-stripe-background: rgb(0 0 0 / 7%);
+}
+
 [data-theme='dark'] .DocSearch {
+    --docsearch-muted-color: rgb(148, 148, 148);
+    --docsearch-searchbox-background: #1c1c1f;
+    --docsearch-searchbox-focus-background: var(--ifm-color-black);
+
     width: 40vw;
 }
 
+[data-theme='dark'] .DocSearch-Modal {
+    --docsearch-modal-background: #0e0e0f;
+    --docsearch-modal-shadow: inset 1px 1px 0 0 #0c0c0e, 0 3px 8px 0 #000309;
+}
+
+[data-theme='dark'] .DocSearch-Button:hover {
+    --docsearch-searchbox-focus-background: #242429;
+    box-shadow: unset;
+}
+
+[data-theme='dark'] .DocSearch-Form {
+    --docsearch-searchbox-focus-background: #1c1c1f;
+    box-shadow: unset;
+}
+
+[data-theme='dark'] .DocSearch-Footer {
+    --docsearch-footer-background: #101116;
+    --docsearch-footer-shadow: inset 0 1px 0 0 rgba(0, 0, 0, 0.5), 0 -4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+[data-theme='dark'] .DocSearch-Container {
+    width: 100vw;
+}
+
+[data-theme='dark'] .DocSearch-MagnifierLabel {
+    color: white;
+}
+
 // Make it full wide support
-.container {
+main > .container {
     margin: 0 40px 0 40px;
-    max-width: calc(100% - 16px);
-    padding: 0;
+    max-width: initial !important;
+}
+
+.theme-code-block {
+    border-bottom: solid 2px #0d0d10;
+    border-right: solid 1px #111116;
+}
+
+.footer--dark {
+    --ifm-footer-background-color: #0e0e0f;
+
+    padding-top: 4px;
+    padding-bottom: 4px;
+
+    color: #a1a1a1;
+}
+
+table thead tr {
+    background-color: #14162596;
 }

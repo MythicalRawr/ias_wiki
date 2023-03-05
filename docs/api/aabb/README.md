@@ -3,7 +3,7 @@ sidebar_label: AABB
 title: AABB
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> AABB
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> AABB
 AABB's entry class<br/>
 
 -----------------

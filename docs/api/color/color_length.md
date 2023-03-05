@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Color:length
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Color](../color/README.md):length
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Color](../color/README.md):length
 
 ```lua
 number Color:length()

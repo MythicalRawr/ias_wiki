@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:heal
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):heal
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):heal
 
 :::info
 Entity needs to be alive to heal

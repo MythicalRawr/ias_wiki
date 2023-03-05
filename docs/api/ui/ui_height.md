@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ui:height
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ui](../ui/README.md):height
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ui](../ui/README.md):height
 
 ```lua
 number ui:height()

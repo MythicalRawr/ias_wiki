@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:setUsesTile
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):setUsesTile
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):setUsesTile
 
 ```lua
 void Entity:setUsesTile(set)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Player:cancelUse
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Player](../player/README.md):cancelUse
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Player](../player/README.md):cancelUse
 
 ```lua
 boolean Player:cancelUse()

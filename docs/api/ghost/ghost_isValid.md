@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Ghost:isValid
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Ghost](../ghost/README.md):isValid
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Ghost](../ghost/README.md):isValid
 
 ```lua
 boolean Ghost:isValid()

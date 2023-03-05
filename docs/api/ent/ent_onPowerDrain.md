@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:onPowerDrain
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):onPowerDrain
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):onPowerDrain
 
 ```lua
 void ENT:onPowerDrain(id, amount)

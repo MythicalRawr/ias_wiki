@@ -1,14 +1,12 @@
 // @ts-check
-// Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const codeTheme = require('./src/utils/prismDark.js');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
     title: "It's Absolutely Safe",
     tagline: 'Dev Wiki',
-    favicon: 'img/favicon.ico',
+    favicon: '/img/game_icon.ico',
 
     url: 'https://iaswiki.rawr.dev/',
     baseUrl: '/',
@@ -36,6 +34,12 @@ const config = {
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
                     editUrl: 'https://github.com/MythicalRawr/ias_wiki/tree/wiki/docs',
+                    showLastUpdateAuthor: true,
+                    showLastUpdateTime: true,
+                    admonitions: {
+                        tag: ':::',
+                        keywords: ['info', 'error', 'warning'],
+                    },
                 },
                 theme: {
                     customCss: [require.resolve('./src/css/index.scss')],
@@ -59,16 +63,16 @@ const config = {
                         type: 'doc',
                         docId: 'index',
                         position: 'left',
-                        label: 'Wiki',
+                        label: 'WIKI',
                     },
                     {
                         type: 'search',
                         position: 'right',
                     },
-                    {
+                    /*{
                         type: 'localeDropdown',
                         position: 'right',
-                    },
+                    },*/
                     {
                         type: 'docsVersionDropdown',
                         position: 'right',
@@ -116,8 +120,9 @@ const config = {
                 copyright: `Copyright © ${new Date().getFullYear()} MythicalRawr 🐲. Built with Docusaurus 🦖`,
             },
             prism: {
-                darkTheme: darkCodeTheme,
-                theme: lightCodeTheme,
+                darkTheme: codeTheme,
+                theme: codeTheme,
+
                 additionalLanguages: ['lua'],
             },
             colorMode: {

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector3:length
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector3](../vector3/README.md):length
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector3](../vector3/README.md):length
 
 ```lua
 number Vector3:length()

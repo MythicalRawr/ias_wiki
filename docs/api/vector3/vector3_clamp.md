@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Vector3:clamp
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Vector3](../vector3/README.md):clamp
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Vector3](../vector3/README.md):clamp
 
 ```lua
 Vector3 Vector3:clamp(min, max)

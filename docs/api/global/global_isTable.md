@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: isTable
 ------
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> isTable
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> isTable
 
 ```lua
 boolean isTable(el)

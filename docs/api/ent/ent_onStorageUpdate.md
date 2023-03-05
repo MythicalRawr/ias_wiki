@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: ENT:onStorageUpdate
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [ENT](../ent/README.md):onStorageUpdate
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [ENT](../ent/README.md):onStorageUpdate
 
 ```lua
 void ENT:onStorageUpdate(slot)

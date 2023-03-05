@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Packet:readEntity
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Packet](../packet/README.md):readEntity
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Packet](../packet/README.md):readEntity
 
 ```lua
 ENT Packet:readEntity()

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: light:setPos
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [light](../light/README.md):setPos
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [light](../light/README.md):setPos
 
 ```lua
 void light:setPos(pos)

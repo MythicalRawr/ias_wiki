@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: PathFinder:calculate
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [PathFinder](../pathfinder/README.md):calculate
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [PathFinder](../pathfinder/README.md):calculate
 
 ```lua
 table PathFinder:calculate(from, to)

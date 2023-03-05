@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Entity:hasItemById
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Entity](../entity/README.md):hasItemById
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Entity](../entity/README.md):hasItemById
 
 ```lua
 boolean Entity:hasItemById(id)

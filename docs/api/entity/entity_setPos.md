@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Entity:setPos
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Entity](../entity/README.md):setPos
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Entity](../entity/README.md):setPos
 
 ```lua
 void Entity:setPos(pos)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: console:print
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [console](../console/README.md):print
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [console](../console/README.md):print
 
 ```lua
 void console:print(text, type)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Bone:getName
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Bone](../bone/README.md):getName
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Bone](../bone/README.md):getName
 
 ```lua
 string Bone:getName()

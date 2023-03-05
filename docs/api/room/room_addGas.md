@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Room:addGas
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Room](../room/README.md):addGas
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Room](../room/README.md):addGas
 
 ```lua
 void Room:addGas(gasType, amount)

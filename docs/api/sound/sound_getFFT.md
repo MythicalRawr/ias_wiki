@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Sound:getFFT
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Sound](../sound/README.md):getFFT
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Sound](../sound/README.md):getFFT
 
 :::warning
 Supported FFT Sizes: 256, 512, 1024, 2048

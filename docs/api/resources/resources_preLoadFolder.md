@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: resources:preLoadFolder
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [resources](../resources/README.md):preLoadFolder
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [resources](../resources/README.md):preLoadFolder
 
 ```lua
 void resources:preLoadFolder(folder)

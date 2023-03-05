@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Entity:setRotation
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Entity](../entity/README.md):setRotation
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Entity](../entity/README.md):setRotation
 
 ```lua
 void Entity:setRotation(rot)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: ITEM:ID
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ITEM](../item/README.md):ID
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ITEM](../item/README.md):ID
 
 ```lua
 string ITEM:ID()

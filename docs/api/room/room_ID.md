@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Room:ID
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Room](../room/README.md):ID
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Room](../room/README.md):ID
 
 ```lua
 number Room:ID()

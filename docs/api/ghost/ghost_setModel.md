@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Ghost:setModel
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Ghost](../ghost/README.md):setModel
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Ghost](../ghost/README.md):setModel
 
 ```lua
 void Ghost:setModel(mdl)

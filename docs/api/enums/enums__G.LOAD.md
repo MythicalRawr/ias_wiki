@@ -3,7 +3,7 @@ sidebar_label: _G.LOAD
 title: _G.LOAD
 ---
 
-# <img src='/img/wiki/base.png' alt='base' classname='env-tag' /> _G.LOAD
+# <img src='/img/wiki/base.png' alt='base' data-tag='env-tag' /> _G.LOAD
 
 
 -----------------

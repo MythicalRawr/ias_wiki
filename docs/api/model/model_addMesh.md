@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Model:addMesh
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Model](../model/README.md):addMesh
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Model](../model/README.md):addMesh
 
 ```lua
 void Model:addMesh(mesh)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:removeUseViewer
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):removeUseViewer
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):removeUseViewer
 
 ```lua
 void Entity:removeUseViewer(id)

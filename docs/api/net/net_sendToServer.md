@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: net:sendToServer
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [net](../net/README.md):sendToServer
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [net](../net/README.md):sendToServer
 
 ```lua
 void net:sendToServer(netId, msg, reliable)

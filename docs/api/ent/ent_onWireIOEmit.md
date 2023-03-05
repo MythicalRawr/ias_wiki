@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ENT:onWireIOEmit
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ENT](../ent/README.md):onWireIOEmit
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ENT](../ent/README.md):onWireIOEmit
 
 ```lua
 void ENT:onWireIOEmit(id, hasSignal)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Player:moveItem
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Player](../player/README.md):moveItem
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Player](../player/README.md):moveItem
 
 :::info
 The moving player must be marked as a viewer on server and be within range of both inventories!

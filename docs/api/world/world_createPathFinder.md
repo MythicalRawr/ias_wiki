@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: world:createPathFinder
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [world](../world/README.md):createPathFinder
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [world](../world/README.md):createPathFinder
 
 ```lua
 PathFinder world:createPathFinder(building)

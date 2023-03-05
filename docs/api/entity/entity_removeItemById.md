@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Entity:removeItemById
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Entity](../entity/README.md):removeItemById
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Entity](../entity/README.md):removeItemById
 
 ```lua
 boolean Entity:removeItemById(id, amount)

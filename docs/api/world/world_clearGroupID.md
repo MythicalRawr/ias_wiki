@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: world:clearGroupID
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [world](../world/README.md):clearGroupID
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [world](../world/README.md):clearGroupID
 
 ```lua
 void world:clearGroupID(groupid)

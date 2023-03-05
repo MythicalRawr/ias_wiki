@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: ModelMesh:getUV
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [ModelMesh](../modelmesh/README.md):getUV
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ModelMesh](../modelmesh/README.md):getUV
 
 ```lua
 Vector ModelMesh:getUV()

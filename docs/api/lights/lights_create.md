@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: lights:create
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [lights](../lights/README.md):create
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [lights](../lights/README.md):create
 
 :::warning
 MAKE SURE YOU REMOVE THE LIGHT AFTER YOU ARE DONE WITH IT

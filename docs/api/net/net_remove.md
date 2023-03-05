@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: net:remove
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [net](../net/README.md):remove
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [net](../net/README.md):remove
 
 ```lua
 void net:remove(netId, hookName)

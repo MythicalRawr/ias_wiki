@@ -4,12 +4,18 @@ sidebar_class_name: env-tag env-shared
 title: console:registerMethod
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [console](../console/README.md):registerMethod
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [console](../console/README.md):registerMethod
 
 :::warning
 Console commands should be registered on the MOD:init() function
 :::
 :::warning
+The command id needs to be unique
+:::
+:::error
+The command id needs to be unique
+:::
+:::info
 The command id needs to be unique
 :::
 
@@ -19,7 +25,7 @@ void console:registerMethod(command, callback, description, flags)
 ```
 
 Registers a new console command<br/>
-```lua
+```lua {} showLineNumbers
 console:registerMethod("my_command", function(args, userID)
 if #args <= 1 then return false, "Missing arguments" end
 

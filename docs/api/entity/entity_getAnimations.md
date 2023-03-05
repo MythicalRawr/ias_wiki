@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Entity:getAnimations
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Entity](../entity/README.md):getAnimations
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Entity](../entity/README.md):getAnimations
 
 ```lua
 table Entity:getAnimations()

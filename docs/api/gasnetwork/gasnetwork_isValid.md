@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: GasNetwork:isValid
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [GasNetwork](../gasnetwork/README.md):isValid
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [GasNetwork](../gasnetwork/README.md):isValid
 
 ```lua
 boolean GasNetwork:isValid()

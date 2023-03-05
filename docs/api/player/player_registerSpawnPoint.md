@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: Player:registerSpawnPoint
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [Player](../player/README.md):registerSpawnPoint
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [Player](../player/README.md):registerSpawnPoint
 
 ```lua
 void Player:registerSpawnPoint(ent)

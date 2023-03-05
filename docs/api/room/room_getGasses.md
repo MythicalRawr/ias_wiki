@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Room:getGasses
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Room](../room/README.md):getGasses
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Room](../room/README.md):getGasses
 
 ```lua
 table Room:getGasses()

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: string.format
 ------
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> string.format
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> string.format
 
 ```lua
 string string.format(str, ...)

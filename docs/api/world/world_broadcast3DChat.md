@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: world:broadcast3DChat
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [world](../world/README.md):broadcast3DChat
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [world](../world/README.md):broadcast3DChat
 
 ```lua
 void world:broadcast3DChat(pos, speaker, msg, color, groupid, distance)

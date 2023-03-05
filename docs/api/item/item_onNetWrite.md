@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-server
 title: ITEM:onNetWrite
 ---
 
-# <img src='/img/wiki/server.png' alt='server' classname='env-tag' /> [ITEM](../item/README.md):onNetWrite
+# <img src='/img/wiki/server.png' alt='server' data-tag='env-tag' /> [ITEM](../item/README.md):onNetWrite
 
 ```lua
 void ITEM:onNetWrite(packet)

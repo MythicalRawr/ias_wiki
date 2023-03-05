@@ -4,5 +4,5 @@ sidebar_class_name: env-tag env-global
 title: PLAYER_SPEED
 ---
 
-# <img src='/img/wiki/global.png' alt='global' classname='env-tag' /> **_G**.PLAYER_SPEED
+# <img src='/img/wiki/global.png' alt='global' data-tag='env-tag' /> **_G**.PLAYER_SPEED
 Returns the max walking speed of the player<br/>

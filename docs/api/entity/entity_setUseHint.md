@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: Entity:setUseHint
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [Entity](../entity/README.md):setUseHint
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [Entity](../entity/README.md):setUseHint
 
 ```lua
 void Entity:setUseHint(hint, texture)

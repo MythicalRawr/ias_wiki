@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-client
 title: worldDebug:box
 ---
 
-# <img src='/img/wiki/client.png' alt='client' classname='env-tag' /> [worldDebug](../worlddebug/README.md):box
+# <img src='/img/wiki/client.png' alt='client' data-tag='env-tag' /> [worldDebug](../worlddebug/README.md):box
 
 ```lua
 void worldDebug:box(pos, ttl, size, color, outline)

@@ -4,7 +4,7 @@ sidebar_class_name: env-tag env-shared
 title: Entity:getTile
 ---
 
-# <img src='/img/wiki/shared.png' alt='shared' classname='env-tag' /> [Entity](../entity/README.md):getTile
+# <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Entity](../entity/README.md):getTile
 
 ```lua
 Tile Entity:getTile()
