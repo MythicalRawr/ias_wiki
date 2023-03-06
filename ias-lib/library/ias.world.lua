@@ -13,7 +13,8 @@ world = {}
 ---@return ENT
 ---* Creates and spawns a new entity on the world
 ---
-function world:create(class, parent) end
+function world:create(class, parent)
+end
 
 ---
 ---@env SHARED
@@ -21,7 +22,8 @@ function world:create(class, parent) end
 ---@return ENT
 ---* Finds an entity in the world by id
 ---
-function world:find(id) end
+function world:find(id)
+end
 
 ---
 ---@env SHARED
@@ -29,7 +31,8 @@ function world:find(id) end
 ---@return ENT[]
 ---* Finds entities in the world by class type (EX: entity_ship)
 ---
-function world:findByClass(class) end
+function world:findByClass(class)
+end
 
 ---
 ---@env SHARED
@@ -38,7 +41,8 @@ function world:findByClass(class) end
 ---@return ENT[]
 ---* Finds entities in the world in a sphere radius
 ---
-function world:findInSphere(pos, distance) end
+function world:findInSphere(pos, distance)
+end
 
 ---
 ---@env SHARED
@@ -48,7 +52,8 @@ function world:findInSphere(pos, distance) end
 ---@return ENT[]
 ---* Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)
 ---
-function world:findInSphereByClass(class, pos, distance) end
+function world:findInSphereByClass(class, pos, distance)
+end
 
 ---
 ---@env CLIENT
@@ -59,7 +64,8 @@ function world:findInSphereByClass(class, pos, distance) end
 ---@param groupid? number "Default: 0"
 ---* Creates a client side 3d chat text
 ---
-function world:add3DText(pos, speaker, msg, color, groupid) end
+function world:add3DText(pos, speaker, msg, color, groupid)
+end
 
 ---
 ---@env CLIENT
@@ -68,14 +74,16 @@ function world:add3DText(pos, speaker, msg, color, groupid) end
 ---@param color? Color "Default: white"
 ---* Creates a client side chat text
 ---
-function world:add3DText(speaker, msg, color) end
+function world:add3DText(speaker, msg, color)
+end
 
 ---
 ---@env CLIENT
 ---@param groupid number
 ---* Clears all the messaged with that group ID (3d only)
 ---
-function world:clearGroupID(groupid) end
+function world:clearGroupID(groupid)
+end
 
 ---
 ---@env SERVER
@@ -88,7 +96,8 @@ function world:clearGroupID(groupid) end
 ---* Creates a 3D chat on the given position to all players
 ---* Distance controls how readable the text is
 ---
-function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
+function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance)
+end
 
 ---
 ---@env SERVER
@@ -100,7 +109,8 @@ function world:broadcast3DChat(pos, speaker, msg, color, groupid, distance) end
 ---* Creates a chat on the given position to all players
 ---* Distance controls how readable the text is
 ---
-function world:broadcastChat(pos, speaker, msg, distance, color) end
+function world:broadcastChat(pos, speaker, msg, distance, color)
+end
 
 ---
 ---@env SERVER
@@ -108,7 +118,8 @@ function world:broadcastChat(pos, speaker, msg, distance, color) end
 ---@return PathFinder
 ---* Creates a PathFinder object for the given building
 ---
-function world:createPathFinder(building) end
+function world:createPathFinder(building)
+end
 
 ---
 ---@env SHARED
@@ -116,7 +127,8 @@ function world:createPathFinder(building) end
 ---@return table
 ---* Gets the given item id settings
 ---
-function world:getItemSettings(id) end
+function world:getItemSettings(id)
+end
 
 ---
 ---@env SHARED
@@ -124,4 +136,5 @@ function world:getItemSettings(id) end
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found
 ---
-function world:getMod(id) end
+function world:getMod(id)
+end

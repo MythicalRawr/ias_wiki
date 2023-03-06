@@ -18,13 +18,15 @@ console = {}
 ---console:execute({"my_command", "true"})
 ---```
 ---
-function console:execute(args) end
+function console:execute(args)
+end
 
 ---
 ---@env SHARED
 ---* Clears the console
 ---
-function console:clear() end
+function console:clear()
+end
 
 ---
 ---@env SHARED
@@ -32,14 +34,15 @@ function console:clear() end
 ---@param type? CONSOLE.LOG "Default: CONSOLE.LOG.DEBUG"
 ---* Prints the text on the console
 ---
-function console:print(text, type) end
+function console:print(text, type)
+end
 
 ---
 ---@env SHARED
 ---@param command string
 ---@param callback function "fun(args: string[], userID: number): success: boolean, msg: string"
----@param description? string "Default: <Empty>"
----@param flags? CONSOLE.FLAGS "Default: <Empty>"
+---@param description? string ""
+---@param flags? CONSOLE.FLAGS ""
 ---@hint @warning "Console commands should be registered on the MOD:init() function"
 ---@hint @warning "The command id needs to be unique"
 ---* Registers a new console command
@@ -53,14 +56,15 @@ function console:print(text, type) end
 ---end, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Admin only and requires cheats enabled
 ---```
 ---
-function console:registerMethod(command, callback, description, flags) end
+function console:registerMethod(command, callback, description, flags)
+end
 
 ---
 ---@env SHARED
 ---@param command string
 ---@param var number|string|boolean
----@param description? string "Default: <Empty>"
----@param flags? CONSOLE.FLAGS "Default: <Empty>"
+---@param description? string "Default: ''"
+---@param flags? CONSOLE.FLAGS "Default: ''"
 ---@hint @warning "Console commands should be registered on the MOD:init() function"
 ---@hint @warning "The command id needs to be unique"
 ---* Registers a new console command
@@ -70,4 +74,5 @@ function console:registerMethod(command, callback, description, flags) end
 ---console:registerVariable("my_command", myVar, "My command description", CONSOLE.FLAGS.CHEATS | CONSOLE.FLAGS.ADMIN) -- Admin only and requires cheats enabled
 ---```
 ---
-function console:registerVariable(command, var, description, flags) end
+function console:registerVariable(command, var, description, flags)
+end

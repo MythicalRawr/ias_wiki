@@ -1,54 +1,67 @@
-name: 'GENERATE WIKI'
+name: "GENERATE WIKI"
 on:
-    push:
-        tags:
-            - v*
+  push:
+    tags:
+      - v*
 jobs:
-    build:
-        permissions:
-            contents: write
-            pull-requests: write
-        runs-on: ubuntu-latest
-        steps:
-            - uses: actions/checkout@v3
-              with:
-                  ref: ${{ github.head_ref }}
-                  fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
-            - uses: actions/setup-node@v3
-              with:
-                  node-version: '18.x'
-                  registry-url: 'https://registry.npmjs.org'
+  build:
+    permissions:
+      contents: write
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          ref: ${{ github.head_ref }}
+          fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
+      - uses: actions/setup-node@v3
+        with:
+          node-version: "18.x"
+          registry-url: "https://registry.npmjs.org"
 
-            - name: Setup git
-              run: |
-                  git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
+      - name: Setup git
+        run: |
+          git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
 
-            - name: Get yarn cache directory path
-              id: yarn-cache-dir-path
-              run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
+      - name: Get yarn cache directory path
+        id: yarn-cache-dir-path
+        run: echo "::set-output name=dir::$(yarn config get cacheFolder)"
 
-            - uses: actions/cache@v3
-              id: yarn-cache
-              with:
-                  path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
-                  key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-                  restore-keys: |
-                      ${{ runner.os }}-yarn-
+      - uses: actions/cache@v3
+        id: yarn-cache
+        with:
+          path: ${{ steps.yarn-cache-dir-path.outputs.dir }}
+          key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-yarn-
 
-            - run: yarn install
-            - run: yarn start
-              env:
-                  NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - run: yarn install
+      - run: yarn start
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-            - name: Commit files
-              run: |
-                  git stash --all
+      - name: Re-generate wiki
+        run: |
+          git stash --all
+          git checkout wiki
+          git stash pop
 
-                  git checkout wiki
-                  rm -rf ./readme && rm -rf ./SUMMARY.md
+          git add --all
+          git commit --allow-empty -m "Re-generate wiki" -a
+          git push origin wiki
 
-                  git stash pop
-                  git add --all
-                  git commit --allow-empty -m "Re-generate wiki" -a
-                  git push origin wiki
+      - name: Generate Docusarus website
+        run: |
+          yarn install
+          yarn build
+
+      - name: Deploy Docusarus
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_DEPLOY }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: ias-wiki
+          directory: .bin
+          branch: wiki
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
