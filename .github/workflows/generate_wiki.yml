@@ -45,7 +45,8 @@ jobs:
               run: |
                   git stash --all
                   git checkout wiki
-                  git stash apply
+
+                  git stash pop
 
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
