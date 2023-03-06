@@ -1,11 +1,13 @@
 name: 'RELEASE LIB'
 on:
-    push: master
+    push:
+        branches: master
+    workflow_dispatch:
+permissions:
+    contents: write
+    pull-requests: write
 jobs:
     deploy:
-        permissions:
-            contents: write
-            pull-requests: write
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
