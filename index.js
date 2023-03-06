@@ -1,4 +1,6 @@
 const fs = require("fs");
+const path = require("path");
+
 const { WikiExtract } = require("@edunad/lua-wiki-generator");
 
 const init = () => {
@@ -19,16 +21,47 @@ const init = () => {
     "utf8"
   );
 
-  const dest = "D:/ias_dev/ias_wiki/docs";
+  const dest = "./docs";
+  const libPath = "./ias-lib/library";
 
-  new WikiExtract("./ias-lib/**/*.lua", `${dest}/api`, {
+  new WikiExtract(libPath, `${dest}/api`, {
+    glob: "**/*.lua",
     templates: {
       method: methodTemplate,
       class: classTemplate,
       extension: extensionTemplate,
       gvar: gvarTemplate,
     },
-    mdTextParser: (folder, template, codeBlock) => {
+    silent: false,
+    mdFolderParser: (file) => {
+      const fixedPath = file.replace(`${libPath}/`, "");
+      return fixedPath.replace("ias.", "").replace(".lua", "");
+    },
+    mdLinkParser: (type, linkMap, data) => {
+      const link = linkMap[data.title?.link ?? data.link];
+
+      if (type === "$TITLE_NAME$") {
+        if (link)
+          return `[${data.title.link}](../${link
+            .replace("ias.", "")
+            .replace(".lua", "")}/README.md)${data.title.msg.replace(
+            data.title.link,
+            ""
+          )}`;
+        return `${data.title.msg}`;
+      } else if (
+        type === "$PARAMETERS$" ||
+        type === "$RETURNS$" ||
+        type === "$FIELDS$"
+      ) {
+        if (link)
+          return `[${data.link}](../${link
+            .replace("ias.", "")
+            .replace(".lua", "")}/README.md)`;
+        return `${data.link}`;
+      }
+    },
+    mdTextParser: (linkMap, template, codeBlock) => {
       template = template.replace(/\$TITLE_NAME_CLEAN\$/g, codeBlock.title.msg);
 
       // Override example parsing
@@ -45,24 +78,6 @@ const init = () => {
       // ----
 
       return [true, template];
-    },
-    mdLinkParser: (type, outputFolder, data) => {
-      if (type === "$TITLE_NAME$") {
-        return `[${
-          data.title.link
-        }](../${data.title.link.toLowerCase()}/README.md)${data.title.msg.replace(
-          data.title.link,
-          ""
-        )}`;
-      } else if (
-        type === "$PARAMETERS$" ||
-        type === "$RETURNS$" ||
-        type === "$FIELDS$"
-      ) {
-        return `[${data.link}](../${data.link.toLowerCase()}/README.md)`;
-      }
-
-      throw new Error(`Unknown type: ${type}`);
     },
   })
     .extract()
