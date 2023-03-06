@@ -1,6 +1,10 @@
 // @ts-check
 
+'use strict';
+
 const codeTheme = require('./src/utils/prismDark.js');
+//const remarkGitContributors = require('remark-git-contributors');
+//const remarkGithub = require('remark-github');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -16,8 +20,8 @@ const config = {
     organizationName: 'MythicalRawr', // Usually your GitHub org/user name.
     projectName: 'ias_wiki', // Usually your repo name.
 
-    //onBrokenLinks: 'throw',
-    //onBrokenMarkdownLinks: 'warn',
+    onBrokenLinks: 'throw',
+    onBrokenMarkdownLinks: 'throw',
 
     i18n: {
         defaultLocale: 'en',
@@ -33,13 +37,16 @@ const config = {
             ({
                 docs: {
                     sidebarPath: require.resolve('./sidebars.js'),
-                    editUrl: 'https://github.com/MythicalRawr/ias_wiki/tree/wiki/docs',
+                    editUrl: 'https://github.com/MythicalRawr/ias_wiki/tree/master/ias-lib',
                     showLastUpdateAuthor: true,
                     showLastUpdateTime: true,
                     admonitions: {
                         tag: ':::',
                         keywords: ['info', 'error', 'warning'],
                     },
+                    remarkPlugins: [
+                        //remarkGitContributors
+                    ],
                 },
                 theme: {
                     customCss: [require.resolve('./src/css/index.scss')],

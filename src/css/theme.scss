@@ -82,6 +82,8 @@ html[data-theme='dark'] {
 main > .container {
     margin: 0 40px 0 40px;
     max-width: initial !important;
+
+    position: relative;
 }
 
 .theme-code-block {
@@ -100,4 +102,16 @@ main > .container {
 
 table thead tr {
     background-color: #14162596;
+}
+
+.wiki-bg-img {
+    position: absolute;
+    top: 0;
+    left: -40px;
+
+    width: calc(100% + 80px);
+    max-width: unset;
+
+    z-index: -1;
+    mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
 }

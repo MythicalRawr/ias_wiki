@@ -1,8 +1,0 @@
----
-sidebar_label: _G.PLAYER_MIN_GRAB_DISTANCE
-sidebar_class_name: env-tag env-global
-title: PLAYER_MIN_GRAB_DISTANCE
----
-
-# <img src='/img/wiki/global.png' alt='global' data-tag='env-tag' /> **_G**.PLAYER_MIN_GRAB_DISTANCE
-Returns the minimum grabbing distance for the player<br/>

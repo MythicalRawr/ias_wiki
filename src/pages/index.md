@@ -1,5 +1,5 @@
 ---
-title: It's Absolutely Safe
+title: DEV WIKI
 ---
 
 # It's Absolutely Safe

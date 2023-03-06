@@ -1,5 +1,7 @@
 # Welcome
 
+<img src='/img/wiki/wikibanner_logo.png' className='wiki-bg-img'/>
+
 ### Tutorials (TODO)
 
 - [How to create a mod](./)
