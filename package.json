@@ -10,6 +10,6 @@
     "start": "node ."
   },
   "dependencies": {
-    "@edunad/lua-wiki-generator": "link:../lua-wiki-generator/.bin"
+    "@edunad/lua-wiki-generator": "1.0.6"
   }
 }
