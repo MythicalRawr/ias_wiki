@@ -39,15 +39,14 @@ jobs:
                       ${{ runner.os }}-yarn-
 
             - run: yarn install
-            - run: yarn start
+            - run: yarn start --out "${{runner.temp}}"
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
             - name: Re-generate wiki
               run: |
                   git checkout wiki
-                  cp -R /temp/docs ./docs
-                  rm -rf /temp/docs
+                  cp -R "${{runner.temp}}/api" ./docs/api
 
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
