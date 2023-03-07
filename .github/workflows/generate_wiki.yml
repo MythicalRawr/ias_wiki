@@ -46,7 +46,7 @@ jobs:
             - name: Re-generate wiki
               run: |
                   git checkout wiki
-                  cp -R "${{runner.temp}}/api" ./docs/api
+                  cp -R "${{runner.temp}}/api" ./docs
 
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
