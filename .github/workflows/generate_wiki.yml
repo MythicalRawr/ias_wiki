@@ -39,7 +39,7 @@ jobs:
                       ${{ runner.os }}-yarn-
 
             - run: yarn install
-            - run: yarn start --out "${{runner.temp}}"
+            - run: yarn start --out "${{runner.temp}}/api"
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
