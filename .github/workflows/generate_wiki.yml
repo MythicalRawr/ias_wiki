@@ -52,7 +52,7 @@ jobs:
 
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
-                  git push origin wiki
+                  git push origin wiki --force
 
             - name: Generate Docusarus website
               run: |

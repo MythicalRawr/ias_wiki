@@ -19,6 +19,7 @@ const init = () => {
             gvar: gvarTemplate,
         },
         silent: false,
+        clean: false,
         mdFolderParser: (file) => {
             const fixedPath = file.replace(`${libPath}/`, '');
             return fixedPath.replace('ias.', '').replace('.lua', '');
