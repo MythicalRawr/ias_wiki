@@ -18,6 +18,6 @@ Sound's entry class.<br/>
 | ------ | ---- | -------: |
 | number | volume |   |
 | number | pitch |   |
-| [Vector](../vector/README.md) | position? |   |
+| [Vector](../vector/README.md) | position | ✔ |
 | boolean | loop |   |
 

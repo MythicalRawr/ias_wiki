@@ -31,4 +31,4 @@ Finds entities in the world in a sphere radius and filters by the given class (E
 
 | Type   | Description |
 | ------ | ----------: |
-| ENT[] | No description |
+| [ENT](../ent/README.md) | No description |

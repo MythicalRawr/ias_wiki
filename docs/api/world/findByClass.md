@@ -29,4 +29,4 @@ Finds entities in the world by class type (EX: entity_ship)<br/>
 
 | Type   | Description |
 | ------ | ----------: |
-| ENT[] | No description |
+| [ENT](../ent/README.md) | No description |

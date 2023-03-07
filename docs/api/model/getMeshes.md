@@ -22,4 +22,4 @@ Returns all the model meshes<br/>
 
 | Type   | Description |
 | ------ | ----------: |
-| ModelMesh[] | No description |
+| [ModelMesh](../modelMesh/README.md) | No description |

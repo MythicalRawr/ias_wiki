@@ -30,4 +30,4 @@ Finds entities in the world in a sphere radius<br/>
 
 | Type   | Description |
 | ------ | ----------: |
-| ENT[] | No description |
+| [ENT](../ent/README.md) | No description |

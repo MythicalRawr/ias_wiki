@@ -22,4 +22,4 @@ Returns tall the positons of pipes in this network<br/>
 
 | Type   | Description |
 | ------ | ----------: |
-| Vector[] | No description |
+| [Vector](../vector/README.md) | No description |
