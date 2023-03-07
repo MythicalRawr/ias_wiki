@@ -1,6 +1,4 @@
 const fs = require('fs');
-const path = require('path');
-
 const { WikiExtract } = require('@edunad/lua-wiki-generator');
 
 const init = () => {
