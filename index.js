@@ -7,7 +7,7 @@ const init = () => {
     const extensionTemplate = fs.readFileSync('./md-templates/EXTENSION_TEMPLATE.md', 'utf8');
     const gvarTemplate = fs.readFileSync('./md-templates/GVAR_TEMPLATE.md', 'utf8');
 
-    const dest = './docs';
+    const dest = '/temp/docs';
     const libPath = './ias-lib/library';
 
     new WikiExtract(libPath, `${dest}/api`, {

@@ -45,10 +45,9 @@ jobs:
 
             - name: Re-generate wiki
               run: |
-                  git stash --all
                   git checkout wiki
-
-                  git stash pop
+                  cp -R /temp/docs ./docs
+                  rm -rf /temp/docs
 
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
