@@ -66,5 +66,5 @@ jobs:
                   accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
                   projectName: ias-wiki
                   directory: .bin
-                  branch: wiki
+                  branch: Production
                   gitHubToken: ${{ secrets.GITHUB_TOKEN }}
