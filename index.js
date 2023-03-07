@@ -1,6 +1,10 @@
 const fs = require('fs');
 const { WikiExtract } = require('@edunad/lua-wiki-generator');
 
+const yargs = require('yargs/yargs');
+const { hideBin } = require('yargs/helpers');
+const argv = yargs(hideBin(process.argv)).argv;
+
 const init = () => {
     const methodTemplate = fs.readFileSync('./md-templates/METHOD_TEMPLATE.md', 'utf8');
     const classTemplate = fs.readFileSync('./md-templates/CLASS_TEMPLATE.md', 'utf8');
@@ -8,7 +12,7 @@ const init = () => {
     const gvarTemplate = fs.readFileSync('./md-templates/GVAR_TEMPLATE.md', 'utf8');
 
     const libPath = './ias-lib/library';
-    const output = `${process.argv.out ?? '.'}`;
+    const output = `${argv.out ?? './'}`;
 
     console.warn(`Writting wiki to: ${output}`);
     new WikiExtract(libPath, output, {
