@@ -40,8 +40,8 @@ const init = () => {
                     )}`;
                 return `${data.title.msg}`;
             } else if (type === '$PARAMETERS$' || type === '$RETURNS$' || type === '$FIELDS$') {
-                if (link) return `[${data.link}](../${link.replace('ias.', '').replace('.lua', '')}/README.md)`;
-                return `${data.link}`;
+                if (link) return `[${data.type}](../${link.replace('ias.', '').replace('.lua', '')}/README.md)`;
+                return `${data.type}`;
             }
         },
         mdTextParser: (linkMap, template, codeBlock) => {
