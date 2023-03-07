@@ -1,6 +1,7 @@
 node_modules/
 coverage/
 readme/
+.bin/
 
 SUMMARY.md
 
@@ -11,3 +12,5 @@ SUMMARY.md
 !.yarn/sdks
 !.yarn/versions
 .pnp.*
+
+.docusaurus

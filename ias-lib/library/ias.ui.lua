@@ -13,21 +13,24 @@ ui = {}
 ---@return UIBase
 ---* Creates a new ui base element.
 ---
-function ui:create(uiType, parent) end
+function ui:create(uiType, parent)
+end
 
 ---
 ---@env CLIENT
 ---@return number
 ---* Returns the width of the game window
 ---
-function ui:width() end
+function ui:width()
+end
 
 ---
 ---@env CLIENT
 ---@return number
 ---* Returns the height of the game window
 ---
-function ui:height() end
+function ui:height()
+end
 
 ---
 ---@env CLIENT
@@ -38,12 +41,5 @@ function ui:height() end
 ---@return Frame
 ---* Creates a popup and returns it's frame
 ---
-function ui:createPopup(id, title, message, type) end
-
--------------------------------------------
-
----
----UIBase's entry class.
----
----@class UIBase
-UIBase = {}
+function ui:createPopup(id, title, message, type)
+end

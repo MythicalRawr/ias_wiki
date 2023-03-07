@@ -133,7 +133,6 @@ end
 ---
 ---@env SHARED
 ---@param id string
----@hint @warning "YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!!"
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found
 ---
