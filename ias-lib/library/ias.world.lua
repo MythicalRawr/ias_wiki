@@ -39,9 +39,9 @@ end
 ---@param pos Vector
 ---@param distance number
 ---@return ENT[]
----* Finds entities in the world in a sphere radius
+---* Finds entities on the world in the given square size
 ---
-function world:findInSphere(pos, distance)
+function world:findInBBOX(pos, distance)
 end
 
 ---
@@ -50,9 +50,9 @@ end
 ---@param pos Vector
 ---@param distance number
 ---@return ENT[]
----* Finds entities in the world in a sphere radius and filters by the given class (EX: entity_ship)
+---* Finds entities on the world in the given square size and filters by the given class (EX: entity_ship)
 ---
-function world:findInSphereByClass(class, pos, distance)
+function world:findInBBOXByClass(class, pos, distance)
 end
 
 ---
@@ -143,7 +143,6 @@ end
 ---
 ---@env SHARED
 ---@param id string
----@hint @warning "YOU MIGHT MESS UP THE MOD'S LUA ENVIROMENT IF NOT CAREFUL!!"
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found
 ---

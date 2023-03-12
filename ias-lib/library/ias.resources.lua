@@ -12,14 +12,16 @@ resources = {}
 ---@param loadFlags? any
 ---* Marks the given file for pre-loading
 ---
-function resources:preLoad(path, loadFlags) end
+function resources:preLoad(path, loadFlags)
+end
 
 ---
 ---@env SHARED
 ---@param folder string
 ---* Marks the given folder for pre-loading
 ---
-function resources:preLoadFolder(folder) end
+function resources:preLoadFolder(folder)
+end
 
 ---
 ---@env SHARED
@@ -27,7 +29,8 @@ function resources:preLoadFolder(folder) end
 ---* Fixes the given path with the mod's path
 ---* @/textures/blabalba.png = c++ content
 ---* @otherMod/textures/blabalba.png = @otherMod's content
-function resources:getContent(path) end
+function resources:getContent(path)
+end
 
 ---
 ---@env CLIENT
@@ -36,7 +39,8 @@ function resources:getContent(path) end
 ---@return Sound
 ---* Returns a Sound object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the sound and not block the client
 ---
-function resources:getSound(path, loadFlags) end
+function resources:getSound(path, loadFlags)
+end
 
 ---
 ---@env CLIENT
@@ -47,7 +51,8 @@ function resources:getSound(path, loadFlags) end
 ---@return Sound
 ---* Returns a Sound object if loaded successfully.
 ---
-function resources:getHTTPSound(url, loadFlags) end
+function resources:getHTTPSound(url, loadFlags)
+end
 
 ---
 ---@env CLIENT
@@ -56,7 +61,8 @@ function resources:getHTTPSound(url, loadFlags) end
 ---@return Texture
 ---* Returns a Texture object if loaded successfully, you should use preLoad on Mod:onLoad() to pre-load the texture and not block the client
 ---
-function resources:getTexture(path, loadFlags) end
+function resources:getTexture(path, loadFlags)
+end
 
 ---
 ---@env SHARED
@@ -65,4 +71,5 @@ function resources:getTexture(path, loadFlags) end
 ---@return Model
 ---* Returns a Model object if loaded successfully, you should use addModel on Mod:onLoad() to pre-load the model mesh and not block the client
 ---
-function resources:getModel(path, loadFlags) end
+function resources:getModel(path, loadFlags)
+end

@@ -1,12 +1,11 @@
-name: RELEASE LIB
+name: 'RELEASE LIB'
 on:
-    create:
-        tags:
-            - v*
+    push:
+        branches: master
     workflow_dispatch:
 permissions:
     contents: write
-
+    pull-requests: write
 jobs:
     deploy:
         runs-on: ubuntu-latest
@@ -27,8 +26,16 @@ jobs:
                   name: ias-lua-lib
                   path: ./ias-lua-lib.zip
 
-            - name: Release
-              uses: softprops/action-gh-release@v1
-              if: startsWith(github.ref, 'refs/tags/')
+            - name: Bump version and push tag
+              id: tag_version
+              uses: mathieudutour/github-tag-action@v6.1
               with:
-                  files: ias-lua-lib.zip
+                  github_token: ${{ secrets.GITHUB_TOKEN }}
+
+            - name: Create a GitHub release
+              uses: ncipollo/release-action@v1
+              with:
+                  tag: ${{ steps.tag_version.outputs.new_tag }}
+                  name: Release ${{ steps.tag_version.outputs.new_tag }}
+                  body: ${{ steps.tag_version.outputs.changelog }}
+                  artifacts: ias-lua-lib.zip

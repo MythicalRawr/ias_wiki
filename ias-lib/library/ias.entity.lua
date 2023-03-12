@@ -749,27 +749,27 @@ function Entity:getBone(name)
 end
 
 ---
----@env SHARED
----@param mode boolean
----* enables or disables power use at an entity
+---@env SERVER
+---@param set boolean
+---* Marks the entity to use power
 ---
-function Entity:setUsesPower(mode)
+function Entity:setUsesPower(set)
 end
 
 ---
----@env SHARED
----@param mode boolean
----* enables or disables tile use at an entity
+---@env SERVER
+---@param set boolean
+---* Marks the entity to use tile
 ---
-function Entity:setUsesTile(mode)
+function Entity:setUsesTile(set)
 end
 
 ---
----@env SHARED
----@param mode boolean
----* enables or disables gas use at an entity
+---@env SERVER
+---@param set boolean
+---* Marks the entity to use gas
 ---
-function Entity:setUsesGas(mode)
+function Entity:setUsesGas(set)
 end
 
 ---
@@ -812,10 +812,22 @@ end
 function Entity:onTemplateVariables(vars)
 end
 
+---@param set boolean
+---* Marks the entity to use wire io
+---
+function Entity:setUsesWire(set)
+end
+
 ---
 ---@env SERVER
 ---@returns table
 ---* called when a template is generated, if a table is returned it will be stored inside of the template json
 ---
 function Entity:onTemplateVariablesSave()
+end
+
+---@param set USE
+---* Sets the use type of the entity
+---
+function Entity:setUseType(set)
 end

@@ -1,15 +1,16 @@
-name: GENERATE WIKI
+name: 'GENERATE WIKI'
 on:
-    create:
-        tags:
-            - v*
+    push:
+        branches: master
     workflow_dispatch:
 permissions:
     contents: write
-
+    pull-requests: write
+    deployments: write
 jobs:
     build:
         runs-on: ubuntu-latest
+        environment: Production
         steps:
             - uses: actions/checkout@v3
               with:
@@ -23,7 +24,7 @@ jobs:
             - name: Setup git
               run: |
                   git config --local user.email "4944278+github-actions[bot]@users.noreply.github.com"
-                  git config --local user.name "github-actions[bot]"
+                  git config --local user.name "${{ github.actor }}"
 
             - name: Get yarn cache directory path
               id: yarn-cache-dir-path
@@ -38,18 +39,30 @@ jobs:
                       ${{ runner.os }}-yarn-
 
             - run: yarn install
-            - run: yarn start
+            - run: yarn start --out "${{runner.temp}}/api"
               env:
                   NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-            - name: Commit files
+            - name: Re-generate wiki
               run: |
-                  git stash --all
-
                   git checkout wiki
-                  rm -rf ./readme && rm -rf ./SUMMARY.md
+                  cp -R "${{runner.temp}}/api" ./docs
 
-                  git stash pop
                   git add --all
                   git commit --allow-empty -m "Re-generate wiki" -a
-                  git push origin wiki
+                  git push origin wiki --force
+
+            - name: Generate Docusarus website
+              run: |
+                  yarn install
+                  yarn build
+
+            - name: Deploy Docusarus
+              uses: cloudflare/pages-action@v1
+              with:
+                  apiToken: ${{ secrets.CLOUDFLARE_DEPLOY }}
+                  accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+                  projectName: ias-wiki
+                  directory: .bin
+                  branch: main
+                  gitHubToken: ${{ secrets.GITHUB_TOKEN }}
