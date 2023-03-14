@@ -124,17 +124,17 @@ end
 ---
 ---@env SHARED
 ---@param id string
----@return table
----* Gets the given item id settings
----
-function world:getItemSettings(id)
-end
-
----
----@env SHARED
----@param id string
 ---@return WorkshopMOD
 ---* Returns the mod with the given id, if found
 ---
 function world:getMod(id)
+end
+
+---
+---@env SHARED
+---@param id string "Item id"
+---@return table
+---* Returns the item settings
+---
+function world:getItemSettings(id)
 end
