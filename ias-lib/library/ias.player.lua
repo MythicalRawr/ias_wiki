@@ -64,11 +64,12 @@ end
 
 ---
 ---@env SHARED
+---@param entity? Entity "The menu to close, empty will cancel all"
 ---@return boolean
----* Cancels use (used when the player closes menus on the client, on the server this is done automatically)
+---@hint @note "Should be used when the client closes the menu, on the server this is done automatically"
 ---* Returns true if successful
 ---
-function Player:cancelUse()
+function Player:cancelUse(entity)
 end
 
 ---
@@ -118,6 +119,17 @@ function Player:moveItem(oldStorage, newStorage, oldSlot, newSlot)
 end
 
 ---
+---@env CLIENT
+---@param oldStorage Storage
+---@param oldSlot number
+---@hint @info "The moving player must be marked as a viewer on server and be within range of both inventories!"
+---@return boolean "Local move was successful"
+---* Locally transfers an item from an inventory to any other open inventory and sends a validation request to the server.
+---
+function Player:transferItem(oldStorage, oldSlot)
+end
+
+---
 ---@env SERVER
 ---@param ent ENT
 ---* Registers a new spawnpoint for the player
@@ -140,12 +152,4 @@ end
 ---* Returns true if the spawnpoint is already registered for the player
 ---
 function Player:hasSpawnPoint(ent)
-end
-
----
----@env SHARED
----@return ENT
----* Returns the current entity being used
----
-function Player:getUseEntity()
 end

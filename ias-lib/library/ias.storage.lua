@@ -168,6 +168,15 @@ end
 function Storage:dropItem(slot, pos)
 end
 
+---
+---@env SERVER
+---@param ply Player
+---* Forces a storage sync with the given player
+---@hint @warning "This is done automatically, should only be called if you reject the player on the canAccessStorage and give it access later"
+---
+function Storage:syncStorage(ply)
+end
+
 --------------------------------
 
 ---
@@ -177,4 +186,20 @@ end
 ---* Drops the given item slot
 ---
 function Storage:dropItem(slot)
+end
+
+---
+---@env CLIENT
+---@param priority number
+---* Storage priority, used for SHIFT item transfering clicking
+---
+function Storage:setPriority(priority)
+end
+
+---
+---@env CLIENT
+---@return number
+---* Returns the storage priority, -1 for unset
+---
+function Storage:getPriority(priority)
 end

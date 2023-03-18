@@ -15,6 +15,7 @@ const init = () => {
     const output = `${argv.out ?? './'}`;
 
     console.warn(`Writting wiki to: ${output}`);
+
     new WikiExtract(libPath, output, {
         glob: '**/*.lua',
         templates: {

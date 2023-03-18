@@ -184,6 +184,15 @@ function ENT:onUseViewerRemoved(id)
 end
 
 ---
+---@env SERVER
+---@param ent Entity
+---@return boolean
+---* Return true if the entity is allowed to access the storage
+---
+function ENT:canAccessStorage(ent)
+end
+
+---
 ---@env CLIENT
 ---@param item ITEM
 ---@param slot number
