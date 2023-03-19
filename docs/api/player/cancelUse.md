@@ -11,11 +11,23 @@ Your edits in this file will be overwritten in the next build!
 -->
 # <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [Player](../player/README.md):cancelUse
 
+:::note
+Should be used when the client closes the menu, on the server this is done automatically
+:::
+
+
 ```lua
-boolean Player:cancelUse()
+boolean Player:cancelUse(entity)
 ```
 
-Cancels use (used when the player closes menus on the client, on the server this is done automatically)<br/>Returns true if successful<br/>
+Returns true if successful<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| [Entity](../entity/README.md) | entity | The menu to close, empty will cancel all | ✔ |
 
 -----------------
 ## Returns
