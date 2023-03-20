@@ -8,7 +8,7 @@
 ---@field MENU number
 ---
 USE = {
-    NONE = 0,
-    SIMPLE = 1,
-    MENU = 2
+	NONE = 0,
+	SIMPLE = 1,
+	MENU = 2
 }

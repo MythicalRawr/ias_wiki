@@ -90,6 +90,14 @@ end
 
 ---
 ---@env SHARED
+---@return Storage
+---* Returns the storage wrapper
+---
+function Entity:getStorage()
+end
+
+---
+---@env SHARED
 ---@return boolean
 ---* Returns true if a player can see the entity
 ---
@@ -103,104 +111,6 @@ end
 ---* Returns true if the entity can see the given id
 ---
 function Entity:canSeePlayer(id)
-end
-
----
----@env SHARED
----@return table
----* Returns the items in the ent storage
----
-function Entity:getStorageItems()
-end
-
----
----@env SHARED
----@param slot number
----@param count number
----@return boolean
----* Returns true if you can add an item on the given slot with the given amount
----
-function Entity:canAddItem(slot, count)
-end
-
----
----@env SHARED
----@return boolean
----* Returns true if the inventory is empty
----
-function Entity:inventoryEmpty()
-end
-
----
----@env SHARED
----@param slot number
----@return number
----* Returns the total amount of the item on the slot
----
-function Entity:getItemCount(slot)
-end
-
----
----@env SHARED
----@param id string
----@return number
----* Returns the total amount of the item on the storage by id
----
-function Entity:getItemCountById(id)
-end
-
----
----@env SHARED
----@return number
----* Returns the first available slot index
----
-function Entity:getAvailableSlot()
-end
-
----
----@env SHARED
----@param id string
----@param amount? number "Defaults: 1"
----@return number
----* Returns the available slot index by id
----
-function Entity:getAvailableSlotById(id, amount)
-end
-
----
----@env SHARED
----@param id string
----@return number[]
----* Returns the slots where the given item id is present
----
-function Entity:findItemSlots(id)
-end
-
----
----@env SHARED
----@param slot number
----@return boolean
----* Returns true if the storage has an item on the given slot
----
-function Entity:hasItem(slot)
-end
-
----
----@env SHARED
----@param id string
----@return boolean
----* Returns true if the storage has the given id
----
-function Entity:hasItemById(id)
-end
-
----
----@env SHARED
----@param index number
----@return ITEM
----* Returns the item by index
----
-function Entity:getItem(index)
 end
 
 ---
@@ -366,15 +276,6 @@ function Entity:getTileByPos(pos)
 end
 
 ---
----@env SHARED
----@param slot number
----@return boolean
----* Returns true if the item on the given slot was droped
----
-function Entity:dropItem(slot)
-end
-
----
 ---@env CLIENT
 ---@param id string
 ---@param packet Packet
@@ -450,59 +351,6 @@ end
 ---* Allows the ent to be grabbed or not
 ---
 function Entity:setGrabbable(grab)
-end
-
----
----@env SERVER
----@param id string
----@param amount? number "Defaults: 1"
----@param slot? number "Defaults: -1"
----@param metadata? table "Defaults: nil"
----@return boolean
----* Adds the given item id to the ent storage (ent needs to be marked with setStorage)
----
-function Entity:addItem(id, amount, slot, metadata)
-end
-
----
----@env SERVER
----@param slot number
----@param amount? number "Removes the whole item if not set"
----@return boolean
----* Removes the given amount (if not set, the whole item) on the given slot
----
-function Entity:removeItem(slot, amount)
-end
-
----
----@env SERVER
----@param id string
----@param amount number
----@return boolean
----* Removes the given amount by item id
----
-function Entity:removeItemById(id, amount)
-end
-
----
----@env SERVER
----@param to Entity
----@param slot number
----@param newSlot number
----@return boolean
----* Moves an item to a different inventory
----
-function Entity:moveItem(to, slot, newSlot)
-end
-
----
----@env SERVER
----@param slot number
----@param pos Vector
----@return boolean
----* Drops the given item slot on the given pos
----
-function Entity:dropItem(slot, pos)
 end
 
 ---
