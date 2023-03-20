@@ -657,7 +657,7 @@ end
 ---@param vars table
 ---* called when a template is loaded that contains `vars` key
 ---
-function Entity:onTemplateVariables(vars)
+function Entity:onTemplateVariablesLoad(vars)
 end
 
 ---@param set boolean
