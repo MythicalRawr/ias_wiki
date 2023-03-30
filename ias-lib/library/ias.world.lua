@@ -84,7 +84,7 @@ end
 ---@param color? Color "Default: white"
 ---* Creates a client side chat text
 ---
-function world:add3DText(speaker, msg, color)
+function world:addText(speaker, msg, color)
 end
 
 ---
