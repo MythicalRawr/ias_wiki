@@ -465,6 +465,14 @@ end
 
 ---
 ---@env SHARED
+---@return string
+---* Gets the entity name, eg: entity_crate
+---
+function Entity:getName()
+end
+
+---
+---@env SHARED
 ---@param friction number
 ---* Sets the entity physics friction
 ---
@@ -646,6 +654,12 @@ end
 
 ---
 ---@env SERVER
+---@param vars table
+---* called when a template is loaded that contains `vars` key
+---
+function Entity:onTemplateVariablesLoad(vars)
+end
+
 ---@param set boolean
 ---* Marks the entity to use wire io
 ---
@@ -654,6 +668,12 @@ end
 
 ---
 ---@env SERVER
+---@returns table
+---* called when a template is generated, if a table is returned it will be stored inside of the template json
+---
+function Entity:onTemplateVariablesSave()
+end
+
 ---@param set USE
 ---* Sets the use type of the entity
 ---

@@ -56,6 +56,16 @@ function world:findInBBOXByClass(class, pos, distance)
 end
 
 ---
+---@env SHARED
+---@param from Vector
+---@param to Vector
+---@return ENT
+---* Do a raycast to find an entity between 2 points
+---
+function world:raycast(from, to)
+end
+
+---
 ---@env CLIENT
 ---@param pos Vector
 ---@param speaker string
