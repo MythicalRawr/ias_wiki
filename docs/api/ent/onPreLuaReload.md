@@ -12,7 +12,14 @@ Your edits in this file will be overwritten in the next build!
 # <img src='/img/wiki/shared.png' alt='shared' data-tag='env-tag' /> [ENT](../ent/README.md):onPreLuaReload
 
 ```lua
-void ENT:onPreLuaReload()
+void ENT:onPreLuaReload(path)
 ```
 
 Called before the lua is reloaded<br/>
+
+-----------------
+## Parameters
+
+| Type   | Name | Description | Optional |
+| ------ | ---- | ----------- | -------: |
+| string | path | The file that was changed |   |

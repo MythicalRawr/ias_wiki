@@ -22,4 +22,4 @@ Sets the rotation of the ent in degrees<br/>
 
 | Type   | Name | Description | Optional |
 | ------ | ---- | ----------- | -------: |
-| [Vector](../vector/README.md) | rot | No description |   |
+| number | rot | No description |   |
