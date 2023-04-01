@@ -59,16 +59,18 @@ end
 
 ---
 ---@env SHARED
+---@param path string "The file that was changed"
 ---* Called before the lua is reloaded
 ---
-function ENT:onPreLuaReload()
+function ENT:onPreLuaReload(path)
 end
 
 ---
 ---@env SHARED
+---@param path string "The file that was changed"
 ---* Called after the lua is reloaded
 ---
-function ENT:onPostLuaReload()
+function ENT:onPostLuaReload(path)
 end
 
 ---

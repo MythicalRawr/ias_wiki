@@ -187,7 +187,7 @@ end
 
 ---
 ---@env SHARED
----@param rot Vector
+---@param rot number
 ---* Sets the rotation of the ent in degrees
 ---
 function Entity:setRotation(rot)
