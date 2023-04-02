@@ -121,6 +121,14 @@ end
 ---
 ---@env SHARED
 ---@return number
+---* Returns the tempature in celcius
+---
+function Tile:getTempature()
+end
+
+---
+---@env SHARED
+---@return number
 ---* Returns the pressure in PSI
 ---
 function Tile:getPressure()
