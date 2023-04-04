@@ -123,7 +123,7 @@ end
 ---@return number
 ---* Returns the tempature in celcius
 ---
-function Tile:getTempature()
+function Tile:getTemperature()
 end
 
 ---
